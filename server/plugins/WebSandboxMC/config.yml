@@ -8,9 +8,9 @@ mc:
   netty_log_info: false
   use_permissions: false
   entity: Sheep
-  entity_custom_names: true
-  entity_disable_gravity: true
-  entity_disable_ai: true
+  entity_custom_names: false
+  entity_disable_gravity: false
+  entity_disable_ai: false
   entity_move_sandbox: true
   entity_die_disconnect: false
   world: ''
