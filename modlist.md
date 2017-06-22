@@ -16,7 +16,7 @@
 | [Applied Energistics 2](http://ae2.ae-mod.info/) | rv3-beta-6 | AlgorithmX2 | Applied Energistics 2 is a Minecraft Mod which contains a large amount of new content, mostly centered around the concept of using Energy, and the Transformation of Energy in a unique way. |
 | [ArmorStatusHUD](http://www.minecraftforum.net/topic/1114612-) | 1.28 | bspkrs | Provides a HUD with your equipped armor/item stats. |
 | [AutoMagy](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2125369-) | 0.28.2 | Tuhljin | Golems Logistic's Together with quaility of life additions to thaumcraft = Sweet! |
-| [Beyond Reality Core](http://mcbeyondreality.com) | 1.5.6-BETA-6 | Dyonovan<br/>Dominance<br/>PaulJoda | Added features for the Beyond Reality ModPack |
+| [Beyond Reality Core](https://github.com/Beyond-Reality/BeyondRealityCore) | 1.5.6-BETA-6 | Dyonovan<br/>Dominance<br/>PaulJoda | Added features for the Beyond Reality ModPack |
 | [BiblioCraft](http://www.bibliocraftmod.com) | 1.11.5 | Joseph 'Nuchaz' Sinclair | BiblioCraft adds fancy storage containers including bookcases, armor stands, potion shelves, regular shelves, tool racks, glass weapon cases, wooden desks and wooden chest labels and now add machines, redstone interactions, and eyeware! New in 1.3: Fancy lamps and golden lanterns. Also Tables and enchanted plates! |
 | [BiblioWoods Forestry Edition](http://www.bibliocraftmod.com) | 1.7 | Joseph 'Nuchaz' Sinclair | Adds support for 24 varietys of wood from Forestry for 8 of the wooden block in BiblioCraft. |
 | [BiblioWoods Highlands Edition](http://www.bibliocraftmod.com) | 1.4 | Joseph 'Nuchaz' Sinclair | Adds support for 4 varietys of wood from Highlands for 8 of the wooden block in BiblioCraft. |
