@@ -3279,8 +3279,8 @@ BuildCraft|Core:engineBlock:2, Combustion Engine
 BuildCraft|Core:engineBlock:3, Creative Engine
 BuildCraft|Core:markerBlock, Land Mark
 BuildCraft|Core:pathMarkerBlock, Path Mark
-BuildCraft|Robotics:zonePlan, Zone Planner
-BuildCraft|Robotics:requester, Requester
+BuildCraft|Transport:filteredBufferBlock, Filtered Buffer
+BuildCraft|Transport:pipeBlock, tile.pipeBlock.name
 BuildCraft|Factory:miningWellBlock, Mining Well
 BuildCraft|Factory:plainPipeBlock, Mining Pipe
 BuildCraft|Factory:autoWorkbenchBlock, Auto Workbench
@@ -3289,11 +3289,6 @@ BuildCraft|Factory:pumpBlock, Pump
 BuildCraft|Factory:floodGateBlock, Flood Gate
 BuildCraft|Factory:refineryBlock, Refinery
 BuildCraft|Factory:blockHopper, Chute
-BuildCraft|Transport:filteredBufferBlock, Filtered Buffer
-BuildCraft|Transport:pipeBlock, tile.pipeBlock.name
-BuildCraft|Energy:blockOil, Oil
-BuildCraft|Energy:blockFuel, Diesel fuel
-BuildCraft|Energy:blockRedPlasma, tile.blockRedPlasma.name
 BuildCraft|Silicon:laserBlock, Laser
 BuildCraft|Silicon:laserTableBlock:0, Assembly Table
 BuildCraft|Silicon:laserTableBlock:1, Advanced Crafting Table
@@ -3302,6 +3297,11 @@ BuildCraft|Silicon:laserTableBlock:3, Charging Table
 BuildCraft|Silicon:laserTableBlock:4, Programming Table
 BuildCraft|Silicon:laserTableBlock:5, Stamping Table
 BuildCraft|Silicon:packagerBlock, Recipe Packager
+BuildCraft|Robotics:zonePlan, Zone Planner
+BuildCraft|Robotics:requester, Requester
+BuildCraft|Energy:blockOil, Oil
+BuildCraft|Energy:blockFuel, Diesel fuel
+BuildCraft|Energy:blockRedPlasma, tile.blockRedPlasma.name
 BuildCraft|Builders:machineBlock, Quarry
 BuildCraft|Builders:fillerBlock, Filler
 BuildCraft|Builders:frameBlock, Frame
@@ -9687,7 +9687,7 @@ extracells:vibrantchamberfluid, Fluid Vibration Chamber
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quite Expensive Decoration)
+ExtraUtilities:endConstructor:0, QED (Quark/Electron Director)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -11069,43 +11069,43 @@ thaumicenergistics:thaumicenergistics.block.arcane.assembler, Arcane Assembler
 thaumicenergistics:thaumicenergistics.block.knowledge.inscriber, Knowledge Inscriber
 thaumicenergistics:thaumicenergistics.block.essentia.vibration.chamber, Essentia Vibration Chamber
 thaumicenergistics:thaumicenergistics.block.distillation.encoder, Distillation Pattern Encoder
-ThaumicTinkerer:animationTablet, Dynamism Tablet
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:spawner, Tablet of Necromancy
-ThaumicTinkerer:forcefield, Forcefield
+ThaumicTinkerer:fireAir, Aer Imbued Fire
+ThaumicTinkerer:fireWater, Aqua Imbued Fire
+ThaumicTinkerer:fireOrder, Ordo Imbued Fire
+ThaumicTinkerer:fireChaos, Perditio Imbued Fire
+ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
 ThaumicTinkerer:repairer, Thaumic Restorer
-ThaumicTinkerer:magnet:0, Kinetic Attractor
-ThaumicTinkerer:magnet:1, Corporeal Attractor
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:fireFire, Ignis Imbued Fire
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:interface, Transvector Interface
+ThaumicTinkerer:warpGate, Celestial Gateway
 ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
 ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
 ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
-ThaumicTinkerer:interface, Transvector Interface
+ThaumicTinkerer:fireEarth, Terra Imbued Fire
 ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
 ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
-ThaumicTinkerer:dislocator, Transvector Dislocator
+ThaumicTinkerer:animationTablet, Dynamism Tablet
+ThaumicTinkerer:magnet:0, Kinetic Attractor
+ThaumicTinkerer:magnet:1, Corporeal Attractor
+ThaumicTinkerer:platform, Ethereal Platform
 ThaumicTinkerer:wardSlab:0, tile.wardSlab.name
 ThaumicTinkerer:wardSlabFull:0, tile.wardSlab.name
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
-ThaumicTinkerer:bedrockPortal, Bedrock Portal
-ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
-ThaumicTinkerer:fireFire, Ignis Imbued Fire
-ThaumicTinkerer:fireWater, Aqua Imbued Fire
-ThaumicTinkerer:platform, Ethereal Platform
-ThaumicTinkerer:travelStairs, Paving Stair of Travel
-ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
-ThaumicTinkerer:fireChaos, Perditio Imbued Fire
 ThaumicTinkerer:travelSlab:0, Paving Slab of Travel
 ThaumicTinkerer:travelSlabFull:0, Paving Slab of Travel
-ThaumicTinkerer:funnel, Essentia Funnel
-ThaumicTinkerer:fireOrder, Ordo Imbued Fire
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
-ThaumicTinkerer:warpGate, Celestial Gateway
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:fireEarth, Terra Imbued Fire
+ThaumicTinkerer:bedrockPortal, Bedrock Portal
+ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
+ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
+ThaumicTinkerer:travelStairs, Paving Stair of Travel
 ThaumicTinkerer:enchanter, Osmotic Enchanter
-ThaumicTinkerer:fireAir, Aer Imbued Fire
+ThaumicTinkerer:spawner, Tablet of Necromancy
+ThaumicTinkerer:dislocator, Transvector Dislocator
+ThaumicTinkerer:forcefield, Forcefield
+ThaumicTinkerer:funnel, Essentia Funnel
 ThaumicExploration:autoSorter, tile.thaumicexploration:autoSorter.name
 ThaumicExploration:trashJar, Oblivion Jar
 ThaumicExploration:boundChest, tile.boundChest.name
@@ -15539,9 +15539,6 @@ BuildCraft|Core:list:0, List
 BuildCraft|Core:list:1, List
 BuildCraft|Core:debugger, Debugger
 BuildCraft|Core:paintbrush, Paintbrush
-BuildCraft|Robotics:robot, Robot
-BuildCraft|Robotics:robotStation, item.robotStation.name
-BuildCraft|Robotics:redstone_board, Redstone Board
 BuildCraft|Transport:pipeWaterproof, Pipe Sealant
 BuildCraft|Transport:item.buildcraftPipe.pipeitemswood:0, Wooden Transport Pipe
 BuildCraft|Transport:item.buildcraftPipe.pipeitemsemerald:0, Emerald Transport Pipe
@@ -15622,8 +15619,6 @@ BuildCraft|Transport:pipeLens:32, Lens (Clear)
 BuildCraft|Transport:pipeLens:33, Filter (Clear)
 BuildCraft|Transport:pipePowerAdapter, item.pipePowerAdapter.name
 BuildCraft|Transport:gateCopier, Gate Copier
-BuildCraft|Energy:bucketOil, Oil Bucket
-BuildCraft|Energy:bucketFuel, Fuel Bucket
 BuildCraft|Silicon:redstoneChipset:0, Redstone Chipset
 BuildCraft|Silicon:redstoneChipset:1, Iron Chipset
 BuildCraft|Silicon:redstoneChipset:2, Golden Chipset
@@ -15634,6 +15629,11 @@ BuildCraft|Silicon:redstoneChipset:6, Redstone Comp Chipset
 BuildCraft|Silicon:redstoneChipset:7, Emerald Chipset
 BuildCraft|Silicon:package, Package
 BuildCraft|Silicon:redstoneCrystal, Redstone Crystal
+BuildCraft|Robotics:robot, Robot
+BuildCraft|Robotics:robotStation, item.robotStation.name
+BuildCraft|Robotics:redstone_board, Redstone Board
+BuildCraft|Energy:bucketOil, Oil Bucket
+BuildCraft|Energy:bucketFuel, Fuel Bucket
 BuildCraft|Builders:templateItem, Template
 BuildCraft|Builders:blueprintItem, Blueprint
 BuildCraft|Compat:item.buildcraftPipe.pipeitemspropolis:0, Apiarist's Pipe
@@ -19648,56 +19648,56 @@ ExtraUtilities:watering_can, Watering Can
 ExtraUtilities:scanner, Portable Scanner
 ExtraUtilities:golden_bag, Golden Bag of Holding
 ExtraUtilities:bedrockiumIngot, Bedrockium Ingot
-factorization:insulated_coil, Insulated Coil
-factorization:servo/component, item.factorization:servo/component.name
-factorization:logic_matrix, Blank Logic Matrix
-factorization:motor, Motor
-factorization:daybarrel, item.factorization:daybarrel.name
-factorization:silver_ingot, item.factorization:silver_ingot.name
+factorization:entheas, Entheas
 factorization:servo/servo_motor, Servo Motor
+factorization:insulated_coil, Insulated Coil
+factorization:servo/instruction_plate, Instruction Plate
 factorization:barrelCart:0, Barrel Cart
 factorization:barrelCart:0, Barrel Cart: Creative Bedrock Barrel
-factorization:servo/sprocket, Dark Iron Sprocket
-factorization:sap, Sap
-factorization:logic_matrix_controller, Logic Matrix: Controller
-factorization:nether_powder, Netherrack Powder
-factorization:servo/commenter, Commenter
-factorization:acid:0, Sulfuric Acid
-factorization:acid:1, Aqua Regia
-factorization:utiligoo:0, Goo
-factorization:colossusGuide, Lost Map
-factorization:tool/pocket_crafting_table, Pocket Crafting Table
-factorization:spawnPoster, Poster
-factorization:potencyBottle, Bottle of Potency
-factorization:mirror, Mirror
-factorization:diamond_cutting_head, Diamond Cutting Head
-factorization:dark_iron_ingot, Dark Iron Ingot
 factorization:diamond_shard, Diamond Block Shard
-factorization:tool/matrix_programmer, Logic Matrix Programmer
+factorization:tool/charge_meter, Charge Meter
+factorization:brokenArtifact, item.factorization:brokenArtifact.name
+factorization:fan, Pressurizer
+factorization:silver_ingot, item.factorization:silver_ingot.name
+factorization:potencyBottle, Bottle of Potency
+factorization:utiligoo:0, Goo
+factorization:lead_ingot, item.factorization:lead_ingot.name
+factorization:servo/sprocket, Dark Iron Sprocket
 factorization:socket/:34, Robotic Arm
 factorization:socket/:35, Item Shifter
-factorization:sculptTool:0, Sculpting Tool
-factorization:chainLink, Dark Iron Chain Link
-factorization:tool/charge_meter, Charge Meter
+factorization:logic_matrix, Blank Logic Matrix
+factorization:acid:0, Sulfuric Acid
+factorization:acid:1, Aqua Regia
+factorization:twistedBlock, Twisted Block of Dark Iron
+factorization:daybarrel, item.factorization:daybarrel.name
 factorization:darkIronChain, Chain
-factorization:ceramics/glaze_bucket, Glaze Bucket
-factorization:docbook, The Factorization Manual
-factorization:socket/scissors, Enormous Scissors
-factorization:entheas, Entheas
-factorization:fan, Pressurizer
-factorization:servo/servo, Servo
+factorization:logic_matrix_identifier, Logic Matrix: Identifier
+factorization:diamond_cutting_head, Diamond Cutting Head
+factorization:corkscrew, Corkscrew
+factorization:charge_battery, Battery Block
+factorization:spawnPoster, Poster
+factorization:chainLink, Dark Iron Chain Link
 factorization:shortChain, Short Length of Chain
-factorization:sludge, Sludge
+factorization:socket/scissors, Enormous Scissors
+factorization:tool/pocket_crafting_table, Pocket Crafting Table
+factorization:mirror, Mirror
+factorization:ceramics/glaze_bucket, Glaze Bucket
+factorization:sculptTool:0, Sculpting Tool
+factorization:servo/commenter, Commenter
+factorization:logic_matrix_controller, Logic Matrix: Controller
+factorization:nether_powder, Netherrack Powder
 factorization:mansandwich:0, Manwich
 factorization:mansandwich:1, Spicy Manwich
-factorization:charge_battery, Battery Block
-factorization:servo/instruction_plate, Instruction Plate
+factorization:colossusGuide, Lost Map
+factorization:sludge, Sludge
+factorization:sap, Sap
+factorization:motor, Motor
+factorization:tool/matrix_programmer, Logic Matrix Programmer
+factorization:dark_iron_ingot, Dark Iron Ingot
+factorization:servo/component, item.factorization:servo/component.name
+factorization:docbook, The Factorization Manual
+factorization:servo/servo, Servo
 factorization:servo/decorator, item.factorization:servo/decorator.name
-factorization:lead_ingot, item.factorization:lead_ingot.name
-factorization:logic_matrix_identifier, Logic Matrix: Identifier
-factorization:twistedBlock, Twisted Block of Dark Iron
-factorization:corkscrew, Corkscrew
-factorization:brokenArtifact, item.factorization:brokenArtifact.name
 gendustry:Labware, Genetics Labware
 gendustry:Waste, Genetic Waste
 gendustry:GeneSampleBlank, Blank Gene Sample
@@ -20195,14 +20195,14 @@ IronChest:diamondCrystalUpgrade, Diamond to Crystal Chest Upgrade
 IronChest:woodIronUpgrade, Wood to Iron Chest Upgrade
 IronChest:woodCopperUpgrade, Wood to Copper Chest Upgrade
 IronChest:diamondObsidianUpgrade, Diamond to Obsidian Chest Upgrade
-ironchestminecarts:minecart_chest_iron, Minecart with Iron Chest
-ironchestminecarts:minecart_chest_diamond, Minecart with Diamond Chest
-ironchestminecarts:minecart_chest_silver, Minecart with Silver Chest
-ironchestminecarts:minecart_chest_crystal, Minecart with Crystal Chest
-ironchestminecarts:minecart_chest_gold, Minecart with Gold Chest
 ironchestminecarts:minecart_chest_obsidian, Minecart with Obsidian Chest
-ironchestminecarts:minecart_chest_copper, Minecart with Copper Chest
 ironchestminecarts:minecart_chest_dirtchest9000, Minecart with DirtChest9000
+ironchestminecarts:minecart_chest_iron, Minecart with Iron Chest
+ironchestminecarts:minecart_chest_silver, Minecart with Silver Chest
+ironchestminecarts:minecart_chest_copper, Minecart with Copper Chest
+ironchestminecarts:minecart_chest_crystal, Minecart with Crystal Chest
+ironchestminecarts:minecart_chest_diamond, Minecart with Diamond Chest
+ironchestminecarts:minecart_chest_gold, Minecart with Gold Chest
 JABBA:upgradeStructural:0, item.upgrade.structural.1.name
 JABBA:upgradeStructural:1, item.upgrade.structural.2.name
 JABBA:upgradeStructural:2, item.upgrade.structural.3.name

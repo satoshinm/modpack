@@ -37,7 +37,7 @@ BiblioWoods[Highlands][v1.4].jar
 BigReactors-0.4.3A.jar
 BiomesOPlenty-1.7.10-2.1.0.2027-universal.jar
 Botania r1.8-249.jar
-buildcraft-7.1.20.jar
+buildcraft-7.1.22.jar
 buildcraft-compat-7.1.6.jar
 Carpenter's Blocks v3.3.8.1 - MC 1.7.10.jar
 carpentersblocks/CarpentersBlocksCachedResources.zip
