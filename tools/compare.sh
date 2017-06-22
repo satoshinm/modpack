@@ -1,3 +1,3 @@
 #!/bin/sh
-ROOT=/Applications/MultiMC.app/Contents/MacOS/instances/1.7.10\ Beyond\ Reality/minecraft/
+. tools/setroot.sh
 diff -ur config "$ROOT/config"
