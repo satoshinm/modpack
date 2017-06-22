@@ -118,7 +118,6 @@
 | [WailaPlugins](http://minecraft.curseforge.com/mc-mods/226119-waila-plugins) | 0.2.0-25 | tterrag | Addon for waila |
 | [Witching Gadgets](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2371563) | 1.1.10 | BluSunrize | It's a kind of magic |
 | [WorldEdit](http://wiki.sk89q.com/wiki/WorldEdit) | 6.1.1;no_git_id | sk89q<br/>wizjany<br/>TomyLobo | WorldEdit is an easy-to-use in-game world editor for Minecraft, supporting both single player and multiplayer. |
-| [WorldEditCUI](http://www.liteloader.com/mod/worldeditcui) | 1.7.10 |  | A graphical user interface for WorldEdit. WorldEditCUI is designed to assist in using WorldEdit, as well as preventing accidental errors. |
 ## Dependency/Core Mods
 | Mod | Version | Authors | Description |
 |-----|:-------:|:--------|:------------|
