@@ -1,2 +1,4 @@
 config/enderio/mobTypes.txt
 config/worldedit/worldedit.properties
+server/tileentities.yml
+server/entities.yml
