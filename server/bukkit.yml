@@ -61,3 +61,15 @@ world-settings:
     enabled: true
   nether:
     enabled: true
+  underdark:
+    enabled: true
+  outer:
+    enabled: true
+  endoftime:
+    enabled: true
+  twilightforest:
+    enabled: true
+  bedrock:
+    enabled: true
+  spectre:
+    enabled: true
