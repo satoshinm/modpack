@@ -34,7 +34,6 @@
 | [Dark Menagerie](http://minecraft.curseforge.com/mc-mods/224039-dark-menagerie) | 1.7.10-beta-3.1a | RWTema | This mod was created basically on a whim and out of curiosity with Minecraft's handling of entities and their rendering.  |
 | [DeathCounter](http://ichun.us/mods/death-counter/) | 5.0.0 | iChun | Simple death counter for servers. This mod adds a way for the server to calculate the number of deaths a player has (since its installation). It will also notify the player of the death count and ranking on the server |
 | [Doom like Dungeon's](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293843) | 1.8.7 | BlackJar72 | Hard Core Dungeons |
-| [EiraIrc](http://www.minecraftforum.net/topic/1964989-) | 2.9.402 | Eira | This is an IRC connector that works on both client and server independently. It also adds some neat features like name colors, aliases and supports private IRC messages as well as Twitch chat. It also allows you to upload screenshots immediately to either DirectUpload or imgur! |
 | [Ender IO](http://www.minecraftforum.net/topic/1937619-) | 2.3.0.429_beta | crazypants | Compact conduits, painted things and access to your stuff through an eye of ender. |
 | [Ender Zoo](http://www.curse.com/mc-mods/minecraft/225247-ender-zoo) | 1.7.10-1.0.15.32 | crazypants | Ender Io's Mobs and more |
 | [EnhancedPortals](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292751) | 3.0.12 | Alz454 | An advanced technological portal teleportation system |
@@ -115,7 +114,6 @@
 | [The Twilight Forest](http://www.minecraftforum.net/topic/561673) | 2.3.7 | Benimatic (Ben Mazur) | An enchanted forest dimension. |
 | [TrashSlot](http://www.curseforge.com/projects/235577/) | 1.0.31 | BlayTheNinth | Adds a trash slot to the inventory screen that allows deletion of unwanted items. |
 | [Traveller's Gear](http://minecraft.curseforge.com/mc-mods/224440-travellers-gear) | 1.16.6 | BluSunrize | RPG Inventories! Armorstands! Cross-Mod Interaction! Woohoo! |
-| [Voxel Map - No Radar (Zans)](http://www.planetminecraft.com/mod/zans-minimap/) | 1.0 | MamiyaOtaru | Mini-Map |
 | [Waila](http://www.mobiusstrip.eu/) | 1.5.10_1.7.10 | ProfMobius | WAILA (What Am I Looking At) is a mod that shows you what you are looking at.  |
 | [WailaPlugins](http://minecraft.curseforge.com/mc-mods/226119-waila-plugins) | 0.2.0-25 | tterrag | Addon for waila |
 | [Witching Gadgets](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2371563) | 1.1.10 | BluSunrize | It's a kind of magic |
