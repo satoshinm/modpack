@@ -1,0 +1,2 @@
+config/enderio/mobTypes.txt
+config/worldedit/worldedit.properties
