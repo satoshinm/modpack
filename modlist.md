@@ -136,7 +136,6 @@
 | [GalacticraftCore](http://www.micdoodle8.com/mods/galacticraft) | 3.0.12.462 | micdoodle8 | Blast off to the stars. Makes a space base or a space station. Discover new worlds and exicting dungeons. |
 | [Hats](http://ichun.us/mods/hats/) | 4.0.1 | iChun | Adds a bunch of hats, as wells as the ability to add more, into Minecraft |
 | [iChunUtil](http://www.ichun.us/) | 4.2.3 | iChun | Shared library mod required by several of iChun's Mods. |
-| [Liteloader](http://www.liteloader.com/) | 1.7.10 |  | LiteLoader is a lightweight mod loader for Minecraft designed to provide simple, high-performance and reliable loader functionality for mods which don't need to modify game mechanics. |
 | [malisiscore](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076338-) | 0.14.3 | Ordinastie | Core for Malisis mods |
 | [Mantle](http://www.minecraftforum.net/topic/1659892-) | 0.3.2b | SlimeKnights | Tinkers Construct Library |
 | [Micdoodle8 Core](http://www.micdoodle8.com/) | 3.0.12.462 | micdoodle8 | Provides core features of Micdoodle8's mods |

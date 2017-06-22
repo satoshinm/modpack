@@ -12,7 +12,6 @@
 1.7.10/GalacticraftCore-1.7-3.0.12.462.jar
 1.7.10/Hats-4.0.1.jar
 1.7.10/iChunUtil-4.2.3.jar
-1.7.10/liteloader-1.7.10.jar
 1.7.10/malisiscore-1.7.10-0.14.3.jar
 1.7.10/Mantle-1.7.10-0.3.2b.jar
 1.7.10/MicdoodleCore-1.7-3.0.12.462.jar
