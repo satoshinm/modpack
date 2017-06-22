@@ -1,0 +1,37 @@
+http:
+  port: 4081
+  publicURL: http://localhost:4081/
+  takeover: false
+  unbind_method: console.getServerConnection.b
+mc:
+  debug: false
+  netty_log_info: false
+  use_permissions: false
+  entity: Sheep
+  entity_custom_names: false
+  entity_disable_gravity: false
+  entity_disable_ai: false
+  entity_move_sandbox: true
+  entity_die_disconnect: false
+  world: ''
+  x_center: 0
+  y_center: 75
+  z_center: 0
+  radius: 16
+  clickable_links: true
+  clickable_links_tellraw: false
+nc:
+  y_offset: 20
+  allow_anonymous: true
+  check_ip_bans: true
+  allow_break_place_blocks: true
+  unbreakable_blocks:
+  - BEDROCK
+  allow_signs: true
+  allow_chatting: true
+  see_chat: true
+  see_players: true
+  see_time: true
+  creative_mode: true
+  blocks_to_web_override: {}
+  warn_missing_blocks_to_web: true
