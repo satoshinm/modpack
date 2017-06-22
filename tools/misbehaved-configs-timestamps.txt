@@ -1,0 +1,6 @@
+config/fastcraft.ini
+config/IC2.ini
+config/InvTweaks.cfg
+config/iChunUtil.cfg
+config/splash.properties
+config/UniqueNames.txt
