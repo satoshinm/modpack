@@ -9687,7 +9687,7 @@ extracells:vibrantchamberfluid, Fluid Vibration Chamber
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quark/Electron Director)
+ExtraUtilities:endConstructor:0, QED (Quite Elegant Device)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -10320,6 +10320,134 @@ miscutils:FluidPyrotheum, Blazing Pyrotheum
 miscutils:FluidCryotheum, Gelid Cryotheum
 miscutils:FluidEnder, Resonant Ender
 HatStand:hats.addon.hatstands.block, Hat Stand
+ImmersiveEngineering:ore:0, Copper Ore
+ImmersiveEngineering:ore:1, Bauxite Ore
+ImmersiveEngineering:ore:2, Lead Ore
+ImmersiveEngineering:ore:3, Silver Ore
+ImmersiveEngineering:ore:4, Nickel Ore
+ImmersiveEngineering:storage:0, Block of Copper
+ImmersiveEngineering:storage:1, Block of Aluminium
+ImmersiveEngineering:storage:2, Block of Lead
+ImmersiveEngineering:storage:3, Block of Silver
+ImmersiveEngineering:storage:4, Block of Nickel
+ImmersiveEngineering:storage:5, Block of Constantan
+ImmersiveEngineering:storage:6, Block of Electrum
+ImmersiveEngineering:storage:7, Block of Steel
+ImmersiveEngineering:storage:8, Copper Wire Coil
+ImmersiveEngineering:storage:9, Electrum Wire Coil
+ImmersiveEngineering:storage:10, High-Voltage Wire Coil
+ImmersiveEngineering:storageSlab:0, Copper Slab
+ImmersiveEngineering:storageSlab:1, Aluminium Slab
+ImmersiveEngineering:storageSlab:2, Lead Slab
+ImmersiveEngineering:storageSlab:3, Silver Slab
+ImmersiveEngineering:storageSlab:4, Nickel Slab
+ImmersiveEngineering:storageSlab:5, Constantan Slab
+ImmersiveEngineering:storageSlab:6, Electrum Slab
+ImmersiveEngineering:storageSlab:7, Steel Slab
+ImmersiveEngineering:stoneSlab:0, Hempcrete Slab
+ImmersiveEngineering:stoneSlab:1, Concrete Slab
+ImmersiveEngineering:stoneSlab:2, Concrete Tile Slab
+ImmersiveEngineering:metalDevice:0, LV Wire Connector
+ImmersiveEngineering:metalDevice:1, LV Capacitor
+ImmersiveEngineering:metalDevice:1, LV Capacitor
+ImmersiveEngineering:metalDevice:2, MV Wire Connector
+ImmersiveEngineering:metalDevice:3, MV Capacitor
+ImmersiveEngineering:metalDevice:3, MV Capacitor
+ImmersiveEngineering:metalDevice:4, Transformer
+ImmersiveEngineering:metalDevice:5, HV Wire Relay
+ImmersiveEngineering:metalDevice:6, HV Wire Connector
+ImmersiveEngineering:metalDevice:7, HV Capacitor
+ImmersiveEngineering:metalDevice:7, HV Capacitor
+ImmersiveEngineering:metalDevice:8, HV Transformer
+ImmersiveEngineering:metalDevice:9, Kinetic Dynamo
+ImmersiveEngineering:metalDevice:10, Thermoelectric Generator
+ImmersiveEngineering:metalDevice:11, Conveyor Belt
+ImmersiveEngineering:metalDevice:12, External Heater
+ImmersiveEngineering:metalDevice:13, Item Router
+ImmersiveEngineering:metalDevice:14, Core Sample Drill
+ImmersiveEngineering:metalDevice:15, Dropping Conveyor Belt
+ImmersiveEngineering:metalDevice2:0, Breaker Switch
+ImmersiveEngineering:metalDevice2:2, Current Transformer
+ImmersiveEngineering:metalDevice2:3, Powered Lantern
+ImmersiveEngineering:metalDevice2:4, Floodlight
+ImmersiveEngineering:metalDevice2:5, Fluid Pipe
+ImmersiveEngineering:metalDevice2:6, Fluid Pump
+ImmersiveEngineering:metalDevice2:7, Metal Barrel
+ImmersiveEngineering:metalDevice2:8, Creative Capacitor
+ImmersiveEngineering:metalDevice2:9, Redstone Breaker
+ImmersiveEngineering:metalDevice2:10, Charging Station
+ImmersiveEngineering:metalDevice2:11, Blast Furnace Preheater
+ImmersiveEngineering:metalDecoration:0, Steel Fence
+ImmersiveEngineering:metalDecoration:1, Steel Scaffolding
+ImmersiveEngineering:metalDecoration:2, Lantern
+ImmersiveEngineering:metalDecoration:3, Structural Arm
+ImmersiveEngineering:metalDecoration:4, Radiator Block
+ImmersiveEngineering:metalDecoration:5, Heavy Engineering Block
+ImmersiveEngineering:metalDecoration:6, Generator Block
+ImmersiveEngineering:metalDecoration:7, Light Engineering Block
+ImmersiveEngineering:metalDecoration:8, Structural Cable Connector
+ImmersiveEngineering:metalDecoration:9, Steel Wall Mount
+ImmersiveEngineering:metalDecoration:10, Sheet Metal Block
+ImmersiveEngineering:metalDecoration:11, Steel Scaffolding
+ImmersiveEngineering:metalDecoration:12, Aluminium Fence
+ImmersiveEngineering:metalDecoration:13, Aluminium Scaffolding
+ImmersiveEngineering:metalDecoration:14, Aluminium Scaffolding
+ImmersiveEngineering:metalDecoration:15, Aluminium Structural Arm
+ImmersiveEngineering:metalDecoration2:0, Aluminium Sheet Metal Block
+ImmersiveEngineering:metalDecoration2:1, Lead Sheet Metal Block
+ImmersiveEngineering:metalDecoration2:2, Steel Sheet Metal Block
+ImmersiveEngineering:metalMultiblock:0, Lightning Rod Base
+ImmersiveEngineering:metalMultiblock:2, Industrial Squeezer
+ImmersiveEngineering:metalMultiblock:3, Fermenter
+ImmersiveEngineering:woodenDevice:0, Wooden Post
+ImmersiveEngineering:woodenDevice:1, Water Wheel
+ImmersiveEngineering:woodenDevice:2, Windmill
+ImmersiveEngineering:woodenDevice:3, Improved Windmill
+ImmersiveEngineering:woodenDevice:4, Wooden Storage Crate
+ImmersiveEngineering:woodenDevice:5, Engineer's Workbench
+ImmersiveEngineering:woodenDevice:6, Wooden Barrel
+ImmersiveEngineering:woodenDecoration:1, Treated Wood Fence
+ImmersiveEngineering:woodenDecoration:2, Treated Wood Slab
+ImmersiveEngineering:woodenDecoration:4, Treated Wood Doubleslab
+ImmersiveEngineering:woodenDecoration:5, Treated Wood Scaffolding
+ImmersiveEngineering:woodenDecoration:6, Wooden Wall Mount
+ImmersiveEngineering:treatedWood:0, Treated Wood Planks
+ImmersiveEngineering:treatedWood:1, Treated Wood Planks
+ImmersiveEngineering:treatedWood:2, Treated Wood Planks
+ImmersiveEngineering:woodenStairs, Treated Wood Stairs
+ImmersiveEngineering:woodenStairs1, Treated Wood Stairs
+ImmersiveEngineering:woodenStairs2, Treated Wood Stairs
+ImmersiveEngineering:stoneDevice:4, Insulating Glass
+ImmersiveEngineering:stoneDecoration:0, Hempcrete
+ImmersiveEngineering:stoneDecoration:1, Coke Brick
+ImmersiveEngineering:stoneDecoration:2, Blast Brick
+ImmersiveEngineering:stoneDecoration:3, Block of Coal Coke
+ImmersiveEngineering:stoneDecoration:4, Concrete
+ImmersiveEngineering:stoneDecoration:5, Concrete Tile
+ImmersiveEngineering:stoneDecoration:6, Reinforced Blast Brick
+ImmersiveEngineering:concreteStairs, Concrete Stairs
+ImmersiveEngineering:concreteTileStairs, Concrete Tile Stairs
+ImmersiveEngineering:hemp, Industrial Hemp
+ImmersiveEngineering:fakeLight, tile.ImmersiveEngineering.fakeLight.name
+ImmersiveEngineering:clothDevice, tile.ImmersiveEngineering.clothDevice.name
+immersiveintegration:extendablePost, Extendable Wooden Post
+immersiveintegration:steelTrapdoor, Steel Trapdoor
+immersiveintegration:steelDecoration:0, Coke Oven Wall
+immersiveintegration:steelDecoration:1, Heated Coke Oven Wall
+immersiveintegration:steelDecoration:2, Coke Oven Port
+immersiveintegration:extendedPost, Wooden Post Extension
+immersiveintegration:industrialCokeOven, Industrial Coke Oven
+immersiveintegration:itemRobin, Item Robin
+immersiveintegration:inductionCharger:0, LV Induction Charger
+immersiveintegration:inductionCharger:1, MV Induction Charger
+immersiveintegration:inductionCharger:2, HV Induction Charger
+immersiveintegration:redstoneWireConnector, Redstone Wire Connector
+immersiveintegration:meWireConnector, ME Wire Connector
+immersiveintegration:meDenseWireConnector, ME Dense Wire Connector
+immersiveintegration:meTransformer, ME Transformer
+immersiveintegration:meDenseTransformer, ME Dense Transformer
+immersiveintegration:aeDecoration:0, Fluix Wire Coil
+immersiveintegration:aeDecoration:1, Dense Wire Coil
 IronChest:BlockIronChest:0, Iron Chest
 IronChest:BlockIronChest:1, Gold Chest
 IronChest:BlockIronChest:2, Diamond Chest
@@ -10348,6 +10476,18 @@ malisisdoors:iron_sliding_door, Iron Glass Door
 malisisdoors:jail_door, Jail Door
 malisisdoors:laboratory_door, Laboratory Door
 malisisdoors:factory_door, Factory Door
+minecraft:record_13, Music Disc
+minecraft:record_cat, Music Disc
+minecraft:record_blocks, Music Disc
+minecraft:record_chirp, Music Disc
+minecraft:record_far, Music Disc
+minecraft:record_mall, Music Disc
+minecraft:record_mellohi, Music Disc
+minecraft:record_stal, Music Disc
+minecraft:record_strad, Music Disc
+minecraft:record_ward, Music Disc
+minecraft:record_11, Music Disc
+minecraft:record_wait, Music Disc
 malisisdoors:shoji_door, Shoji Door
 malisisdoors:curtain_black, Black Curtain
 malisisdoors:curtain_red, Red Curtain
@@ -10386,18 +10526,6 @@ malisisdoors:vanishing_block:2, Gold Vanishing Frame
 malisisdoors:vanishing_block:3, Diamond Vanishing Frame
 malisisdoors:vanishing_block_diamond, Diamond Vanishing Frame
 malisisdoors:block_mixer, Block Mixer
-minecraft:record_13, Music Disc
-minecraft:record_cat, Music Disc
-minecraft:record_blocks, Music Disc
-minecraft:record_chirp, Music Disc
-minecraft:record_far, Music Disc
-minecraft:record_mall, Music Disc
-minecraft:record_mellohi, Music Disc
-minecraft:record_stal, Music Disc
-minecraft:record_strad, Music Disc
-minecraft:record_ward, Music Disc
-minecraft:record_11, Music Disc
-minecraft:record_wait, Music Disc
 malisisdoors:mixed_block, Mixed Block
 malisisdoors:garage_door, Garage Door
 malisisdoors:door_factory, Door Factory
@@ -11069,43 +11197,43 @@ thaumicenergistics:thaumicenergistics.block.arcane.assembler, Arcane Assembler
 thaumicenergistics:thaumicenergistics.block.knowledge.inscriber, Knowledge Inscriber
 thaumicenergistics:thaumicenergistics.block.essentia.vibration.chamber, Essentia Vibration Chamber
 thaumicenergistics:thaumicenergistics.block.distillation.encoder, Distillation Pattern Encoder
-ThaumicTinkerer:fireAir, Aer Imbued Fire
 ThaumicTinkerer:fireWater, Aqua Imbued Fire
-ThaumicTinkerer:fireOrder, Ordo Imbued Fire
 ThaumicTinkerer:fireChaos, Perditio Imbued Fire
-ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
-ThaumicTinkerer:repairer, Thaumic Restorer
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:fireFire, Ignis Imbued Fire
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:travelSlab:0, Paving Slab of Travel
+ThaumicTinkerer:travelSlabFull:0, Paving Slab of Travel
 ThaumicTinkerer:interface, Transvector Interface
+ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
+ThaumicTinkerer:fireAir, Aer Imbued Fire
+ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
+ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
+ThaumicTinkerer:animationTablet, Dynamism Tablet
+ThaumicTinkerer:bedrockPortal, Bedrock Portal
+ThaumicTinkerer:enchanter, Osmotic Enchanter
+ThaumicTinkerer:forcefield, Forcefield
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
+ThaumicTinkerer:repairer, Thaumic Restorer
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:wardSlab:0, tile.wardSlab.name
+ThaumicTinkerer:wardSlabFull:0, tile.wardSlab.name
+ThaumicTinkerer:fireOrder, Ordo Imbued Fire
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
+ThaumicTinkerer:fireFire, Ignis Imbued Fire
+ThaumicTinkerer:dislocator, Transvector Dislocator
+ThaumicTinkerer:fireEarth, Terra Imbued Fire
+ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
+ThaumicTinkerer:magnet:0, Kinetic Attractor
+ThaumicTinkerer:magnet:1, Corporeal Attractor
+ThaumicTinkerer:travelStairs, Paving Stair of Travel
 ThaumicTinkerer:warpGate, Celestial Gateway
 ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
 ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
 ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
-ThaumicTinkerer:fireEarth, Terra Imbued Fire
-ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
-ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
-ThaumicTinkerer:animationTablet, Dynamism Tablet
-ThaumicTinkerer:magnet:0, Kinetic Attractor
-ThaumicTinkerer:magnet:1, Corporeal Attractor
-ThaumicTinkerer:platform, Ethereal Platform
-ThaumicTinkerer:wardSlab:0, tile.wardSlab.name
-ThaumicTinkerer:wardSlabFull:0, tile.wardSlab.name
-ThaumicTinkerer:travelSlab:0, Paving Slab of Travel
-ThaumicTinkerer:travelSlabFull:0, Paving Slab of Travel
-ThaumicTinkerer:bedrockPortal, Bedrock Portal
-ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
-ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:travelStairs, Paving Stair of Travel
-ThaumicTinkerer:enchanter, Osmotic Enchanter
-ThaumicTinkerer:spawner, Tablet of Necromancy
-ThaumicTinkerer:dislocator, Transvector Dislocator
-ThaumicTinkerer:forcefield, Forcefield
 ThaumicTinkerer:funnel, Essentia Funnel
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:spawner, Tablet of Necromancy
+ThaumicTinkerer:platform, Ethereal Platform
 ThaumicExploration:autoSorter, tile.thaumicexploration:autoSorter.name
 ThaumicExploration:trashJar, Oblivion Jar
 ThaumicExploration:boundChest, tile.boundChest.name
@@ -13777,6 +13905,37 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Saltpeter
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Bone pillar
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Carved spruce
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Compressed Iron
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Copper Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Bauxite Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Lead Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Silver Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Nickel Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Copper
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Aluminium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Lead
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Silver
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Nickel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Constantan
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Electrum
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Steel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Copper Wire Coil
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Electrum Wire Coil
+appliedenergistics2:item.ItemFacade:0, Cable Facade - High-Voltage Wire Coil
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Treated Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Treated Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Treated Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hempcrete
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Coke Brick
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Blast Brick
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Coal Coke
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Concrete
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Concrete Tile
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Reinforced Blast Brick
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Coke Oven Wall
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Heated Coke Oven Wall
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Coke Oven Port
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Fluix Wire Coil
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dense Wire Coil
 appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.hey.name
 appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.nyan.name
 appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.pattern.name
@@ -13841,11 +14000,11 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Hawthorn Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Treated Wood Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Livingwood Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dreamwood Trim
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Paving Slab of Travel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Smokey Quartz
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Smokey Quartz Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Pillar Smokey Quartz Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Paving Slab of Travel
 appliedenergistics2:item.ItemCrystalSeed:0, Certus Quartz Seed
 appliedenergistics2:item.ItemCrystalSeed:600, Nether Quartz Seed
 appliedenergistics2:item.ItemCrystalSeed:1200, Fluix Seed
@@ -19648,56 +19807,56 @@ ExtraUtilities:watering_can, Watering Can
 ExtraUtilities:scanner, Portable Scanner
 ExtraUtilities:golden_bag, Golden Bag of Holding
 ExtraUtilities:bedrockiumIngot, Bedrockium Ingot
-factorization:entheas, Entheas
-factorization:servo/servo_motor, Servo Motor
-factorization:insulated_coil, Insulated Coil
-factorization:servo/instruction_plate, Instruction Plate
+factorization:ceramics/glaze_bucket, Glaze Bucket
+factorization:servo/commenter, Commenter
+factorization:fan, Pressurizer
 factorization:barrelCart:0, Barrel Cart
 factorization:barrelCart:0, Barrel Cart: Creative Bedrock Barrel
-factorization:diamond_shard, Diamond Block Shard
-factorization:tool/charge_meter, Charge Meter
+factorization:sludge, Sludge
+factorization:servo/component, item.factorization:servo/component.name
+factorization:darkIronChain, Chain
+factorization:corkscrew, Corkscrew
 factorization:brokenArtifact, item.factorization:brokenArtifact.name
-factorization:fan, Pressurizer
-factorization:silver_ingot, item.factorization:silver_ingot.name
-factorization:potencyBottle, Bottle of Potency
+factorization:dark_iron_ingot, Dark Iron Ingot
+factorization:daybarrel, item.factorization:daybarrel.name
+factorization:diamond_cutting_head, Diamond Cutting Head
+factorization:acid:0, Sulfuric Acid
+factorization:acid:1, Aqua Regia
 factorization:utiligoo:0, Goo
-factorization:lead_ingot, item.factorization:lead_ingot.name
+factorization:diamond_shard, Diamond Block Shard
+factorization:logic_matrix_controller, Logic Matrix: Controller
+factorization:tool/matrix_programmer, Logic Matrix Programmer
+factorization:chainLink, Dark Iron Chain Link
+factorization:motor, Motor
+factorization:insulated_coil, Insulated Coil
+factorization:sap, Sap
+factorization:tool/pocket_crafting_table, Pocket Crafting Table
+factorization:servo/decorator, item.factorization:servo/decorator.name
+factorization:charge_battery, Battery Block
+factorization:mansandwich:0, Manwich
+factorization:mansandwich:1, Spicy Manwich
+factorization:mirror, Mirror
+factorization:servo/instruction_plate, Instruction Plate
+factorization:socket/scissors, Enormous Scissors
+factorization:shortChain, Short Length of Chain
+factorization:twistedBlock, Twisted Block of Dark Iron
+factorization:servo/servo, Servo
+factorization:servo/servo_motor, Servo Motor
 factorization:servo/sprocket, Dark Iron Sprocket
+factorization:tool/charge_meter, Charge Meter
+factorization:nether_powder, Netherrack Powder
+factorization:logic_matrix_identifier, Logic Matrix: Identifier
+factorization:sculptTool:0, Sculpting Tool
+factorization:colossusGuide, Lost Map
 factorization:socket/:34, Robotic Arm
 factorization:socket/:35, Item Shifter
 factorization:logic_matrix, Blank Logic Matrix
-factorization:acid:0, Sulfuric Acid
-factorization:acid:1, Aqua Regia
-factorization:twistedBlock, Twisted Block of Dark Iron
-factorization:daybarrel, item.factorization:daybarrel.name
-factorization:darkIronChain, Chain
-factorization:logic_matrix_identifier, Logic Matrix: Identifier
-factorization:diamond_cutting_head, Diamond Cutting Head
-factorization:corkscrew, Corkscrew
-factorization:charge_battery, Battery Block
+factorization:entheas, Entheas
+factorization:lead_ingot, item.factorization:lead_ingot.name
 factorization:spawnPoster, Poster
-factorization:chainLink, Dark Iron Chain Link
-factorization:shortChain, Short Length of Chain
-factorization:socket/scissors, Enormous Scissors
-factorization:tool/pocket_crafting_table, Pocket Crafting Table
-factorization:mirror, Mirror
-factorization:ceramics/glaze_bucket, Glaze Bucket
-factorization:sculptTool:0, Sculpting Tool
-factorization:servo/commenter, Commenter
-factorization:logic_matrix_controller, Logic Matrix: Controller
-factorization:nether_powder, Netherrack Powder
-factorization:mansandwich:0, Manwich
-factorization:mansandwich:1, Spicy Manwich
-factorization:colossusGuide, Lost Map
-factorization:sludge, Sludge
-factorization:sap, Sap
-factorization:motor, Motor
-factorization:tool/matrix_programmer, Logic Matrix Programmer
-factorization:dark_iron_ingot, Dark Iron Ingot
-factorization:servo/component, item.factorization:servo/component.name
 factorization:docbook, The Factorization Manual
-factorization:servo/servo, Servo
-factorization:servo/decorator, item.factorization:servo/decorator.name
+factorization:silver_ingot, item.factorization:silver_ingot.name
+factorization:potencyBottle, Bottle of Potency
 gendustry:Labware, Genetics Labware
 gendustry:Waste, Genetic Waste
 gendustry:GeneSampleBlank, Blank Gene Sample
@@ -20186,6 +20345,123 @@ miscutils:itemsteelrotor, ic2.itemVibrantRotor.name
 miscutils:itemIridiumRotorBlade, Iridium Rotor Blade
 miscutils:itemIridiumShaft, Iridium Shaft
 miscutils:itemwcarbonrotor, ic2.itemIridiumRotor.name
+ImmersiveEngineering:metal:0, Copper Ingot
+ImmersiveEngineering:metal:1, Aluminium Ingot
+ImmersiveEngineering:metal:2, Lead Ingot
+ImmersiveEngineering:metal:3, Silver Ingot
+ImmersiveEngineering:metal:4, Nickel Ingot
+ImmersiveEngineering:metal:5, Constantan Ingot
+ImmersiveEngineering:metal:6, Electrum Ingot
+ImmersiveEngineering:metal:7, Steel Ingot
+ImmersiveEngineering:metal:8, Iron Grit
+ImmersiveEngineering:metal:9, Gold Grit
+ImmersiveEngineering:metal:10, Copper Grit
+ImmersiveEngineering:metal:11, Aluminium Grit
+ImmersiveEngineering:metal:12, Lead Grit
+ImmersiveEngineering:metal:13, Silver Grit
+ImmersiveEngineering:metal:14, Nickel Grit
+ImmersiveEngineering:metal:15, Constantan Grit
+ImmersiveEngineering:metal:16, Electrum Grit
+ImmersiveEngineering:metal:17, Coke Dust
+ImmersiveEngineering:metal:18, Quartz Dust
+ImmersiveEngineering:metal:19, HOP Graphite Dust
+ImmersiveEngineering:metal:20, HOP Graphite Ingot
+ImmersiveEngineering:metal:21, Iron Nugget
+ImmersiveEngineering:metal:22, Copper Nugget
+ImmersiveEngineering:metal:23, Aluminium Nugget
+ImmersiveEngineering:metal:24, Lead Nugget
+ImmersiveEngineering:metal:25, Silver Nugget
+ImmersiveEngineering:metal:26, Nickel Nugget
+ImmersiveEngineering:metal:27, Constantan Nugget
+ImmersiveEngineering:metal:28, Electrum Nugget
+ImmersiveEngineering:metal:29, Steel Nugget
+ImmersiveEngineering:metal:30, Iron Plate
+ImmersiveEngineering:metal:32, Aluminium Plate
+ImmersiveEngineering:metal:33, Lead Plate
+ImmersiveEngineering:metal:36, Constantan Plate
+ImmersiveEngineering:metal:38, Steel Plate
+ImmersiveEngineering:material:0, Treated Stick
+ImmersiveEngineering:material:1, Waterwheel Segment
+ImmersiveEngineering:material:2, Windmill Blade
+ImmersiveEngineering:material:3, Industrial Hemp Fiber
+ImmersiveEngineering:material:4, Tough Fabric
+ImmersiveEngineering:material:5, Improved Windmill Blade
+ImmersiveEngineering:material:6, Coal Coke
+ImmersiveEngineering:material:7, Revolver Barrel
+ImmersiveEngineering:material:8, Revolver Drum
+ImmersiveEngineering:material:9, Wooden Grip
+ImmersiveEngineering:material:10, Revolver Hammer
+ImmersiveEngineering:material:11, Iron Mechanical Component
+ImmersiveEngineering:material:12, Steel Mechanical Component
+ImmersiveEngineering:material:13, Slag
+ImmersiveEngineering:material:14, Iron Rod
+ImmersiveEngineering:material:15, Steel Rod
+ImmersiveEngineering:material:16, Aluminium Rod
+ImmersiveEngineering:seed:0, Industrial Hemp Seeds
+ImmersiveEngineering:coil:0, LV Wire Coil
+ImmersiveEngineering:coil:1, MV Wire Coil
+ImmersiveEngineering:coil:2, HV Wire Coil
+ImmersiveEngineering:coil:3, Hemp Rope Coil
+ImmersiveEngineering:coil:4, Steel Cable Coil
+ImmersiveEngineering:tool:0, Engineer's Hammer
+ImmersiveEngineering:tool:1, Engineer's Wire Cutters
+ImmersiveEngineering:tool:2, Engineer's Voltmeter
+ImmersiveEngineering:tool:3, Engineer's Manual
+ImmersiveEngineering:toolbox, Engineer's Toolbox
+ImmersiveEngineering:revolver:0, Revolver
+ImmersiveEngineering:revolver:1, Revolver Speedloader
+ImmersiveEngineering:bullet:0, Empty Casing
+ImmersiveEngineering:bullet:1, Empty Shell
+ImmersiveEngineering:bullet:2, Casull Cartridge
+ImmersiveEngineering:bullet:3, Armor-Piercing Cartridge
+ImmersiveEngineering:bullet:4, Buckshot Cartridge
+ImmersiveEngineering:bullet:5, High-Explosive Cartridge
+ImmersiveEngineering:bullet:6, Dragon's Breath Cartridge
+ImmersiveEngineering:bullet:7, Homing Cartridge
+ImmersiveEngineering:bullet:8, Wolfpack Cartridge
+ImmersiveEngineering:bullet:9, Silver Cartridge
+ImmersiveEngineering:bullet:10, Phial Cartridge
+ImmersiveEngineering:fluidContainers:0, Bottle of Creosote Oil
+ImmersiveEngineering:fluidContainers:1, Bucket of Creosote Oil
+ImmersiveEngineering:fluidContainers:2, Bottle of Plant Oil
+ImmersiveEngineering:fluidContainers:3, Bucket of Plant Oil
+ImmersiveEngineering:fluidContainers:4, Bottle of Ethanol
+ImmersiveEngineering:fluidContainers:5, Bucket of Ethanol
+ImmersiveEngineering:fluidContainers:6, Bottle of Biodiesel
+ImmersiveEngineering:fluidContainers:7, Bucket of Biodiesel
+ImmersiveEngineering:drill:0, Mining Drill
+ImmersiveEngineering:drillhead:0, Steel Drill Head
+ImmersiveEngineering:drillhead:1, Iron Drill Head
+ImmersiveEngineering:toolupgrade:0, Pressurized Air Tank
+ImmersiveEngineering:toolupgrade:1, Advanced Lubrication System
+ImmersiveEngineering:toolupgrade:2, Additional Augers
+ImmersiveEngineering:toolupgrade:3, Large Tank
+ImmersiveEngineering:toolupgrade:4, Bayonet
+ImmersiveEngineering:toolupgrade:5, Extended Magazine
+ImmersiveEngineering:toolupgrade:6, Amplifier Electron Tubes
+ImmersiveEngineering:toolupgrade:7, Focused Nozzle
+ImmersiveEngineering:toolupgrade:8, Precision Scope
+ImmersiveEngineering:toolupgrade:9, Additional Capacitors
+ImmersiveEngineering:skyhook, Engineer's Skyhook
+ImmersiveEngineering:blueprint, Engineer's Blueprint
+ImmersiveEngineering:graphiteElectrode, Graphite Electrode
+ImmersiveEngineering:shader, Shader
+ImmersiveEngineering:shaderBag, Shader Grabbag
+ImmersiveEngineering:jerrycan, Jerrycan
+ImmersiveEngineering:chemthrower, Chemical Thrower
+ImmersiveEngineering:railgun, Railgun
+ImmersiveEngineering:mold:0, Metal Press Mold: Plate
+ImmersiveEngineering:mold:2, Metal Press Mold: Rod
+immersiveintegration:iiWireCoil:0, Redstone Wire Coil
+immersiveintegration:capacitorBox:0, LV Capacitor in a Box
+immersiveintegration:capacitorBox:0, LV Capacitor in a Box
+immersiveintegration:capacitorBox:1, MV Capacitor in a Box
+immersiveintegration:capacitorBox:1, MV Capacitor in a Box
+immersiveintegration:capacitorBox:2, HV Capacitor in a Box
+immersiveintegration:capacitorBox:2, HV Capacitor in a Box
+immersiveintegration:capacitorBox:3, Creative Capacitor in a Box
+immersiveintegration:wireCoil:0, Fluix Wire Coil
+immersiveintegration:wireCoil:1, Dense Wire Coil
 IronChest:ironGoldUpgrade, Iron to Gold Chest Upgrade
 IronChest:goldDiamondUpgrade, Gold to Diamond Chest Upgrade
 IronChest:copperSilverUpgrade, Copper to Silver Chest Upgrade
@@ -20195,14 +20471,14 @@ IronChest:diamondCrystalUpgrade, Diamond to Crystal Chest Upgrade
 IronChest:woodIronUpgrade, Wood to Iron Chest Upgrade
 IronChest:woodCopperUpgrade, Wood to Copper Chest Upgrade
 IronChest:diamondObsidianUpgrade, Diamond to Obsidian Chest Upgrade
-ironchestminecarts:minecart_chest_obsidian, Minecart with Obsidian Chest
-ironchestminecarts:minecart_chest_dirtchest9000, Minecart with DirtChest9000
 ironchestminecarts:minecart_chest_iron, Minecart with Iron Chest
+ironchestminecarts:minecart_chest_diamond, Minecart with Diamond Chest
 ironchestminecarts:minecart_chest_silver, Minecart with Silver Chest
 ironchestminecarts:minecart_chest_copper, Minecart with Copper Chest
-ironchestminecarts:minecart_chest_crystal, Minecart with Crystal Chest
-ironchestminecarts:minecart_chest_diamond, Minecart with Diamond Chest
+ironchestminecarts:minecart_chest_obsidian, Minecart with Obsidian Chest
+ironchestminecarts:minecart_chest_dirtchest9000, Minecart with DirtChest9000
 ironchestminecarts:minecart_chest_gold, Minecart with Gold Chest
+ironchestminecarts:minecart_chest_crystal, Minecart with Crystal Chest
 JABBA:upgradeStructural:0, item.upgrade.structural.1.name
 JABBA:upgradeStructural:1, item.upgrade.structural.2.name
 JABBA:upgradeStructural:2, item.upgrade.structural.3.name
@@ -20903,6 +21179,9 @@ WitchingGadgets:item.WG_PrimordialHelm, Primordial Helm
 WitchingGadgets:item.WG_PrimordialChest, Primordial Cuirass
 WitchingGadgets:item.WG_PrimordialLegs, Primordial Greaves
 WitchingGadgets:item.WG_PrimordialBoots, Primordial Boots
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
 WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
 WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
 WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
