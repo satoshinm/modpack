@@ -80,6 +80,7 @@ Jabba-1.2.2_1.7.10.jar
 journeymap-1.7.10-5.1.4p2-unlimited.jar
 logisticspipes-0.9.3.131.jar
 malisisdoors-1.7.10-1.13.2.jar
+mcjtylib-1.8.1.jar
 MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar
 MineTweaker3-1.7.10-3.0.10B.jar
 ModTweaker2-0.9.6.jar
@@ -104,10 +105,14 @@ ProjectRed-1.7.10-4.7.0pre12.95-Lighting.jar
 ProjectRed-1.7.10-4.7.0pre12.95-World.jar
 Railcraft_1.7.10-9.12.2.0.jar
 RandomThings-2.2.4.jar
+RedstoneArsenal-[1.7.10]1.1.2-92.jar
 RemainInMotion-2.8.9.jar
+rftools-4.23.jar
 RouterReborn-1.7.10-1.2.0.43-universal.jar
+SimplyJetpacks-MC1.7.10-1.5.3.jar
 SmartMoving-1.7.10-15.6.jar
 SmartRender-1.7.10-2.1.jar
+SolarExpansion-Basic-1.6a.jar
 statues-1.7.10-2.1.4.jar
 StevesAddons-1.7.10-0.10.16.jar
 StevesCarts2.0.0.b18.jar
@@ -124,6 +129,9 @@ thaumcraftneiplugin-1.7.10-1.7a.jar
 thaumicenergistics-1.0.0.5.jar
 ThaumicExploration-1.7.10-1.1-53.jar
 ThaumicTinkerer-2.5-1.7.10-523.jar
+ThermalDynamics-[1.7.10]1.2.1-172.jar
+ThermalExpansion-[1.7.10]4.1.5-248.jar
+ThermalFoundation-[1.7.10]1.2.6-118.jar
 TravellersGear-1.7.10-1.16.6.jar
 twilightforest-1.7.10-2.3.7.jar
 Waila-1.5.10_1.7.10.jar
