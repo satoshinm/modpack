@@ -62,6 +62,8 @@
 | [IndustrialCraft 2](http://www.industrial-craft.net/) | 2.2.827-experimental | Alblaka<br/>Player<br/>RichardG<br/>Thunderdark<br/>GregoriusT<br/>alexthesax<br/>Drashian<br/>Elementalist<br/>Feanturi<br/>Lurch1985<br/>SirusKing<br/>tahu44<br/>Aroma1997 | Industrial age themed expansion for Minecraft. |
 | [InpureCore](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2196459-) | 1.0.0B9-62 |  | Removes the clutter in NEI (IE 300 drums or 1000 multiblocks) |
 | [Inventory Tweaks](http://www.minecraftforum.net/topic/1720872-) | 1.59-asie-lts-fc905d6-dirty | Jimeo Wan<br/>Kobata | Tweaks to inventory handling for ease of use, including sorting and automatic replacement of broken tools or exhausted stacks of items. |
+| [Immersive Engineering](https://minecraft.curseforge.com/projects/immersive-engineering) | 0.7.7 | | Overall, it's about realism-inspired technology |
+| [Immersive Integration](https://minecraft.curseforge.com/projects/immersive-integration) | 0.6.8 | | This mod is an addon to Immersive Engineering. |
 | [Iron Chests 2](http://files.minecraftforge.net/IronChests2/) | 6.0.62.742 | CPW | Tiered chest from iron to diamond with different sizes |
 | [IronChestMinecarts](http://minecraft.curseforge.com/mc-mods/224989-iron-chest-minecarts) | 1.0.4 | ganny | Iron chest inside minecrafts ! |
 | [JABBA](http://www.mobiusstrip.eu/) | 1.2.2 | ProfMobius | Just Another Better Barrel Attempt  |

@@ -69,6 +69,8 @@ IC2 Backpack HUD v3.0 - MC 1.7.10.zip
 ic2/EJML-core-0.26.jar
 IC2NuclearControl-2.4.2a.jar
 ihl-tools_n_machines-0.600-1.7.10.jar
+ImmersiveEngineering-0.7.7.jar
+immersiveintegration-0.6.8.jar
 industrialcraft-2-2.2.827-experimental.jar
 INpureCore-[1.7.10]1.0.0B9-62.jar
 InventoryTweaks-1.59-asie-lts.jar
