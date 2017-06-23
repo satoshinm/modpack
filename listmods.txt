@@ -106,6 +106,8 @@ Railcraft_1.7.10-9.12.2.0.jar
 RandomThings-2.2.4.jar
 RemainInMotion-2.8.9.jar
 RouterReborn-1.7.10-1.2.0.43-universal.jar
+SmartMoving-1.7.10-15.6.jar
+SmartRender-1.7.10-2.1.jar
 statues-1.7.10-2.1.4.jar
 StevesAddons-1.7.10-0.10.16.jar
 StevesCarts2.0.0.b18.jar
