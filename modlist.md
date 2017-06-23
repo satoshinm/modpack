@@ -96,6 +96,8 @@
 | [Remain In Motion](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2104611) | 2.8.9 | planetguy | A reimplementation of Redpower frames, with more flexibility and functionality, and including many new types of frames. |
 | [Router Reborn](http://www.curseforge.com/projects/223808) | 1.7.10-1.2.0.43-universal | Tom E. Voll | Bringing the router back in 1.7.x |
 | [SkinPort](https://github.com/zlainsama/skinport) | 1.7.10-v8c | zlainsama | This mod adds rendering support for the new skin format introduced in minecraft 1.8 |
+| [SmartMoving](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1274224-smart-moving) | 15.6 | | The Smart Moving mod provides various additional moving possibilities |
+| [SmartRender](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1274224-smart-moving) | 2.1 | | Addon for SmartMoving to improve the compatibiltity to other mods. |
 | [Statues](http://mc.shinonome.ch/doku.php?id=wiki:statues) | 2.1.4 | asie<br/>Automatic_MAID | Adds player statues and showcases |
 | [Steve's Carts 2](http://www.minecraftforum.net/topic/680276-) | 2.0.0.b18 | Vswe | Steve's Carts 2 introduces a modular system where you can build a huge amount of carts(hundreds of millions) by combining the parts you want. |
 | [Steve's Factory Manager](http://www.minecraftforum.net/topic/2211439-) | A93 | vswe | This mod allows you to move items between different inventories (machines and storage blocks) by specifying it using commands in a flow chart like way. |
