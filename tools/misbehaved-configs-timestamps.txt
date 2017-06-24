@@ -4,3 +4,4 @@ config/InvTweaks.cfg
 config/iChunUtil.cfg
 config/splash.properties
 config/UniqueNames.txt
+config/CraftGuide/CraftGuide.cfg
