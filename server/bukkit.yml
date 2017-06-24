@@ -83,3 +83,5 @@ world-settings:
     enabled: true
   limbo:
     enabled: true
+  miner:
+    enabled: true
