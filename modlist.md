@@ -177,3 +177,4 @@ Enough about that, let's dig into the mod! The first thing you need in order to 
 | [Slick-Util](http://slick.ninjacave.com/slick-util/) | 2.2.4 | NinjaCave | Slick-Util is a small library to enable you to load various image, sound and font formats for use with LWJGL. |
 | [SonarCore](http://www.curseforge.com/projects/239418/) | 1.7.10-1.1.3 | Ollie Lansdell | Sonar's Modding Framework |
 | [Vorbis-Java-Core](https://github.com/Gagravarr/VorbisJava) | 0.8-20150201.161816-1 |  | Needed For MPS |
+| [gilded-games-util](https://aether.gildedgames.com/downloads/) | 1.9 | | Needed for Aether II |
