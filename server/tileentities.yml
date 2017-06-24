@@ -22,18 +22,39 @@ debug:
 config-version: 1
 world-settings:
   default:
+    com-teammetallurgy-atum-blocks-tileentity-chests-TileEntityChestSpawner:
+      tick-no-players: false
+      tick-interval: 1
+    com-teammetallurgy-atum-blocks-tileentity-TileEntityBurningTrap:
+      tick-no-players: false
+      tick-interval: 1
+    com-teammetallurgy-atum-blocks-tileentity-chests-TileEntityPharaohChest:
+      tick-no-players: false
+      tick-interval: 1
     thaumcraft-common-tiles-TileNode:
       tick-no-players: false
       tick-interval: 1
     forestry-apiculture-tiles-TileSwarm:
       tick-no-players: false
       tick-interval: 1
-    net-minecraft-tileentity-TileEntityChest:
-      tick-no-players: false
-      tick-interval: 1
     net-minecraft-tileentity-TileEntityMobSpawner:
       tick-no-players: false
       tick-interval: 1
+    net-minecraft-tileentity-TileEntityChest:
+      tick-no-players: false
+      tick-interval: 1
     mrtjp-projectred-exploration-TileLily:
+      tick-no-players: false
+      tick-interval: 1
+    openblocks-common-tileentity-TileEntityGrave:
+      tick-no-players: false
+      tick-interval: 1
+    com-xcompwiz-mystcraft-tileentity-TileEntityLectern:
+      tick-no-players: false
+      tick-interval: 1
+    eternalfrost-tileentity-TileEntityDungeonBlock:
+      tick-no-players: false
+      tick-interval: 1
+    eternalfrost-tileentity-TileEntitySnowbarkChest:
       tick-no-players: false
       tick-interval: 1
