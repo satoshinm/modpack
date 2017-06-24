@@ -53,7 +53,6 @@ DoomlikeDungeons-1.8.7-MC1.7.10.jar
 EnderIO-1.7.10-2.3.0.429_beta.jar
 EnderZoo-1.7.10-1.0.15.32.jar
 EnhancedPortals_1.7.10-universal-3.0.12.jar
-eternalfrost-2.0b6.jar
 ExtraCells-1.7.10-2.3.14b197.jar
 ExtraTiC-1.7.10-1.4.6.jar
 extrautilities-1.2.12.jar

@@ -52,9 +52,3 @@ world-settings:
     com-xcompwiz-mystcraft-tileentity-TileEntityLectern:
       tick-no-players: false
       tick-interval: 1
-    eternalfrost-tileentity-TileEntityDungeonBlock:
-      tick-no-players: false
-      tick-interval: 1
-    eternalfrost-tileentity-TileEntitySnowbarkChest:
-      tick-no-players: false
-      tick-interval: 1
