@@ -146,9 +146,13 @@
 | [Dimensional Doors](https://github.com/CannibalVox/DimDoors/releases) | 2.2.5-test9 | | Dimensional Doors is a mod by StevenRS11 and SenseiKiwi which adds a whole new set of Dungeons to explore in an alternate dimension, as well as pocket dimensions which can be used to create large rooms that don't take up space in the Overworld, and teleportation doors which can transport players between two doors even tens-of-thousands of blocks away. |
 | [The Erebus](https://mods.curse.com/mc-mods/minecraft/220698-the-erebus#t1:description) | 0.4.7 | | The Erebus focuses on adding a whole new dimension to Minecraft, with many new creatures to slay, things to create and lands to explore. |
 | [The Betweenlands Mod](http://the-betweenlands.wikia.com/wiki/How_to_get_there) | 1.0.6-alpha | | The Betweenlands dimension is a dark, swampy realm crawling with strange, monstrous creatures. It is the dimension that the majority of the mod revolves around. |
+[ [Aroma1997s Dimensional World](https://minecraft.curseforge.com/projects/aroma1997s-dimensional-world) | 1.1.0.1 | | You are playing with other Mods like Buildcraft and don't want to have your Overworld ruined by all these Quarry holes? Or you only want a new World to test stuff in?  Then this mod is for you.  This Mod adds a complete new Dimension, specially for Mining, but you can do whatever you want to do in it. Just craft some Stone Bricks together with a Pickaxe and you get a special kind of Bricks. They are a little harder to break than normal Stone Bricks and they open you up the ability to visit a new world, the Mining World. Just build a five blocks high and four blocks wide wall with a three by two hole in the middle(same shape as a Nether Portal). Then you need a new Tool to actually create the Portal. Craft a few Stone Bricks, a Flint and Steel and a Stick together to get the Portal Igniter (Portal Multitool). Then right-click the Portal Frames with it and watch, what happens. |
+
+
 ## Dependency/Core Mods
 | Mod | Version | Authors | Description |
 |-----|:-------:|:--------|:------------|
+| [Aroma1997Core](https://minecraft.curseforge.com/projects/aroma1997core) | 1.2.0.0 | Needed for Aroma1997s Dimensional World |
 | [AsieLib](http://wiki.vex.tty.sh/wiki:asielib) | 0.4.6.100-dev | Asie | Library for Asie mods |
 | [Baubles](http://www.minecraftforum.net/topic/2535073-) | 1.0.1.10 | Azanor | Baubles is a small addon mod and api that is intended to be used by other mods to add additional inventory slots to a character |
 | [BdLib](http://minecraft.curseforge.com/mc-mods/bdlib/) | 1.9.4.109 | bdew | This is a collection of generic code used by bdew's other mods |
