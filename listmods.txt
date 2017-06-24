@@ -30,7 +30,7 @@ AdvancedSolarPanel-1.7.10-3.5.1.jar
 AppleCore-mc1.7.10-1.3.9.jar
 appliedenergistics2-rv3-beta-6.jar
 Aroma1997Core-1.7.10-1.0.2.16.jar
-Aroma1997s-Dimensional-World-1.7.10-1.1.0.1.jar.disabled
+Aroma1997s-Dimensional-World-1.7.10-1.1.0.1.jar
 Atum-1.7.10-0.6.77.jar
 Automagy-1.7.10-0.28.2.jar
 beyondrealitycore-1.7.10-1.5.6-BETA-6.jar
