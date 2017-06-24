@@ -73,3 +73,13 @@ world-settings:
     enabled: true
   spectre:
     enabled: true
+  erebus:
+    enabled: true
+  betweenlands:
+    enabled: true
+  freezer:
+    enabled: true
+  atum:
+    enabled: true
+  limbo:
+    enabled: true

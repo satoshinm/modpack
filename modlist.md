@@ -137,6 +137,11 @@
 | [WailaPlugins](http://minecraft.curseforge.com/mc-mods/226119-waila-plugins) | 0.2.0-25 | tterrag | Addon for waila |
 | [Witching Gadgets](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2371563) | 1.1.10 | BluSunrize | It's a kind of magic |
 | [WorldEdit](http://wiki.sk89q.com/wiki/WorldEdit) | 6.1.1;no_git_id | sk89q<br/>wizjany<br/>TomyLobo | WorldEdit is an easy-to-use in-game world editor for Minecraft, supporting both single player and multiplayer. |
+| [Mystcraft](https://minecraft.curseforge.com/projects/mystcraft?gameCategorySlug=mc-mods&projectID=224599) | 0.12.3.04 | | Mystcraft is a recreation of the lore of the Myst series in Minecraft.  It allows for the writing of and travel to new dimensions, called Ages. |
+| [Atum](https://minecraft.curseforge.com/projects/atum) | 0.6.77 | | Delve deep into the sands of Atum and search through forgotten pyramids (with randomized mazes!) and ruins for almost 30 rare and unique artifacts that have special effects. Beware the ancient Pharaohs aren't too privy to intruders. Slay them and their undead minions for more rewards. |
+| [Dimensional Doors](https://github.com/CannibalVox/DimDoors/releases) | 2.2.5-test9 | | Dimensional Doors is a mod by StevenRS11 and SenseiKiwi which adds a whole new set of Dungeons to explore in an alternate dimension, as well as pocket dimensions which can be used to create large rooms that don't take up space in the Overworld, and teleportation doors which can transport players between two doors even tens-of-thousands of blocks away. |
+| [The Erebus](https://mods.curse.com/mc-mods/minecraft/220698-the-erebus#t1:description) | 0.4.7 | | The Erebus focuses on adding a whole new dimension to Minecraft, with many new creatures to slay, things to create and lands to explore. |
+| [The Betweenlands Mod](http://the-betweenlands.wikia.com/wiki/How_to_get_there) | 1.0.6-alpha | | The Betweenlands dimension is a dark, swampy realm crawling with strange, monstrous creatures. It is the dimension that the majority of the mod revolves around. |
 ## Dependency/Core Mods
 | Mod | Version | Authors | Description |
 |-----|:-------:|:--------|:------------|
