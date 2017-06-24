@@ -82,6 +82,7 @@
 | [NEI Addons](http://www.minecraftforum.net/topic/1803460-) | 1.12.15.41 | bdew | Adds in mod integration into NEI by showing bee breeding information as well as other helpful mod plugins. |
 | [NEIIntegration](http://minecraft.curseforge.com/mc-mods/225251-nei-integration) | 1.1.2 | Tonius | Replaces NEI Plugins |
 | [NotEnoughItems](http://www.minecraftforum.net/topic/909223-) | 1.0.5.120 | ChickenBones | Allows you to quickly and easily look up recipes and uses for any item in Minecraft included modded items. Also allows easy spawning of items and a range of one click utilities. |
+| [CraftGuide](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1277913-craftguide-v1-6-8-2) | 1.6.8.2 | | CraftGuide: Quick access to a list of every crafting recipe in the game! |
 | [Open Computers](http://www.minecraftforum.net/topic/2201440-) | 1.6.2.12 | sangar | This mod adds programmable, modular and persistent computers to the game. |
 | [OpenBlocks](http://www.minecraftforum.net/topic/1941514-) | 1.6 | Mikee<br/>NeverCast<br/>boq<br/>Lyqyd | OpenBlocks is a random collection of ideas - ideas the community have suggested, or ideas we thought "Why hasn't anyone done that yet?". There is no theme, it's quite random. It's not even just blocks, as the name suggests! |
 | [Opis](http://minecraft.curseforge.com/mc-mods/73832-opis) | 1.2.5 | ProfMobis | Opis is a server profiler for Forge server. (Includes Map Writer) |

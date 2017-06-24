@@ -48,6 +48,7 @@ Chisel-2.9.5.11.jar
 CompactSolars-1.7.10-4.4.39.315-universal.jar
 CompactWaterTurbines-universal-0.1.BUILD-universal.jar
 Computronics-1.7.10-1.6.1.100-dev-OC1.6.jar
+CraftGuide-1.6.8.2-forge.jar
 dark_menagerie-1.7.10-beta-3.1a.jar
 DimensionalDoors-2.2.5-test9.jar
 DoomlikeDungeons-1.8.7-MC1.7.10.jar
