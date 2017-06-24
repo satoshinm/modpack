@@ -6997,6 +6997,7 @@ gregtech:gt.blockmachines:4114, Magnesium Frame Box
 gregtech:gt.blockmachines:4115, Aluminium Frame Box
 gregtech:gt.blockmachines:4116, Silicon Frame Box
 gregtech:gt.blockmachines:4121, Potassium Frame Box
+gregtech:gt.blockmachines:4123, Scandium Frame Box
 gregtech:gt.blockmachines:4124, Titanium Frame Box
 gregtech:gt.blockmachines:4125, Vanadium Frame Box
 gregtech:gt.blockmachines:4126, Chrome Frame Box
@@ -7008,17 +7009,31 @@ gregtech:gt.blockmachines:4131, Copper Frame Box
 gregtech:gt.blockmachines:4132, Zinc Frame Box
 gregtech:gt.blockmachines:4133, Gallium Frame Box
 gregtech:gt.blockmachines:4135, Arsenic Frame Box
+gregtech:gt.blockmachines:4139, Rubidium Frame Box
 gregtech:gt.blockmachines:4141, Yttrium Frame Box
 gregtech:gt.blockmachines:4143, Niobium Frame Box
 gregtech:gt.blockmachines:4144, Molybdenum Frame Box
 gregtech:gt.blockmachines:4148, Palladium Frame Box
 gregtech:gt.blockmachines:4150, Silver Frame Box
+gregtech:gt.blockmachines:4152, Indium Frame Box
 gregtech:gt.blockmachines:4153, Tin Frame Box
 gregtech:gt.blockmachines:4154, Antimony Frame Box
+gregtech:gt.blockmachines:4155, Tellurium Frame Box
 gregtech:gt.blockmachines:4158, Caesium Frame Box
+gregtech:gt.blockmachines:4160, Lanthanum Frame Box
 gregtech:gt.blockmachines:4161, Cerium Frame Box
+gregtech:gt.blockmachines:4162, Praseodymium Frame Box
 gregtech:gt.blockmachines:4163, Neodymium Frame Box
+gregtech:gt.blockmachines:4164, Promethium Frame Box
+gregtech:gt.blockmachines:4165, Samarium Frame Box
 gregtech:gt.blockmachines:4166, Europium Frame Box
+gregtech:gt.blockmachines:4167, Gadolinium Frame Box
+gregtech:gt.blockmachines:4168, Terbium Frame Box
+gregtech:gt.blockmachines:4169, Dysprosium Frame Box
+gregtech:gt.blockmachines:4170, Holmium Frame Box
+gregtech:gt.blockmachines:4171, Erbium Frame Box
+gregtech:gt.blockmachines:4172, Thulium Frame Box
+gregtech:gt.blockmachines:4173, Ytterbium Frame Box
 gregtech:gt.blockmachines:4174, Lutetium Frame Box
 gregtech:gt.blockmachines:4176, Tantalum Frame Box
 gregtech:gt.blockmachines:4177, Tungsten Frame Box
@@ -7044,6 +7059,7 @@ gregtech:gt.blockmachines:4401, Steel Frame Box
 gregtech:gt.blockmachines:4402, Stainless Steel Frame Box
 gregtech:gt.blockmachines:4403, Pig Iron Frame Box
 gregtech:gt.blockmachines:4404, Red Alloy Frame Box
+gregtech:gt.blockmachines:4405, Blue Alloy Frame Box
 gregtech:gt.blockmachines:4406, Cupronickel Frame Box
 gregtech:gt.blockmachines:4407, Nichrome Frame Box
 gregtech:gt.blockmachines:4408, Kanthal Frame Box
@@ -7052,8 +7068,11 @@ gregtech:gt.blockmachines:4410, Soldering Alloy Frame Box
 gregtech:gt.blockmachines:4411, Battery Alloy Frame Box
 gregtech:gt.blockmachines:4412, Tungstensteel Frame Box
 gregtech:gt.blockmachines:4413, Osmiridium Frame Box
+gregtech:gt.blockmachines:4414, Sunnarium Frame Box
 gregtech:gt.blockmachines:4415, Adamantium Frame Box
+gregtech:gt.blockmachines:4416, Fluxed Electrum Frame Box
 gregtech:gt.blockmachines:4417, Enderium Frame Box
+gregtech:gt.blockmachines:4418, HSLA Steel Frame Box
 gregtech:gt.blockmachines:4419, Infused Gold Frame Box
 gregtech:gt.blockmachines:4420, Naquadah Frame Box
 gregtech:gt.blockmachines:4421, Naquadah Alloy Frame Box
@@ -7063,12 +7082,17 @@ gregtech:gt.blockmachines:4424, Duranium Frame Box
 gregtech:gt.blockmachines:4425, Tritanium Frame Box
 gregtech:gt.blockmachines:4426, Thaumium Frame Box
 gregtech:gt.blockmachines:4427, Mithril Frame Box
+gregtech:gt.blockmachines:4428, Midasium Frame Box
+gregtech:gt.blockmachines:4429, Astral Silver Frame Box
 gregtech:gt.blockmachines:4430, Black Steel Frame Box
 gregtech:gt.blockmachines:4431, Damascus Steel Frame Box
+gregtech:gt.blockmachines:4432, Shadowiron Frame Box
+gregtech:gt.blockmachines:4433, Shadowsteel Frame Box
 gregtech:gt.blockmachines:4434, Ironwood Frame Box
 gregtech:gt.blockmachines:4435, Steeleaf Frame Box
 gregtech:gt.blockmachines:4436, Meteoric Iron Frame Box
 gregtech:gt.blockmachines:4437, Meteoric Steel Frame Box
+gregtech:gt.blockmachines:4438, Dark Iron Frame Box
 gregtech:gt.blockmachines:4439, Cobalt Brass Frame Box
 gregtech:gt.blockmachines:4440, Ultimet Frame Box
 gregtech:gt.blockmachines:4441, Annealed Copper Frame Box
@@ -7099,11 +7123,33 @@ gregtech:gt.blockmachines:4566, Epoxid Frame Box
 gregtech:gt.blockmachines:4567, Polysiloxane Frame Box
 gregtech:gt.blockmachines:4568, Polycaprolactam Frame Box
 gregtech:gt.blockmachines:4569, Polytetrafluoroethylene Frame Box
+gregtech:gt.blockmachines:4585, Vulcanite Frame Box
+gregtech:gt.blockmachines:4586, Infuscolium Frame Box
+gregtech:gt.blockmachines:4617, Force Frame Box
+gregtech:gt.blockmachines:4866, Endium Frame Box
 gregtech:gt.blockmachines:4905, Wood Frame Box
+gregtech:gt.blockmachines:4925, Deep Iron Frame Box
 gregtech:gt.blockmachines:4970, Polyethylene Frame Box
 gregtech:gt.blockmachines:4976, Rubber Frame Box
 gregtech:gt.blockmachines:4980, Desh Frame Box
 gregtech:gt.blockmachines:4985, Sealed Wood Frame Box
+gregtech:gt.blockmachines:5046, Ignatius Frame Box
+gregtech:gt.blockmachines:5047, Vyroxeres Frame Box
+gregtech:gt.blockmachines:5048, Ceruclase Frame Box
+gregtech:gt.blockmachines:5049, Kalendrite Frame Box
+gregtech:gt.blockmachines:5050, Inolashite Frame Box
+gregtech:gt.blockmachines:5051, Sanguinite Frame Box
+gregtech:gt.blockmachines:5052, Tartarite Frame Box
+gregtech:gt.blockmachines:5053, Hepatizon Frame Box
+gregtech:gt.blockmachines:5054, Angmallen Frame Box
+gregtech:gt.blockmachines:5055, Eximite Frame Box
+gregtech:gt.blockmachines:5056, Prometheum Frame Box
+gregtech:gt.blockmachines:5057, Oureclase Frame Box
+gregtech:gt.blockmachines:5058, Carmot Frame Box
+gregtech:gt.blockmachines:5059, Haderoth Frame Box
+gregtech:gt.blockmachines:5060, Celenegil Frame Box
+gregtech:gt.blockmachines:5061, Atlarus Frame Box
+gregtech:gt.blockmachines:5062, Orichalcum Frame Box
 gregtech:gt.blockmachines:5101, Small Wooden Fluid Pipe
 gregtech:gt.blockmachines:5102, Wooden Fluid Pipe
 gregtech:gt.blockmachines:5103, Large Wooden Fluid Pipe
@@ -7755,6 +7801,48 @@ gregtech:gt.blockores:19327, Small Naquadria Ore
 gregtech:gt.blockores:20327, Small Naquadria Ore
 gregtech:gt.blockores:21327, Small Naquadria Ore
 gregtech:gt.blockores:22327, Small Naquadria Ore
+gregtech:gt.blockores:332, Midasium Ore
+gregtech:gt.blockores:1332, Midasium Ore
+gregtech:gt.blockores:2332, Midasium Ore
+gregtech:gt.blockores:3332, Midasium Ore
+gregtech:gt.blockores:4332, Midasium Ore
+gregtech:gt.blockores:5332, Midasium Ore
+gregtech:gt.blockores:6332, Midasium Ore
+gregtech:gt.blockores:16332, Small Midasium Ore
+gregtech:gt.blockores:17332, Small Midasium Ore
+gregtech:gt.blockores:18332, Small Midasium Ore
+gregtech:gt.blockores:19332, Small Midasium Ore
+gregtech:gt.blockores:20332, Small Midasium Ore
+gregtech:gt.blockores:21332, Small Midasium Ore
+gregtech:gt.blockores:22332, Small Midasium Ore
+gregtech:gt.blockores:333, Astral Silver Ore
+gregtech:gt.blockores:1333, Astral Silver Ore
+gregtech:gt.blockores:2333, Astral Silver Ore
+gregtech:gt.blockores:3333, Astral Silver Ore
+gregtech:gt.blockores:4333, Astral Silver Ore
+gregtech:gt.blockores:5333, Astral Silver Ore
+gregtech:gt.blockores:6333, Astral Silver Ore
+gregtech:gt.blockores:16333, Small Astral Silver Ore
+gregtech:gt.blockores:17333, Small Astral Silver Ore
+gregtech:gt.blockores:18333, Small Astral Silver Ore
+gregtech:gt.blockores:19333, Small Astral Silver Ore
+gregtech:gt.blockores:20333, Small Astral Silver Ore
+gregtech:gt.blockores:21333, Small Astral Silver Ore
+gregtech:gt.blockores:22333, Small Astral Silver Ore
+gregtech:gt.blockores:336, Shadowiron Ore
+gregtech:gt.blockores:1336, Shadowiron Ore
+gregtech:gt.blockores:2336, Shadowiron Ore
+gregtech:gt.blockores:3336, Shadowiron Ore
+gregtech:gt.blockores:4336, Shadowiron Ore
+gregtech:gt.blockores:5336, Shadowiron Ore
+gregtech:gt.blockores:6336, Shadowiron Ore
+gregtech:gt.blockores:16336, Small Shadowiron Ore
+gregtech:gt.blockores:17336, Small Shadowiron Ore
+gregtech:gt.blockores:18336, Small Shadowiron Ore
+gregtech:gt.blockores:19336, Small Shadowiron Ore
+gregtech:gt.blockores:20336, Small Shadowiron Ore
+gregtech:gt.blockores:21336, Small Shadowiron Ore
+gregtech:gt.blockores:22336, Small Shadowiron Ore
 gregtech:gt.blockores:340, Meteoric Iron Ore
 gregtech:gt.blockores:1340, Meteoric Iron Ore
 gregtech:gt.blockores:2340, Meteoric Iron Ore
@@ -7797,6 +7885,62 @@ gregtech:gt.blockores:19364, Small Dark Steel Ore
 gregtech:gt.blockores:20364, Small Dark Steel Ore
 gregtech:gt.blockores:21364, Small Dark Steel Ore
 gregtech:gt.blockores:22364, Small Dark Steel Ore
+gregtech:gt.blockores:487, Meutoite Ore
+gregtech:gt.blockores:1487, Meutoite Ore
+gregtech:gt.blockores:2487, Meutoite Ore
+gregtech:gt.blockores:3487, Meutoite Ore
+gregtech:gt.blockores:4487, Meutoite Ore
+gregtech:gt.blockores:5487, Meutoite Ore
+gregtech:gt.blockores:6487, Meutoite Ore
+gregtech:gt.blockores:16487, Small Meutoite Ore
+gregtech:gt.blockores:17487, Small Meutoite Ore
+gregtech:gt.blockores:18487, Small Meutoite Ore
+gregtech:gt.blockores:19487, Small Meutoite Ore
+gregtech:gt.blockores:20487, Small Meutoite Ore
+gregtech:gt.blockores:21487, Small Meutoite Ore
+gregtech:gt.blockores:22487, Small Meutoite Ore
+gregtech:gt.blockores:488, Rubracium Ore
+gregtech:gt.blockores:1488, Rubracium Ore
+gregtech:gt.blockores:2488, Rubracium Ore
+gregtech:gt.blockores:3488, Rubracium Ore
+gregtech:gt.blockores:4488, Rubracium Ore
+gregtech:gt.blockores:5488, Rubracium Ore
+gregtech:gt.blockores:6488, Rubracium Ore
+gregtech:gt.blockores:16488, Small Rubracium Ore
+gregtech:gt.blockores:17488, Small Rubracium Ore
+gregtech:gt.blockores:18488, Small Rubracium Ore
+gregtech:gt.blockores:19488, Small Rubracium Ore
+gregtech:gt.blockores:20488, Small Rubracium Ore
+gregtech:gt.blockores:21488, Small Rubracium Ore
+gregtech:gt.blockores:22488, Small Rubracium Ore
+gregtech:gt.blockores:489, Vulcanite Ore
+gregtech:gt.blockores:1489, Vulcanite Ore
+gregtech:gt.blockores:2489, Vulcanite Ore
+gregtech:gt.blockores:3489, Vulcanite Ore
+gregtech:gt.blockores:4489, Vulcanite Ore
+gregtech:gt.blockores:5489, Vulcanite Ore
+gregtech:gt.blockores:6489, Vulcanite Ore
+gregtech:gt.blockores:16489, Small Vulcanite Ore
+gregtech:gt.blockores:17489, Small Vulcanite Ore
+gregtech:gt.blockores:18489, Small Vulcanite Ore
+gregtech:gt.blockores:19489, Small Vulcanite Ore
+gregtech:gt.blockores:20489, Small Vulcanite Ore
+gregtech:gt.blockores:21489, Small Vulcanite Ore
+gregtech:gt.blockores:22489, Small Vulcanite Ore
+gregtech:gt.blockores:490, Infuscolium Ore
+gregtech:gt.blockores:1490, Infuscolium Ore
+gregtech:gt.blockores:2490, Infuscolium Ore
+gregtech:gt.blockores:3490, Infuscolium Ore
+gregtech:gt.blockores:4490, Infuscolium Ore
+gregtech:gt.blockores:5490, Infuscolium Ore
+gregtech:gt.blockores:6490, Infuscolium Ore
+gregtech:gt.blockores:16490, Small Infuscolium Ore
+gregtech:gt.blockores:17490, Small Infuscolium Ore
+gregtech:gt.blockores:18490, Small Infuscolium Ore
+gregtech:gt.blockores:19490, Small Infuscolium Ore
+gregtech:gt.blockores:20490, Small Infuscolium Ore
+gregtech:gt.blockores:21490, Small Infuscolium Ore
+gregtech:gt.blockores:22490, Small Infuscolium Ore
 gregtech:gt.blockores:500, Diamond Ore
 gregtech:gt.blockores:1500, Diamond Ore
 gregtech:gt.blockores:2500, Diamond Ore
@@ -8007,6 +8151,20 @@ gregtech:gt.blockores:19520, Small Monazite Ore
 gregtech:gt.blockores:20520, Small Monazite Ore
 gregtech:gt.blockores:21520, Small Monazite Ore
 gregtech:gt.blockores:22520, Small Monazite Ore
+gregtech:gt.blockores:521, Force Ore
+gregtech:gt.blockores:1521, Force Ore
+gregtech:gt.blockores:2521, Force Ore
+gregtech:gt.blockores:3521, Force Ore
+gregtech:gt.blockores:4521, Force Ore
+gregtech:gt.blockores:5521, Force Ore
+gregtech:gt.blockores:6521, Force Ore
+gregtech:gt.blockores:16521, Small Force Ore
+gregtech:gt.blockores:17521, Small Force Ore
+gregtech:gt.blockores:18521, Small Force Ore
+gregtech:gt.blockores:19521, Small Force Ore
+gregtech:gt.blockores:20521, Small Force Ore
+gregtech:gt.blockores:21521, Small Force Ore
+gregtech:gt.blockores:22521, Small Force Ore
 gregtech:gt.blockores:522, Nether Quartz Ore
 gregtech:gt.blockores:1522, Nether Quartz Ore
 gregtech:gt.blockores:2522, Nether Quartz Ore
@@ -8105,6 +8263,20 @@ gregtech:gt.blockores:19528, Small Yellow Garnet Ore
 gregtech:gt.blockores:20528, Small Yellow Garnet Ore
 gregtech:gt.blockores:21528, Small Yellow Garnet Ore
 gregtech:gt.blockores:22528, Small Yellow Garnet Ore
+gregtech:gt.blockores:529, Vinteum Ore
+gregtech:gt.blockores:1529, Vinteum Ore
+gregtech:gt.blockores:2529, Vinteum Ore
+gregtech:gt.blockores:3529, Vinteum Ore
+gregtech:gt.blockores:4529, Vinteum Ore
+gregtech:gt.blockores:5529, Vinteum Ore
+gregtech:gt.blockores:6529, Vinteum Ore
+gregtech:gt.blockores:16529, Small Vinteum Ore
+gregtech:gt.blockores:17529, Small Vinteum Ore
+gregtech:gt.blockores:18529, Small Vinteum Ore
+gregtech:gt.blockores:19529, Small Vinteum Ore
+gregtech:gt.blockores:20529, Small Vinteum Ore
+gregtech:gt.blockores:21529, Small Vinteum Ore
+gregtech:gt.blockores:22529, Small Vinteum Ore
 gregtech:gt.blockores:530, Apatite Ore
 gregtech:gt.blockores:1530, Apatite Ore
 gregtech:gt.blockores:2530, Apatite Ore
@@ -8385,6 +8557,20 @@ gregtech:gt.blockores:19828, Small Sheldonite Ore
 gregtech:gt.blockores:20828, Small Sheldonite Ore
 gregtech:gt.blockores:21828, Small Sheldonite Ore
 gregtech:gt.blockores:22828, Small Sheldonite Ore
+gregtech:gt.blockores:829, Deep Iron Ore
+gregtech:gt.blockores:1829, Deep Iron Ore
+gregtech:gt.blockores:2829, Deep Iron Ore
+gregtech:gt.blockores:3829, Deep Iron Ore
+gregtech:gt.blockores:4829, Deep Iron Ore
+gregtech:gt.blockores:5829, Deep Iron Ore
+gregtech:gt.blockores:6829, Deep Iron Ore
+gregtech:gt.blockores:16829, Small Deep Iron Ore
+gregtech:gt.blockores:17829, Small Deep Iron Ore
+gregtech:gt.blockores:18829, Small Deep Iron Ore
+gregtech:gt.blockores:19829, Small Deep Iron Ore
+gregtech:gt.blockores:20829, Small Deep Iron Ore
+gregtech:gt.blockores:21829, Small Deep Iron Ore
+gregtech:gt.blockores:22829, Small Deep Iron Ore
 gregtech:gt.blockores:830, Galena Ore
 gregtech:gt.blockores:1830, Galena Ore
 gregtech:gt.blockores:2830, Galena Ore
@@ -9001,6 +9187,216 @@ gregtech:gt.blockores:19948, Small Diatomite Ore
 gregtech:gt.blockores:20948, Small Diatomite Ore
 gregtech:gt.blockores:21948, Small Diatomite Ore
 gregtech:gt.blockores:22948, Small Diatomite Ore
+gregtech:gt.blockores:951, Vyroxeres Ore
+gregtech:gt.blockores:1951, Vyroxeres Ore
+gregtech:gt.blockores:2951, Vyroxeres Ore
+gregtech:gt.blockores:3951, Vyroxeres Ore
+gregtech:gt.blockores:4951, Vyroxeres Ore
+gregtech:gt.blockores:5951, Vyroxeres Ore
+gregtech:gt.blockores:6951, Vyroxeres Ore
+gregtech:gt.blockores:16951, Small Vyroxeres Ore
+gregtech:gt.blockores:17951, Small Vyroxeres Ore
+gregtech:gt.blockores:18951, Small Vyroxeres Ore
+gregtech:gt.blockores:19951, Small Vyroxeres Ore
+gregtech:gt.blockores:20951, Small Vyroxeres Ore
+gregtech:gt.blockores:21951, Small Vyroxeres Ore
+gregtech:gt.blockores:22951, Small Vyroxeres Ore
+gregtech:gt.blockores:952, Ceruclase Ore
+gregtech:gt.blockores:1952, Ceruclase Ore
+gregtech:gt.blockores:2952, Ceruclase Ore
+gregtech:gt.blockores:3952, Ceruclase Ore
+gregtech:gt.blockores:4952, Ceruclase Ore
+gregtech:gt.blockores:5952, Ceruclase Ore
+gregtech:gt.blockores:6952, Ceruclase Ore
+gregtech:gt.blockores:16952, Small Ceruclase Ore
+gregtech:gt.blockores:17952, Small Ceruclase Ore
+gregtech:gt.blockores:18952, Small Ceruclase Ore
+gregtech:gt.blockores:19952, Small Ceruclase Ore
+gregtech:gt.blockores:20952, Small Ceruclase Ore
+gregtech:gt.blockores:21952, Small Ceruclase Ore
+gregtech:gt.blockores:22952, Small Ceruclase Ore
+gregtech:gt.blockores:954, Inolashite Ore
+gregtech:gt.blockores:1954, Inolashite Ore
+gregtech:gt.blockores:2954, Inolashite Ore
+gregtech:gt.blockores:3954, Inolashite Ore
+gregtech:gt.blockores:4954, Inolashite Ore
+gregtech:gt.blockores:5954, Inolashite Ore
+gregtech:gt.blockores:6954, Inolashite Ore
+gregtech:gt.blockores:16954, Small Inolashite Ore
+gregtech:gt.blockores:17954, Small Inolashite Ore
+gregtech:gt.blockores:18954, Small Inolashite Ore
+gregtech:gt.blockores:19954, Small Inolashite Ore
+gregtech:gt.blockores:20954, Small Inolashite Ore
+gregtech:gt.blockores:21954, Small Inolashite Ore
+gregtech:gt.blockores:22954, Small Inolashite Ore
+gregtech:gt.blockores:955, Sanguinite Ore
+gregtech:gt.blockores:1955, Sanguinite Ore
+gregtech:gt.blockores:2955, Sanguinite Ore
+gregtech:gt.blockores:3955, Sanguinite Ore
+gregtech:gt.blockores:4955, Sanguinite Ore
+gregtech:gt.blockores:5955, Sanguinite Ore
+gregtech:gt.blockores:6955, Sanguinite Ore
+gregtech:gt.blockores:16955, Small Sanguinite Ore
+gregtech:gt.blockores:17955, Small Sanguinite Ore
+gregtech:gt.blockores:18955, Small Sanguinite Ore
+gregtech:gt.blockores:19955, Small Sanguinite Ore
+gregtech:gt.blockores:20955, Small Sanguinite Ore
+gregtech:gt.blockores:21955, Small Sanguinite Ore
+gregtech:gt.blockores:22955, Small Sanguinite Ore
+gregtech:gt.blockores:956, Tartarite Ore
+gregtech:gt.blockores:1956, Tartarite Ore
+gregtech:gt.blockores:2956, Tartarite Ore
+gregtech:gt.blockores:3956, Tartarite Ore
+gregtech:gt.blockores:4956, Tartarite Ore
+gregtech:gt.blockores:5956, Tartarite Ore
+gregtech:gt.blockores:6956, Tartarite Ore
+gregtech:gt.blockores:16956, Small Tartarite Ore
+gregtech:gt.blockores:17956, Small Tartarite Ore
+gregtech:gt.blockores:18956, Small Tartarite Ore
+gregtech:gt.blockores:19956, Small Tartarite Ore
+gregtech:gt.blockores:20956, Small Tartarite Ore
+gregtech:gt.blockores:21956, Small Tartarite Ore
+gregtech:gt.blockores:22956, Small Tartarite Ore
+gregtech:gt.blockores:957, Hepatizon Ore
+gregtech:gt.blockores:1957, Hepatizon Ore
+gregtech:gt.blockores:2957, Hepatizon Ore
+gregtech:gt.blockores:3957, Hepatizon Ore
+gregtech:gt.blockores:4957, Hepatizon Ore
+gregtech:gt.blockores:5957, Hepatizon Ore
+gregtech:gt.blockores:6957, Hepatizon Ore
+gregtech:gt.blockores:16957, Small Hepatizon Ore
+gregtech:gt.blockores:17957, Small Hepatizon Ore
+gregtech:gt.blockores:18957, Small Hepatizon Ore
+gregtech:gt.blockores:19957, Small Hepatizon Ore
+gregtech:gt.blockores:20957, Small Hepatizon Ore
+gregtech:gt.blockores:21957, Small Hepatizon Ore
+gregtech:gt.blockores:22957, Small Hepatizon Ore
+gregtech:gt.blockores:958, Angmallen Ore
+gregtech:gt.blockores:1958, Angmallen Ore
+gregtech:gt.blockores:2958, Angmallen Ore
+gregtech:gt.blockores:3958, Angmallen Ore
+gregtech:gt.blockores:4958, Angmallen Ore
+gregtech:gt.blockores:5958, Angmallen Ore
+gregtech:gt.blockores:6958, Angmallen Ore
+gregtech:gt.blockores:16958, Small Angmallen Ore
+gregtech:gt.blockores:17958, Small Angmallen Ore
+gregtech:gt.blockores:18958, Small Angmallen Ore
+gregtech:gt.blockores:19958, Small Angmallen Ore
+gregtech:gt.blockores:20958, Small Angmallen Ore
+gregtech:gt.blockores:21958, Small Angmallen Ore
+gregtech:gt.blockores:22958, Small Angmallen Ore
+gregtech:gt.blockores:959, Eximite Ore
+gregtech:gt.blockores:1959, Eximite Ore
+gregtech:gt.blockores:2959, Eximite Ore
+gregtech:gt.blockores:3959, Eximite Ore
+gregtech:gt.blockores:4959, Eximite Ore
+gregtech:gt.blockores:5959, Eximite Ore
+gregtech:gt.blockores:6959, Eximite Ore
+gregtech:gt.blockores:16959, Small Eximite Ore
+gregtech:gt.blockores:17959, Small Eximite Ore
+gregtech:gt.blockores:18959, Small Eximite Ore
+gregtech:gt.blockores:19959, Small Eximite Ore
+gregtech:gt.blockores:20959, Small Eximite Ore
+gregtech:gt.blockores:21959, Small Eximite Ore
+gregtech:gt.blockores:22959, Small Eximite Ore
+gregtech:gt.blockores:960, Prometheum Ore
+gregtech:gt.blockores:1960, Prometheum Ore
+gregtech:gt.blockores:2960, Prometheum Ore
+gregtech:gt.blockores:3960, Prometheum Ore
+gregtech:gt.blockores:4960, Prometheum Ore
+gregtech:gt.blockores:5960, Prometheum Ore
+gregtech:gt.blockores:6960, Prometheum Ore
+gregtech:gt.blockores:16960, Small Prometheum Ore
+gregtech:gt.blockores:17960, Small Prometheum Ore
+gregtech:gt.blockores:18960, Small Prometheum Ore
+gregtech:gt.blockores:19960, Small Prometheum Ore
+gregtech:gt.blockores:20960, Small Prometheum Ore
+gregtech:gt.blockores:21960, Small Prometheum Ore
+gregtech:gt.blockores:22960, Small Prometheum Ore
+gregtech:gt.blockores:961, Oureclase Ore
+gregtech:gt.blockores:1961, Oureclase Ore
+gregtech:gt.blockores:2961, Oureclase Ore
+gregtech:gt.blockores:3961, Oureclase Ore
+gregtech:gt.blockores:4961, Oureclase Ore
+gregtech:gt.blockores:5961, Oureclase Ore
+gregtech:gt.blockores:6961, Oureclase Ore
+gregtech:gt.blockores:16961, Small Oureclase Ore
+gregtech:gt.blockores:17961, Small Oureclase Ore
+gregtech:gt.blockores:18961, Small Oureclase Ore
+gregtech:gt.blockores:19961, Small Oureclase Ore
+gregtech:gt.blockores:20961, Small Oureclase Ore
+gregtech:gt.blockores:21961, Small Oureclase Ore
+gregtech:gt.blockores:22961, Small Oureclase Ore
+gregtech:gt.blockores:962, Carmot Ore
+gregtech:gt.blockores:1962, Carmot Ore
+gregtech:gt.blockores:2962, Carmot Ore
+gregtech:gt.blockores:3962, Carmot Ore
+gregtech:gt.blockores:4962, Carmot Ore
+gregtech:gt.blockores:5962, Carmot Ore
+gregtech:gt.blockores:6962, Carmot Ore
+gregtech:gt.blockores:16962, Small Carmot Ore
+gregtech:gt.blockores:17962, Small Carmot Ore
+gregtech:gt.blockores:18962, Small Carmot Ore
+gregtech:gt.blockores:19962, Small Carmot Ore
+gregtech:gt.blockores:20962, Small Carmot Ore
+gregtech:gt.blockores:21962, Small Carmot Ore
+gregtech:gt.blockores:22962, Small Carmot Ore
+gregtech:gt.blockores:963, Haderoth Ore
+gregtech:gt.blockores:1963, Haderoth Ore
+gregtech:gt.blockores:2963, Haderoth Ore
+gregtech:gt.blockores:3963, Haderoth Ore
+gregtech:gt.blockores:4963, Haderoth Ore
+gregtech:gt.blockores:5963, Haderoth Ore
+gregtech:gt.blockores:6963, Haderoth Ore
+gregtech:gt.blockores:16963, Small Haderoth Ore
+gregtech:gt.blockores:17963, Small Haderoth Ore
+gregtech:gt.blockores:18963, Small Haderoth Ore
+gregtech:gt.blockores:19963, Small Haderoth Ore
+gregtech:gt.blockores:20963, Small Haderoth Ore
+gregtech:gt.blockores:21963, Small Haderoth Ore
+gregtech:gt.blockores:22963, Small Haderoth Ore
+gregtech:gt.blockores:964, Celenegil Ore
+gregtech:gt.blockores:1964, Celenegil Ore
+gregtech:gt.blockores:2964, Celenegil Ore
+gregtech:gt.blockores:3964, Celenegil Ore
+gregtech:gt.blockores:4964, Celenegil Ore
+gregtech:gt.blockores:5964, Celenegil Ore
+gregtech:gt.blockores:6964, Celenegil Ore
+gregtech:gt.blockores:16964, Small Celenegil Ore
+gregtech:gt.blockores:17964, Small Celenegil Ore
+gregtech:gt.blockores:18964, Small Celenegil Ore
+gregtech:gt.blockores:19964, Small Celenegil Ore
+gregtech:gt.blockores:20964, Small Celenegil Ore
+gregtech:gt.blockores:21964, Small Celenegil Ore
+gregtech:gt.blockores:22964, Small Celenegil Ore
+gregtech:gt.blockores:965, Atlarus Ore
+gregtech:gt.blockores:1965, Atlarus Ore
+gregtech:gt.blockores:2965, Atlarus Ore
+gregtech:gt.blockores:3965, Atlarus Ore
+gregtech:gt.blockores:4965, Atlarus Ore
+gregtech:gt.blockores:5965, Atlarus Ore
+gregtech:gt.blockores:6965, Atlarus Ore
+gregtech:gt.blockores:16965, Small Atlarus Ore
+gregtech:gt.blockores:17965, Small Atlarus Ore
+gregtech:gt.blockores:18965, Small Atlarus Ore
+gregtech:gt.blockores:19965, Small Atlarus Ore
+gregtech:gt.blockores:20965, Small Atlarus Ore
+gregtech:gt.blockores:21965, Small Atlarus Ore
+gregtech:gt.blockores:22965, Small Atlarus Ore
+gregtech:gt.blockores:966, Orichalcum Ore
+gregtech:gt.blockores:1966, Orichalcum Ore
+gregtech:gt.blockores:2966, Orichalcum Ore
+gregtech:gt.blockores:3966, Orichalcum Ore
+gregtech:gt.blockores:4966, Orichalcum Ore
+gregtech:gt.blockores:5966, Orichalcum Ore
+gregtech:gt.blockores:6966, Orichalcum Ore
+gregtech:gt.blockores:16966, Small Orichalcum Ore
+gregtech:gt.blockores:17966, Small Orichalcum Ore
+gregtech:gt.blockores:18966, Small Orichalcum Ore
+gregtech:gt.blockores:19966, Small Orichalcum Ore
+gregtech:gt.blockores:20966, Small Orichalcum Ore
+gregtech:gt.blockores:21966, Small Orichalcum Ore
+gregtech:gt.blockores:22966, Small Orichalcum Ore
 gregtech:gt.blockores.gc:6, Lithium Ore
 gregtech:gt.blockores.gc:1006, Lithium Ore
 gregtech:gt.blockores.gc:2006, Lithium Ore
@@ -9241,6 +9637,30 @@ gregtech:gt.blockores.gc:16327, Small Naquadria Ore
 gregtech:gt.blockores.gc:17327, Small Naquadria Ore
 gregtech:gt.blockores.gc:18327, Small Naquadria Ore
 gregtech:gt.blockores.gc:19327, Small Naquadria Ore
+gregtech:gt.blockores.gc:332, Midasium Ore
+gregtech:gt.blockores.gc:1332, Midasium Ore
+gregtech:gt.blockores.gc:2332, Midasium Ore
+gregtech:gt.blockores.gc:3332, Midasium Ore
+gregtech:gt.blockores.gc:16332, Small Midasium Ore
+gregtech:gt.blockores.gc:17332, Small Midasium Ore
+gregtech:gt.blockores.gc:18332, Small Midasium Ore
+gregtech:gt.blockores.gc:19332, Small Midasium Ore
+gregtech:gt.blockores.gc:333, Astral Silver Ore
+gregtech:gt.blockores.gc:1333, Astral Silver Ore
+gregtech:gt.blockores.gc:2333, Astral Silver Ore
+gregtech:gt.blockores.gc:3333, Astral Silver Ore
+gregtech:gt.blockores.gc:16333, Small Astral Silver Ore
+gregtech:gt.blockores.gc:17333, Small Astral Silver Ore
+gregtech:gt.blockores.gc:18333, Small Astral Silver Ore
+gregtech:gt.blockores.gc:19333, Small Astral Silver Ore
+gregtech:gt.blockores.gc:336, Shadowiron Ore
+gregtech:gt.blockores.gc:1336, Shadowiron Ore
+gregtech:gt.blockores.gc:2336, Shadowiron Ore
+gregtech:gt.blockores.gc:3336, Shadowiron Ore
+gregtech:gt.blockores.gc:16336, Small Shadowiron Ore
+gregtech:gt.blockores.gc:17336, Small Shadowiron Ore
+gregtech:gt.blockores.gc:18336, Small Shadowiron Ore
+gregtech:gt.blockores.gc:19336, Small Shadowiron Ore
 gregtech:gt.blockores.gc:340, Meteoric Iron Ore
 gregtech:gt.blockores.gc:1340, Meteoric Iron Ore
 gregtech:gt.blockores.gc:2340, Meteoric Iron Ore
@@ -9265,6 +9685,38 @@ gregtech:gt.blockores.gc:16364, Small Dark Steel Ore
 gregtech:gt.blockores.gc:17364, Small Dark Steel Ore
 gregtech:gt.blockores.gc:18364, Small Dark Steel Ore
 gregtech:gt.blockores.gc:19364, Small Dark Steel Ore
+gregtech:gt.blockores.gc:487, Meutoite Ore
+gregtech:gt.blockores.gc:1487, Meutoite Ore
+gregtech:gt.blockores.gc:2487, Meutoite Ore
+gregtech:gt.blockores.gc:3487, Meutoite Ore
+gregtech:gt.blockores.gc:16487, Small Meutoite Ore
+gregtech:gt.blockores.gc:17487, Small Meutoite Ore
+gregtech:gt.blockores.gc:18487, Small Meutoite Ore
+gregtech:gt.blockores.gc:19487, Small Meutoite Ore
+gregtech:gt.blockores.gc:488, Rubracium Ore
+gregtech:gt.blockores.gc:1488, Rubracium Ore
+gregtech:gt.blockores.gc:2488, Rubracium Ore
+gregtech:gt.blockores.gc:3488, Rubracium Ore
+gregtech:gt.blockores.gc:16488, Small Rubracium Ore
+gregtech:gt.blockores.gc:17488, Small Rubracium Ore
+gregtech:gt.blockores.gc:18488, Small Rubracium Ore
+gregtech:gt.blockores.gc:19488, Small Rubracium Ore
+gregtech:gt.blockores.gc:489, Vulcanite Ore
+gregtech:gt.blockores.gc:1489, Vulcanite Ore
+gregtech:gt.blockores.gc:2489, Vulcanite Ore
+gregtech:gt.blockores.gc:3489, Vulcanite Ore
+gregtech:gt.blockores.gc:16489, Small Vulcanite Ore
+gregtech:gt.blockores.gc:17489, Small Vulcanite Ore
+gregtech:gt.blockores.gc:18489, Small Vulcanite Ore
+gregtech:gt.blockores.gc:19489, Small Vulcanite Ore
+gregtech:gt.blockores.gc:490, Infuscolium Ore
+gregtech:gt.blockores.gc:1490, Infuscolium Ore
+gregtech:gt.blockores.gc:2490, Infuscolium Ore
+gregtech:gt.blockores.gc:3490, Infuscolium Ore
+gregtech:gt.blockores.gc:16490, Small Infuscolium Ore
+gregtech:gt.blockores.gc:17490, Small Infuscolium Ore
+gregtech:gt.blockores.gc:18490, Small Infuscolium Ore
+gregtech:gt.blockores.gc:19490, Small Infuscolium Ore
 gregtech:gt.blockores.gc:500, Diamond Ore
 gregtech:gt.blockores.gc:1500, Diamond Ore
 gregtech:gt.blockores.gc:2500, Diamond Ore
@@ -9385,6 +9837,14 @@ gregtech:gt.blockores.gc:16520, Small Monazite Ore
 gregtech:gt.blockores.gc:17520, Small Monazite Ore
 gregtech:gt.blockores.gc:18520, Small Monazite Ore
 gregtech:gt.blockores.gc:19520, Small Monazite Ore
+gregtech:gt.blockores.gc:521, Force Ore
+gregtech:gt.blockores.gc:1521, Force Ore
+gregtech:gt.blockores.gc:2521, Force Ore
+gregtech:gt.blockores.gc:3521, Force Ore
+gregtech:gt.blockores.gc:16521, Small Force Ore
+gregtech:gt.blockores.gc:17521, Small Force Ore
+gregtech:gt.blockores.gc:18521, Small Force Ore
+gregtech:gt.blockores.gc:19521, Small Force Ore
 gregtech:gt.blockores.gc:522, Nether Quartz Ore
 gregtech:gt.blockores.gc:1522, Nether Quartz Ore
 gregtech:gt.blockores.gc:2522, Nether Quartz Ore
@@ -9441,6 +9901,14 @@ gregtech:gt.blockores.gc:16528, Small Yellow Garnet Ore
 gregtech:gt.blockores.gc:17528, Small Yellow Garnet Ore
 gregtech:gt.blockores.gc:18528, Small Yellow Garnet Ore
 gregtech:gt.blockores.gc:19528, Small Yellow Garnet Ore
+gregtech:gt.blockores.gc:529, Vinteum Ore
+gregtech:gt.blockores.gc:1529, Vinteum Ore
+gregtech:gt.blockores.gc:2529, Vinteum Ore
+gregtech:gt.blockores.gc:3529, Vinteum Ore
+gregtech:gt.blockores.gc:16529, Small Vinteum Ore
+gregtech:gt.blockores.gc:17529, Small Vinteum Ore
+gregtech:gt.blockores.gc:18529, Small Vinteum Ore
+gregtech:gt.blockores.gc:19529, Small Vinteum Ore
 gregtech:gt.blockores.gc:530, Apatite Ore
 gregtech:gt.blockores.gc:1530, Apatite Ore
 gregtech:gt.blockores.gc:2530, Apatite Ore
@@ -9601,6 +10069,14 @@ gregtech:gt.blockores.gc:16828, Small Sheldonite Ore
 gregtech:gt.blockores.gc:17828, Small Sheldonite Ore
 gregtech:gt.blockores.gc:18828, Small Sheldonite Ore
 gregtech:gt.blockores.gc:19828, Small Sheldonite Ore
+gregtech:gt.blockores.gc:829, Deep Iron Ore
+gregtech:gt.blockores.gc:1829, Deep Iron Ore
+gregtech:gt.blockores.gc:2829, Deep Iron Ore
+gregtech:gt.blockores.gc:3829, Deep Iron Ore
+gregtech:gt.blockores.gc:16829, Small Deep Iron Ore
+gregtech:gt.blockores.gc:17829, Small Deep Iron Ore
+gregtech:gt.blockores.gc:18829, Small Deep Iron Ore
+gregtech:gt.blockores.gc:19829, Small Deep Iron Ore
 gregtech:gt.blockores.gc:830, Galena Ore
 gregtech:gt.blockores.gc:1830, Galena Ore
 gregtech:gt.blockores.gc:2830, Galena Ore
@@ -9953,18 +10429,140 @@ gregtech:gt.blockores.gc:16948, Small Diatomite Ore
 gregtech:gt.blockores.gc:17948, Small Diatomite Ore
 gregtech:gt.blockores.gc:18948, Small Diatomite Ore
 gregtech:gt.blockores.gc:19948, Small Diatomite Ore
+gregtech:gt.blockores.gc:951, Vyroxeres Ore
+gregtech:gt.blockores.gc:1951, Vyroxeres Ore
+gregtech:gt.blockores.gc:2951, Vyroxeres Ore
+gregtech:gt.blockores.gc:3951, Vyroxeres Ore
+gregtech:gt.blockores.gc:16951, Small Vyroxeres Ore
+gregtech:gt.blockores.gc:17951, Small Vyroxeres Ore
+gregtech:gt.blockores.gc:18951, Small Vyroxeres Ore
+gregtech:gt.blockores.gc:19951, Small Vyroxeres Ore
+gregtech:gt.blockores.gc:952, Ceruclase Ore
+gregtech:gt.blockores.gc:1952, Ceruclase Ore
+gregtech:gt.blockores.gc:2952, Ceruclase Ore
+gregtech:gt.blockores.gc:3952, Ceruclase Ore
+gregtech:gt.blockores.gc:16952, Small Ceruclase Ore
+gregtech:gt.blockores.gc:17952, Small Ceruclase Ore
+gregtech:gt.blockores.gc:18952, Small Ceruclase Ore
+gregtech:gt.blockores.gc:19952, Small Ceruclase Ore
+gregtech:gt.blockores.gc:954, Inolashite Ore
+gregtech:gt.blockores.gc:1954, Inolashite Ore
+gregtech:gt.blockores.gc:2954, Inolashite Ore
+gregtech:gt.blockores.gc:3954, Inolashite Ore
+gregtech:gt.blockores.gc:16954, Small Inolashite Ore
+gregtech:gt.blockores.gc:17954, Small Inolashite Ore
+gregtech:gt.blockores.gc:18954, Small Inolashite Ore
+gregtech:gt.blockores.gc:19954, Small Inolashite Ore
+gregtech:gt.blockores.gc:955, Sanguinite Ore
+gregtech:gt.blockores.gc:1955, Sanguinite Ore
+gregtech:gt.blockores.gc:2955, Sanguinite Ore
+gregtech:gt.blockores.gc:3955, Sanguinite Ore
+gregtech:gt.blockores.gc:16955, Small Sanguinite Ore
+gregtech:gt.blockores.gc:17955, Small Sanguinite Ore
+gregtech:gt.blockores.gc:18955, Small Sanguinite Ore
+gregtech:gt.blockores.gc:19955, Small Sanguinite Ore
+gregtech:gt.blockores.gc:956, Tartarite Ore
+gregtech:gt.blockores.gc:1956, Tartarite Ore
+gregtech:gt.blockores.gc:2956, Tartarite Ore
+gregtech:gt.blockores.gc:3956, Tartarite Ore
+gregtech:gt.blockores.gc:16956, Small Tartarite Ore
+gregtech:gt.blockores.gc:17956, Small Tartarite Ore
+gregtech:gt.blockores.gc:18956, Small Tartarite Ore
+gregtech:gt.blockores.gc:19956, Small Tartarite Ore
+gregtech:gt.blockores.gc:957, Hepatizon Ore
+gregtech:gt.blockores.gc:1957, Hepatizon Ore
+gregtech:gt.blockores.gc:2957, Hepatizon Ore
+gregtech:gt.blockores.gc:3957, Hepatizon Ore
+gregtech:gt.blockores.gc:16957, Small Hepatizon Ore
+gregtech:gt.blockores.gc:17957, Small Hepatizon Ore
+gregtech:gt.blockores.gc:18957, Small Hepatizon Ore
+gregtech:gt.blockores.gc:19957, Small Hepatizon Ore
+gregtech:gt.blockores.gc:958, Angmallen Ore
+gregtech:gt.blockores.gc:1958, Angmallen Ore
+gregtech:gt.blockores.gc:2958, Angmallen Ore
+gregtech:gt.blockores.gc:3958, Angmallen Ore
+gregtech:gt.blockores.gc:16958, Small Angmallen Ore
+gregtech:gt.blockores.gc:17958, Small Angmallen Ore
+gregtech:gt.blockores.gc:18958, Small Angmallen Ore
+gregtech:gt.blockores.gc:19958, Small Angmallen Ore
+gregtech:gt.blockores.gc:959, Eximite Ore
+gregtech:gt.blockores.gc:1959, Eximite Ore
+gregtech:gt.blockores.gc:2959, Eximite Ore
+gregtech:gt.blockores.gc:3959, Eximite Ore
+gregtech:gt.blockores.gc:16959, Small Eximite Ore
+gregtech:gt.blockores.gc:17959, Small Eximite Ore
+gregtech:gt.blockores.gc:18959, Small Eximite Ore
+gregtech:gt.blockores.gc:19959, Small Eximite Ore
+gregtech:gt.blockores.gc:960, Prometheum Ore
+gregtech:gt.blockores.gc:1960, Prometheum Ore
+gregtech:gt.blockores.gc:2960, Prometheum Ore
+gregtech:gt.blockores.gc:3960, Prometheum Ore
+gregtech:gt.blockores.gc:16960, Small Prometheum Ore
+gregtech:gt.blockores.gc:17960, Small Prometheum Ore
+gregtech:gt.blockores.gc:18960, Small Prometheum Ore
+gregtech:gt.blockores.gc:19960, Small Prometheum Ore
+gregtech:gt.blockores.gc:961, Oureclase Ore
+gregtech:gt.blockores.gc:1961, Oureclase Ore
+gregtech:gt.blockores.gc:2961, Oureclase Ore
+gregtech:gt.blockores.gc:3961, Oureclase Ore
+gregtech:gt.blockores.gc:16961, Small Oureclase Ore
+gregtech:gt.blockores.gc:17961, Small Oureclase Ore
+gregtech:gt.blockores.gc:18961, Small Oureclase Ore
+gregtech:gt.blockores.gc:19961, Small Oureclase Ore
+gregtech:gt.blockores.gc:962, Carmot Ore
+gregtech:gt.blockores.gc:1962, Carmot Ore
+gregtech:gt.blockores.gc:2962, Carmot Ore
+gregtech:gt.blockores.gc:3962, Carmot Ore
+gregtech:gt.blockores.gc:16962, Small Carmot Ore
+gregtech:gt.blockores.gc:17962, Small Carmot Ore
+gregtech:gt.blockores.gc:18962, Small Carmot Ore
+gregtech:gt.blockores.gc:19962, Small Carmot Ore
+gregtech:gt.blockores.gc:963, Haderoth Ore
+gregtech:gt.blockores.gc:1963, Haderoth Ore
+gregtech:gt.blockores.gc:2963, Haderoth Ore
+gregtech:gt.blockores.gc:3963, Haderoth Ore
+gregtech:gt.blockores.gc:16963, Small Haderoth Ore
+gregtech:gt.blockores.gc:17963, Small Haderoth Ore
+gregtech:gt.blockores.gc:18963, Small Haderoth Ore
+gregtech:gt.blockores.gc:19963, Small Haderoth Ore
+gregtech:gt.blockores.gc:964, Celenegil Ore
+gregtech:gt.blockores.gc:1964, Celenegil Ore
+gregtech:gt.blockores.gc:2964, Celenegil Ore
+gregtech:gt.blockores.gc:3964, Celenegil Ore
+gregtech:gt.blockores.gc:16964, Small Celenegil Ore
+gregtech:gt.blockores.gc:17964, Small Celenegil Ore
+gregtech:gt.blockores.gc:18964, Small Celenegil Ore
+gregtech:gt.blockores.gc:19964, Small Celenegil Ore
+gregtech:gt.blockores.gc:965, Atlarus Ore
+gregtech:gt.blockores.gc:1965, Atlarus Ore
+gregtech:gt.blockores.gc:2965, Atlarus Ore
+gregtech:gt.blockores.gc:3965, Atlarus Ore
+gregtech:gt.blockores.gc:16965, Small Atlarus Ore
+gregtech:gt.blockores.gc:17965, Small Atlarus Ore
+gregtech:gt.blockores.gc:18965, Small Atlarus Ore
+gregtech:gt.blockores.gc:19965, Small Atlarus Ore
+gregtech:gt.blockores.gc:966, Orichalcum Ore
+gregtech:gt.blockores.gc:1966, Orichalcum Ore
+gregtech:gt.blockores.gc:2966, Orichalcum Ore
+gregtech:gt.blockores.gc:3966, Orichalcum Ore
+gregtech:gt.blockores.gc:16966, Small Orichalcum Ore
+gregtech:gt.blockores.gc:17966, Small Orichalcum Ore
+gregtech:gt.blockores.gc:18966, Small Orichalcum Ore
+gregtech:gt.blockores.gc:19966, Small Orichalcum Ore
 gregtech:gt.blockmetal1:0, Block of Adamantium
 gregtech:gt.blockmetal1:1, Block of Aluminium
 gregtech:gt.blockmetal1:2, Block of Americium
 gregtech:gt.blockmetal1:3, Block of Annealed Copper
 gregtech:gt.blockmetal1:4, Block of Antimony
 gregtech:gt.blockmetal1:5, Block of Arsenic
+gregtech:gt.blockmetal1:6, Block of Astral Silver
 gregtech:gt.blockmetal1:7, Block of Battery Alloy
 gregtech:gt.blockmetal1:8, Block of Beryllium
 gregtech:gt.blockmetal1:9, Block of Bismuth
 gregtech:gt.blockmetal1:10, Block of Bismuth Bronze
 gregtech:gt.blockmetal1:11, Block of Black Bronze
 gregtech:gt.blockmetal1:12, Block of Black Steel
+gregtech:gt.blockmetal1:13, Block of Blue Alloy
 gregtech:gt.blockmetal1:14, Block of Blue Steel
 gregtech:gt.blockmetal1:15, Block of Brass
 gregtech:gt.blockmetal2:0, Block of Bronze
@@ -9977,13 +10575,22 @@ gregtech:gt.blockmetal2:6, Block of Cobalt Brass
 gregtech:gt.blockmetal2:7, Block of Copper
 gregtech:gt.blockmetal2:8, Block of Cupronickel
 gregtech:gt.blockmetal2:9, Block of Damascus Steel
+gregtech:gt.blockmetal2:10, Block of Dark Iron
+gregtech:gt.blockmetal2:11, Block of Deep Iron
 gregtech:gt.blockmetal2:12, Block of Desh
 gregtech:gt.blockmetal2:13, Block of Duranium
+gregtech:gt.blockmetal2:14, Block of Dysprosium
 gregtech:gt.blockmetal2:15, Block of Electrum
+gregtech:gt.blockmetal3:0, Block of Fluxed Electrum
 gregtech:gt.blockmetal3:1, Block of Enderium
+gregtech:gt.blockmetal3:2, Block of Erbium
 gregtech:gt.blockmetal3:3, Block of Europium
 gregtech:gt.blockmetal3:4, Block of Fiery Steel
+gregtech:gt.blockmetal3:5, Block of Gadolinium
 gregtech:gt.blockmetal3:6, Block of Gallium
+gregtech:gt.blockmetal3:7, Block of Holmium
+gregtech:gt.blockmetal3:8, Block of HSLA Steel
+gregtech:gt.blockmetal3:9, Block of Indium
 gregtech:gt.blockmetal3:10, Block of Infused Gold
 gregtech:gt.blockmetal3:11, Block of Invar
 gregtech:gt.blockmetal3:12, Block of Iridium
@@ -9991,6 +10598,7 @@ gregtech:gt.blockmetal3:13, Block of Magnetic Iron
 gregtech:gt.blockmetal3:14, Block of Ironwood
 gregtech:gt.blockmetal3:15, Block of Kanthal
 gregtech:gt.blockmetal4:0, Block of Knightmetal
+gregtech:gt.blockmetal4:1, Block of Lanthanum
 gregtech:gt.blockmetal4:2, Block of Lead
 gregtech:gt.blockmetal4:3, Block of Lutetium
 gregtech:gt.blockmetal4:4, Block of Magnalium
@@ -9998,6 +10606,7 @@ gregtech:gt.blockmetal4:5, Block of Magnesium
 gregtech:gt.blockmetal4:6, Block of Manganese
 gregtech:gt.blockmetal4:7, Block of Meteoric Iron
 gregtech:gt.blockmetal4:8, Block of Meteoric Steel
+gregtech:gt.blockmetal4:9, Block of Midasium
 gregtech:gt.blockmetal4:10, Block of Mithril
 gregtech:gt.blockmetal4:11, Block of Molybdenum
 gregtech:gt.blockmetal4:12, Block of Naquadah
@@ -10019,9 +10628,16 @@ gregtech:gt.blockmetal5:11, Block of Pig Iron
 gregtech:gt.blockmetal5:12, Block of Platinum
 gregtech:gt.blockmetal5:13, Block of Plutonium 244
 gregtech:gt.blockmetal5:14, Block of Plutonium 241
+gregtech:gt.blockmetal5:15, Block of Praseodymium
+gregtech:gt.blockmetal6:0, Block of Promethium
 gregtech:gt.blockmetal6:1, Block of Red Alloy
 gregtech:gt.blockmetal6:2, Block of Red Steel
 gregtech:gt.blockmetal6:3, Block of Rose Gold
+gregtech:gt.blockmetal6:4, Block of Rubidium
+gregtech:gt.blockmetal6:5, Block of Samarium
+gregtech:gt.blockmetal6:6, Block of Scandium
+gregtech:gt.blockmetal6:7, Block of Shadowiron
+gregtech:gt.blockmetal6:8, Block of Shadowsteel
 gregtech:gt.blockmetal6:9, Block of Silicon
 gregtech:gt.blockmetal6:10, Block of Silver
 gregtech:gt.blockmetal6:11, Block of Soldering Alloy
@@ -10029,9 +10645,13 @@ gregtech:gt.blockmetal6:12, Block of Stainless Steel
 gregtech:gt.blockmetal6:13, Block of Steel
 gregtech:gt.blockmetal6:14, Block of Magnetic Steel
 gregtech:gt.blockmetal6:15, Block of Sterling Silver
+gregtech:gt.blockmetal7:0, Block of Sunnarium
 gregtech:gt.blockmetal7:1, Block of Tantalum
+gregtech:gt.blockmetal7:2, Block of Tellurium
+gregtech:gt.blockmetal7:3, Block of Terbium
 gregtech:gt.blockmetal7:4, Block of Thaumium
 gregtech:gt.blockmetal7:5, Block of Thorium
+gregtech:gt.blockmetal7:6, Block of Thulium
 gregtech:gt.blockmetal7:7, Block of Tin
 gregtech:gt.blockmetal7:8, Block of Tin Alloy
 gregtech:gt.blockmetal7:9, Block of Titanium
@@ -10044,6 +10664,7 @@ gregtech:gt.blockmetal7:15, Block of Uranium 235
 gregtech:gt.blockmetal8:0, Block of Vanadium
 gregtech:gt.blockmetal8:1, Block of Vanadium-Gallium
 gregtech:gt.blockmetal8:2, Block of Wrought Iron
+gregtech:gt.blockmetal8:3, Block of Ytterbium
 gregtech:gt.blockmetal8:4, Block of Yttrium
 gregtech:gt.blockmetal8:5, Block of Yttrium Barium Cuprate
 gregtech:gt.blockmetal8:6, Block of Zinc
@@ -10062,6 +10683,7 @@ gregtech:gt.blockgem1:6, Block of Dilithium
 gregtech:gt.blockgem1:7, Block of Endereye
 gregtech:gt.blockgem1:8, Block of Enderpearl
 gregtech:gt.blockgem1:9, Block of Ruby
+gregtech:gt.blockgem1:10, Block of Force
 gregtech:gt.blockgem1:11, Block of Forcicium
 gregtech:gt.blockgem1:12, Block of Forcillium
 gregtech:gt.blockgem1:13, Block of Green Sapphire
@@ -10084,6 +10706,7 @@ gregtech:gt.blockgem2:13, Block of Sodalite
 gregtech:gt.blockgem2:14, Block of Tanzanite
 gregtech:gt.blockgem2:15, Block of Terra
 gregtech:gt.blockgem3:0, Block of Topaz
+gregtech:gt.blockgem3:1, Block of Vinteum
 gregtech:gt.blockgem3:2, Block of Yellow Garnet
 gregtech:gt.blockgem3:3, Block of Nether Star
 gregtech:gt.blockgem3:4, Block of Charcoal
@@ -10176,7 +10799,7 @@ extracells:vibrantchamberfluid, Fluid Vibration Chamber
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quantum Entanglement Device)
+ExtraUtilities:endConstructor:0, QED (Quantum Ender Device)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -12068,43 +12691,43 @@ thaumicenergistics:thaumicenergistics.block.arcane.assembler, Arcane Assembler
 thaumicenergistics:thaumicenergistics.block.knowledge.inscriber, Knowledge Inscriber
 thaumicenergistics:thaumicenergistics.block.essentia.vibration.chamber, Essentia Vibration Chamber
 thaumicenergistics:thaumicenergistics.block.distillation.encoder, Distillation Pattern Encoder
-ThaumicTinkerer:fireEarth, Terra Imbued Fire
-ThaumicTinkerer:enchanter, Osmotic Enchanter
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
-ThaumicTinkerer:platform, Ethereal Platform
-ThaumicTinkerer:dislocator, Transvector Dislocator
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
-ThaumicTinkerer:fireAir, Aer Imbued Fire
 ThaumicTinkerer:magnet:0, Kinetic Attractor
 ThaumicTinkerer:magnet:1, Corporeal Attractor
-ThaumicTinkerer:forcefield, Forcefield
-ThaumicTinkerer:animationTablet, Dynamism Tablet
-ThaumicTinkerer:fireFire, Ignis Imbued Fire
+ThaumicTinkerer:fireAir, Aer Imbued Fire
 ThaumicTinkerer:spawner, Tablet of Necromancy
 ThaumicTinkerer:repairer, Thaumic Restorer
-ThaumicTinkerer:warpGate, Celestial Gateway
+ThaumicTinkerer:bedrockPortal, Bedrock Portal
+ThaumicTinkerer:fireEarth, Terra Imbued Fire
+ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
 ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
 ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
 ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
 ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
 ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
-ThaumicTinkerer:bedrockPortal, Bedrock Portal
-ThaumicTinkerer:fireWater, Aqua Imbued Fire
+ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
+ThaumicTinkerer:enchanter, Osmotic Enchanter
+ThaumicTinkerer:fireChaos, Perditio Imbued Fire
+ThaumicTinkerer:fireFire, Ignis Imbued Fire
+ThaumicTinkerer:platform, Ethereal Platform
 ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
 ThaumicTinkerer:travelStairs, Paving Stair of Travel
+ThaumicTinkerer:warpGate, Celestial Gateway
+ThaumicTinkerer:animationTablet, Dynamism Tablet
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:fireWater, Aqua Imbued Fire
 ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
-ThaumicTinkerer:interface, Transvector Interface
+ThaumicTinkerer:funnel, Essentia Funnel
+ThaumicTinkerer:fireOrder, Ordo Imbued Fire
+ThaumicTinkerer:forcefield, Forcefield
 ThaumicTinkerer:travelSlab:0, Paving Slab of Travel
 ThaumicTinkerer:travelSlabFull:0, Paving Slab of Travel
-ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
-ThaumicTinkerer:fireOrder, Ordo Imbued Fire
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
 ThaumicTinkerer:wardSlab:0, tile.wardSlab.name
 ThaumicTinkerer:wardSlabFull:0, tile.wardSlab.name
-ThaumicTinkerer:funnel, Essentia Funnel
-ThaumicTinkerer:fireChaos, Perditio Imbued Fire
+ThaumicTinkerer:dislocator, Transvector Dislocator
+ThaumicTinkerer:interface, Transvector Interface
 ThaumicExploration:autoSorter, tile.thaumicexploration:autoSorter.name
 ThaumicExploration:trashJar, Oblivion Jar
 ThaumicExploration:boundChest, tile.boundChest.name
@@ -14448,12 +15071,14 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Americium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Annealed Copper
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Antimony
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Arsenic
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Astral Silver
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Battery Alloy
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Beryllium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Bismuth
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Bismuth Bronze
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Black Bronze
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Black Steel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Blue Alloy
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Blue Steel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Brass
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Bronze
@@ -14466,13 +15091,22 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Cobalt Brass
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Copper
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Cupronickel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Damascus Steel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Dark Iron
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Deep Iron
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Desh
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Duranium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Dysprosium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Electrum
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Fluxed Electrum
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Enderium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Erbium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Europium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Fiery Steel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Gadolinium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Gallium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Holmium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of HSLA Steel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Indium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Infused Gold
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Invar
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Iridium
@@ -14480,6 +15114,7 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Magnetic Iron
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Ironwood
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Kanthal
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Knightmetal
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Lanthanum
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Lead
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Lutetium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Magnalium
@@ -14487,6 +15122,7 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Magnesium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Manganese
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Meteoric Iron
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Meteoric Steel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Midasium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Mithril
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Molybdenum
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Naquadah
@@ -14508,9 +15144,16 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Pig Iron
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Platinum
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Plutonium 244
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Plutonium 241
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Praseodymium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Promethium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Red Alloy
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Red Steel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Rose Gold
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Rubidium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Samarium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Scandium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Shadowiron
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Shadowsteel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Silicon
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Silver
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Soldering Alloy
@@ -14518,9 +15161,13 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Stainless Steel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Steel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Magnetic Steel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Sterling Silver
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Sunnarium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Tantalum
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Tellurium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Terbium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Thaumium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Thorium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Thulium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Tin
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Tin Alloy
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Titanium
@@ -14533,6 +15180,7 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Uranium 235
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Vanadium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Vanadium-Gallium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Wrought Iron
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Ytterbium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Yttrium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Yttrium Barium Cuprate
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Zinc
@@ -14551,6 +15199,7 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Dilithium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Endereye
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Enderpearl
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Ruby
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Force
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Forcicium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Forcillium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Green Sapphire
@@ -14573,6 +15222,7 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Sodalite
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Tanzanite
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Terra
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Topaz
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Vinteum
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Yellow Garnet
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Nether Star
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Charcoal
@@ -18595,6 +19245,7 @@ gregtech:gt.metaitem.01:2021, Phosphor Dust
 gregtech:gt.metaitem.01:2022, Sulfur Dust
 gregtech:gt.metaitem.01:2025, Potassium Dust
 gregtech:gt.metaitem.01:2026, Calcium Dust
+gregtech:gt.metaitem.01:2027, Scandium Dust
 gregtech:gt.metaitem.01:2028, Titanium Dust
 gregtech:gt.metaitem.01:2029, Vanadium Dust
 gregtech:gt.metaitem.01:2030, Chrome Dust
@@ -18606,19 +19257,34 @@ gregtech:gt.metaitem.01:2035, Copper Dust
 gregtech:gt.metaitem.01:2036, Zinc Dust
 gregtech:gt.metaitem.01:2037, Gallium Dust
 gregtech:gt.metaitem.01:2039, Arsenic Dust
+gregtech:gt.metaitem.01:2043, Rubidium Dust
+gregtech:gt.metaitem.01:2044, Strontium Dust
 gregtech:gt.metaitem.01:2045, Yttrium Dust
 gregtech:gt.metaitem.01:2047, Niobium Dust
 gregtech:gt.metaitem.01:2048, Molybdenum Dust
 gregtech:gt.metaitem.01:2052, Palladium Dust
 gregtech:gt.metaitem.01:2054, Silver Dust
 gregtech:gt.metaitem.01:2055, Cadmium Dust
+gregtech:gt.metaitem.01:2056, Indium Dust
 gregtech:gt.metaitem.01:2057, Tin Dust
 gregtech:gt.metaitem.01:2058, Antimony Dust
+gregtech:gt.metaitem.01:2059, Tellurium Dust
 gregtech:gt.metaitem.01:2062, Caesium Dust
 gregtech:gt.metaitem.01:2063, Barium Dust
+gregtech:gt.metaitem.01:2064, Lanthanum Dust
 gregtech:gt.metaitem.01:2065, Cerium Dust
+gregtech:gt.metaitem.01:2066, Praseodymium Dust
 gregtech:gt.metaitem.01:2067, Neodymium Dust
+gregtech:gt.metaitem.01:2068, Promethium Dust
+gregtech:gt.metaitem.01:2069, Samarium Dust
 gregtech:gt.metaitem.01:2070, Europium Dust
+gregtech:gt.metaitem.01:2071, Gadolinium Dust
+gregtech:gt.metaitem.01:2072, Terbium Dust
+gregtech:gt.metaitem.01:2073, Dysprosium Dust
+gregtech:gt.metaitem.01:2074, Holmium Dust
+gregtech:gt.metaitem.01:2075, Erbium Dust
+gregtech:gt.metaitem.01:2076, Thulium Dust
+gregtech:gt.metaitem.01:2077, Ytterbium Dust
 gregtech:gt.metaitem.01:2078, Lutetium Dust
 gregtech:gt.metaitem.01:2080, Tantalum Dust
 gregtech:gt.metaitem.01:2081, Tungsten Dust
@@ -18646,6 +19312,7 @@ gregtech:gt.metaitem.01:2305, Steel Dust
 gregtech:gt.metaitem.01:2306, Stainless Steel Dust
 gregtech:gt.metaitem.01:2307, Pig Iron Dust
 gregtech:gt.metaitem.01:2308, Red Alloy Dust
+gregtech:gt.metaitem.01:2309, Blue Alloy Dust
 gregtech:gt.metaitem.01:2310, Cupronickel Dust
 gregtech:gt.metaitem.01:2311, Nichrome Dust
 gregtech:gt.metaitem.01:2312, Kanthal Dust
@@ -18654,8 +19321,11 @@ gregtech:gt.metaitem.01:2314, Soldering Alloy Dust
 gregtech:gt.metaitem.01:2315, Battery Alloy Dust
 gregtech:gt.metaitem.01:2316, Tungstensteel Dust
 gregtech:gt.metaitem.01:2317, Osmiridium Dust
+gregtech:gt.metaitem.01:2318, Sunnarium Dust
 gregtech:gt.metaitem.01:2319, Adamantium Dust
+gregtech:gt.metaitem.01:2320, Fluxed Electrum Dust
 gregtech:gt.metaitem.01:2321, Enderium Dust
+gregtech:gt.metaitem.01:2322, HSLA Steel Dust
 gregtech:gt.metaitem.01:2323, Infused Gold Dust
 gregtech:gt.metaitem.01:2324, Naquadah Dust
 gregtech:gt.metaitem.01:2325, Naquadah Alloy Dust
@@ -18665,12 +19335,17 @@ gregtech:gt.metaitem.01:2328, Duranium Dust
 gregtech:gt.metaitem.01:2329, Tritanium Dust
 gregtech:gt.metaitem.01:2330, Thaumium Dust
 gregtech:gt.metaitem.01:2331, Mithril Dust
+gregtech:gt.metaitem.01:2332, Midasium Dust
+gregtech:gt.metaitem.01:2333, Astral Silver Dust
 gregtech:gt.metaitem.01:2334, Black Steel Dust
 gregtech:gt.metaitem.01:2335, Damascus Steel Dust
+gregtech:gt.metaitem.01:2336, Shadowiron Dust
+gregtech:gt.metaitem.01:2337, Shadowsteel Dust
 gregtech:gt.metaitem.01:2338, Ironwood Dust
 gregtech:gt.metaitem.01:2339, Steeleaf Dust
 gregtech:gt.metaitem.01:2340, Meteoric Iron Dust
 gregtech:gt.metaitem.01:2341, Meteoric Steel Dust
+gregtech:gt.metaitem.01:2342, Dark Iron Dust
 gregtech:gt.metaitem.01:2343, Cobalt Brass Dust
 gregtech:gt.metaitem.01:2344, Ultimet Dust
 gregtech:gt.metaitem.01:2345, Annealed Copper Dust
@@ -18705,6 +19380,11 @@ gregtech:gt.metaitem.01:2471, Polysiloxane Dust
 gregtech:gt.metaitem.01:2472, Polycaprolactam Dust
 gregtech:gt.metaitem.01:2473, Polytetrafluoroethylene Dust
 gregtech:gt.metaitem.01:2485, Alduorite Dust
+gregtech:gt.metaitem.01:2486, Lemurite Dust
+gregtech:gt.metaitem.01:2487, Meutoite Dust
+gregtech:gt.metaitem.01:2488, Rubracium Dust
+gregtech:gt.metaitem.01:2489, Vulcanite Dust
+gregtech:gt.metaitem.01:2490, Infuscolium Dust
 gregtech:gt.metaitem.01:2500, Diamond Dust
 gregtech:gt.metaitem.01:2501, Emerald Dust
 gregtech:gt.metaitem.01:2502, Ruby Dust
@@ -18725,6 +19405,7 @@ gregtech:gt.metaitem.01:2516, Certus Quartz Dust
 gregtech:gt.metaitem.01:2518, Forcicium Dust
 gregtech:gt.metaitem.01:2519, Forcillium Dust
 gregtech:gt.metaitem.01:2520, Monazite Dust
+gregtech:gt.metaitem.01:2521, Force Dust
 gregtech:gt.metaitem.01:2522, Nether Quartz Dust
 gregtech:gt.metaitem.01:2523, Quartzite Dust
 gregtech:gt.metaitem.01:2524, Lazurite Dust
@@ -18732,6 +19413,7 @@ gregtech:gt.metaitem.01:2525, Sodalite Dust
 gregtech:gt.metaitem.01:2526, Lapis Dust
 gregtech:gt.metaitem.01:2527, Red Garnet Dust
 gregtech:gt.metaitem.01:2528, Yellow Garnet Dust
+gregtech:gt.metaitem.01:2529, Vinteum Dust
 gregtech:gt.metaitem.01:2530, Apatite Dust
 gregtech:gt.metaitem.01:2531, Niter Dust
 gregtech:gt.metaitem.01:2532, Enderpearl Dust
@@ -18749,12 +19431,14 @@ gregtech:gt.metaitem.01:2544, Perditio Crystal Powder
 gregtech:gt.metaitem.01:2545, Ordo Crystal Powder
 gregtech:gt.metaitem.01:2702, Crushed Ice
 gregtech:gt.metaitem.01:2728, Snow Powder
+gregtech:gt.metaitem.01:2770, Endium Dust
 gregtech:gt.metaitem.01:2802, Flint Dust
 gregtech:gt.metaitem.01:2804, Obsidian Dust
 gregtech:gt.metaitem.01:2805, Clay Dust
 gregtech:gt.metaitem.01:2807, Netherrack Dust
 gregtech:gt.metaitem.01:2808, Endstone Dust
 gregtech:gt.metaitem.01:2809, Wood Pulp
+gregtech:gt.metaitem.01:2812, Nikolite Dust
 gregtech:gt.metaitem.01:2813, Bluestone Dust
 gregtech:gt.metaitem.01:2814, Nether Brick Dust
 gregtech:gt.metaitem.01:2815, Ashes
@@ -18771,6 +19455,7 @@ gregtech:gt.metaitem.01:2825, Chromite Dust
 gregtech:gt.metaitem.01:2826, Cinnabar Dust
 gregtech:gt.metaitem.01:2827, Cobaltite Dust
 gregtech:gt.metaitem.01:2828, Sheldonite Dust
+gregtech:gt.metaitem.01:2829, Deep Iron Dust
 gregtech:gt.metaitem.01:2830, Galena Dust
 gregtech:gt.metaitem.01:2831, Grossular Dust
 gregtech:gt.metaitem.01:2832, Liveroot Dust
@@ -18793,19 +19478,29 @@ gregtech:gt.metaitem.01:2848, Biotite Dust
 gregtech:gt.metaitem.01:2849, Black Granite Dust
 gregtech:gt.metaitem.01:2850, Red Granite Dust
 gregtech:gt.metaitem.01:2851, Blizz Dust
+gregtech:gt.metaitem.01:2852, Blueschist Dust
 gregtech:gt.metaitem.01:2853, Cobalt Hexahydrate Dust
 gregtech:gt.metaitem.01:2854, Construction Foam Dust
 gregtech:gt.metaitem.01:2855, Chalcopyrite Dust
+gregtech:gt.metaitem.01:2857, Chert Dust
 gregtech:gt.metaitem.01:2858, Crude Oil Dust
+gregtech:gt.metaitem.01:2859, Dacite Dust
+gregtech:gt.metaitem.01:2860, Eclogite Dust
 gregtech:gt.metaitem.01:2861, Emery Dust
 gregtech:gt.metaitem.01:2862, Epidote Dust
+gregtech:gt.metaitem.01:2863, Gabbro Dust
+gregtech:gt.metaitem.01:2864, Gneiss Dust
 gregtech:gt.metaitem.01:2865, Graphite Dust
+gregtech:gt.metaitem.01:2866, Green Schist Dust
 gregtech:gt.metaitem.01:2867, Greenstone Dust
+gregtech:gt.metaitem.01:2868, Greywacke Dust
+gregtech:gt.metaitem.01:2869, Komatiite Dust
 gregtech:gt.metaitem.01:2870, Magnetite Dust
 gregtech:gt.metaitem.01:2871, Malachite Dust
 gregtech:gt.metaitem.01:2872, Migmatite Dust
 gregtech:gt.metaitem.01:2873, Pitchblende
 gregtech:gt.metaitem.01:2874, Polyethylene Pulp
+gregtech:gt.metaitem.01:2875, Rhyolite Dust
 gregtech:gt.metaitem.01:2876, Siltstone Dust
 gregtech:gt.metaitem.01:2877, Soapstone Dust
 gregtech:gt.metaitem.01:2878, Oilsands Dust
@@ -18877,6 +19572,23 @@ gregtech:gt.metaitem.01:2946, Asbestos Dust
 gregtech:gt.metaitem.01:2947, Concrete Dust
 gregtech:gt.metaitem.01:2948, Diatomite Dust
 gregtech:gt.metaitem.01:2949, Glauconite Sand
+gregtech:gt.metaitem.01:2950, Ignatius Dust
+gregtech:gt.metaitem.01:2951, Vyroxeres Dust
+gregtech:gt.metaitem.01:2952, Ceruclase Dust
+gregtech:gt.metaitem.01:2953, Kalendrite Dust
+gregtech:gt.metaitem.01:2954, Inolashite Dust
+gregtech:gt.metaitem.01:2955, Sanguinite Dust
+gregtech:gt.metaitem.01:2956, Tartarite Dust
+gregtech:gt.metaitem.01:2957, Hepatizon Dust
+gregtech:gt.metaitem.01:2958, Angmallen Dust
+gregtech:gt.metaitem.01:2959, Eximite Dust
+gregtech:gt.metaitem.01:2960, Prometheum Dust
+gregtech:gt.metaitem.01:2961, Oureclase Dust
+gregtech:gt.metaitem.01:2962, Carmot Dust
+gregtech:gt.metaitem.01:2963, Haderoth Dust
+gregtech:gt.metaitem.01:2964, Celenegil Dust
+gregtech:gt.metaitem.01:2965, Atlarus Dust
+gregtech:gt.metaitem.01:2966, Orichalcum Dust
 gregtech:gt.metaitem.01:8347, Firestone
 gregtech:gt.metaitem.01:8502, Ruby
 gregtech:gt.metaitem.01:8503, Sapphire
@@ -18895,11 +19607,13 @@ gregtech:gt.metaitem.01:8516, Certus Quartz
 gregtech:gt.metaitem.01:8518, Forcicium
 gregtech:gt.metaitem.01:8519, Forcillium
 gregtech:gt.metaitem.01:8520, Monazite
+gregtech:gt.metaitem.01:8521, Force
 gregtech:gt.metaitem.01:8523, Quartzite
 gregtech:gt.metaitem.01:8524, Lazurite
 gregtech:gt.metaitem.01:8525, Sodalite
 gregtech:gt.metaitem.01:8527, Red Garnet
 gregtech:gt.metaitem.01:8528, Yellow Garnet
+gregtech:gt.metaitem.01:8529, Vinteum
 gregtech:gt.metaitem.01:8530, Apatite
 gregtech:gt.metaitem.01:8531, Niter
 gregtech:gt.metaitem.01:8534, Phosphorus
@@ -18911,6 +19625,7 @@ gregtech:gt.metaitem.01:9018, Magnesium Nugget
 gregtech:gt.metaitem.01:9019, Aluminium Nugget
 gregtech:gt.metaitem.01:9020, Silicon Nugget
 gregtech:gt.metaitem.01:9025, Potassium Nugget
+gregtech:gt.metaitem.01:9027, Scandium Nugget
 gregtech:gt.metaitem.01:9028, Titanium Nugget
 gregtech:gt.metaitem.01:9029, Vanadium Nugget
 gregtech:gt.metaitem.01:9030, Chrome Nugget
@@ -18922,17 +19637,31 @@ gregtech:gt.metaitem.01:9035, Copper Nugget
 gregtech:gt.metaitem.01:9036, Zinc Nugget
 gregtech:gt.metaitem.01:9037, Gallium Nugget
 gregtech:gt.metaitem.01:9039, Arsenic Nugget
+gregtech:gt.metaitem.01:9043, Rubidium Nugget
 gregtech:gt.metaitem.01:9045, Yttrium Nugget
 gregtech:gt.metaitem.01:9047, Niobium Nugget
 gregtech:gt.metaitem.01:9048, Molybdenum Nugget
 gregtech:gt.metaitem.01:9052, Palladium Nugget
 gregtech:gt.metaitem.01:9054, Silver Nugget
+gregtech:gt.metaitem.01:9056, Indium Nugget
 gregtech:gt.metaitem.01:9057, Tin Nugget
 gregtech:gt.metaitem.01:9058, Antimony Nugget
+gregtech:gt.metaitem.01:9059, Tellurium Nugget
 gregtech:gt.metaitem.01:9062, Caesium Nugget
+gregtech:gt.metaitem.01:9064, Lanthanum Nugget
 gregtech:gt.metaitem.01:9065, Cerium Nugget
+gregtech:gt.metaitem.01:9066, Praseodymium Nugget
 gregtech:gt.metaitem.01:9067, Neodymium Nugget
+gregtech:gt.metaitem.01:9068, Promethium Nugget
+gregtech:gt.metaitem.01:9069, Samarium Nugget
 gregtech:gt.metaitem.01:9070, Europium Nugget
+gregtech:gt.metaitem.01:9071, Gadolinium Nugget
+gregtech:gt.metaitem.01:9072, Terbium Nugget
+gregtech:gt.metaitem.01:9073, Dysprosium Nugget
+gregtech:gt.metaitem.01:9074, Holmium Nugget
+gregtech:gt.metaitem.01:9075, Erbium Nugget
+gregtech:gt.metaitem.01:9076, Thulium Nugget
+gregtech:gt.metaitem.01:9077, Ytterbium Nugget
 gregtech:gt.metaitem.01:9078, Lutetium Nugget
 gregtech:gt.metaitem.01:9080, Tantalum Nugget
 gregtech:gt.metaitem.01:9081, Tungsten Nugget
@@ -18957,6 +19686,7 @@ gregtech:gt.metaitem.01:9305, Steel Nugget
 gregtech:gt.metaitem.01:9306, Stainless Steel Nugget
 gregtech:gt.metaitem.01:9307, Pig Iron Nugget
 gregtech:gt.metaitem.01:9308, Red Alloy Nugget
+gregtech:gt.metaitem.01:9309, Blue Alloy Nugget
 gregtech:gt.metaitem.01:9310, Cupronickel Nugget
 gregtech:gt.metaitem.01:9311, Nichrome Nugget
 gregtech:gt.metaitem.01:9312, Kanthal Nugget
@@ -18965,8 +19695,11 @@ gregtech:gt.metaitem.01:9314, Soldering Alloy Nugget
 gregtech:gt.metaitem.01:9315, Battery Alloy Nugget
 gregtech:gt.metaitem.01:9316, Tungstensteel Nugget
 gregtech:gt.metaitem.01:9317, Osmiridium Nugget
+gregtech:gt.metaitem.01:9318, Sunnarium Nugget
 gregtech:gt.metaitem.01:9319, Adamantium Nugget
+gregtech:gt.metaitem.01:9320, Fluxed Electrum Nugget
 gregtech:gt.metaitem.01:9321, Enderium Nugget
+gregtech:gt.metaitem.01:9322, HSLA Steel Nugget
 gregtech:gt.metaitem.01:9323, Infused Gold Nugget
 gregtech:gt.metaitem.01:9324, Naquadah Nugget
 gregtech:gt.metaitem.01:9325, Naquadah Alloy Nugget
@@ -18976,12 +19709,17 @@ gregtech:gt.metaitem.01:9328, Duranium Nugget
 gregtech:gt.metaitem.01:9329, Tritanium Nugget
 gregtech:gt.metaitem.01:9330, Thaumium Nugget
 gregtech:gt.metaitem.01:9331, Mithril Nugget
+gregtech:gt.metaitem.01:9332, Midasium Nugget
+gregtech:gt.metaitem.01:9333, Astral Silver Nugget
 gregtech:gt.metaitem.01:9334, Black Steel Nugget
 gregtech:gt.metaitem.01:9335, Damascus Steel Nugget
+gregtech:gt.metaitem.01:9336, Shadowiron Nugget
+gregtech:gt.metaitem.01:9337, Shadowsteel Nugget
 gregtech:gt.metaitem.01:9338, Ironwood Nugget
 gregtech:gt.metaitem.01:9339, Steeleaf Nugget
 gregtech:gt.metaitem.01:9340, Meteoric Iron Nugget
 gregtech:gt.metaitem.01:9341, Meteoric Steel Nugget
+gregtech:gt.metaitem.01:9342, Dark Iron Nugget
 gregtech:gt.metaitem.01:9343, Cobalt Brass Nugget
 gregtech:gt.metaitem.01:9344, Ultimet Nugget
 gregtech:gt.metaitem.01:9345, Annealed Copper Nugget
@@ -19012,13 +19750,35 @@ gregtech:gt.metaitem.01:9470, Epoxid Nugget
 gregtech:gt.metaitem.01:9471, Polysiloxane Nugget
 gregtech:gt.metaitem.01:9472, Polycaprolactam Nugget
 gregtech:gt.metaitem.01:9473, Polytetrafluoroethylene Nugget
+gregtech:gt.metaitem.01:9489, Vulcanite Nugget
+gregtech:gt.metaitem.01:9490, Infuscolium Nugget
+gregtech:gt.metaitem.01:9521, Force Nugget
+gregtech:gt.metaitem.01:9770, Endium Nugget
 gregtech:gt.metaitem.01:9809, Wood Chip
+gregtech:gt.metaitem.01:9829, Deep Iron Nugget
 gregtech:gt.metaitem.01:9874, Polyethylene Chip
 gregtech:gt.metaitem.01:9880, Rubber Chip
 gregtech:gt.metaitem.01:9884, Desh Nugget
 gregtech:gt.metaitem.01:9889, Sealed Wood Chip
 gregtech:gt.metaitem.01:9892, Raw Meat Nugget
 gregtech:gt.metaitem.01:9893, Cooked Meat Nugget
+gregtech:gt.metaitem.01:9950, Ignatius Nugget
+gregtech:gt.metaitem.01:9951, Vyroxeres Nugget
+gregtech:gt.metaitem.01:9952, Ceruclase Nugget
+gregtech:gt.metaitem.01:9953, Kalendrite Nugget
+gregtech:gt.metaitem.01:9954, Inolashite Nugget
+gregtech:gt.metaitem.01:9955, Sanguinite Nugget
+gregtech:gt.metaitem.01:9956, Tartarite Nugget
+gregtech:gt.metaitem.01:9957, Hepatizon Nugget
+gregtech:gt.metaitem.01:9958, Angmallen Nugget
+gregtech:gt.metaitem.01:9959, Eximite Nugget
+gregtech:gt.metaitem.01:9960, Prometheum Nugget
+gregtech:gt.metaitem.01:9961, Oureclase Nugget
+gregtech:gt.metaitem.01:9962, Carmot Nugget
+gregtech:gt.metaitem.01:9963, Haderoth Nugget
+gregtech:gt.metaitem.01:9964, Celenegil Nugget
+gregtech:gt.metaitem.01:9965, Atlarus Nugget
+gregtech:gt.metaitem.01:9966, Orichalcum Nugget
 gregtech:gt.metaitem.01:11006, Lithium Ingot
 gregtech:gt.metaitem.01:11008, Beryllium Ingot
 gregtech:gt.metaitem.01:11010, Carbon Ingot
@@ -19026,6 +19786,7 @@ gregtech:gt.metaitem.01:11018, Magnesium Ingot
 gregtech:gt.metaitem.01:11019, Aluminium Ingot
 gregtech:gt.metaitem.01:11020, Silicon Ingot
 gregtech:gt.metaitem.01:11025, Potassium Ingot
+gregtech:gt.metaitem.01:11027, Scandium Ingot
 gregtech:gt.metaitem.01:11028, Titanium Ingot
 gregtech:gt.metaitem.01:11029, Vanadium Ingot
 gregtech:gt.metaitem.01:11030, Chrome Ingot
@@ -19036,17 +19797,31 @@ gregtech:gt.metaitem.01:11035, Copper Ingot
 gregtech:gt.metaitem.01:11036, Zinc Ingot
 gregtech:gt.metaitem.01:11037, Gallium Ingot
 gregtech:gt.metaitem.01:11039, Arsenic Ingot
+gregtech:gt.metaitem.01:11043, Rubidium Ingot
 gregtech:gt.metaitem.01:11045, Yttrium Ingot
 gregtech:gt.metaitem.01:11047, Niobium Ingot
 gregtech:gt.metaitem.01:11048, Molybdenum Ingot
 gregtech:gt.metaitem.01:11052, Palladium Ingot
 gregtech:gt.metaitem.01:11054, Silver Ingot
+gregtech:gt.metaitem.01:11056, Indium Ingot
 gregtech:gt.metaitem.01:11057, Tin Ingot
 gregtech:gt.metaitem.01:11058, Antimony Ingot
+gregtech:gt.metaitem.01:11059, Tellurium Ingot
 gregtech:gt.metaitem.01:11062, Caesium Ingot
+gregtech:gt.metaitem.01:11064, Lanthanum Ingot
 gregtech:gt.metaitem.01:11065, Cerium Ingot
+gregtech:gt.metaitem.01:11066, Praseodymium Ingot
 gregtech:gt.metaitem.01:11067, Neodymium Ingot
+gregtech:gt.metaitem.01:11068, Promethium Ingot
+gregtech:gt.metaitem.01:11069, Samarium Ingot
 gregtech:gt.metaitem.01:11070, Europium Ingot
+gregtech:gt.metaitem.01:11071, Gadolinium Ingot
+gregtech:gt.metaitem.01:11072, Terbium Ingot
+gregtech:gt.metaitem.01:11073, Dysprosium Ingot
+gregtech:gt.metaitem.01:11074, Holmium Ingot
+gregtech:gt.metaitem.01:11075, Erbium Ingot
+gregtech:gt.metaitem.01:11076, Thulium Ingot
+gregtech:gt.metaitem.01:11077, Ytterbium Ingot
 gregtech:gt.metaitem.01:11078, Lutetium Ingot
 gregtech:gt.metaitem.01:11080, Tantalum Ingot
 gregtech:gt.metaitem.01:11081, Tungsten Ingot
@@ -19071,6 +19846,7 @@ gregtech:gt.metaitem.01:11305, Steel Ingot
 gregtech:gt.metaitem.01:11306, Stainless Steel Ingot
 gregtech:gt.metaitem.01:11307, Pig Iron Ingot
 gregtech:gt.metaitem.01:11308, Red Alloy Ingot
+gregtech:gt.metaitem.01:11309, Blue Alloy Ingot
 gregtech:gt.metaitem.01:11310, Cupronickel Ingot
 gregtech:gt.metaitem.01:11311, Nichrome Ingot
 gregtech:gt.metaitem.01:11312, Kanthal Ingot
@@ -19079,8 +19855,11 @@ gregtech:gt.metaitem.01:11314, Soldering Alloy Ingot
 gregtech:gt.metaitem.01:11315, Battery Alloy Ingot
 gregtech:gt.metaitem.01:11316, Tungstensteel Ingot
 gregtech:gt.metaitem.01:11317, Osmiridium Ingot
+gregtech:gt.metaitem.01:11318, Sunnarium Ingot
 gregtech:gt.metaitem.01:11319, Adamantium Ingot
+gregtech:gt.metaitem.01:11320, Fluxed Electrum Ingot
 gregtech:gt.metaitem.01:11321, Enderium Ingot
+gregtech:gt.metaitem.01:11322, HSLA Steel Ingot
 gregtech:gt.metaitem.01:11323, Infused Gold Ingot
 gregtech:gt.metaitem.01:11324, Naquadah Ingot
 gregtech:gt.metaitem.01:11325, Naquadah Alloy Ingot
@@ -19090,12 +19869,17 @@ gregtech:gt.metaitem.01:11328, Duranium Ingot
 gregtech:gt.metaitem.01:11329, Tritanium Ingot
 gregtech:gt.metaitem.01:11330, Thaumium Ingot
 gregtech:gt.metaitem.01:11331, Mithril Ingot
+gregtech:gt.metaitem.01:11332, Midasium Ingot
+gregtech:gt.metaitem.01:11333, Astral Silver Ingot
 gregtech:gt.metaitem.01:11334, Black Steel Ingot
 gregtech:gt.metaitem.01:11335, Damascus Steel Ingot
+gregtech:gt.metaitem.01:11336, Shadowiron Ingot
+gregtech:gt.metaitem.01:11337, Shadowsteel Ingot
 gregtech:gt.metaitem.01:11338, Ironwood Ingot
 gregtech:gt.metaitem.01:11339, Steeleaf
 gregtech:gt.metaitem.01:11340, Meteoric Iron Ingot
 gregtech:gt.metaitem.01:11341, Meteoric Steel Ingot
+gregtech:gt.metaitem.01:11342, Dark Iron Ingot
 gregtech:gt.metaitem.01:11343, Cobalt Brass Ingot
 gregtech:gt.metaitem.01:11344, Ultimet Ingot
 gregtech:gt.metaitem.01:11345, Annealed Copper Ingot
@@ -19126,12 +19910,34 @@ gregtech:gt.metaitem.01:11470, Epoxid Ingot
 gregtech:gt.metaitem.01:11471, Polysiloxane Ingot
 gregtech:gt.metaitem.01:11472, Polycaprolactam Ingot
 gregtech:gt.metaitem.01:11473, Polytetrafluoroethylene Ingot
+gregtech:gt.metaitem.01:11489, Vulcanite Ingot
+gregtech:gt.metaitem.01:11490, Infuscolium Ingot
+gregtech:gt.metaitem.01:11521, Force Ingot
+gregtech:gt.metaitem.01:11770, Endium Ingot
+gregtech:gt.metaitem.01:11829, Deep Iron Ingot
 gregtech:gt.metaitem.01:11865, Graphite Ingot
 gregtech:gt.metaitem.01:11874, Polyethylene Bar
 gregtech:gt.metaitem.01:11880, Rubber Bar
 gregtech:gt.metaitem.01:11884, Desh Ingot
 gregtech:gt.metaitem.01:11892, Raw Meat Ingot
 gregtech:gt.metaitem.01:11893, Cooked Meat Ingot
+gregtech:gt.metaitem.01:11950, Ignatius Ingot
+gregtech:gt.metaitem.01:11951, Vyroxeres Ingot
+gregtech:gt.metaitem.01:11952, Ceruclase Ingot
+gregtech:gt.metaitem.01:11953, Kalendrite Ingot
+gregtech:gt.metaitem.01:11954, Inolashite Ingot
+gregtech:gt.metaitem.01:11955, Sanguinite Ingot
+gregtech:gt.metaitem.01:11956, Tartarite Ingot
+gregtech:gt.metaitem.01:11957, Hepatizon Ingot
+gregtech:gt.metaitem.01:11958, Angmallen Ingot
+gregtech:gt.metaitem.01:11959, Eximite Ingot
+gregtech:gt.metaitem.01:11960, Prometheum Ingot
+gregtech:gt.metaitem.01:11961, Oureclase Ingot
+gregtech:gt.metaitem.01:11962, Carmot Ingot
+gregtech:gt.metaitem.01:11963, Haderoth Ingot
+gregtech:gt.metaitem.01:11964, Celenegil Ingot
+gregtech:gt.metaitem.01:11965, Atlarus Ingot
+gregtech:gt.metaitem.01:11966, Orichalcum Ingot
 gregtech:gt.metaitem.01:13304, Double Wrought Iron Ingot
 gregtech:gt.metaitem.01:13307, Double Pig Iron Ingot
 gregtech:gt.metaitem.01:13345, Double Annealed Copper Ingot
@@ -19196,7 +20002,9 @@ gregtech:gt.metaitem.01:17315, Battery Alloy Plate
 gregtech:gt.metaitem.01:17316, Tungstensteel Plate
 gregtech:gt.metaitem.01:17317, Osmiridium Plate
 gregtech:gt.metaitem.01:17319, Adamantium Plate
+gregtech:gt.metaitem.01:17320, Fluxed Electrum Plate
 gregtech:gt.metaitem.01:17321, Enderium Plate
+gregtech:gt.metaitem.01:17322, HSLA Steel Plate
 gregtech:gt.metaitem.01:17323, Infused Gold Plate
 gregtech:gt.metaitem.01:17324, Naquadah Plate
 gregtech:gt.metaitem.01:17325, Naquadah Alloy Plate
@@ -19206,12 +20014,17 @@ gregtech:gt.metaitem.01:17328, Duranium Plate
 gregtech:gt.metaitem.01:17329, Tritanium Plate
 gregtech:gt.metaitem.01:17330, Thaumium Plate
 gregtech:gt.metaitem.01:17331, Mithril Plate
+gregtech:gt.metaitem.01:17332, Midasium Plate
+gregtech:gt.metaitem.01:17333, Astral Silver Plate
 gregtech:gt.metaitem.01:17334, Black Steel Plate
 gregtech:gt.metaitem.01:17335, Damascus Steel Plate
+gregtech:gt.metaitem.01:17336, Shadowiron Plate
+gregtech:gt.metaitem.01:17337, Shadowsteel Plate
 gregtech:gt.metaitem.01:17338, Ironwood Plate
 gregtech:gt.metaitem.01:17339, Steeleaf Plate
 gregtech:gt.metaitem.01:17340, Meteoric Iron Plate
 gregtech:gt.metaitem.01:17341, Meteoric Steel Plate
+gregtech:gt.metaitem.01:17342, Dark Iron Plate
 gregtech:gt.metaitem.01:17343, Cobalt Brass Plate
 gregtech:gt.metaitem.01:17344, Ultimet Plate
 gregtech:gt.metaitem.01:17345, Annealed Copper Plate
@@ -19242,6 +20055,8 @@ gregtech:gt.metaitem.01:17470, Epoxid Plate
 gregtech:gt.metaitem.01:17471, Polysiloxane Plate
 gregtech:gt.metaitem.01:17472, Polycaprolactam Plate
 gregtech:gt.metaitem.01:17473, Polytetrafluoroethylene Plate
+gregtech:gt.metaitem.01:17489, Vulcanite Plate
+gregtech:gt.metaitem.01:17490, Infuscolium Plate
 gregtech:gt.metaitem.01:17500, Diamond Plate
 gregtech:gt.metaitem.01:17501, Emerald Plate
 gregtech:gt.metaitem.01:17502, Ruby Plate
@@ -19262,6 +20077,7 @@ gregtech:gt.metaitem.01:17516, Certus Quartz Plate
 gregtech:gt.metaitem.01:17518, Forcicium Plate
 gregtech:gt.metaitem.01:17519, Forcillium Plate
 gregtech:gt.metaitem.01:17520, Monazite Plate
+gregtech:gt.metaitem.01:17521, Force Plate
 gregtech:gt.metaitem.01:17522, Nether Quartz Plate
 gregtech:gt.metaitem.01:17523, Quartzite Plate
 gregtech:gt.metaitem.01:17524, Lazurite Plate
@@ -19269,6 +20085,7 @@ gregtech:gt.metaitem.01:17525, Sodalite Plate
 gregtech:gt.metaitem.01:17526, Lapis Plate
 gregtech:gt.metaitem.01:17527, Red Garnet Plate
 gregtech:gt.metaitem.01:17528, Yellow Garnet Plate
+gregtech:gt.metaitem.01:17529, Vinteum Plate
 gregtech:gt.metaitem.01:17530, Apatite Plate
 gregtech:gt.metaitem.01:17531, Niter Plate
 gregtech:gt.metaitem.01:17532, Enderpearl Plate
@@ -19286,6 +20103,7 @@ gregtech:gt.metaitem.01:17545, Ordo Crystal Plate
 gregtech:gt.metaitem.01:17809, Wood Plank
 gregtech:gt.metaitem.01:17810, Redstone Plate
 gregtech:gt.metaitem.01:17811, Glowstone Plate
+gregtech:gt.metaitem.01:17829, Deep Iron Plate
 gregtech:gt.metaitem.01:17845, Marble Plate
 gregtech:gt.metaitem.01:17849, Black Granite Plate
 gregtech:gt.metaitem.01:17850, Red Granite Plate
@@ -19295,6 +20113,18 @@ gregtech:gt.metaitem.01:17884, Desh Plate
 gregtech:gt.metaitem.01:17889, Sealed Wood Plank
 gregtech:gt.metaitem.01:17890, Glass Pane
 gregtech:gt.metaitem.01:17947, Concrete Plate
+gregtech:gt.metaitem.01:17951, Vyroxeres Plate
+gregtech:gt.metaitem.01:17954, Inolashite Plate
+gregtech:gt.metaitem.01:17957, Hepatizon Plate
+gregtech:gt.metaitem.01:17958, Angmallen Plate
+gregtech:gt.metaitem.01:17959, Eximite Plate
+gregtech:gt.metaitem.01:17960, Prometheum Plate
+gregtech:gt.metaitem.01:17961, Oureclase Plate
+gregtech:gt.metaitem.01:17962, Carmot Plate
+gregtech:gt.metaitem.01:17963, Haderoth Plate
+gregtech:gt.metaitem.01:17964, Celenegil Plate
+gregtech:gt.metaitem.01:17965, Atlarus Plate
+gregtech:gt.metaitem.01:17966, Orichalcum Plate
 gregtech:gt.metaitem.01:18008, Double Beryllium Plate
 gregtech:gt.metaitem.01:18010, Double Carbon Plate
 gregtech:gt.metaitem.01:18019, Double Aluminium Plate
@@ -19336,7 +20166,9 @@ gregtech:gt.metaitem.01:18313, Double Magnalium Plate
 gregtech:gt.metaitem.01:18316, Double Tungstensteel Plate
 gregtech:gt.metaitem.01:18317, Double Osmiridium Plate
 gregtech:gt.metaitem.01:18319, Double Adamantium Plate
+gregtech:gt.metaitem.01:18320, Double Fluxed Electrum Plate
 gregtech:gt.metaitem.01:18321, Double Enderium Plate
+gregtech:gt.metaitem.01:18322, Double HSLA Steel Plate
 gregtech:gt.metaitem.01:18323, Double Infused Gold Plate
 gregtech:gt.metaitem.01:18324, Double Naquadah Plate
 gregtech:gt.metaitem.01:18325, Double Naquadah Alloy Plate
@@ -19346,12 +20178,17 @@ gregtech:gt.metaitem.01:18328, Double Duranium Plate
 gregtech:gt.metaitem.01:18329, Double Tritanium Plate
 gregtech:gt.metaitem.01:18330, Double Thaumium Plate
 gregtech:gt.metaitem.01:18331, Double Mithril Plate
+gregtech:gt.metaitem.01:18332, Double Midasium Plate
+gregtech:gt.metaitem.01:18333, Double Astral Silver Plate
 gregtech:gt.metaitem.01:18334, Double Black Steel Plate
 gregtech:gt.metaitem.01:18335, Double Damascus Steel Plate
+gregtech:gt.metaitem.01:18336, Double Shadowiron Plate
+gregtech:gt.metaitem.01:18337, Double Shadowsteel Plate
 gregtech:gt.metaitem.01:18338, Double Ironwood Plate
 gregtech:gt.metaitem.01:18339, Double Steeleaf Plate
 gregtech:gt.metaitem.01:18340, Double Meteoric Iron Plate
 gregtech:gt.metaitem.01:18341, Double Meteoric Steel Plate
+gregtech:gt.metaitem.01:18342, Double Dark Iron Plate
 gregtech:gt.metaitem.01:18343, Double Cobalt Brass Plate
 gregtech:gt.metaitem.01:18344, Double Ultimet Plate
 gregtech:gt.metaitem.01:18346, Double Fiery Steel Plate
@@ -19375,8 +20212,24 @@ gregtech:gt.metaitem.01:18374, Double HSS-S Plate
 gregtech:gt.metaitem.01:18470, Double Epoxid Plate
 gregtech:gt.metaitem.01:18472, Double Polycaprolactam Plate
 gregtech:gt.metaitem.01:18473, Double Polytetrafluoroethylene Plate
+gregtech:gt.metaitem.01:18489, Double Vulcanite Plate
+gregtech:gt.metaitem.01:18490, Double Infuscolium Plate
+gregtech:gt.metaitem.01:18521, Double Force Plate
+gregtech:gt.metaitem.01:18829, Double Deep Iron Plate
 gregtech:gt.metaitem.01:18879, Paperboard
 gregtech:gt.metaitem.01:18884, Double Desh Plate
+gregtech:gt.metaitem.01:18951, Double Vyroxeres Plate
+gregtech:gt.metaitem.01:18954, Double Inolashite Plate
+gregtech:gt.metaitem.01:18957, Double Hepatizon Plate
+gregtech:gt.metaitem.01:18958, Double Angmallen Plate
+gregtech:gt.metaitem.01:18959, Double Eximite Plate
+gregtech:gt.metaitem.01:18960, Double Prometheum Plate
+gregtech:gt.metaitem.01:18961, Double Oureclase Plate
+gregtech:gt.metaitem.01:18962, Double Carmot Plate
+gregtech:gt.metaitem.01:18963, Double Haderoth Plate
+gregtech:gt.metaitem.01:18964, Double Celenegil Plate
+gregtech:gt.metaitem.01:18965, Double Atlarus Plate
+gregtech:gt.metaitem.01:18966, Double Orichalcum Plate
 gregtech:gt.metaitem.01:19879, Carton
 gregtech:gt.metaitem.01:20879, Cardboard
 gregtech:gt.metaitem.01:21879, Thick Cardboard
@@ -19387,6 +20240,7 @@ gregtech:gt.metaitem.01:22018, Dense Magnesium Plate
 gregtech:gt.metaitem.01:22019, Dense Aluminium Plate
 gregtech:gt.metaitem.01:22020, Dense Silicon Plate
 gregtech:gt.metaitem.01:22025, Dense Potassium Plate
+gregtech:gt.metaitem.01:22027, Dense Scandium Plate
 gregtech:gt.metaitem.01:22028, Dense Titanium Plate
 gregtech:gt.metaitem.01:22029, Dense Vanadium Plate
 gregtech:gt.metaitem.01:22030, Dense Chrome Plate
@@ -19398,17 +20252,31 @@ gregtech:gt.metaitem.01:22035, Dense Copper Plate
 gregtech:gt.metaitem.01:22036, Dense Zinc Plate
 gregtech:gt.metaitem.01:22037, Dense Gallium Plate
 gregtech:gt.metaitem.01:22039, Dense Arsenic Plate
+gregtech:gt.metaitem.01:22043, Dense Rubidium Plate
 gregtech:gt.metaitem.01:22045, Dense Yttrium Plate
 gregtech:gt.metaitem.01:22047, Dense Niobium Plate
 gregtech:gt.metaitem.01:22048, Dense Molybdenum Plate
 gregtech:gt.metaitem.01:22052, Dense Palladium Plate
 gregtech:gt.metaitem.01:22054, Dense Silver Plate
+gregtech:gt.metaitem.01:22056, Dense Indium Plate
 gregtech:gt.metaitem.01:22057, Dense Tin Plate
 gregtech:gt.metaitem.01:22058, Dense Antimony Plate
+gregtech:gt.metaitem.01:22059, Dense Tellurium Plate
 gregtech:gt.metaitem.01:22062, Dense Caesium Plate
+gregtech:gt.metaitem.01:22064, Dense Lanthanum Plate
 gregtech:gt.metaitem.01:22065, Dense Cerium Plate
+gregtech:gt.metaitem.01:22066, Dense Praseodymium Plate
 gregtech:gt.metaitem.01:22067, Dense Neodymium Plate
+gregtech:gt.metaitem.01:22068, Dense Promethium Plate
+gregtech:gt.metaitem.01:22069, Dense Samarium Plate
 gregtech:gt.metaitem.01:22070, Dense Europium Plate
+gregtech:gt.metaitem.01:22071, Dense Gadolinium Plate
+gregtech:gt.metaitem.01:22072, Dense Terbium Plate
+gregtech:gt.metaitem.01:22073, Dense Dysprosium Plate
+gregtech:gt.metaitem.01:22074, Dense Holmium Plate
+gregtech:gt.metaitem.01:22075, Dense Erbium Plate
+gregtech:gt.metaitem.01:22076, Dense Thulium Plate
+gregtech:gt.metaitem.01:22077, Dense Ytterbium Plate
 gregtech:gt.metaitem.01:22078, Dense Lutetium Plate
 gregtech:gt.metaitem.01:22080, Dense Tantalum Plate
 gregtech:gt.metaitem.01:22081, Dense Tungsten Plate
@@ -19434,6 +20302,7 @@ gregtech:gt.metaitem.01:22305, Dense Steel Plate
 gregtech:gt.metaitem.01:22306, Dense Stainless Steel Plate
 gregtech:gt.metaitem.01:22307, Dense Pig Iron Plate
 gregtech:gt.metaitem.01:22308, Dense Red Alloy Plate
+gregtech:gt.metaitem.01:22309, Dense Blue Alloy Plate
 gregtech:gt.metaitem.01:22310, Dense Cupronickel Plate
 gregtech:gt.metaitem.01:22311, Dense Nichrome Plate
 gregtech:gt.metaitem.01:22312, Dense Kanthal Plate
@@ -19442,8 +20311,11 @@ gregtech:gt.metaitem.01:22314, Dense Soldering Alloy Plate
 gregtech:gt.metaitem.01:22315, Dense Battery Alloy Plate
 gregtech:gt.metaitem.01:22316, Dense Tungstensteel Plate
 gregtech:gt.metaitem.01:22317, Dense Osmiridium Plate
+gregtech:gt.metaitem.01:22318, Dense Sunnarium Plate
 gregtech:gt.metaitem.01:22319, Dense Adamantium Plate
+gregtech:gt.metaitem.01:22320, Dense Fluxed Electrum Plate
 gregtech:gt.metaitem.01:22321, Dense Enderium Plate
+gregtech:gt.metaitem.01:22322, Dense HSLA Steel Plate
 gregtech:gt.metaitem.01:22323, Dense Infused Gold Plate
 gregtech:gt.metaitem.01:22324, Dense Naquadah Plate
 gregtech:gt.metaitem.01:22325, Dense Naquadah Alloy Plate
@@ -19453,12 +20325,17 @@ gregtech:gt.metaitem.01:22328, Dense Duranium Plate
 gregtech:gt.metaitem.01:22329, Dense Tritanium Plate
 gregtech:gt.metaitem.01:22330, Dense Thaumium Plate
 gregtech:gt.metaitem.01:22331, Dense Mithril Plate
+gregtech:gt.metaitem.01:22332, Dense Midasium Plate
+gregtech:gt.metaitem.01:22333, Dense Astral Silver Plate
 gregtech:gt.metaitem.01:22334, Dense Black Steel Plate
 gregtech:gt.metaitem.01:22335, Dense Damascus Steel Plate
+gregtech:gt.metaitem.01:22336, Dense Shadowiron Plate
+gregtech:gt.metaitem.01:22337, Dense Shadowsteel Plate
 gregtech:gt.metaitem.01:22338, Dense Ironwood Plate
 gregtech:gt.metaitem.01:22339, Dense Steeleaf Plate
 gregtech:gt.metaitem.01:22340, Dense Meteoric Iron Plate
 gregtech:gt.metaitem.01:22341, Dense Meteoric Steel Plate
+gregtech:gt.metaitem.01:22342, Dense Dark Iron Plate
 gregtech:gt.metaitem.01:22343, Dense Cobalt Brass Plate
 gregtech:gt.metaitem.01:22344, Dense Ultimet Plate
 gregtech:gt.metaitem.01:22345, Dense Annealed Copper Plate
@@ -19488,7 +20365,29 @@ gregtech:gt.metaitem.01:22374, Dense HSS-S Plate
 gregtech:gt.metaitem.01:22470, Dense Epoxid Plate
 gregtech:gt.metaitem.01:22472, Dense Polycaprolactam Plate
 gregtech:gt.metaitem.01:22473, Dense Polytetrafluoroethylene Plate
+gregtech:gt.metaitem.01:22489, Dense Vulcanite Plate
+gregtech:gt.metaitem.01:22490, Dense Infuscolium Plate
+gregtech:gt.metaitem.01:22521, Dense Force Plate
+gregtech:gt.metaitem.01:22770, Dense Endium Plate
+gregtech:gt.metaitem.01:22829, Dense Deep Iron Plate
 gregtech:gt.metaitem.01:22884, Dense Desh Plate
+gregtech:gt.metaitem.01:22950, Dense Ignatius Plate
+gregtech:gt.metaitem.01:22951, Dense Vyroxeres Plate
+gregtech:gt.metaitem.01:22952, Dense Ceruclase Plate
+gregtech:gt.metaitem.01:22953, Dense Kalendrite Plate
+gregtech:gt.metaitem.01:22954, Dense Inolashite Plate
+gregtech:gt.metaitem.01:22955, Dense Sanguinite Plate
+gregtech:gt.metaitem.01:22956, Dense Tartarite Plate
+gregtech:gt.metaitem.01:22957, Dense Hepatizon Plate
+gregtech:gt.metaitem.01:22958, Dense Angmallen Plate
+gregtech:gt.metaitem.01:22959, Dense Eximite Plate
+gregtech:gt.metaitem.01:22960, Dense Prometheum Plate
+gregtech:gt.metaitem.01:22961, Dense Oureclase Plate
+gregtech:gt.metaitem.01:22962, Dense Carmot Plate
+gregtech:gt.metaitem.01:22963, Dense Haderoth Plate
+gregtech:gt.metaitem.01:22964, Dense Celenegil Plate
+gregtech:gt.metaitem.01:22965, Dense Atlarus Plate
+gregtech:gt.metaitem.01:22966, Dense Orichalcum Plate
 gregtech:gt.metaitem.01:23008, Beryllium Rod
 gregtech:gt.metaitem.01:23010, Carbon Rod
 gregtech:gt.metaitem.01:23019, Aluminium Rod
@@ -19535,7 +20434,9 @@ gregtech:gt.metaitem.01:23314, Soldering Alloy Rod
 gregtech:gt.metaitem.01:23316, Tungstensteel Rod
 gregtech:gt.metaitem.01:23317, Osmiridium Rod
 gregtech:gt.metaitem.01:23319, Adamantium Rod
+gregtech:gt.metaitem.01:23320, Fluxed Electrum Rod
 gregtech:gt.metaitem.01:23321, Enderium Rod
+gregtech:gt.metaitem.01:23322, HSLA Steel Rod
 gregtech:gt.metaitem.01:23323, Infused Gold Rod
 gregtech:gt.metaitem.01:23324, Naquadah Rod
 gregtech:gt.metaitem.01:23325, Naquadah Alloy Rod
@@ -19545,12 +20446,17 @@ gregtech:gt.metaitem.01:23328, Duranium Rod
 gregtech:gt.metaitem.01:23329, Tritanium Rod
 gregtech:gt.metaitem.01:23330, Thaumium Rod
 gregtech:gt.metaitem.01:23331, Mithril Rod
+gregtech:gt.metaitem.01:23332, Midasium Rod
+gregtech:gt.metaitem.01:23333, Astral Silver Rod
 gregtech:gt.metaitem.01:23334, Black Steel Rod
 gregtech:gt.metaitem.01:23335, Damascus Steel Rod
+gregtech:gt.metaitem.01:23336, Shadowiron Rod
+gregtech:gt.metaitem.01:23337, Shadowsteel Rod
 gregtech:gt.metaitem.01:23338, Ironwood Rod
 gregtech:gt.metaitem.01:23339, Steeleaf Rod
 gregtech:gt.metaitem.01:23340, Meteoric Iron Rod
 gregtech:gt.metaitem.01:23341, Meteoric Steel Rod
+gregtech:gt.metaitem.01:23342, Dark Iron Rod
 gregtech:gt.metaitem.01:23343, Cobalt Brass Rod
 gregtech:gt.metaitem.01:23344, Ultimet Rod
 gregtech:gt.metaitem.01:23346, Fiery Steel Rod
@@ -19577,6 +20483,8 @@ gregtech:gt.metaitem.01:23470, Epoxid Rod
 gregtech:gt.metaitem.01:23471, Polysiloxane Rod
 gregtech:gt.metaitem.01:23472, Polycaprolactam Rod
 gregtech:gt.metaitem.01:23473, Polytetrafluoroethylene Rod
+gregtech:gt.metaitem.01:23489, Vulcanite Rod
+gregtech:gt.metaitem.01:23490, Infuscolium Rod
 gregtech:gt.metaitem.01:23500, Diamond Rod
 gregtech:gt.metaitem.01:23501, Emerald Rod
 gregtech:gt.metaitem.01:23502, Ruby Rod
@@ -19591,22 +20499,37 @@ gregtech:gt.metaitem.01:23510, Opal Rod
 gregtech:gt.metaitem.01:23513, Blue Topaz Rod
 gregtech:gt.metaitem.01:23514, Amber Rod
 gregtech:gt.metaitem.01:23516, Certus Quartz Rod
+gregtech:gt.metaitem.01:23521, Force Rod
 gregtech:gt.metaitem.01:23522, Nether Quartz Rod
 gregtech:gt.metaitem.01:23524, Lazurite Rod
 gregtech:gt.metaitem.01:23525, Sodalite Rod
 gregtech:gt.metaitem.01:23526, Lapis Rod
 gregtech:gt.metaitem.01:23527, Red Garnet Rod
 gregtech:gt.metaitem.01:23528, Yellow Garnet Rod
+gregtech:gt.metaitem.01:23529, Vinteum Rod
 gregtech:gt.metaitem.01:23540, Aer Rod
 gregtech:gt.metaitem.01:23541, Ignis Rod
 gregtech:gt.metaitem.01:23542, Terra Rod
 gregtech:gt.metaitem.01:23543, Aqua Rod
 gregtech:gt.metaitem.01:23544, Perditio Rod
 gregtech:gt.metaitem.01:23545, Ordo Rod
+gregtech:gt.metaitem.01:23829, Deep Iron Rod
 gregtech:gt.metaitem.01:23874, Polyethylene Rod
 gregtech:gt.metaitem.01:23880, Rubber Rod
 gregtech:gt.metaitem.01:23884, Desh Rod
 gregtech:gt.metaitem.01:23889, Sealed Wood Stick
+gregtech:gt.metaitem.01:23951, Vyroxeres Rod
+gregtech:gt.metaitem.01:23954, Inolashite Rod
+gregtech:gt.metaitem.01:23957, Hepatizon Rod
+gregtech:gt.metaitem.01:23958, Angmallen Rod
+gregtech:gt.metaitem.01:23959, Eximite Rod
+gregtech:gt.metaitem.01:23960, Prometheum Rod
+gregtech:gt.metaitem.01:23961, Oureclase Rod
+gregtech:gt.metaitem.01:23962, Carmot Rod
+gregtech:gt.metaitem.01:23963, Haderoth Rod
+gregtech:gt.metaitem.01:23964, Celenegil Rod
+gregtech:gt.metaitem.01:23965, Atlarus Rod
+gregtech:gt.metaitem.01:23966, Orichalcum Rod
 gregtech:gt.metaitem.01:24347, Firestone Lens
 gregtech:gt.metaitem.01:24500, Diamond Lens
 gregtech:gt.metaitem.01:24501, Emerald Lens
@@ -19626,8 +20549,10 @@ gregtech:gt.metaitem.01:24514, Amber Lens
 gregtech:gt.metaitem.01:24515, Dilithium Lens
 gregtech:gt.metaitem.01:24518, Forcicium Lens
 gregtech:gt.metaitem.01:24519, Forcillium Lens
+gregtech:gt.metaitem.01:24521, Force Lens
 gregtech:gt.metaitem.01:24527, Red Garnet Lens
 gregtech:gt.metaitem.01:24528, Yellow Garnet Lens
+gregtech:gt.metaitem.01:24529, Vinteum Lens
 gregtech:gt.metaitem.01:24532, Enderpearl Lens
 gregtech:gt.metaitem.01:24533, Endereye Lens
 gregtech:gt.metaitem.01:24540, Aer Lens
@@ -19682,7 +20607,9 @@ gregtech:gt.metaitem.01:26313, Magnalium Bolt
 gregtech:gt.metaitem.01:26316, Tungstensteel Bolt
 gregtech:gt.metaitem.01:26317, Osmiridium Bolt
 gregtech:gt.metaitem.01:26319, Adamantium Bolt
+gregtech:gt.metaitem.01:26320, Fluxed Electrum Bolt
 gregtech:gt.metaitem.01:26321, Enderium Bolt
+gregtech:gt.metaitem.01:26322, HSLA Steel Bolt
 gregtech:gt.metaitem.01:26323, Infused Gold Bolt
 gregtech:gt.metaitem.01:26324, Naquadah Bolt
 gregtech:gt.metaitem.01:26325, Naquadah Alloy Bolt
@@ -19692,12 +20619,17 @@ gregtech:gt.metaitem.01:26328, Duranium Bolt
 gregtech:gt.metaitem.01:26329, Tritanium Bolt
 gregtech:gt.metaitem.01:26330, Thaumium Bolt
 gregtech:gt.metaitem.01:26331, Mithril Bolt
+gregtech:gt.metaitem.01:26332, Midasium Bolt
+gregtech:gt.metaitem.01:26333, Astral Silver Bolt
 gregtech:gt.metaitem.01:26334, Black Steel Bolt
 gregtech:gt.metaitem.01:26335, Damascus Steel Bolt
+gregtech:gt.metaitem.01:26336, Shadowiron Bolt
+gregtech:gt.metaitem.01:26337, Shadowsteel Bolt
 gregtech:gt.metaitem.01:26338, Ironwood Bolt
 gregtech:gt.metaitem.01:26339, Steeleaf Bolt
 gregtech:gt.metaitem.01:26340, Meteoric Iron Bolt
 gregtech:gt.metaitem.01:26341, Meteoric Steel Bolt
+gregtech:gt.metaitem.01:26342, Dark Iron Bolt
 gregtech:gt.metaitem.01:26343, Cobalt Brass Bolt
 gregtech:gt.metaitem.01:26344, Ultimet Bolt
 gregtech:gt.metaitem.01:26346, Fiery Steel Bolt
@@ -19723,6 +20655,8 @@ gregtech:gt.metaitem.01:26470, Epoxid Bolt
 gregtech:gt.metaitem.01:26471, Polysiloxane Bolt
 gregtech:gt.metaitem.01:26472, Polycaprolactam Bolt
 gregtech:gt.metaitem.01:26473, Polytetrafluoroethylene Bolt
+gregtech:gt.metaitem.01:26489, Vulcanite Bolt
+gregtech:gt.metaitem.01:26490, Infuscolium Bolt
 gregtech:gt.metaitem.01:26500, Diamond Bolt
 gregtech:gt.metaitem.01:26501, Emerald Bolt
 gregtech:gt.metaitem.01:26502, Ruby Bolt
@@ -19737,9 +20671,11 @@ gregtech:gt.metaitem.01:26510, Opal Bolt
 gregtech:gt.metaitem.01:26513, Blue Topaz Bolt
 gregtech:gt.metaitem.01:26514, Amber Bolt
 gregtech:gt.metaitem.01:26516, Certus Quartz Bolt
+gregtech:gt.metaitem.01:26521, Force Bolt
 gregtech:gt.metaitem.01:26522, Nether Quartz Bolt
 gregtech:gt.metaitem.01:26527, Red Garnet Bolt
 gregtech:gt.metaitem.01:26528, Yellow Garnet Bolt
+gregtech:gt.metaitem.01:26529, Vinteum Bolt
 gregtech:gt.metaitem.01:26540, Aer Bolt
 gregtech:gt.metaitem.01:26541, Ignis Bolt
 gregtech:gt.metaitem.01:26542, Terra Bolt
@@ -19747,10 +20683,23 @@ gregtech:gt.metaitem.01:26543, Aqua Bolt
 gregtech:gt.metaitem.01:26544, Perditio Bolt
 gregtech:gt.metaitem.01:26545, Ordo Bolt
 gregtech:gt.metaitem.01:26809, Short Wood Stick
+gregtech:gt.metaitem.01:26829, Deep Iron Bolt
 gregtech:gt.metaitem.01:26874, Polyethylene Bolt
 gregtech:gt.metaitem.01:26880, Rubber Bolt
 gregtech:gt.metaitem.01:26884, Desh Bolt
 gregtech:gt.metaitem.01:26889, Short Sealed Wood Stick
+gregtech:gt.metaitem.01:26951, Vyroxeres Bolt
+gregtech:gt.metaitem.01:26954, Inolashite Bolt
+gregtech:gt.metaitem.01:26957, Hepatizon Bolt
+gregtech:gt.metaitem.01:26958, Angmallen Bolt
+gregtech:gt.metaitem.01:26959, Eximite Bolt
+gregtech:gt.metaitem.01:26960, Prometheum Bolt
+gregtech:gt.metaitem.01:26961, Oureclase Bolt
+gregtech:gt.metaitem.01:26962, Carmot Bolt
+gregtech:gt.metaitem.01:26963, Haderoth Bolt
+gregtech:gt.metaitem.01:26964, Celenegil Bolt
+gregtech:gt.metaitem.01:26965, Atlarus Bolt
+gregtech:gt.metaitem.01:26966, Orichalcum Bolt
 gregtech:gt.metaitem.01:27008, Beryllium Screw
 gregtech:gt.metaitem.01:27010, Carbon Screw
 gregtech:gt.metaitem.01:27019, Aluminium Screw
@@ -19793,7 +20742,9 @@ gregtech:gt.metaitem.01:27313, Magnalium Screw
 gregtech:gt.metaitem.01:27316, Tungstensteel Screw
 gregtech:gt.metaitem.01:27317, Osmiridium Screw
 gregtech:gt.metaitem.01:27319, Adamantium Screw
+gregtech:gt.metaitem.01:27320, Fluxed Electrum Screw
 gregtech:gt.metaitem.01:27321, Enderium Screw
+gregtech:gt.metaitem.01:27322, HSLA Steel Screw
 gregtech:gt.metaitem.01:27323, Infused Gold Screw
 gregtech:gt.metaitem.01:27324, Naquadah Screw
 gregtech:gt.metaitem.01:27325, Naquadah Alloy Screw
@@ -19803,12 +20754,17 @@ gregtech:gt.metaitem.01:27328, Duranium Screw
 gregtech:gt.metaitem.01:27329, Tritanium Screw
 gregtech:gt.metaitem.01:27330, Thaumium Screw
 gregtech:gt.metaitem.01:27331, Mithril Screw
+gregtech:gt.metaitem.01:27332, Midasium Screw
+gregtech:gt.metaitem.01:27333, Astral Silver Screw
 gregtech:gt.metaitem.01:27334, Black Steel Screw
 gregtech:gt.metaitem.01:27335, Damascus Steel Screw
+gregtech:gt.metaitem.01:27336, Shadowiron Screw
+gregtech:gt.metaitem.01:27337, Shadowsteel Screw
 gregtech:gt.metaitem.01:27338, Ironwood Screw
 gregtech:gt.metaitem.01:27339, Steeleaf Screw
 gregtech:gt.metaitem.01:27340, Meteoric Iron Screw
 gregtech:gt.metaitem.01:27341, Meteoric Steel Screw
+gregtech:gt.metaitem.01:27342, Dark Iron Screw
 gregtech:gt.metaitem.01:27343, Cobalt Brass Screw
 gregtech:gt.metaitem.01:27344, Ultimet Screw
 gregtech:gt.metaitem.01:27346, Fiery Steel Screw
@@ -19834,6 +20790,8 @@ gregtech:gt.metaitem.01:27470, Epoxid Screw
 gregtech:gt.metaitem.01:27471, Polysiloxane Screw
 gregtech:gt.metaitem.01:27472, Polycaprolactam Screw
 gregtech:gt.metaitem.01:27473, Polytetrafluoroethylene Screw
+gregtech:gt.metaitem.01:27489, Vulcanite Screw
+gregtech:gt.metaitem.01:27490, Infuscolium Screw
 gregtech:gt.metaitem.01:27500, Diamond Screw
 gregtech:gt.metaitem.01:27501, Emerald Screw
 gregtech:gt.metaitem.01:27502, Ruby Screw
@@ -19848,9 +20806,11 @@ gregtech:gt.metaitem.01:27510, Opal Screw
 gregtech:gt.metaitem.01:27513, Blue Topaz Screw
 gregtech:gt.metaitem.01:27514, Amber Screw
 gregtech:gt.metaitem.01:27516, Certus Quartz Screw
+gregtech:gt.metaitem.01:27521, Force Screw
 gregtech:gt.metaitem.01:27522, Nether Quartz Screw
 gregtech:gt.metaitem.01:27527, Red Garnet Screw
 gregtech:gt.metaitem.01:27528, Yellow Garnet Screw
+gregtech:gt.metaitem.01:27529, Vinteum Screw
 gregtech:gt.metaitem.01:27540, Aer Screw
 gregtech:gt.metaitem.01:27541, Ignis Screw
 gregtech:gt.metaitem.01:27542, Terra Screw
@@ -19858,10 +20818,23 @@ gregtech:gt.metaitem.01:27543, Aqua Screw
 gregtech:gt.metaitem.01:27544, Perditio Screw
 gregtech:gt.metaitem.01:27545, Ordo Screw
 gregtech:gt.metaitem.01:27809, Wood Screw
+gregtech:gt.metaitem.01:27829, Deep Iron Screw
 gregtech:gt.metaitem.01:27874, Polyethylene Screw
 gregtech:gt.metaitem.01:27880, Rubber Screw
 gregtech:gt.metaitem.01:27884, Desh Screw
 gregtech:gt.metaitem.01:27889, Sealed Wood Screw
+gregtech:gt.metaitem.01:27951, Vyroxeres Screw
+gregtech:gt.metaitem.01:27954, Inolashite Screw
+gregtech:gt.metaitem.01:27957, Hepatizon Screw
+gregtech:gt.metaitem.01:27958, Angmallen Screw
+gregtech:gt.metaitem.01:27959, Eximite Screw
+gregtech:gt.metaitem.01:27960, Prometheum Screw
+gregtech:gt.metaitem.01:27961, Oureclase Screw
+gregtech:gt.metaitem.01:27962, Carmot Screw
+gregtech:gt.metaitem.01:27963, Haderoth Screw
+gregtech:gt.metaitem.01:27964, Celenegil Screw
+gregtech:gt.metaitem.01:27965, Atlarus Screw
+gregtech:gt.metaitem.01:27966, Orichalcum Screw
 gregtech:gt.metaitem.01:28019, Aluminium Ring
 gregtech:gt.metaitem.01:28028, Titanium Ring
 gregtech:gt.metaitem.01:28030, Chrome Ring
@@ -19930,6 +20903,11 @@ gregtech:gt.metaitem.01:30376, Titaniumtetrachloride Cell
 gregtech:gt.metaitem.01:30377, Magnesiumchloride Cell
 gregtech:gt.metaitem.01:30460, Hydrogen Sulfide Cell
 gregtech:gt.metaitem.01:30485, Alduorite Cell
+gregtech:gt.metaitem.01:30486, Lemurite Cell
+gregtech:gt.metaitem.01:30487, Meutoite Cell
+gregtech:gt.metaitem.01:30488, Rubracium Cell
+gregtech:gt.metaitem.01:30489, Vulcanite Cell
+gregtech:gt.metaitem.01:30490, Infuscolium Cell
 gregtech:gt.metaitem.01:30495, Liquid Air Cell
 gregtech:gt.metaitem.01:30496, Noble Gases Cell
 gregtech:gt.metaitem.01:30497, Carbon Dioxide Cell
@@ -19983,6 +20961,14 @@ gregtech:gt.metaitem.01:30837, Silicon Dioxide Cell
 gregtech:gt.metaitem.01:30853, Cobalt Hexahydrate Cell
 gregtech:gt.metaitem.01:30865, Graphite Cell
 gregtech:gt.metaitem.01:30885, Milk Cell
+gregtech:gt.metaitem.01:30950, Ignatius Cell
+gregtech:gt.metaitem.01:30953, Kalendrite Cell
+gregtech:gt.metaitem.01:30954, Inolashite Cell
+gregtech:gt.metaitem.01:30956, Tartarite Cell
+gregtech:gt.metaitem.01:30957, Hepatizon Cell
+gregtech:gt.metaitem.01:30958, Angmallen Cell
+gregtech:gt.metaitem.01:30963, Haderoth Cell
+gregtech:gt.metaitem.01:30964, Celenegil Cell
 gregtech:gt.metaitem.01:30999, Mc Guffium 239 Cell
 gregtech:gt.metaitem.01:32000, Copper GT Credit
 gregtech:gt.metaitem.01:32001, Cupronickel GT Credit
@@ -20323,7 +21309,9 @@ gregtech:gt.metaitem.02:16313, Magnalium Turbine Blade
 gregtech:gt.metaitem.02:16316, Tungstensteel Turbine Blade
 gregtech:gt.metaitem.02:16317, Osmiridium Turbine Blade
 gregtech:gt.metaitem.02:16319, Adamantium Turbine Blade
+gregtech:gt.metaitem.02:16320, Fluxed Electrum Turbine Blade
 gregtech:gt.metaitem.02:16321, Enderium Turbine Blade
+gregtech:gt.metaitem.02:16322, HSLA Steel Turbine Blade
 gregtech:gt.metaitem.02:16323, Infused Gold Turbine Blade
 gregtech:gt.metaitem.02:16324, Naquadah Turbine Blade
 gregtech:gt.metaitem.02:16325, Naquadah Alloy Turbine Blade
@@ -20333,12 +21321,17 @@ gregtech:gt.metaitem.02:16328, Duranium Turbine Blade
 gregtech:gt.metaitem.02:16329, Tritanium Turbine Blade
 gregtech:gt.metaitem.02:16330, Thaumium Turbine Blade
 gregtech:gt.metaitem.02:16331, Mithril Turbine Blade
+gregtech:gt.metaitem.02:16332, Midasium Turbine Blade
+gregtech:gt.metaitem.02:16333, Astral Silver Turbine Blade
 gregtech:gt.metaitem.02:16334, Black Steel Turbine Blade
 gregtech:gt.metaitem.02:16335, Damascus Steel Turbine Blade
+gregtech:gt.metaitem.02:16336, Shadowiron Turbine Blade
+gregtech:gt.metaitem.02:16337, Shadowsteel Turbine Blade
 gregtech:gt.metaitem.02:16338, Ironwood Turbine Blade
 gregtech:gt.metaitem.02:16339, Steeleaf Turbine Blade
 gregtech:gt.metaitem.02:16340, Meteoric Iron Turbine Blade
 gregtech:gt.metaitem.02:16341, Meteoric Steel Turbine Blade
+gregtech:gt.metaitem.02:16342, Dark Iron Turbine Blade
 gregtech:gt.metaitem.02:16343, Cobalt Brass Turbine Blade
 gregtech:gt.metaitem.02:16344, Ultimet Turbine Blade
 gregtech:gt.metaitem.02:16346, Fiery Steel Turbine Blade
@@ -20362,9 +21355,25 @@ gregtech:gt.metaitem.02:16374, HSS-S Turbine Blade
 gregtech:gt.metaitem.02:16470, Epoxid Turbine Blade
 gregtech:gt.metaitem.02:16472, Polycaprolactam Turbine Blade
 gregtech:gt.metaitem.02:16473, Polytetrafluoroethylene Turbine Blade
+gregtech:gt.metaitem.02:16489, Vulcanite Turbine Blade
+gregtech:gt.metaitem.02:16490, Infuscolium Turbine Blade
+gregtech:gt.metaitem.02:16521, Force Turbine Blade
 gregtech:gt.metaitem.02:16801, Blaze Turbine Blade
 gregtech:gt.metaitem.02:16819, Graphene Turbine Blade
+gregtech:gt.metaitem.02:16829, Deep Iron Turbine Blade
 gregtech:gt.metaitem.02:16884, Desh Turbine Blade
+gregtech:gt.metaitem.02:16951, Vyroxeres Turbine Blade
+gregtech:gt.metaitem.02:16954, Inolashite Turbine Blade
+gregtech:gt.metaitem.02:16957, Hepatizon Turbine Blade
+gregtech:gt.metaitem.02:16958, Angmallen Turbine Blade
+gregtech:gt.metaitem.02:16959, Eximite Turbine Blade
+gregtech:gt.metaitem.02:16960, Prometheum Turbine Blade
+gregtech:gt.metaitem.02:16961, Oureclase Turbine Blade
+gregtech:gt.metaitem.02:16962, Carmot Turbine Blade
+gregtech:gt.metaitem.02:16963, Haderoth Turbine Blade
+gregtech:gt.metaitem.02:16964, Celenegil Turbine Blade
+gregtech:gt.metaitem.02:16965, Atlarus Turbine Blade
+gregtech:gt.metaitem.02:16966, Orichalcum Turbine Blade
 gregtech:gt.metaitem.02:19057, Fine Tin Wire
 gregtech:gt.metaitem.02:19083, Fine Osmium Wire
 gregtech:gt.metaitem.02:19085, Fine Platinum Wire
@@ -20435,7 +21444,9 @@ gregtech:gt.metaitem.02:22313, Long Magnalium Rod
 gregtech:gt.metaitem.02:22316, Long Tungstensteel Rod
 gregtech:gt.metaitem.02:22317, Long Osmiridium Rod
 gregtech:gt.metaitem.02:22319, Long Adamantium Rod
+gregtech:gt.metaitem.02:22320, Long Fluxed Electrum Rod
 gregtech:gt.metaitem.02:22321, Long Enderium Rod
+gregtech:gt.metaitem.02:22322, Long HSLA Steel Rod
 gregtech:gt.metaitem.02:22323, Long Infused Gold Rod
 gregtech:gt.metaitem.02:22324, Long Naquadah Rod
 gregtech:gt.metaitem.02:22325, Long Naquadah Alloy Rod
@@ -20445,12 +21456,17 @@ gregtech:gt.metaitem.02:22328, Long Duranium Rod
 gregtech:gt.metaitem.02:22329, Long Tritanium Rod
 gregtech:gt.metaitem.02:22330, Long Thaumium Rod
 gregtech:gt.metaitem.02:22331, Long Mithril Rod
+gregtech:gt.metaitem.02:22332, Long Midasium Rod
+gregtech:gt.metaitem.02:22333, Long Astral Silver Rod
 gregtech:gt.metaitem.02:22334, Long Black Steel Rod
 gregtech:gt.metaitem.02:22335, Long Damascus Steel Rod
+gregtech:gt.metaitem.02:22336, Long Shadowiron Rod
+gregtech:gt.metaitem.02:22337, Long Shadowsteel Rod
 gregtech:gt.metaitem.02:22338, Long Ironwood Rod
 gregtech:gt.metaitem.02:22339, Long Steeleaf Rod
 gregtech:gt.metaitem.02:22340, Long Meteoric Iron Rod
 gregtech:gt.metaitem.02:22341, Long Meteoric Steel Rod
+gregtech:gt.metaitem.02:22342, Long Dark Iron Rod
 gregtech:gt.metaitem.02:22343, Long Cobalt Brass Rod
 gregtech:gt.metaitem.02:22344, Long Ultimet Rod
 gregtech:gt.metaitem.02:22346, Long Fiery Steel Rod
@@ -20476,6 +21492,8 @@ gregtech:gt.metaitem.02:22470, Long Epoxid Rod
 gregtech:gt.metaitem.02:22471, Long Polysiloxane Rod
 gregtech:gt.metaitem.02:22472, Long Polycaprolactam Rod
 gregtech:gt.metaitem.02:22473, Long Polytetrafluoroethylene Rod
+gregtech:gt.metaitem.02:22489, Long Vulcanite Rod
+gregtech:gt.metaitem.02:22490, Long Infuscolium Rod
 gregtech:gt.metaitem.02:22500, Long Diamond Rod
 gregtech:gt.metaitem.02:22501, Long Emerald Rod
 gregtech:gt.metaitem.02:22502, Long Ruby Rod
@@ -20490,9 +21508,11 @@ gregtech:gt.metaitem.02:22510, Long Opal Rod
 gregtech:gt.metaitem.02:22513, Long Blue Topaz Rod
 gregtech:gt.metaitem.02:22514, Long Amber Rod
 gregtech:gt.metaitem.02:22516, Long Certus Quartz Rod
+gregtech:gt.metaitem.02:22521, Long Force Rod
 gregtech:gt.metaitem.02:22522, Long Nether Quartz Rod
 gregtech:gt.metaitem.02:22527, Long Red Garnet Rod
 gregtech:gt.metaitem.02:22528, Long Yellow Garnet Rod
+gregtech:gt.metaitem.02:22529, Long Vinteum Rod
 gregtech:gt.metaitem.02:22540, Long Aer Rod
 gregtech:gt.metaitem.02:22541, Long Ignis Rod
 gregtech:gt.metaitem.02:22542, Long Terra Rod
@@ -20501,10 +21521,23 @@ gregtech:gt.metaitem.02:22544, Long Perditio Rod
 gregtech:gt.metaitem.02:22545, Long Ordo Rod
 gregtech:gt.metaitem.02:22801, Long Blaze Rod
 gregtech:gt.metaitem.02:22809, Long Wood Stick
+gregtech:gt.metaitem.02:22829, Long Deep Iron Rod
 gregtech:gt.metaitem.02:22874, Long Polyethylene Rod
 gregtech:gt.metaitem.02:22880, Long Rubber Rod
 gregtech:gt.metaitem.02:22884, Long Desh Rod
 gregtech:gt.metaitem.02:22889, Long Sealed Wood Stick
+gregtech:gt.metaitem.02:22951, Long Vyroxeres Rod
+gregtech:gt.metaitem.02:22954, Long Inolashite Rod
+gregtech:gt.metaitem.02:22957, Long Hepatizon Rod
+gregtech:gt.metaitem.02:22958, Long Angmallen Rod
+gregtech:gt.metaitem.02:22959, Long Eximite Rod
+gregtech:gt.metaitem.02:22960, Long Prometheum Rod
+gregtech:gt.metaitem.02:22961, Long Oureclase Rod
+gregtech:gt.metaitem.02:22962, Long Carmot Rod
+gregtech:gt.metaitem.02:22963, Long Haderoth Rod
+gregtech:gt.metaitem.02:22964, Long Celenegil Rod
+gregtech:gt.metaitem.02:22965, Long Atlarus Rod
+gregtech:gt.metaitem.02:22966, Long Orichalcum Rod
 gregtech:gt.metaitem.02:24028, Titanium Spring
 gregtech:gt.metaitem.02:25008, Beryllium Arrow
 gregtech:gt.metaitem.02:25010, Carbon Arrow
@@ -20548,7 +21581,9 @@ gregtech:gt.metaitem.02:25313, Magnalium Arrow
 gregtech:gt.metaitem.02:25316, Tungstensteel Arrow
 gregtech:gt.metaitem.02:25317, Osmiridium Arrow
 gregtech:gt.metaitem.02:25319, Adamantium Arrow
+gregtech:gt.metaitem.02:25320, Fluxed Electrum Arrow
 gregtech:gt.metaitem.02:25321, Enderium Arrow
+gregtech:gt.metaitem.02:25322, HSLA Steel Arrow
 gregtech:gt.metaitem.02:25323, Infused Gold Arrow
 gregtech:gt.metaitem.02:25324, Naquadah Arrow
 gregtech:gt.metaitem.02:25325, Naquadah Alloy Arrow
@@ -20558,12 +21593,17 @@ gregtech:gt.metaitem.02:25328, Duranium Arrow
 gregtech:gt.metaitem.02:25329, Tritanium Arrow
 gregtech:gt.metaitem.02:25330, Thaumium Arrow
 gregtech:gt.metaitem.02:25331, Mithril Arrow
+gregtech:gt.metaitem.02:25332, Midasium Arrow
+gregtech:gt.metaitem.02:25333, Astral Silver Arrow
 gregtech:gt.metaitem.02:25334, Black Steel Arrow
 gregtech:gt.metaitem.02:25335, Damascus Steel Arrow
+gregtech:gt.metaitem.02:25336, Shadowiron Arrow
+gregtech:gt.metaitem.02:25337, Shadowsteel Arrow
 gregtech:gt.metaitem.02:25338, Ironwood Arrow
 gregtech:gt.metaitem.02:25339, Steeleaf Arrow
 gregtech:gt.metaitem.02:25340, Meteoric Iron Arrow
 gregtech:gt.metaitem.02:25341, Meteoric Steel Arrow
+gregtech:gt.metaitem.02:25342, Dark Iron Arrow
 gregtech:gt.metaitem.02:25343, Cobalt Brass Arrow
 gregtech:gt.metaitem.02:25344, Ultimet Arrow
 gregtech:gt.metaitem.02:25346, Fiery Steel Arrow
@@ -20589,6 +21629,8 @@ gregtech:gt.metaitem.02:25470, Epoxid Arrow
 gregtech:gt.metaitem.02:25471, Polysiloxane Arrow
 gregtech:gt.metaitem.02:25472, Polycaprolactam Arrow
 gregtech:gt.metaitem.02:25473, Polytetrafluoroethylene Arrow
+gregtech:gt.metaitem.02:25489, Vulcanite Arrow
+gregtech:gt.metaitem.02:25490, Infuscolium Arrow
 gregtech:gt.metaitem.02:25500, Diamond Arrow
 gregtech:gt.metaitem.02:25501, Emerald Arrow
 gregtech:gt.metaitem.02:25502, Ruby Arrow
@@ -20603,9 +21645,11 @@ gregtech:gt.metaitem.02:25510, Opal Arrow
 gregtech:gt.metaitem.02:25513, Blue Topaz Arrow
 gregtech:gt.metaitem.02:25514, Amber Arrow
 gregtech:gt.metaitem.02:25516, Certus Quartz Arrow
+gregtech:gt.metaitem.02:25521, Force Arrow
 gregtech:gt.metaitem.02:25522, Nether Quartz Arrow
 gregtech:gt.metaitem.02:25527, Red Garnet Arrow
 gregtech:gt.metaitem.02:25528, Yellow Garnet Arrow
+gregtech:gt.metaitem.02:25529, Vinteum Arrow
 gregtech:gt.metaitem.02:25540, Aer Arrow
 gregtech:gt.metaitem.02:25541, Ignis Arrow
 gregtech:gt.metaitem.02:25542, Terra Arrow
@@ -20616,6 +21660,7 @@ gregtech:gt.metaitem.02:25801, Blaze Arrow
 gregtech:gt.metaitem.02:25802, Flint Arrow
 gregtech:gt.metaitem.02:25809, Wood Arrow
 gregtech:gt.metaitem.02:25819, Graphene Arrow
+gregtech:gt.metaitem.02:25829, Deep Iron Arrow
 gregtech:gt.metaitem.02:25849, Black Granite Arrow
 gregtech:gt.metaitem.02:25850, Red Granite Arrow
 gregtech:gt.metaitem.02:25865, Graphite Arrow
@@ -20623,6 +21668,18 @@ gregtech:gt.metaitem.02:25874, Polyethylene Arrow
 gregtech:gt.metaitem.02:25880, Rubber Arrow
 gregtech:gt.metaitem.02:25884, Desh Arrow
 gregtech:gt.metaitem.02:25889, Sealed Wood Arrow
+gregtech:gt.metaitem.02:25951, Vyroxeres Arrow
+gregtech:gt.metaitem.02:25954, Inolashite Arrow
+gregtech:gt.metaitem.02:25957, Hepatizon Arrow
+gregtech:gt.metaitem.02:25958, Angmallen Arrow
+gregtech:gt.metaitem.02:25959, Eximite Arrow
+gregtech:gt.metaitem.02:25960, Prometheum Arrow
+gregtech:gt.metaitem.02:25961, Oureclase Arrow
+gregtech:gt.metaitem.02:25962, Carmot Arrow
+gregtech:gt.metaitem.02:25963, Haderoth Arrow
+gregtech:gt.metaitem.02:25964, Celenegil Arrow
+gregtech:gt.metaitem.02:25965, Atlarus Arrow
+gregtech:gt.metaitem.02:25966, Orichalcum Arrow
 gregtech:gt.metaitem.02:26008, Light Beryllium Arrow
 gregtech:gt.metaitem.02:26010, Light Carbon Arrow
 gregtech:gt.metaitem.02:26019, Light Aluminium Arrow
@@ -20665,7 +21722,9 @@ gregtech:gt.metaitem.02:26313, Light Magnalium Arrow
 gregtech:gt.metaitem.02:26316, Light Tungstensteel Arrow
 gregtech:gt.metaitem.02:26317, Light Osmiridium Arrow
 gregtech:gt.metaitem.02:26319, Light Adamantium Arrow
+gregtech:gt.metaitem.02:26320, Light Fluxed Electrum Arrow
 gregtech:gt.metaitem.02:26321, Light Enderium Arrow
+gregtech:gt.metaitem.02:26322, Light HSLA Steel Arrow
 gregtech:gt.metaitem.02:26323, Light Infused Gold Arrow
 gregtech:gt.metaitem.02:26324, Light Naquadah Arrow
 gregtech:gt.metaitem.02:26325, Light Naquadah Alloy Arrow
@@ -20675,12 +21734,17 @@ gregtech:gt.metaitem.02:26328, Light Duranium Arrow
 gregtech:gt.metaitem.02:26329, Light Tritanium Arrow
 gregtech:gt.metaitem.02:26330, Light Thaumium Arrow
 gregtech:gt.metaitem.02:26331, Light Mithril Arrow
+gregtech:gt.metaitem.02:26332, Light Midasium Arrow
+gregtech:gt.metaitem.02:26333, Light Astral Silver Arrow
 gregtech:gt.metaitem.02:26334, Light Black Steel Arrow
 gregtech:gt.metaitem.02:26335, Light Damascus Steel Arrow
+gregtech:gt.metaitem.02:26336, Light Shadowiron Arrow
+gregtech:gt.metaitem.02:26337, Light Shadowsteel Arrow
 gregtech:gt.metaitem.02:26338, Light Ironwood Arrow
 gregtech:gt.metaitem.02:26339, Light Steeleaf Arrow
 gregtech:gt.metaitem.02:26340, Light Meteoric Iron Arrow
 gregtech:gt.metaitem.02:26341, Light Meteoric Steel Arrow
+gregtech:gt.metaitem.02:26342, Light Dark Iron Arrow
 gregtech:gt.metaitem.02:26343, Light Cobalt Brass Arrow
 gregtech:gt.metaitem.02:26344, Light Ultimet Arrow
 gregtech:gt.metaitem.02:26346, Light Fiery Steel Arrow
@@ -20706,6 +21770,8 @@ gregtech:gt.metaitem.02:26470, Light Epoxid Arrow
 gregtech:gt.metaitem.02:26471, Light Polysiloxane Arrow
 gregtech:gt.metaitem.02:26472, Light Polycaprolactam Arrow
 gregtech:gt.metaitem.02:26473, Light Polytetrafluoroethylene Arrow
+gregtech:gt.metaitem.02:26489, Light Vulcanite Arrow
+gregtech:gt.metaitem.02:26490, Light Infuscolium Arrow
 gregtech:gt.metaitem.02:26500, Light Diamond Arrow
 gregtech:gt.metaitem.02:26501, Light Emerald Arrow
 gregtech:gt.metaitem.02:26502, Light Ruby Arrow
@@ -20720,9 +21786,11 @@ gregtech:gt.metaitem.02:26510, Light Opal Arrow
 gregtech:gt.metaitem.02:26513, Light Blue Topaz Arrow
 gregtech:gt.metaitem.02:26514, Light Amber Arrow
 gregtech:gt.metaitem.02:26516, Light Certus Quartz Arrow
+gregtech:gt.metaitem.02:26521, Light Force Arrow
 gregtech:gt.metaitem.02:26522, Light Nether Quartz Arrow
 gregtech:gt.metaitem.02:26527, Light Red Garnet Arrow
 gregtech:gt.metaitem.02:26528, Light Yellow Garnet Arrow
+gregtech:gt.metaitem.02:26529, Light Vinteum Arrow
 gregtech:gt.metaitem.02:26540, Light Aer Arrow
 gregtech:gt.metaitem.02:26541, Light Ignis Arrow
 gregtech:gt.metaitem.02:26542, Light Terra Arrow
@@ -20733,6 +21801,7 @@ gregtech:gt.metaitem.02:26801, Light Blaze Arrow
 gregtech:gt.metaitem.02:26802, Light Flint Arrow
 gregtech:gt.metaitem.02:26809, Light Wood Arrow
 gregtech:gt.metaitem.02:26819, Light Graphene Arrow
+gregtech:gt.metaitem.02:26829, Light Deep Iron Arrow
 gregtech:gt.metaitem.02:26849, Light Black Granite Arrow
 gregtech:gt.metaitem.02:26850, Light Red Granite Arrow
 gregtech:gt.metaitem.02:26865, Light Graphite Arrow
@@ -20740,6 +21809,18 @@ gregtech:gt.metaitem.02:26874, Light Polyethylene Arrow
 gregtech:gt.metaitem.02:26880, Light Rubber Arrow
 gregtech:gt.metaitem.02:26884, Light Desh Arrow
 gregtech:gt.metaitem.02:26889, Light Sealed Wood Arrow
+gregtech:gt.metaitem.02:26951, Light Vyroxeres Arrow
+gregtech:gt.metaitem.02:26954, Light Inolashite Arrow
+gregtech:gt.metaitem.02:26957, Light Hepatizon Arrow
+gregtech:gt.metaitem.02:26958, Light Angmallen Arrow
+gregtech:gt.metaitem.02:26959, Light Eximite Arrow
+gregtech:gt.metaitem.02:26960, Light Prometheum Arrow
+gregtech:gt.metaitem.02:26961, Light Oureclase Arrow
+gregtech:gt.metaitem.02:26962, Light Carmot Arrow
+gregtech:gt.metaitem.02:26963, Light Haderoth Arrow
+gregtech:gt.metaitem.02:26964, Light Celenegil Arrow
+gregtech:gt.metaitem.02:26965, Light Atlarus Arrow
+gregtech:gt.metaitem.02:26966, Light Orichalcum Arrow
 gregtech:gt.metaitem.02:27500, Chipped Diamond
 gregtech:gt.metaitem.02:27501, Chipped Emerald
 gregtech:gt.metaitem.02:27502, Chipped Ruby
@@ -23289,56 +24370,56 @@ ExtraTiC:extra.bucket:1, Molten Fairy Bucket
 ExtraTiC:extra.bucket:6, Molten Desh Bucket
 ExtraTiC:extra.bucket:12, Molten Adamantine Bucket
 ExtraTiC:extra.bucket:11, Molten Brass Bucket
-factorization:motor, Motor
-factorization:servo/servo_motor, Servo Motor
-factorization:sludge, Sludge
-factorization:acid:0, Sulfuric Acid
-factorization:acid:1, Aqua Regia
-factorization:nether_powder, Netherrack Powder
-factorization:servo/commenter, Commenter
-factorization:docbook, The Factorization Manual
-factorization:darkIronChain, Chain
-factorization:chainLink, Dark Iron Chain Link
-factorization:corkscrew, Corkscrew
-factorization:dark_iron_ingot, Dark Iron Ingot
-factorization:utiligoo:0, Goo
-factorization:servo/instruction_plate, Instruction Plate
-factorization:shortChain, Short Length of Chain
-factorization:servo/sprocket, Dark Iron Sprocket
-factorization:logic_matrix_identifier, Logic Matrix: Identifier
-factorization:daybarrel, item.factorization:daybarrel.name
-factorization:diamond_shard, Diamond Block Shard
-factorization:entheas, Entheas
-factorization:lead_ingot, item.factorization:lead_ingot.name
-factorization:tool/charge_meter, Charge Meter
-factorization:logic_matrix, Blank Logic Matrix
-factorization:sculptTool:0, Sculpting Tool
-factorization:logic_matrix_controller, Logic Matrix: Controller
-factorization:insulated_coil, Insulated Coil
-factorization:colossusGuide, Lost Map
-factorization:socket/:34, Robotic Arm
-factorization:socket/:35, Item Shifter
-factorization:spawnPoster, Poster
-factorization:silver_ingot, item.factorization:silver_ingot.name
-factorization:charge_battery, Battery Block
-factorization:brokenArtifact, item.factorization:brokenArtifact.name
-factorization:tool/pocket_crafting_table, Pocket Crafting Table
-factorization:ceramics/glaze_bucket, Glaze Bucket
-factorization:socket/scissors, Enormous Scissors
 factorization:servo/component, item.factorization:servo/component.name
-factorization:fan, Pressurizer
-factorization:twistedBlock, Twisted Block of Dark Iron
-factorization:barrelCart:0, Barrel Cart
-factorization:barrelCart:0, Barrel Cart: Creative Bedrock Barrel
-factorization:potencyBottle, Bottle of Potency
+factorization:motor, Motor
+factorization:servo/decorator, item.factorization:servo/decorator.name
 factorization:mansandwich:0, Manwich
 factorization:mansandwich:1, Spicy Manwich
-factorization:diamond_cutting_head, Diamond Cutting Head
+factorization:servo/instruction_plate, Instruction Plate
+factorization:charge_battery, Battery Block
+factorization:darkIronChain, Chain
+factorization:tool/charge_meter, Charge Meter
+factorization:spawnPoster, Poster
+factorization:logic_matrix_identifier, Logic Matrix: Identifier
 factorization:mirror, Mirror
+factorization:ceramics/glaze_bucket, Glaze Bucket
+factorization:silver_ingot, item.factorization:silver_ingot.name
+factorization:docbook, The Factorization Manual
+factorization:barrelCart:0, Barrel Cart
+factorization:barrelCart:0, Barrel Cart: Creative Bedrock Barrel
+factorization:servo/sprocket, Dark Iron Sprocket
+factorization:corkscrew, Corkscrew
 factorization:servo/servo, Servo
+factorization:shortChain, Short Length of Chain
+factorization:dark_iron_ingot, Dark Iron Ingot
+factorization:colossusGuide, Lost Map
+factorization:daybarrel, item.factorization:daybarrel.name
+factorization:chainLink, Dark Iron Chain Link
+factorization:lead_ingot, item.factorization:lead_ingot.name
+factorization:logic_matrix, Blank Logic Matrix
+factorization:diamond_cutting_head, Diamond Cutting Head
+factorization:servo/servo_motor, Servo Motor
+factorization:tool/pocket_crafting_table, Pocket Crafting Table
+factorization:acid:0, Sulfuric Acid
+factorization:acid:1, Aqua Regia
 factorization:tool/matrix_programmer, Logic Matrix Programmer
+factorization:insulated_coil, Insulated Coil
+factorization:fan, Pressurizer
+factorization:socket/:34, Robotic Arm
+factorization:socket/:35, Item Shifter
+factorization:potencyBottle, Bottle of Potency
 factorization:sap, Sap
-factorization:servo/decorator, item.factorization:servo/decorator.name
+factorization:brokenArtifact, item.factorization:brokenArtifact.name
+factorization:sludge, Sludge
+factorization:twistedBlock, Twisted Block of Dark Iron
+factorization:logic_matrix_controller, Logic Matrix: Controller
+factorization:diamond_shard, Diamond Block Shard
+factorization:sculptTool:0, Sculpting Tool
+factorization:servo/commenter, Commenter
+factorization:utiligoo:0, Goo
+factorization:nether_powder, Netherrack Powder
+factorization:socket/scissors, Enormous Scissors
+factorization:entheas, Entheas
 gendustry:Labware, Genetics Labware
 gendustry:Waste, Genetic Waste
 gendustry:GeneSampleBlank, Blank Gene Sample
@@ -24015,13 +25096,13 @@ IronChest:diamondCrystalUpgrade, Diamond to Crystal Chest Upgrade
 IronChest:woodIronUpgrade, Wood to Iron Chest Upgrade
 IronChest:woodCopperUpgrade, Wood to Copper Chest Upgrade
 IronChest:diamondObsidianUpgrade, Diamond to Obsidian Chest Upgrade
-ironchestminecarts:minecart_chest_copper, Minecart with Copper Chest
+ironchestminecarts:minecart_chest_diamond, Minecart with Diamond Chest
+ironchestminecarts:minecart_chest_crystal, Minecart with Crystal Chest
 ironchestminecarts:minecart_chest_obsidian, Minecart with Obsidian Chest
+ironchestminecarts:minecart_chest_copper, Minecart with Copper Chest
 ironchestminecarts:minecart_chest_dirtchest9000, Minecart with DirtChest9000
 ironchestminecarts:minecart_chest_gold, Minecart with Gold Chest
 ironchestminecarts:minecart_chest_silver, Minecart with Silver Chest
-ironchestminecarts:minecart_chest_crystal, Minecart with Crystal Chest
-ironchestminecarts:minecart_chest_diamond, Minecart with Diamond Chest
 ironchestminecarts:minecart_chest_iron, Minecart with Iron Chest
 JABBA:upgradeStructural:0, item.upgrade.structural.1.name
 JABBA:upgradeStructural:1, item.upgrade.structural.2.name
@@ -24557,6 +25638,7 @@ StorageDrawers:shroudKey, Concealment Key
 StorageDrawers:personalKey:0, Personal Key
 StorageDrawers:personalKey:1, Personal Key (CoFH)
 StorageDrawers:tape, Packing Tape
+TGregworks:tgregworks.shardcast, Shard Cast
 thaumcraftgates:item.buildcraftPipe.thaumiumpipe:0, Thaumium Pipe
 thaumicenergistics:part.base:0, Essentia Import Bus
 thaumicenergistics:part.base:1, Essentia Level Emitter
@@ -28336,12 +29418,14 @@ ThermalDynamics:cover:0, Block of Americium Cover
 ThermalDynamics:cover:0, Block of Annealed Copper Cover
 ThermalDynamics:cover:0, Block of Antimony Cover
 ThermalDynamics:cover:0, Block of Arsenic Cover
+ThermalDynamics:cover:0, Block of Astral Silver Cover
 ThermalDynamics:cover:0, Block of Battery Alloy Cover
 ThermalDynamics:cover:0, Block of Beryllium Cover
 ThermalDynamics:cover:0, Block of Bismuth Cover
 ThermalDynamics:cover:0, Block of Bismuth Bronze Cover
 ThermalDynamics:cover:0, Block of Black Bronze Cover
 ThermalDynamics:cover:0, Block of Black Steel Cover
+ThermalDynamics:cover:0, Block of Blue Alloy Cover
 ThermalDynamics:cover:0, Block of Blue Steel Cover
 ThermalDynamics:cover:0, Block of Brass Cover
 ThermalDynamics:cover:0, Block of Bronze Cover
@@ -28354,13 +29438,22 @@ ThermalDynamics:cover:0, Block of Cobalt Brass Cover
 ThermalDynamics:cover:0, Block of Copper Cover
 ThermalDynamics:cover:0, Block of Cupronickel Cover
 ThermalDynamics:cover:0, Block of Damascus Steel Cover
+ThermalDynamics:cover:0, Block of Dark Iron Cover
+ThermalDynamics:cover:0, Block of Deep Iron Cover
 ThermalDynamics:cover:0, Block of Desh Cover
 ThermalDynamics:cover:0, Block of Duranium Cover
+ThermalDynamics:cover:0, Block of Dysprosium Cover
 ThermalDynamics:cover:0, Block of Electrum Cover
+ThermalDynamics:cover:0, Block of Fluxed Electrum Cover
 ThermalDynamics:cover:0, Block of Enderium Cover
+ThermalDynamics:cover:0, Block of Erbium Cover
 ThermalDynamics:cover:0, Block of Europium Cover
 ThermalDynamics:cover:0, Block of Fiery Steel Cover
+ThermalDynamics:cover:0, Block of Gadolinium Cover
 ThermalDynamics:cover:0, Block of Gallium Cover
+ThermalDynamics:cover:0, Block of Holmium Cover
+ThermalDynamics:cover:0, Block of HSLA Steel Cover
+ThermalDynamics:cover:0, Block of Indium Cover
 ThermalDynamics:cover:0, Block of Infused Gold Cover
 ThermalDynamics:cover:0, Block of Invar Cover
 ThermalDynamics:cover:0, Block of Iridium Cover
@@ -28368,6 +29461,7 @@ ThermalDynamics:cover:0, Block of Magnetic Iron Cover
 ThermalDynamics:cover:0, Block of Ironwood Cover
 ThermalDynamics:cover:0, Block of Kanthal Cover
 ThermalDynamics:cover:0, Block of Knightmetal Cover
+ThermalDynamics:cover:0, Block of Lanthanum Cover
 ThermalDynamics:cover:0, Block of Lead Cover
 ThermalDynamics:cover:0, Block of Lutetium Cover
 ThermalDynamics:cover:0, Block of Magnalium Cover
@@ -28375,6 +29469,7 @@ ThermalDynamics:cover:0, Block of Magnesium Cover
 ThermalDynamics:cover:0, Block of Manganese Cover
 ThermalDynamics:cover:0, Block of Meteoric Iron Cover
 ThermalDynamics:cover:0, Block of Meteoric Steel Cover
+ThermalDynamics:cover:0, Block of Midasium Cover
 ThermalDynamics:cover:0, Block of Mithril Cover
 ThermalDynamics:cover:0, Block of Molybdenum Cover
 ThermalDynamics:cover:0, Block of Naquadah Cover
@@ -28396,9 +29491,16 @@ ThermalDynamics:cover:0, Block of Pig Iron Cover
 ThermalDynamics:cover:0, Block of Platinum Cover
 ThermalDynamics:cover:0, Block of Plutonium 244 Cover
 ThermalDynamics:cover:0, Block of Plutonium 241 Cover
+ThermalDynamics:cover:0, Block of Praseodymium Cover
+ThermalDynamics:cover:0, Block of Promethium Cover
 ThermalDynamics:cover:0, Block of Red Alloy Cover
 ThermalDynamics:cover:0, Block of Red Steel Cover
 ThermalDynamics:cover:0, Block of Rose Gold Cover
+ThermalDynamics:cover:0, Block of Rubidium Cover
+ThermalDynamics:cover:0, Block of Samarium Cover
+ThermalDynamics:cover:0, Block of Scandium Cover
+ThermalDynamics:cover:0, Block of Shadowiron Cover
+ThermalDynamics:cover:0, Block of Shadowsteel Cover
 ThermalDynamics:cover:0, Block of Silicon Cover
 ThermalDynamics:cover:0, Block of Silver Cover
 ThermalDynamics:cover:0, Block of Soldering Alloy Cover
@@ -28406,9 +29508,13 @@ ThermalDynamics:cover:0, Block of Stainless Steel Cover
 ThermalDynamics:cover:0, Block of Steel Cover
 ThermalDynamics:cover:0, Block of Magnetic Steel Cover
 ThermalDynamics:cover:0, Block of Sterling Silver Cover
+ThermalDynamics:cover:0, Block of Sunnarium Cover
 ThermalDynamics:cover:0, Block of Tantalum Cover
+ThermalDynamics:cover:0, Block of Tellurium Cover
+ThermalDynamics:cover:0, Block of Terbium Cover
 ThermalDynamics:cover:0, Block of Thaumium Cover
 ThermalDynamics:cover:0, Block of Thorium Cover
+ThermalDynamics:cover:0, Block of Thulium Cover
 ThermalDynamics:cover:0, Block of Tin Cover
 ThermalDynamics:cover:0, Block of Tin Alloy Cover
 ThermalDynamics:cover:0, Block of Titanium Cover
@@ -28421,6 +29527,7 @@ ThermalDynamics:cover:0, Block of Uranium 235 Cover
 ThermalDynamics:cover:0, Block of Vanadium Cover
 ThermalDynamics:cover:0, Block of Vanadium-Gallium Cover
 ThermalDynamics:cover:0, Block of Wrought Iron Cover
+ThermalDynamics:cover:0, Block of Ytterbium Cover
 ThermalDynamics:cover:0, Block of Yttrium Cover
 ThermalDynamics:cover:0, Block of Yttrium Barium Cuprate Cover
 ThermalDynamics:cover:0, Block of Zinc Cover
@@ -28439,6 +29546,7 @@ ThermalDynamics:cover:0, Block of Dilithium Cover
 ThermalDynamics:cover:0, Block of Endereye Cover
 ThermalDynamics:cover:0, Block of Enderpearl Cover
 ThermalDynamics:cover:0, Block of Ruby Cover
+ThermalDynamics:cover:0, Block of Force Cover
 ThermalDynamics:cover:0, Block of Forcicium Cover
 ThermalDynamics:cover:0, Block of Forcillium Cover
 ThermalDynamics:cover:0, Block of Green Sapphire Cover
@@ -28461,6 +29569,7 @@ ThermalDynamics:cover:0, Block of Sodalite Cover
 ThermalDynamics:cover:0, Block of Tanzanite Cover
 ThermalDynamics:cover:0, Block of Terra Cover
 ThermalDynamics:cover:0, Block of Topaz Cover
+ThermalDynamics:cover:0, Block of Vinteum Cover
 ThermalDynamics:cover:0, Block of Yellow Garnet Cover
 ThermalDynamics:cover:0, Block of Nether Star Cover
 ThermalDynamics:cover:0, Block of Charcoal Cover
@@ -29335,25 +30444,25 @@ ThermalDynamics:cover:0, Hawthorn Trim Cover
 ThermalDynamics:cover:0, Treated Wood Trim Cover
 ThermalDynamics:cover:0, Livingwood Trim Cover
 ThermalDynamics:cover:0, Dreamwood Trim Cover
-ThermalDynamics:cover:0, Terra Imbued Fire Cover
-ThermalDynamics:cover:0, tile.gaseousLight.name Cover
-ThermalDynamics:cover:0, tile.nitorGas.name Cover
 ThermalDynamics:cover:0, Aer Imbued Fire Cover
-ThermalDynamics:cover:0, Ignis Imbued Fire Cover
+ThermalDynamics:cover:0, Bedrock Portal Cover
+ThermalDynamics:cover:0, Terra Imbued Fire Cover
 ThermalDynamics:cover:0, Block of Smokey Quartz Cover
 ThermalDynamics:cover:0, Chiseled Smokey Quartz Block Cover
 ThermalDynamics:cover:0, Pillar Smokey Quartz Block Cover
 ThermalDynamics:cover:0, Smokey Quartz Slab Cover
 ThermalDynamics:cover:0, Smokey Quartz Slab Cover
-ThermalDynamics:cover:0, Bedrock Portal Cover
-ThermalDynamics:cover:0, Aqua Imbued Fire Cover
+ThermalDynamics:cover:0, tile.gaseousLight.name Cover
+ThermalDynamics:cover:0, tile.nitorGas.name Cover
+ThermalDynamics:cover:0, Perditio Imbued Fire Cover
+ThermalDynamics:cover:0, Ignis Imbued Fire Cover
 ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
 ThermalDynamics:cover:0, Paving Stair of Travel Cover
+ThermalDynamics:cover:0, Aqua Imbued Fire Cover
 ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
-ThermalDynamics:cover:0, Paving Slab of Travel Cover
-ThermalDynamics:cover:0, Paving Slab of Travel Cover
 ThermalDynamics:cover:0, Ordo Imbued Fire Cover
-ThermalDynamics:cover:0, Perditio Imbued Fire Cover
+ThermalDynamics:cover:0, Paving Slab of Travel Cover
+ThermalDynamics:cover:0, Paving Slab of Travel Cover
 ThermalDynamics:cover:0, Ice Cover
 ThermalDynamics:cover:0, Rose Vines Cover
 ThermalDynamics:retriever:0, Retriever
@@ -30094,7 +31203,22 @@ WitchingGadgets:item.WG_Cluster:3, Native Ferrous Cluster
 WitchingGadgets:item.WG_Cluster:5, Native Manganese Cluster
 WitchingGadgets:item.WG_Cluster:6, Native Zinc Cluster
 WitchingGadgets:item.WG_Cluster:7, Native Shiny Cluster
+WitchingGadgets:item.WG_Cluster:9, Native Shadowiron Cluster
+WitchingGadgets:item.WG_Cluster:11, Native Midasium Cluster
+WitchingGadgets:item.WG_Cluster:12, Native Vyroxeres Cluster
+WitchingGadgets:item.WG_Cluster:13, Native Ceruclase Cluster
+WitchingGadgets:item.WG_Cluster:16, Native Vulcanite Cluster
+WitchingGadgets:item.WG_Cluster:17, Native Sanguinite Cluster
+WitchingGadgets:item.WG_Cluster:18, Native Prometheum Cluster
+WitchingGadgets:item.WG_Cluster:19, Native Deep Iron Cluster
+WitchingGadgets:item.WG_Cluster:20, Native Infuscolium Cluster
+WitchingGadgets:item.WG_Cluster:21, Native Oureclase Cluster
+WitchingGadgets:item.WG_Cluster:22, Native Astral Silver Cluster
+WitchingGadgets:item.WG_Cluster:23, Native Carmot Cluster
 WitchingGadgets:item.WG_Cluster:24, Native Mana Infused Cluster
+WitchingGadgets:item.WG_Cluster:26, Native Orichalcum Cluster
+WitchingGadgets:item.WG_Cluster:28, Native Atlarus Cluster
+WitchingGadgets:item.WG_Cluster:29, Native Eximite Cluster
 ForgeMicroblock:sawStone, Stone Saw
 ForgeMicroblock:sawIron, Iron Saw
 ForgeMicroblock:sawDiamond, Diamond Saw

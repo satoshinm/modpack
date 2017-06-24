@@ -127,6 +127,7 @@
 | [TrashSlot](http://www.curseforge.com/projects/235577/) | 1.0.31 | BlayTheNinth | Adds a trash slot to the inventory screen that allows deletion of unwanted items. |
 | [Traveller's Gear](http://minecraft.curseforge.com/mc-mods/224440-travellers-gear) | 1.16.6 | BluSunrize | RPG Inventories! Armorstands! Cross-Mod Interaction! Woohoo! |
 | [Tinker's Construct](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct-2) | 1.8.8 | | Tinkers' Construct is a mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else.  |
+| [Tinkers' Gregworks](https://github.com/Vexatos/TinkersGregworks) | 1.0.9 | | The mod adds tool parts for every GregTech material that is valid as a GregTech tool. That means, if you can make a GregTech tool out of a material, you can also make TConstruct tool parts out of it |
 | [Tinkers' Mechworks](https://ftbwiki.org/Tinkers%27_Mechworks) | 0.2.15.106 | | Tinker's Mechworks is an addon to Tinkers' Construct which adds drawbridges, igniters, filters, and more. |
 | [TiC Tooltips](https://ftbwiki.org/TiC_Tooltips) | 1.2.5 | | TiC Tooltips is a simple client-side add-on for Tinkers' Construct that adds relevant stats to all tool and tool part tooltips. |
 | [ExtraTiC](https://ftbwiki.org/ExtraTiC) | 1.4.6 | | ExtraTiC is an addon for Tinkers' Construct that adds integration for other mods such as Thermal Foundation and Metallurgy to allow users to make tools from materials from those mods. |
