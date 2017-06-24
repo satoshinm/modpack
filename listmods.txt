@@ -127,6 +127,7 @@ StorageDrawers-Misc-1.7.10-1.1.2.jar
 supercraftingframe-1.7.10.3.jar
 tcinventoryscan-mc1.7.10-1.0.11.jar
 TConstruct-1.7.10-1.8.8.jar
+TGregworks-1.7.10-1.0.9.jar
 Thaumcraft-1.7.10-4.2.3.5.jar
 ThaumcraftGates-1.4.2.jar
 thaumcraftneiplugin-1.7.10-1.7a.jar
