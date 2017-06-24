@@ -33,6 +33,7 @@ Atum-1.7.10-0.6.77.jar
 Automagy-1.7.10-0.28.2.jar
 beyondrealitycore-1.7.10-1.5.6-BETA-6.jar
 BiblioCraft[v1.11.7][MC1.7.10].jar
+BiblioWoods[BiomesOPlenty][v1.9].jar
 BiblioWoods[Forestry][v1.7].jar
 BiblioWoods[Highlands][v1.4].jar
 BiblioWoods[Natura][v1.5].jar
@@ -53,6 +54,7 @@ DoomlikeDungeons-1.8.7-MC1.7.10.jar
 EnderIO-1.7.10-2.3.0.429_beta.jar
 EnderZoo-1.7.10-1.0.15.32.jar
 EnhancedPortals_1.7.10-universal-3.0.12.jar
+extrabiomesxl_1.7.10-3.16.4.jar
 ExtraCells-1.7.10-2.3.14b197.jar
 ExtraTiC-1.7.10-1.4.6.jar
 extrautilities-1.2.12.jar
@@ -60,6 +62,7 @@ Factorization-1.7.10-0.8.107.jar
 fastcraft-1.23.jar
 FloodLights-1.7.10-1.2.8-137.jar
 forestry_1.7.10-4.2.16.64.jar
+ForgottenNature_1.7.19old.jar
 Framez-1.7.10-0.2-32-hotfix-universal.jar
 gendustry-1.6.4.135-mc1.7.10.jar
 GraviSuite_Reloaded-1.7.10-0.9.1.jar
