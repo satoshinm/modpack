@@ -24,6 +24,10 @@
 | [Biomes O' Plenty](http://minecraft.curseforge.com/projects/biomes-o-plenty/files/2281726) | 2.1.0.2027 | Forstride<br/>Adubbz<br/>Amnet<br/>ted80 | Adds 87 new, unique biomes! |
 | [Forgotten Nature](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286390-forgotten-nature-1-7-19-a-natural-addition-to-mc) | 1.7.19old | | 36 new trees/bushes and 7 new Biomes. |
 | [ExtrabiomesXL](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282126-extrabiomesxl-universal-3-16-3-for-mc-1-7-10) | 3.16.4 | | ExtrabiomesXL is a collaborative open source mod for Minecraft which adds new biomes and an assortment of natural blocks and items that enhance gameplay and make exploring fun and interesting. |
+| [AnimalBikes](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278239-animal-bikes-added-a-polar-bear-bikes) | 1.7.10 | | This mod adds a bunch of animals, which you can ride or fly around on. |
+| [Custom Mob Spawner](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272337-mo-creatures-v10-0-5-with-bear-mounts) | 3.5.1 | | Dependency for Mo' Creatures |
+| [Mo' Creatures](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272337-mo-creatures-v10-0-5-with-bear-mounts) | 6.3.1 | | This Mod adds more creatures to the game. |
+| [Aquaculture](https://minecraft.curseforge.com/projects/aquaculture) | 1.2.6.21 | | In Aquaculture you never know what you'll catch. Every biome is home to tons of unique fish you can only catch in that biome, and there's a myriad of new loot items you can randomly catch while fishing. All of this is made possible by simply crafting the Iron Fishing Rod. |
 | [Botania](http://www.minecraftforum.net/topic/2440071-) | r1.8-249 | vazkii | Botania is a magic tech mod based on nature. |
 | [Buildcraft](http://www.mod-buildcraft.com/) | 7.1.22 | Spacetoad<br/>covertJaguar<br/>Asie | Extending Minecraft with pipes, auto-crafting, quarries, engines and much more! |
 | [BuildCraft Compat](http://www.mod-buildcraft.com/) | compat-7.1.6 | asie<br/>BuildCraft Team | Compatibility add-on for BuildCraft |
