@@ -205,8 +205,8 @@ world-environment-settings:
   moon:
     keep-world-loaded: true
     enabled: true
-  freezer:
-    keep-world-loaded: true
   mystdummy:
     keep-world-loaded: true
     enabled: true
+  freezer:
+    keep-world-loaded: true
