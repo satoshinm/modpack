@@ -90,6 +90,7 @@ GTTweaker-1.7.10-1.1.0.jar
 HardcoreEnderExpansion  MC-1.7.10  v1.8.6.jar
 HatStand-4.0.0.jar
 HelpFixer-1.0.7.jar
+IC2 Backpack HUD v3.0 - MC 1.7.10.zip
 ic2/EJML-core-0.26.jar
 IC2NuclearControl-2.4.2a.jar
 ihl-tools_n_machines-0.600-1.7.10.jar
