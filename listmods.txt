@@ -26,6 +26,8 @@
 1.7.10/SonarCore-1.7.10-1.1.3.jar
 1.7.10/vorbis-java-core-0.8-20150201.161816-1.jar
 1.7.10/[1.7.10]bspkrsCore-universal-6.16.jar
+adv-repulsion-systems-59.0.4.jar
+advanced-machines-59.0.2.jar
 AdvancedSolarPanel-1.7.10-3.5.1.jar
 AnimalBikes_1.7.10.jar
 AppleCore-mc1.7.10-1.3.9.jar
@@ -55,6 +57,7 @@ Computronics-1.7.10-1.6.1.100-dev-OC1.6.jar
 CraftGuide-1.6.8.2-forge.jar
 CustomMobSpawner 3.5.1.jar
 dark_menagerie-1.7.10-beta-3.1a.jar
+dimensional-anchor-59.0.3.jar
 DimensionalDoors-2.2.5-test9.jar
 DoomlikeDungeons-1.8.7-MC1.7.10.jar
 DrZharks MoCreatures Mod v6.3.1.zip
@@ -86,13 +89,17 @@ IC2NuclearControl-2.4.2a.jar
 ihl-tools_n_machines-0.600-1.7.10.jar
 ImmersiveEngineering-0.7.7.jar
 immersiveintegration-0.6.8.jar
+immibis-core-59.1.4.jar
+immibis-microblocks-59.1.2.jar
 industrialcraft-2-2.2.827-experimental.jar
+infinitubes-59.0.5.jar
 INpureCore-[1.7.10]1.0.0B9-62.jar
 InventoryTweaks-1.59-asie-lts.jar
 ironchest-1.7.10-6.0.62.742-universal.jar
 IronChestMinecarts-1.0.4.jar
 Jabba-1.2.2_1.7.10.jar
 journeymap-1.7.10-5.1.4p2-unlimited.jar
+liquid-xp-59.0.2.jar
 logisticspipes-0.9.3.131.jar
 malisisdoors-1.7.10-1.13.2.jar
 mcjtylib-1.8.1.jar
@@ -122,6 +129,7 @@ ProjectRed-1.7.10-4.7.0pre12.95-Lighting.jar
 ProjectRed-1.7.10-4.7.0pre12.95-World.jar
 Railcraft_1.7.10-9.12.2.0.jar
 RandomThings-2.2.4.jar
+redlogic-59.1.13.jar
 RedstoneArsenal-[1.7.10]1.1.2-92.jar
 RemainInMotion-2.8.9.jar
 rftools-4.23.jar
@@ -155,6 +163,7 @@ ThermalExpansion-[1.7.10]4.1.5-248.jar
 ThermalFoundation-[1.7.10]1.2.6-118.jar
 TiCTooltips-mc1.7.10-1.2.5.jar
 TravellersGear-1.7.10-1.16.6.jar
+tubestuff-59.0.4.jar
 twilightforest-1.7.10-2.3.7.jar
 Waila-1.5.10_1.7.10.jar
 WAILAPlugins-MC1.7.10-0.2.0-25.jar

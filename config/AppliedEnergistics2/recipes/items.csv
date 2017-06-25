@@ -250,11 +250,11 @@ minecraft:log2:0, Acacia Wood
 minecraft:log2:1, Dark Oak Wood
 minecraft:acacia_stairs, Acacia Wood Stairs
 minecraft:dark_oak_stairs, Dark Oak Wood Stairs
+ImmibisMicroblocks:MicroblockContainer:0, 
 IC2:blockOreCopper, ic2.blockOreCopper.name
 IC2:blockOreTin, ic2.blockOreTin.name
 IC2:blockOreUran, ic2.blockOreUran.name
 IC2:blockOreLead, ic2.blockOreLead.name
-IC2:blockRubWood, ic2.blockRubWood.name
 minecraft:hay_block, Hay Bale
 minecraft:carpet:0, Carpet
 minecraft:carpet:1, Orange Carpet
@@ -281,6 +281,7 @@ minecraft:double_plant:2, Double Tallgrass
 minecraft:double_plant:3, Large Fern
 minecraft:double_plant:4, Rose Bush
 minecraft:double_plant:5, Peony
+IC2:blockRubWood, ic2.blockRubWood.name
 IC2:blockRubLeaves, ic2.blockRubLeaves.name
 IC2:blockRubSapling, ic2.blockRubSapling.name
 IC2:blockHarz, ic2.blockHarz.name
@@ -412,6 +413,20 @@ IC2:fluidDistilledWater, ic2.fluidDistilledWater.name
 IC2:fluidSuperheatedSteam, ic2.fluidSuperheatedSteam.name
 IC2:fluidSteam, ic2.fluidSteam.name
 IC2:fluidHotWater, ic2.fluidHotWater.name
+AdvancedMachines:advancedmachines.block:0, Rotary Macerator
+AdvancedMachines:advancedmachines.block:1, Singularity Compressor
+AdvancedMachines:advancedmachines.block:2, Centrifuge Extractor
+AdvancedMachines:advancedmachines.block:3, Vacuum Canner
+AdvancedMachines:advancedmachines.block:4, Thermal Washer
+AdvancedMachines:advancedmachines.block:5, Compacting Recycler
+AdvancedMachines:advancedmachines.block:6, Liquescent Extruder
+AdvancedMachines:advancedmachines.block:7, Impellerized Roller
+AdvancedMachines:advancedmachines.block:8, Water-Jet Cutter
+AdvancedMachines:advancedmachines.arrayCable, Array Cable
+AdvancedMachines:advancedmachines.arrayDevice:0, Array Solar Panel
+AdvancedMachines:advancedmachines.arrayDevice:1, Array Watermill
+AdvancedMachines:advancedmachines.arrayDevice:2, Array Windmill
+AdvancedMachines:advancedmachines.arrayController, Array Controller
 AdvancedSolarPanel:BlockMolecularTransformer, tile.null.name
 AdvancedSolarPanel:BlockAdvSolarPanel:0, Advanced Solar Panel
 AdvancedSolarPanel:BlockAdvSolarPanel:1, Hybrid Solar Panel
@@ -444,11 +459,6 @@ appliedenergistics2:tile.BlockTinyTNT, Tiny TNT
 appliedenergistics2:tile.BlockSecurity, ME Security Terminal
 appliedenergistics2:tile.BlockQuantumRing, ME Quantum Ring
 appliedenergistics2:tile.BlockQuantumLinkChamber, ME Quantum Link Chamber
-appliedenergistics2:tile.BlockSpatialPylon, Spatial Pylon
-appliedenergistics2:tile.BlockSpatialIOPort, Spatial IO Port
-appliedenergistics2:tile.BlockCableBus, AE2 Cable and/or Bus
-appliedenergistics2:tile.BlockController, ME Controller
-appliedenergistics2:tile.BlockDrive, ME Drive
 minecraft:iron_shovel, Iron Shovel
 minecraft:iron_pickaxe, Iron Pickaxe
 minecraft:iron_axe, Iron Axe
@@ -541,7 +551,7 @@ minecraft:chest_minecart, Chest Cart
 minecraft:furnace_minecart, Furnace Cart
 minecraft:egg, Egg
 minecraft:compass, Compass
-minecraft:fishing_rod, Fishing Rod
+minecraft:fishing_rod, Wooden Fishing Rod
 minecraft:clock, Clock
 minecraft:glowstone_dust, Glowstone Dust
 minecraft:fish:0, Raw Fish
@@ -694,15 +704,15 @@ minecraft:spawn_egg:304, Spawn Phantom
 minecraft:spawn_egg:305, Spawn Wasp
 minecraft:spawn_egg:306, Spawn Bird
 minecraft:spawn_egg:307, Spawn Pixie
-minecraft:spawn_egg:5, Spawn Enderminy
-minecraft:spawn_egg:6, Spawn Concussion Creeper
-minecraft:spawn_egg:7, Spawn Fallen Knight
-minecraft:spawn_egg:23, Spawn Fallen Steed
-minecraft:spawn_egg:24, Spawn Wither Witch
-minecraft:spawn_egg:25, Spawn Wither Cat
-minecraft:spawn_egg:26, Spawn Dire Wolf
-minecraft:spawn_egg:27, Spawn Khndrel Keght
-minecraft:spawn_egg:29, Spawn Wailer
+minecraft:spawn_egg:79, Spawn Enderminy
+minecraft:spawn_egg:80, Spawn Concussion Creeper
+minecraft:spawn_egg:81, Spawn Fallen Knight
+minecraft:spawn_egg:82, Spawn Fallen Steed
+minecraft:spawn_egg:83, Spawn Wither Witch
+minecraft:spawn_egg:84, Spawn Wither Cat
+minecraft:spawn_egg:85, Spawn Dire Wolf
+minecraft:spawn_egg:86, Spawn Khndrel Keght
+minecraft:spawn_egg:88, Spawn Wailer
 minecraft:experience_bottle, Bottle o' Enchanting
 minecraft:fire_charge, Fire Charge
 minecraft:writable_book, Book and Quill
@@ -732,20 +742,25 @@ minecraft:netherbrick, Nether Brick
 minecraft:quartz, Nether Quartz
 minecraft:tnt_minecart, TNT Cart
 minecraft:hopper_minecart, Hopper Cart
+appliedenergistics2:tile.BlockSpatialPylon, Spatial Pylon
+appliedenergistics2:tile.BlockSpatialIOPort, Spatial IO Port
+appliedenergistics2:tile.BlockCableBus, AE2 Cable and/or Bus
+appliedenergistics2:tile.BlockController, ME Controller
+appliedenergistics2:tile.BlockDrive, ME Drive
 appliedenergistics2:tile.BlockChest, ME Chest
 appliedenergistics2:tile.BlockInterface, ME Interface
 appliedenergistics2:tile.BlockCellWorkbench, Cell Workbench
-appliedenergistics2:tile.BlockIOPort, ME IO Port
-appliedenergistics2:tile.BlockCondenser, Matter Condenser
-appliedenergistics2:tile.BlockEnergyAcceptor, Energy Acceptor
-appliedenergistics2:tile.BlockVibrationChamber, Vibration Chamber
-appliedenergistics2:tile.BlockQuartzGrowthAccelerator, Crystal Growth Accelerator
 minecraft:iron_horse_armor, Iron Horse Armor
 minecraft:golden_horse_armor, Gold Horse Armor
 minecraft:diamond_horse_armor, Diamond Horse Armor
 minecraft:lead, Lead
 minecraft:name_tag, Name Tag
 minecraft:command_block_minecart, Minecart with Command Block
+appliedenergistics2:tile.BlockIOPort, ME IO Port
+appliedenergistics2:tile.BlockCondenser, Matter Condenser
+appliedenergistics2:tile.BlockEnergyAcceptor, Energy Acceptor
+appliedenergistics2:tile.BlockVibrationChamber, Vibration Chamber
+appliedenergistics2:tile.BlockQuartzGrowthAccelerator, Crystal Growth Accelerator
 appliedenergistics2:tile.BlockEnergyCell, Energy Cell
 appliedenergistics2:tile.BlockDenseEnergyCell, Dense Energy Cell
 appliedenergistics2:tile.BlockCreativeEnergyCell, Creative Energy Cell
@@ -783,6 +798,9 @@ appliedenergistics2:tile.ChiseledQuartzSlabBlock:0, Chiseled Certus Quartz Slabs
 appliedenergistics2:tile.ChiseledQuartzSlabBlock.double:0, Chiseled Certus Quartz Slabs
 appliedenergistics2:tile.QuartzPillarSlabBlock:0, Certus Quartz Pillar Slabs
 appliedenergistics2:tile.QuartzPillarSlabBlock.double:0, Certus Quartz Pillar Slabs
+Aroma1997sDimension:aromicPortal, Mining Portal
+Aroma1997sDimension:portalFrame, Portal Frame
+Aroma1997sDimension:stickyOre, Sticky Ore
 atum:tile.portal, Portal
 atum:tile.chestSpawner, Atum Chest
 atum:tile.sand, Strange Sand
@@ -11233,6 +11251,353 @@ gregtech:gt.blockreinforced:4, Brittle Charcoal
 gregtech:gt.blockreinforced:5, Powderbarrel
 gregtech:gt.blockreinforced:6, Solid Super Fuel
 gregtech:gt.blockreinforced:7, Magic Solid Super Fuel
+RedLogic:redlogic.gates:0, AND gate
+RedLogic:redlogic.gates:1, OR gate
+RedLogic:redlogic.gates:2, NOT gate
+RedLogic:redlogic.gates:3, RS-Latch
+RedLogic:redlogic.gates:4, T-Flipflop
+RedLogic:redlogic.gates:5, NOR gate
+RedLogic:redlogic.gates:6, NAND gate
+RedLogic:redlogic.gates:7, XOR gate
+RedLogic:redlogic.gates:8, XNOR gate
+RedLogic:redlogic.gates:9, Buffer gate
+RedLogic:redlogic.gates:10, Multiplexer
+RedLogic:redlogic.gates:11, Repeater
+RedLogic:redlogic.gates:12, Timer
+RedLogic:redlogic.gates:13, Counter
+RedLogic:redlogic.gates:14, Sequencer
+RedLogic:redlogic.gates:15, Pulse Former
+RedLogic:redlogic.gates:16, Randomizer
+RedLogic:redlogic.gates:17, State Cell
+RedLogic:redlogic.gates:18, Synchronizer
+RedLogic:redlogic.gates:19, D-Latch
+RedLogic:redlogic.gates:20, D-Flipflop
+RedLogic:redlogic.gates:21, Bundled Latch
+RedLogic:redlogic.gates:22, Bundled Relay
+RedLogic:redlogic.gates:23, Bundled Multiplexer
+RedLogic:redlogic.gates:24, Bundled AND gate
+RedLogic:redlogic.gates:25, Bundled OR gate
+RedLogic:redlogic.gates:26, Bundled NOT gate
+RedLogic:redlogic.gates:27, Bundled XOR gate
+RedLogic:redlogic.gates:29, Comparator
+RedLogic:redlogic.wire:0, Red alloy wire
+RedLogic:redlogic.wire:1, White insulated wire
+RedLogic:redlogic.wire:2, Orange insulated wire
+RedLogic:redlogic.wire:3, Magenta insulated wire
+RedLogic:redlogic.wire:4, Light blue insulated wire
+RedLogic:redlogic.wire:5, Yellow insulated wire
+RedLogic:redlogic.wire:6, Lime insulated wire
+RedLogic:redlogic.wire:7, Pink insulated wire
+RedLogic:redlogic.wire:8, Grey insulated wire
+RedLogic:redlogic.wire:9, Light grey insulated wire
+RedLogic:redlogic.wire:10, Cyan insulated wire
+RedLogic:redlogic.wire:11, Purple insulated wire
+RedLogic:redlogic.wire:12, Blue insulated wire
+RedLogic:redlogic.wire:13, Brown insulated wire
+RedLogic:redlogic.wire:14, Green insulated wire
+RedLogic:redlogic.wire:15, Red insulated wire
+RedLogic:redlogic.wire:16, Black insulated wire
+RedLogic:redlogic.wire:17, Bundled cable
+RedLogic:redlogic.wire:16384, Freestanding red alloy wire
+RedLogic:redlogic.wire:16385, White freestanding wire
+RedLogic:redlogic.wire:16386, Orange freestanding wire
+RedLogic:redlogic.wire:16387, Magenta freestanding wire
+RedLogic:redlogic.wire:16388, Light blue freestanding wire
+RedLogic:redlogic.wire:16389, Yellow freestanding wire
+RedLogic:redlogic.wire:16390, Lime freestanding wire
+RedLogic:redlogic.wire:16391, Pink freestanding wire
+RedLogic:redlogic.wire:16392, Grey freestanding wire
+RedLogic:redlogic.wire:16393, Light grey freestanding wire
+RedLogic:redlogic.wire:16394, Cyan freestanding wire
+RedLogic:redlogic.wire:16395, Purple freestanding wire
+RedLogic:redlogic.wire:16396, Blue freestanding wire
+RedLogic:redlogic.wire:16397, Brown freestanding wire
+RedLogic:redlogic.wire:16398, Green freestanding wire
+RedLogic:redlogic.wire:16399, Red freestanding wire
+RedLogic:redlogic.wire:16400, Black freestanding wire
+RedLogic:redlogic.wire:16401, Freestanding bundled cable
+RedLogic:redlogic.lampCubeOff:0, White lamp
+RedLogic:redlogic.lampCubeOff:1, Orange lamp
+RedLogic:redlogic.lampCubeOff:2, Magenta lamp
+RedLogic:redlogic.lampCubeOff:3, Light blue lamp
+RedLogic:redlogic.lampCubeOff:4, Yellow lamp
+RedLogic:redlogic.lampCubeOff:5, Lime lamp
+RedLogic:redlogic.lampCubeOff:6, Pink lamp
+RedLogic:redlogic.lampCubeOff:7, Grey lamp
+RedLogic:redlogic.lampCubeOff:8, Light grey lamp
+RedLogic:redlogic.lampCubeOff:9, Cyan lamp
+RedLogic:redlogic.lampCubeOff:10, Purple lamp
+RedLogic:redlogic.lampCubeOff:11, Blue lamp
+RedLogic:redlogic.lampCubeOff:12, Brown lamp
+RedLogic:redlogic.lampCubeOff:13, Green lamp
+RedLogic:redlogic.lampCubeOff:14, Red lamp
+RedLogic:redlogic.lampCubeOff:15, Black lamp
+RedLogic:redlogic.lampCubeDecorative:0, White decorative lamp
+RedLogic:redlogic.lampCubeDecorative:1, Orange decorative lamp
+RedLogic:redlogic.lampCubeDecorative:2, Magenta decorative lamp
+RedLogic:redlogic.lampCubeDecorative:3, Light blue decorative lamp
+RedLogic:redlogic.lampCubeDecorative:4, Yellow decorative lamp
+RedLogic:redlogic.lampCubeDecorative:5, Lime decorative lamp
+RedLogic:redlogic.lampCubeDecorative:6, Pink decorative lamp
+RedLogic:redlogic.lampCubeDecorative:7, Grey decorative lamp
+RedLogic:redlogic.lampCubeDecorative:8, Light grey decorative lamp
+RedLogic:redlogic.lampCubeDecorative:9, Cyan decorative lamp
+RedLogic:redlogic.lampCubeDecorative:10, Purple decorative lamp
+RedLogic:redlogic.lampCubeDecorative:11, Blue decorative lamp
+RedLogic:redlogic.lampCubeDecorative:12, Brown decorative lamp
+RedLogic:redlogic.lampCubeDecorative:13, Green decorative lamp
+RedLogic:redlogic.lampCubeDecorative:14, Red decorative lamp
+RedLogic:redlogic.lampCubeDecorative:15, Black decorative lamp
+RedLogic:redlogic.lampCubeIndicatorOff:0, White indicator lamp
+RedLogic:redlogic.lampCubeIndicatorOff:1, Orange indicator lamp
+RedLogic:redlogic.lampCubeIndicatorOff:2, Magenta indicator lamp
+RedLogic:redlogic.lampCubeIndicatorOff:3, Light blue indicator lamp
+RedLogic:redlogic.lampCubeIndicatorOff:4, Yellow indicator lamp
+RedLogic:redlogic.lampCubeIndicatorOff:5, Lime indicator lamp
+RedLogic:redlogic.lampCubeIndicatorOff:6, Pink indicator lamp
+RedLogic:redlogic.lampCubeIndicatorOff:7, Grey indicator lamp
+RedLogic:redlogic.lampCubeIndicatorOff:8, Light grey indicator lamp
+RedLogic:redlogic.lampCubeIndicatorOff:9, Cyan indicator lamp
+RedLogic:redlogic.lampCubeIndicatorOff:10, Purple indicator lamp
+RedLogic:redlogic.lampCubeIndicatorOff:11, Blue indicator lamp
+RedLogic:redlogic.lampCubeIndicatorOff:12, Brown indicator lamp
+RedLogic:redlogic.lampCubeIndicatorOff:13, Green indicator lamp
+RedLogic:redlogic.lampCubeIndicatorOff:14, Red indicator lamp
+RedLogic:redlogic.lampCubeIndicatorOff:15, Black indicator lamp
+RedLogic:redlogic.button:0, White lumar button
+RedLogic:redlogic.button:1, Orange lumar button
+RedLogic:redlogic.button:2, Magenta lumar button
+RedLogic:redlogic.button:3, Light blue lumar button
+RedLogic:redlogic.button:4, Yellow lumar button
+RedLogic:redlogic.button:5, Lime lumar button
+RedLogic:redlogic.button:6, Pink lumar button
+RedLogic:redlogic.button:7, Grey lumar button
+RedLogic:redlogic.button:8, Light grey lumar button
+RedLogic:redlogic.button:9, Cyan lumar button
+RedLogic:redlogic.button:10, Purple lumar button
+RedLogic:redlogic.button:11, Blue lumar button
+RedLogic:redlogic.button:12, Brown lumar button
+RedLogic:redlogic.button:13, Green lumar button
+RedLogic:redlogic.button:14, Red lumar button
+RedLogic:redlogic.button:15, Black lumar button
+RedLogic:redlogic.button:16, White latchable lumar button
+RedLogic:redlogic.button:17, Orange latchable lumar button
+RedLogic:redlogic.button:18, Magenta latchable lumar button
+RedLogic:redlogic.button:19, Light blue latchable lumar button
+RedLogic:redlogic.button:20, Yellow latchable lumar button
+RedLogic:redlogic.button:21, Lime latchable lumar button
+RedLogic:redlogic.button:22, Pink latchable lumar button
+RedLogic:redlogic.button:23, Grey latchable lumar button
+RedLogic:redlogic.button:24, Light grey latchable lumar button
+RedLogic:redlogic.button:25, Cyan latchable lumar button
+RedLogic:redlogic.button:26, Purple latchable lumar button
+RedLogic:redlogic.button:27, Blue latchable lumar button
+RedLogic:redlogic.button:28, Brown latchable lumar button
+RedLogic:redlogic.button:29, Green latchable lumar button
+RedLogic:redlogic.button:30, Red latchable lumar button
+RedLogic:redlogic.button:31, Black latchable lumar button
+RedLogic:redlogic.button:32, White self-latching lumar button
+RedLogic:redlogic.button:33, Orange self-latching lumar button
+RedLogic:redlogic.button:34, Magenta self-latching lumar button
+RedLogic:redlogic.button:35, Light blue self-latching lumar button
+RedLogic:redlogic.button:36, Yellow self-latching lumar button
+RedLogic:redlogic.button:37, Lime self-latching lumar button
+RedLogic:redlogic.button:38, Pink self-latching lumar button
+RedLogic:redlogic.button:39, Grey self-latching lumar button
+RedLogic:redlogic.button:40, Light grey self-latching lumar button
+RedLogic:redlogic.button:41, Cyan self-latching lumar button
+RedLogic:redlogic.button:42, Purple self-latching lumar button
+RedLogic:redlogic.button:43, Blue self-latching lumar button
+RedLogic:redlogic.button:44, Brown self-latching lumar button
+RedLogic:redlogic.button:45, Green self-latching lumar button
+RedLogic:redlogic.button:46, Red self-latching lumar button
+RedLogic:redlogic.button:47, Black self-latching lumar button
+RedLogic:redlogic.button:48, White lumar toggle button
+RedLogic:redlogic.button:49, Orange lumar toggle button
+RedLogic:redlogic.button:50, Magenta lumar toggle button
+RedLogic:redlogic.button:51, Light blue lumar toggle button
+RedLogic:redlogic.button:52, Yellow lumar toggle button
+RedLogic:redlogic.button:53, Lime lumar toggle button
+RedLogic:redlogic.button:54, Pink lumar toggle button
+RedLogic:redlogic.button:55, Grey lumar toggle button
+RedLogic:redlogic.button:56, Light grey lumar toggle button
+RedLogic:redlogic.button:57, Cyan lumar toggle button
+RedLogic:redlogic.button:58, Purple lumar toggle button
+RedLogic:redlogic.button:59, Blue lumar toggle button
+RedLogic:redlogic.button:60, Brown lumar toggle button
+RedLogic:redlogic.button:61, Green lumar toggle button
+RedLogic:redlogic.button:62, Red lumar toggle button
+RedLogic:redlogic.button:63, Black lumar toggle button
+RedLogic:redlogic.button:256, White lumar plate
+RedLogic:redlogic.button:257, Orange lumar plate
+RedLogic:redlogic.button:258, Magenta lumar plate
+RedLogic:redlogic.button:259, Light blue lumar plate
+RedLogic:redlogic.button:260, Yellow lumar plate
+RedLogic:redlogic.button:261, Lime lumar plate
+RedLogic:redlogic.button:262, Pink lumar plate
+RedLogic:redlogic.button:263, Grey lumar plate
+RedLogic:redlogic.button:264, Light grey lumar plate
+RedLogic:redlogic.button:265, Cyan lumar plate
+RedLogic:redlogic.button:266, Purple lumar plate
+RedLogic:redlogic.button:267, Blue lumar plate
+RedLogic:redlogic.button:268, Brown lumar plate
+RedLogic:redlogic.button:269, Green lumar plate
+RedLogic:redlogic.button:270, Red lumar plate
+RedLogic:redlogic.button:271, Black lumar plate
+RedLogic:redlogic.button:272, White latchable lumar plate
+RedLogic:redlogic.button:273, Orange latchable lumar plate
+RedLogic:redlogic.button:274, Magenta latchable lumar plate
+RedLogic:redlogic.button:275, Light blue latchable lumar plate
+RedLogic:redlogic.button:276, Yellow latchable lumar plate
+RedLogic:redlogic.button:277, Lime latchable lumar plate
+RedLogic:redlogic.button:278, Pink latchable lumar plate
+RedLogic:redlogic.button:279, Grey latchable lumar plate
+RedLogic:redlogic.button:280, Light grey latchable lumar plate
+RedLogic:redlogic.button:281, Cyan latchable lumar plate
+RedLogic:redlogic.button:282, Purple latchable lumar plate
+RedLogic:redlogic.button:283, Blue latchable lumar plate
+RedLogic:redlogic.button:284, Brown latchable lumar plate
+RedLogic:redlogic.button:285, Green latchable lumar plate
+RedLogic:redlogic.button:286, Red latchable lumar plate
+RedLogic:redlogic.button:287, Black latchable lumar plate
+RedLogic:redlogic.button:288, White self-latching lumar plate
+RedLogic:redlogic.button:289, Orange self-latching lumar plate
+RedLogic:redlogic.button:290, Magenta self-latching lumar plate
+RedLogic:redlogic.button:291, Light blue self-latching lumar plate
+RedLogic:redlogic.button:292, Yellow self-latching lumar plate
+RedLogic:redlogic.button:293, Lime self-latching lumar plate
+RedLogic:redlogic.button:294, Pink self-latching lumar plate
+RedLogic:redlogic.button:295, Grey self-latching lumar plate
+RedLogic:redlogic.button:296, Light grey self-latching lumar plate
+RedLogic:redlogic.button:297, Cyan self-latching lumar plate
+RedLogic:redlogic.button:298, Purple self-latching lumar plate
+RedLogic:redlogic.button:299, Blue self-latching lumar plate
+RedLogic:redlogic.button:300, Brown self-latching lumar plate
+RedLogic:redlogic.button:301, Green self-latching lumar plate
+RedLogic:redlogic.button:302, Red self-latching lumar plate
+RedLogic:redlogic.button:303, Black self-latching lumar plate
+RedLogic:redlogic.button:304, White lumar toggle plate
+RedLogic:redlogic.button:305, Orange lumar toggle plate
+RedLogic:redlogic.button:306, Magenta lumar toggle plate
+RedLogic:redlogic.button:307, Light blue lumar toggle plate
+RedLogic:redlogic.button:308, Yellow lumar toggle plate
+RedLogic:redlogic.button:309, Lime lumar toggle plate
+RedLogic:redlogic.button:310, Pink lumar toggle plate
+RedLogic:redlogic.button:311, Grey lumar toggle plate
+RedLogic:redlogic.button:312, Light grey lumar toggle plate
+RedLogic:redlogic.button:313, Cyan lumar toggle plate
+RedLogic:redlogic.button:314, Purple lumar toggle plate
+RedLogic:redlogic.button:315, Blue lumar toggle plate
+RedLogic:redlogic.button:316, Brown lumar toggle plate
+RedLogic:redlogic.button:317, Green lumar toggle plate
+RedLogic:redlogic.button:318, Red lumar toggle plate
+RedLogic:redlogic.button:319, Black lumar toggle plate
+RedLogic:redlogic.lampNonCube:64, White cage lamp
+RedLogic:redlogic.lampNonCube:65, Orange cage lamp
+RedLogic:redlogic.lampNonCube:66, Magenta cage lamp
+RedLogic:redlogic.lampNonCube:67, Light blue cage lamp
+RedLogic:redlogic.lampNonCube:68, Yellow cage lamp
+RedLogic:redlogic.lampNonCube:69, Lime cage lamp
+RedLogic:redlogic.lampNonCube:70, Pink cage lamp
+RedLogic:redlogic.lampNonCube:71, Grey cage lamp
+RedLogic:redlogic.lampNonCube:72, Light grey cage lamp
+RedLogic:redlogic.lampNonCube:73, Cyan cage lamp
+RedLogic:redlogic.lampNonCube:74, Purple cage lamp
+RedLogic:redlogic.lampNonCube:75, Blue cage lamp
+RedLogic:redlogic.lampNonCube:76, Brown cage lamp
+RedLogic:redlogic.lampNonCube:77, Green cage lamp
+RedLogic:redlogic.lampNonCube:78, Red cage lamp
+RedLogic:redlogic.lampNonCube:79, Black cage lamp
+RedLogic:redlogic.lampNonCube:80, White decorative cage lamp
+RedLogic:redlogic.lampNonCube:81, Orange decorative cage lamp
+RedLogic:redlogic.lampNonCube:82, Magenta decorative cage lamp
+RedLogic:redlogic.lampNonCube:83, Light blue decorative cage lamp
+RedLogic:redlogic.lampNonCube:84, Yellow decorative cage lamp
+RedLogic:redlogic.lampNonCube:85, Lime decorative cage lamp
+RedLogic:redlogic.lampNonCube:86, Pink decorative cage lamp
+RedLogic:redlogic.lampNonCube:87, Grey decorative cage lamp
+RedLogic:redlogic.lampNonCube:88, Light grey decorative cage lamp
+RedLogic:redlogic.lampNonCube:89, Cyan decorative cage lamp
+RedLogic:redlogic.lampNonCube:90, Purple decorative cage lamp
+RedLogic:redlogic.lampNonCube:91, Blue decorative cage lamp
+RedLogic:redlogic.lampNonCube:92, Brown decorative cage lamp
+RedLogic:redlogic.lampNonCube:93, Green decorative cage lamp
+RedLogic:redlogic.lampNonCube:94, Red decorative cage lamp
+RedLogic:redlogic.lampNonCube:95, Black decorative cage lamp
+RedLogic:redlogic.lampNonCube:96, White indicator cage lamp
+RedLogic:redlogic.lampNonCube:97, Orange indicator cage lamp
+RedLogic:redlogic.lampNonCube:98, Magenta indicator cage lamp
+RedLogic:redlogic.lampNonCube:99, Light blue indicator cage lamp
+RedLogic:redlogic.lampNonCube:100, Yellow indicator cage lamp
+RedLogic:redlogic.lampNonCube:101, Lime indicator cage lamp
+RedLogic:redlogic.lampNonCube:102, Pink indicator cage lamp
+RedLogic:redlogic.lampNonCube:103, Grey indicator cage lamp
+RedLogic:redlogic.lampNonCube:104, Light grey indicator cage lamp
+RedLogic:redlogic.lampNonCube:105, Cyan indicator cage lamp
+RedLogic:redlogic.lampNonCube:106, Purple indicator cage lamp
+RedLogic:redlogic.lampNonCube:107, Blue indicator cage lamp
+RedLogic:redlogic.lampNonCube:108, Brown indicator cage lamp
+RedLogic:redlogic.lampNonCube:109, Green indicator cage lamp
+RedLogic:redlogic.lampNonCube:110, Red indicator cage lamp
+RedLogic:redlogic.lampNonCube:111, Black indicator cage lamp
+RedLogic:redlogic.lampNonCube:128, White flat lamp
+RedLogic:redlogic.lampNonCube:129, Orange flat lamp
+RedLogic:redlogic.lampNonCube:130, Magenta flat lamp
+RedLogic:redlogic.lampNonCube:131, Light blue flat lamp
+RedLogic:redlogic.lampNonCube:132, Yellow flat lamp
+RedLogic:redlogic.lampNonCube:133, Lime flat lamp
+RedLogic:redlogic.lampNonCube:134, Pink flat lamp
+RedLogic:redlogic.lampNonCube:135, Grey flat lamp
+RedLogic:redlogic.lampNonCube:136, Light grey flat lamp
+RedLogic:redlogic.lampNonCube:137, Cyan flat lamp
+RedLogic:redlogic.lampNonCube:138, Purple flat lamp
+RedLogic:redlogic.lampNonCube:139, Blue flat lamp
+RedLogic:redlogic.lampNonCube:140, Brown flat lamp
+RedLogic:redlogic.lampNonCube:141, Green flat lamp
+RedLogic:redlogic.lampNonCube:142, Red flat lamp
+RedLogic:redlogic.lampNonCube:143, Black flat lamp
+RedLogic:redlogic.lampNonCube:144, White decorative flat lamp
+RedLogic:redlogic.lampNonCube:145, Orange decorative flat lamp
+RedLogic:redlogic.lampNonCube:146, Magenta decorative flat lamp
+RedLogic:redlogic.lampNonCube:147, Light blue decorative flat lamp
+RedLogic:redlogic.lampNonCube:148, Yellow decorative flat lamp
+RedLogic:redlogic.lampNonCube:149, Lime decorative flat lamp
+RedLogic:redlogic.lampNonCube:150, Pink decorative flat lamp
+RedLogic:redlogic.lampNonCube:151, Grey decorative flat lamp
+RedLogic:redlogic.lampNonCube:152, Light grey decorative flat lamp
+RedLogic:redlogic.lampNonCube:153, Cyan decorative flat lamp
+RedLogic:redlogic.lampNonCube:154, Purple decorative flat lamp
+RedLogic:redlogic.lampNonCube:155, Blue decorative flat lamp
+RedLogic:redlogic.lampNonCube:156, Brown decorative flat lamp
+RedLogic:redlogic.lampNonCube:157, Green decorative flat lamp
+RedLogic:redlogic.lampNonCube:158, Red decorative flat lamp
+RedLogic:redlogic.lampNonCube:159, Black decorative flat lamp
+RedLogic:redlogic.lampNonCube:160, White indicator flat lamp
+RedLogic:redlogic.lampNonCube:161, Orange indicator flat lamp
+RedLogic:redlogic.lampNonCube:162, Magenta indicator flat lamp
+RedLogic:redlogic.lampNonCube:163, Light blue indicator flat lamp
+RedLogic:redlogic.lampNonCube:164, Yellow indicator flat lamp
+RedLogic:redlogic.lampNonCube:165, Lime indicator flat lamp
+RedLogic:redlogic.lampNonCube:166, Pink indicator flat lamp
+RedLogic:redlogic.lampNonCube:167, Grey indicator flat lamp
+RedLogic:redlogic.lampNonCube:168, Light grey indicator flat lamp
+RedLogic:redlogic.lampNonCube:169, Cyan indicator flat lamp
+RedLogic:redlogic.lampNonCube:170, Purple indicator flat lamp
+RedLogic:redlogic.lampNonCube:171, Blue indicator flat lamp
+RedLogic:redlogic.lampNonCube:172, Brown indicator flat lamp
+RedLogic:redlogic.lampNonCube:173, Green indicator flat lamp
+RedLogic:redlogic.lampNonCube:174, Red indicator flat lamp
+RedLogic:redlogic.lampNonCube:175, Black indicator flat lamp
+RedLogic:redlogic.plainBlock:0, Cleanroom Wall
+RedLogic:redlogic.plainBlock:1, Cleanroom Air Filter
+RedLogic:redlogic.machineBlock:0, Redstone Digitizer
+RedLogic:redlogic.machineBlock:1, I/O Pin Marker
+RedLogic:redlogic.machineBlock:2, Schematic Compiler
+RedLogic:redlogic.machineBlock:3, Chip Fabricator
+RedLogic:redlogic.customCircuitBlock, Integrated Circuit
+RedLogic:redlogic.arrayCells:0, Null Cell
+RedLogic:redlogic.arrayCells:1, Invert Cell
+RedLogic:redlogic.arrayCells:2, Non-Invert Cell
 OpenComputers:accessPoint:0, §cAccess Point§7
 OpenComputers:adapter:0, Adapter
 OpenComputers:assembler:0, Electronics Assembler
@@ -11286,6 +11651,21 @@ computronics:computronics.digitalReceiverBox, Digital Signal Receiver Box
 computronics:computronics.digitalControllerBox, Digital Signal Controller Box
 computronics:computronics.detector, Detector - Digital
 computronics:computronics.ticketMachine, Ticket Machine
+DimensionalAnchors:chunkloader, Dimensional Anchor
+MoCreatures:MoCStone:0, WyvernLair Stone
+MoCreatures:MoCStone:1, OgreLair Stone
+MoCreatures:MoCGrass:0, WyvernLair Grass
+MoCreatures:MoCGrass:1, OgreLair Grass
+MoCreatures:MoCDirt:0, WyvernLair Dirt
+MoCreatures:MoCDirt:1, OgreLair Dirt
+MoCreatures:MoCLeaves:0, WyvernLair Leaves
+MoCreatures:MoCLeaves:1, OgreLair Leaves
+MoCreatures:MoCLog:0, WyvernLair Log
+MoCreatures:MoCLog:1, OgreLair Log
+MoCreatures:MoCTallGrass:0, WyvernLair Tall Grass
+MoCreatures:MoCTallGrass:1, OgreLair Tall Grass
+MoCreatures:MoCWoodPlank:0, WyvernLair Wood Plank
+MoCreatures:MoCWoodPlank:1, OgreLair Wood Plank
 EnderZoo:blockConfusingCharge, Confusing Charge
 EnderZoo:blockEnderCharge, Ender Charge
 EnderZoo:blockConcussionCharge, Concussion Charge
@@ -11314,7 +11694,7 @@ extracells:vibrantchamberfluid, Fluid Vibration Chamber
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quantum Energy Device)
+ExtraUtilities:endConstructor:0, QED (Quadratic Equation Device)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -11464,6 +11844,18 @@ ExtraUtilities:color_redstoneLight:12, Colored Redstone Lamp (Brown Frequency)
 ExtraUtilities:color_redstoneLight:13, Colored Redstone Lamp (Green Frequency)
 ExtraUtilities:color_redstoneLight:14, Colored Redstone Lamp (Red Frequency)
 ExtraUtilities:color_redstoneLight:15, Colored Redstone Lamp (Black Frequency)
+minecraft:record_13, Music Disc
+minecraft:record_cat, Music Disc
+minecraft:record_blocks, Music Disc
+minecraft:record_chirp, Music Disc
+minecraft:record_far, Music Disc
+minecraft:record_mall, Music Disc
+minecraft:record_mellohi, Music Disc
+minecraft:record_stal, Music Disc
+minecraft:record_strad, Music Disc
+minecraft:record_ward, Music Disc
+minecraft:record_11, Music Disc
+minecraft:record_wait, Music Disc
 ExtraUtilities:color_brick:0, Colored Bricks (White Frequency)
 ExtraUtilities:color_brick:1, Colored Bricks (Orange Frequency)
 ExtraUtilities:color_brick:2, Colored Bricks (Magenta Frequency)
@@ -11660,18 +12052,6 @@ ExtraUtilities:generator.8:8, TNT Generator
 ExtraUtilities:generator.8:9, Pink Generator
 ExtraUtilities:generator.8:10, High-temperature Furnace Generator
 ExtraUtilities:generator.8:11, Nether Star Generator
-minecraft:record_13, Music Disc
-minecraft:record_cat, Music Disc
-minecraft:record_blocks, Music Disc
-minecraft:record_chirp, Music Disc
-minecraft:record_far, Music Disc
-minecraft:record_mall, Music Disc
-minecraft:record_mellohi, Music Disc
-minecraft:record_stal, Music Disc
-minecraft:record_strad, Music Disc
-minecraft:record_ward, Music Disc
-minecraft:record_11, Music Disc
-minecraft:record_wait, Music Disc
 ExtraUtilities:generator.64:0, Survivalist Generator
 ExtraUtilities:generator.64:1, Furnace Generator
 ExtraUtilities:generator.64:2, Lava Generator
@@ -12463,6 +12843,10 @@ immersiveintegration:meTransformer, ME Transformer
 immersiveintegration:meDenseTransformer, ME Dense Transformer
 immersiveintegration:aeDecoration:0, Fluix Wire Coil
 immersiveintegration:aeDecoration:1, Dense Wire Coil
+InfiniTubes:infinitubes.infinitube, Transport conduit
+InfiniTubes:infinitubes.machine:0, Teleposer
+InfiniTubes:infinitubes.machine:1, Transpressurizer
+InfiniTubes:infinitubes.machine:2, Dislocator
 IronChest:BlockIronChest:0, Iron Chest
 IronChest:BlockIronChest:1, Gold Chest
 IronChest:BlockIronChest:2, Diamond Chest
@@ -12472,6 +12856,13 @@ IronChest:BlockIronChest:5, Crystal Chest
 IronChest:BlockIronChest:6, Obsidian Chest
 IronChest:BlockIronChest:7, DirtChest 9000!
 JABBA:barrel, Better Barrel
+LiquidXP:liquidxp.machine:0, LXP Collector
+LiquidXP:liquidxp.machine:1, LXP Absorber
+LiquidXP:liquidxp.machine:2, LXP Catalyzer
+LiquidXP:liquidxp.machine:3, LXP Imprinter
+LiquidXP:liquidxp.machine:4, LXP Enchanter
+LiquidXP:liquidxp.machine:5, LXP Combiner
+LiquidXP:liquidxp.machine:7, LXP Isolator
 LogisticsPipes:logisticsSolidBlock:0, Soldering Station
 LogisticsPipes:logisticsSolidBlock:1, Logistics Power Junction
 LogisticsPipes:logisticsSolidBlock:2, Logistics Security Station
@@ -13218,43 +13609,43 @@ thaumicenergistics:thaumicenergistics.block.arcane.assembler, Arcane Assembler
 thaumicenergistics:thaumicenergistics.block.knowledge.inscriber, Knowledge Inscriber
 thaumicenergistics:thaumicenergistics.block.essentia.vibration.chamber, Essentia Vibration Chamber
 thaumicenergistics:thaumicenergistics.block.distillation.encoder, Distillation Pattern Encoder
-ThaumicTinkerer:platform, Ethereal Platform
-ThaumicTinkerer:dislocator, Transvector Dislocator
-ThaumicTinkerer:bedrockPortal, Bedrock Portal
-ThaumicTinkerer:fireWater, Aqua Imbued Fire
-ThaumicTinkerer:wardSlab:0, tile.wardSlab.name
-ThaumicTinkerer:wardSlabFull:0, tile.wardSlab.name
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
 ThaumicTinkerer:magnet:0, Kinetic Attractor
 ThaumicTinkerer:magnet:1, Corporeal Attractor
-ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
-ThaumicTinkerer:travelStairs, Paving Stair of Travel
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:funnel, Essentia Funnel
 ThaumicTinkerer:fireChaos, Perditio Imbued Fire
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
-ThaumicTinkerer:forcefield, Forcefield
-ThaumicTinkerer:fireFire, Ignis Imbued Fire
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
-ThaumicTinkerer:warpGate, Celestial Gateway
-ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
-ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
 ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
 ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
 ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
-ThaumicTinkerer:fireOrder, Ordo Imbued Fire
+ThaumicTinkerer:funnel, Essentia Funnel
+ThaumicTinkerer:fireAir, Aer Imbued Fire
+ThaumicTinkerer:dislocator, Transvector Dislocator
+ThaumicTinkerer:forcefield, Forcefield
+ThaumicTinkerer:fireEarth, Terra Imbued Fire
+ThaumicTinkerer:interface, Transvector Interface
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
+ThaumicTinkerer:fireWater, Aqua Imbued Fire
+ThaumicTinkerer:warpGate, Celestial Gateway
 ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
-ThaumicTinkerer:repairer, Thaumic Restorer
-ThaumicTinkerer:spawner, Tablet of Necromancy
+ThaumicTinkerer:enchanter, Osmotic Enchanter
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
+ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
+ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
+ThaumicTinkerer:travelStairs, Paving Stair of Travel
 ThaumicTinkerer:animationTablet, Dynamism Tablet
+ThaumicTinkerer:repairer, Thaumic Restorer
+ThaumicTinkerer:bedrockPortal, Bedrock Portal
+ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
 ThaumicTinkerer:travelSlab:0, Paving Slab of Travel
 ThaumicTinkerer:travelSlabFull:0, Paving Slab of Travel
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
-ThaumicTinkerer:fireAir, Aer Imbued Fire
-ThaumicTinkerer:interface, Transvector Interface
-ThaumicTinkerer:enchanter, Osmotic Enchanter
-ThaumicTinkerer:fireEarth, Terra Imbued Fire
+ThaumicTinkerer:wardSlab:0, tile.wardSlab.name
+ThaumicTinkerer:wardSlabFull:0, tile.wardSlab.name
+ThaumicTinkerer:platform, Ethereal Platform
+ThaumicTinkerer:spawner, Tablet of Necromancy
+ThaumicTinkerer:fireOrder, Ordo Imbued Fire
+ThaumicTinkerer:fireFire, Ignis Imbued Fire
 ThaumicExploration:autoSorter, tile.thaumicexploration:autoSorter.name
 ThaumicExploration:trashJar, Oblivion Jar
 ThaumicExploration:boundChest, tile.boundChest.name
@@ -13998,6 +14389,26 @@ ThermalDynamics:ThermalDynamics_64:1, Long Range Viaduct
 ThermalDynamics:ThermalDynamics_64:2, Long Range Linking Viaduct
 ThermalDynamics:ThermalDynamics_64:3, Viaduct (Untreated)
 TravellersGear:armorstand, Armor Stand
+Tubestuff:machine:0, Buffer
+Tubestuff:machine:1, Automatic Crafting Table MkII
+Tubestuff:machine:2, Black Hole Chest
+Tubestuff:machine:3, Incinerator
+Tubestuff:machine:4, Duplicator
+Tubestuff:machine:6, Block Breaker
+Tubestuff:machine:7, Liquid Disposer
+Tubestuff:machine:8, Liquid Duplicator
+Tubestuff:machine:9, Online Player Detector
+Tubestuff:machine:11, Deployer
+Tubestuff:storage:0, Silver Block
+Tubestuff:storage:1, Tin Block
+Tubestuff:storage:2, Copper Block
+Tubestuff:storage:3, Nikolite Block
+Tubestuff:storage:4, Coal Brick Block
+Tubestuff:storage:5, Powdered Redstone Block
+Tubestuff:storage:6, Blue Alloy Block
+Tubestuff:storage:7, Red Alloy Block
+Tubestuff:storage:8, Brass Block
+Tubestuff:storage:9, Charcoal Block
 WitchingGadgets:WG_WallMirror, Mirror on the Wall
 WitchingGadgets:WG_VoidWalkway, Void Walkway
 WitchingGadgets:WG_StoneDevice:0, Ethereal Wall
@@ -14023,7 +14434,38 @@ WitchingGadgets:WG_MetalDevice:8, Terrestrial Focus: Tainted Lands
 WitchingGadgets:WG_MetalDevice:9, Terrestrial Focus: Mushroom Island
 WitchingGadgets:WG_RoseVine, Rose Vines
 WitchingGadgets:WG_CustomAir, Glimmer of Light
+AdvancedRepulsionSystems:DeFenceBW:0, Barbed Wire Fence
+AdvancedRepulsionSystems:DeFenceCL:0, Chain Link Fence
+AdvancedRepulsionSystems:DeFenceCodeDoor, tile.null.name
+AdvancedRepulsionSystems:beam, Wireless data beam
+AdvancedRepulsionSystems:teslaBlock:0, Programmable filter
+AdvancedRepulsionSystems:teslaBlock:1, Industrial tesla coil
+AdvancedRepulsionSystems:teslaBlock:2, Upgrade multiplexer
+AdvancedRepulsionSystems:teslaBlock:3, Tesla range upgrade
+AdvancedRepulsionSystems:teslaBlock:4, EMP upgrade
+AdvancedRepulsionSystems:teslaBlock:5, Tesla speed upgrade
+AdvancedRepulsionSystems:teslaBlock:6, Loot collector
+AdvancedRepulsionSystems:teslaBlock:7, Forcefield filter
+AdvancedRepulsionSystems:teslaBlock:8, Item detection filter
+AdvancedRepulsionSystems:teslaBlock:9, Wavelength shift upgrade
+AdvancedRepulsionSystems:teslaBlock:10, Remote potion applicator
+AdvancedRepulsionSystems:machines:0, Forcefield core
+AdvancedRepulsionSystems:machines:1, Area forcefield projector
+AdvancedRepulsionSystems:machines:2, Line forcefield projector
+AdvancedRepulsionSystems:machines:3, Plate forcefield projector
+AdvancedRepulsionSystems:machines:4, Tube forcefield projector
+AdvancedRepulsionSystems:machines:5, Line projector extender
+AdvancedRepulsionSystems:upgrades:1, Forcefield underwater upgrade
+AdvancedRepulsionSystems:upgrades:2, Forcefield dome upgrade
+AdvancedRepulsionSystems:upgrades:3, Forcefield block cutter upgrade
+AdvancedRepulsionSystems:upgrades:4, Forcefield core storage upgrade
+AdvancedRepulsionSystems:upgrades:5, Forcefield core range upgrade
+AdvancedRepulsionSystems:upgrades:6, Forcefield zapper upgrade
+AdvancedRepulsionSystems:upgrades:7, Forcefield camouflage upgrade
+AdvancedRepulsionSystems:upgrades:9, Forcefield inhibitor upgrade
+AdvancedRepulsionSystems:field, tile.null.name
 Aroma1997Core:wrench, Aromic Hammer
+ImmibisMicroblocks:immibis.microblocksaw, Hacksaw
 IC2:itemHarz, ic2.itemHarz.name
 IC2:itemRubber, ic2.itemRubber.name
 IC2:itemFluidCell, ic2.itemFluidCell.name
@@ -14348,6 +14790,7 @@ IC2:itemSteamTurbineBlade, ic2.itemSteamTurbineBlade.name
 IC2:itemIronBlockCuttingBlade, ic2.itemIronBlockCuttingBlade.name
 IC2:itemAdvIronBlockCuttingBlade, ic2.itemAdvIronBlockCuttingBlade.name
 IC2:itemDiamondBlockCuttingBlade, ic2.itemDiamondBlockCuttingBlade.name
+AdvancedMachines:advancedmachines.sharpPlate, Sharpened Iron Plate
 AdvancedSolarPanel:advanced_solar_helmet, Advanced Solar Helmet
 AdvancedSolarPanel:hybrid_solar_helmet, Hybrid Solar Helmet
 AdvancedSolarPanel:ultimate_solar_helmet, Ultimate Solar Helmet
@@ -14365,6 +14808,34 @@ AdvancedSolarPanel:asp_crafting_items:10, Iridium Ingot
 AdvancedSolarPanel:asp_crafting_items:11, Uranium Ingot
 AdvancedSolarPanel:asp_crafting_items:12, MT Core
 AdvancedSolarPanel:asp_crafting_items:13, Quantum Core
+animalbikes:pigbike, Pig Bike
+animalbikes:cowbike, Cow Bike
+animalbikes:spiderbike, Spider Bike
+animalbikes:sheepbike, Sheep Bike
+animalbikes:chickenbike, Chicken Bike
+animalbikes:wolfbike, Wolf Bike
+animalbikes:squidbike, Squid Bike
+animalbikes:creeperbike, Creeper Bike
+animalbikes:ponybike, Pony Bike
+animalbikes:enderbike, Ender Bike
+animalbikes:dragonbike, Dragon Bike
+animalbikes:notchbike, Notch Bike
+animalbikes:reindeerbike, Reindeer Bike
+animalbikes:snowgolembike, Snowgolem Bike
+animalbikes:ghastbike, Ghast Bike
+animalbikes:irongolembike, Irongolem Bike
+animalbikes:bunnybike, Bunny Bike
+animalbikes:item.null, Fossil
+animalbikes:dinobike, Dino Bike
+animalbikes:chocobobike, Chocobo Bike
+animalbikes:silverfishbike, Silverfish Bike
+animalbikes:batbike, Bat Bike
+animalbikes:chinesedragonbike, Chinese Dragon Bike
+animalbikes:teasd, Rawhide
+animalbikes:slimebike, Slime Bike
+animalbikes:ocelotbike, Ocelot Bike
+animalbikes:flowerbike, Flower Bike
+animalbikes:witherbike, Wither Bike
 appliedenergistics2:item.ToolCertusQuartzAxe, Certus Quartz Axe
 appliedenergistics2:item.ToolCertusQuartzHoe, Certus Quartz Hoe
 appliedenergistics2:item.ToolCertusQuartzSpade, Certus Quartz Shovel
@@ -14529,6 +15000,9 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockMetalUranium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockMetalLead
 appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockMetalAdvIron
 appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockITNT
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Array Solar Panel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Array Watermill
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Array Windmill
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Certus Quartz Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Certus Quartz Pillar
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Certus Quartz Block
@@ -14545,6 +15019,8 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Fluix Slabs
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Certus Quartz Slabs
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Certus Quartz Slabs
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Certus Quartz Pillar Slabs
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Portal Frame
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sticky Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Strange Sand
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Limestone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Cracked Limestone
@@ -16497,8 +16973,62 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Brittle Charcoal
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Powderbarrel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid Super Fuel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Magic Solid Super Fuel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - White lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Orange lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Magenta lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Light blue lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Yellow lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Lime lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pink lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Grey lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Light grey lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cyan lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Purple lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Blue lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Brown lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Green lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Red lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Black lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - White decorative lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Orange decorative lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Magenta decorative lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Light blue decorative lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Yellow decorative lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Lime decorative lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pink decorative lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Grey decorative lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Light grey decorative lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cyan decorative lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Purple decorative lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Blue decorative lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Brown decorative lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Green decorative lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Red decorative lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Black decorative lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - White indicator lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Orange indicator lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Magenta indicator lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Light blue indicator lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Yellow indicator lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Lime indicator lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pink indicator lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Grey indicator lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Light grey indicator lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cyan indicator lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Purple indicator lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Blue indicator lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Brown indicator lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Green indicator lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Red indicator lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Black indicator lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cleanroom Wall
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cleanroom Air Filter
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Chamelium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - End Stone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - WyvernLair Log
+appliedenergistics2:item.ItemFacade:0, Cable Facade - OgreLair Log
+appliedenergistics2:item.ItemFacade:0, Cable Facade - WyvernLair Wood Plank
+appliedenergistics2:item.ItemFacade:0, Cable Facade - OgreLair Wood Plank
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Confusing Charge
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Ender Charge
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Concussion Charge
@@ -16999,10 +17529,10 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Hawthorn Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Treated Wood Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Livingwood Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dreamwood Trim
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Smokey Quartz
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Smokey Quartz Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Pillar Smokey Quartz Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Paving Slab of Travel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Betweenstone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Pitstone
@@ -17230,6 +17760,16 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Temple Pillar
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Temple Tile
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Temple Brick Unbreaking
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Anthill Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Silver Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Tin Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Copper Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Nikolite Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Coal Brick Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Powdered Redstone Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Blue Alloy Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Red Alloy Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Brass Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Charcoal Block
 appliedenergistics2:item.ItemCrystalSeed:0, Certus Quartz Seed
 appliedenergistics2:item.ItemCrystalSeed:600, Nether Quartz Seed
 appliedenergistics2:item.ItemCrystalSeed:1200, Fluix Seed
@@ -17415,6 +17955,80 @@ appliedenergistics2:item.ItemMultiPart:220, ME Storage Bus
 appliedenergistics2:item.ItemMultiPart:400, ME Storage Monitor
 appliedenergistics2:item.ItemMultiPart:380, ME Terminal
 appliedenergistics2:item.ItemMultiPart:80, ME Toggle Bus
+Aquaculture:item.fishingRod, Wooden Fishing Rod
+Aquaculture:item.IronFishingRod, Iron Fishing Rod
+Aquaculture:item.GoldFishingRod, Golden Fishing Rod
+Aquaculture:item.DiamondFishingRod, Diamond Fishing Rod
+Aquaculture:item.AdminFishingRod, Admin Fishing Rod
+Aquaculture:item.loot:0, Seaweed
+Aquaculture:item.loot:1, Algae
+Aquaculture:item.loot:2, Raw Whale Steak
+Aquaculture:item.loot:3, Raw Fish Fillet
+Aquaculture:item.loot:4, Cooked Fish Fillet
+Aquaculture:item.loot:5, Cooked Whale Steak
+Aquaculture:item.loot:6, Cooked Whale Burger
+Aquaculture:item.loot:7, Frog Legs
+Aquaculture:item.loot:8, Cooked Frog Legs
+Aquaculture:item.loot:9, Turtle Soup
+Aquaculture:item.loot:10, Sushi
+Aquaculture:item.loot:11, Driftwood
+Aquaculture:item.loot:12, Neptunium Ingot
+Aquaculture:item.loot:13, Tin Can
+Aquaculture:item.loot:14, Message In A Bottle
+Aquaculture:item.loot:15, Box
+Aquaculture:item.loot:16, Lockbox
+Aquaculture:item.loot:17, Treasure Chest
+Aquaculture:item.loot:18, Neptune's Bounty
+Aquaculture:item.NeptuniumPickaxe, Neptunium Pickaxe
+Aquaculture:item.NeptuniumShovel, Neptunium Shovel
+Aquaculture:item.NeptuniumAxe, Neptunium Axe
+Aquaculture:item.NeptuniumHoe, Neptunium Hoe
+Aquaculture:item.NeptuniumSword, Neptunium Sword
+Aquaculture:item.NeptuniumHelmet, Neptunium Helmet
+Aquaculture:item.NeptuniumPlate, Neptunium Plate
+Aquaculture:item.NeptuniumLegs, Neptunium Legs
+Aquaculture:item.NeptuniumBoots, Neptunium Boots
+Aquaculture:item.Fish:0, Bluegill
+Aquaculture:item.Fish:1, Perch
+Aquaculture:item.Fish:2, Gar
+Aquaculture:item.Fish:3, Bass
+Aquaculture:item.Fish:4, Muskellunge
+Aquaculture:item.Fish:5, Brown Trout
+Aquaculture:item.Fish:6, CatFish
+Aquaculture:item.Fish:7, Carp
+Aquaculture:item.Fish:8, Blowfish
+Aquaculture:item.Fish:9, Red Grouper
+Aquaculture:item.Fish:10, Salmon
+Aquaculture:item.Fish:11, Tuna
+Aquaculture:item.Fish:12, Sword Fish
+Aquaculture:item.Fish:13, Shark
+Aquaculture:item.Fish:14, Whale
+Aquaculture:item.Fish:15, Squid
+Aquaculture:item.Fish:16, Jellyfish
+Aquaculture:item.Fish:17, Frog
+Aquaculture:item.Fish:18, Turtle
+Aquaculture:item.Fish:19, Leech
+Aquaculture:item.Fish:20, Pirahna
+Aquaculture:item.Fish:21, Electric Eel
+Aquaculture:item.Fish:22, Tambaqui
+Aquaculture:item.Fish:23, Arapaima
+Aquaculture:item.Fish:24, Cod
+Aquaculture:item.Fish:25, Pollock
+Aquaculture:item.Fish:26, Herring
+Aquaculture:item.Fish:27, Halibut
+Aquaculture:item.Fish:28, Pink Salmon
+Aquaculture:item.Fish:29, Rainbow Trout
+Aquaculture:item.Fish:30, Blackfish
+Aquaculture:item.Fish:31, Capitaine
+Aquaculture:item.Fish:32, Boulti
+Aquaculture:item.Fish:33, Bagrid
+Aquaculture:item.Fish:34, Syndontis
+Aquaculture:item.Fish:35, Red Shrooma
+Aquaculture:item.Fish:36, Brown Shrooma
+Aquaculture:item.Fish:37, Goldfish
+Aquaculture:item.Fish:38, Fish Bones
+Aroma1997sDimension:portalIgniter, Mining Multitool
+Aroma1997sDimension:dimensionChanger, DimensionChanger
 atum:item.scarab, Scarab
 atum:item.loot:1, Dirty Idol
 atum:item.loot:2, Silver Idol
@@ -23818,6 +24432,10 @@ gregtech:modularelectric2_helmet, Modular Nanosuit Helmet
 gregtech:modularelectric2_chestplate, Modular Nanosuit Chestplate
 gregtech:modularelectric2_leggings, Modular Nanosuit Leggings
 gregtech:modularelectric2_boots, Modular Nanosuit Boots
+RedLogic:redlogic.screwdriver, Screwdriver
+RedLogic:redlogic.compiledCircuit, Photomask
+RedLogic:redlogic.schematic, Schematic
+RedLogic:redlogic.chip, Integrated Circuit
 OpenComputers:item:27, Arithmetic Logic Unit (ALU)
 OpenComputers:item:101, Accelerated Processing Unit (APU) (Tier 1)
 OpenComputers:item:102, Accelerated Processing Unit (APU) (Tier 2)
@@ -23974,6 +24592,126 @@ menagerie:spawnegg:5, Spawn Mummy
 menagerie:spawnegg:6, Spawn Field Mouse
 menagerie:spawnegg:7, Spawn Mantikitten
 menagerie:spawnegg:8, Spawn Living Armor
+MoCreatures:recordshuffle, Zebra Record
+MoCreatures:horsesaddle, Crafted Saddle
+MoCreatures:sharkteeth, Shark Teeth
+MoCreatures:haystack, Hay Stack
+MoCreatures:sugarlump, Sugar Lump
+MoCreatures:mocegg:0, Blue Fish Egg
+MoCreatures:bigcatclaw, BigCat Claw
+MoCreatures:whip, Whip
+MoCreatures:medallion, Medallion
+MoCreatures:kittybed, Kitty Bed
+MoCreatures:kittylitter, Litter Box
+MoCreatures:woolball, Wool Ball
+MoCreatures:petfood, Pet Food
+MoCreatures:builderhammer, Builder Hammer
+MoCreatures:reptilehide, Reptile Hide
+MoCreatures:reptileplate, Reptile Plate
+MoCreatures:reptilehelmet, Reptile Helmet
+MoCreatures:reptilelegs, Reptile Legs
+MoCreatures:reptileboots, Reptile Boots
+MoCreatures:bowlempty:0, Empty FishBowl
+MoCreatures:bowlwater:0, Full FishBowl
+MoCreatures:bowlfish1:0, FishBowl
+MoCreatures:bowlfish2:0, FishBowl
+MoCreatures:bowlfish3:0, FishBowl
+MoCreatures:bowlfish4:0, FishBowl
+MoCreatures:bowlfish5:0, FishBowl
+MoCreatures:bowlfish6:0, FishBowl
+MoCreatures:bowlfish7:0, FishBowl
+MoCreatures:bowlfish8:0, FishBowl
+MoCreatures:bowlfish9:0, FishBowl
+MoCreatures:bowlfish10:0, FishBowl
+MoCreatures:fur, Fur
+MoCreatures:omelet, Omelet
+MoCreatures:turtleraw, Raw Turtle
+MoCreatures:turtlesoup, Turtle Soup
+MoCreatures:nunchaku, Nunchaku
+MoCreatures:sai, Sai
+MoCreatures:bo, Bo
+MoCreatures:katana, Katana
+MoCreatures:sharksword, Shark Sword
+MoCreatures:key, Key
+MoCreatures:essencedarkness, Essence of Darkness
+MoCreatures:essencefire, Essence of Fire
+MoCreatures:amuletbone:0, Bone Amulet
+MoCreatures:amuletbonefull:0, Bone Amulet
+MoCreatures:amuletghost:0, Ghost Amulet
+MoCreatures:amuletghostfull:0, Ghost Amulet
+MoCreatures:amuletfairy:0, Fairy Amulet
+MoCreatures:amuletfairyfull:0, Fairy Amulet
+MoCreatures:amuletpegasus:0, Sky Amulet
+MoCreatures:amuletpegasusfull:0, Sky Amulet
+MoCreatures:essenceundead, Essence of Undead
+MoCreatures:essencelight, Essence of Light
+MoCreatures:furchest, Fur Chest
+MoCreatures:furhelmet, Fur Helmet
+MoCreatures:furlegs, Fur Legs
+MoCreatures:furboots, Fur Boots
+MoCreatures:heartdarkness, Heart of Darkness
+MoCreatures:heartfire, Heart of Fire
+MoCreatures:heartundead, Heart of Undead
+MoCreatures:ostrichraw, Raw Ostrich
+MoCreatures:ostrichcooked, Cooked Ostrich
+MoCreatures:unicornhorn, Unicorn Horn
+MoCreatures:fishnet:0, Fish Net
+MoCreatures:horsearmorcrystal, Crystal Mount Armor
+MoCreatures:turkeyraw, Raw Turkey
+MoCreatures:turkeycooked, Cooked Turkey
+MoCreatures:hide, Hide
+MoCreatures:hidechest, Hide Chest
+MoCreatures:hidehelmet, Hide Helmet
+MoCreatures:hidelegs, Hide Legs
+MoCreatures:hideboots, Hide Boots
+MoCreatures:ratraw, Raw Rat
+MoCreatures:ratcooked, Cooked Rat
+MoCreatures:ratburger, Rat Burger
+MoCreatures:chitinblack, Chitin Black
+MoCreatures:chitinfrost, Chitin Frost
+MoCreatures:chitinnether, Chitin Nether
+MoCreatures:chitin, Chitin
+MoCreatures:scorpswordcave, Cave Scorpion Sword
+MoCreatures:scorpswordfrost, Frost Scorpion Sword
+MoCreatures:scorpswordnether, Nether Scorpion Sword
+MoCreatures:scorpsworddirt, Dirt Scorpion Sword
+MoCreatures:scorpplatedirt, Dirt Scorpion Plate Chest
+MoCreatures:scorphelmetdirt, Dirt Scorpion Helmet
+MoCreatures:scorplegsdirt, Dirt Scorpion Legs
+MoCreatures:scorpbootsdirt, Dirt Scorpion Boots
+MoCreatures:scorpplatefrost, Frost Scorpion Plate Chest
+MoCreatures:scorphelmetfrost, Frost Scorpion Helmet
+MoCreatures:scorplegsfrost, Frost Scorpion Legs
+MoCreatures:scorpbootsfrost, Frost Scorpion Boots
+MoCreatures:scorpplatecave, Cave Scorpion Plate Chest
+MoCreatures:scorphelmetcave, Cave Scorpion Helmet
+MoCreatures:scorplegscave, Cave Scorpion Legs
+MoCreatures:scorpbootscave, Cave Scorpion Boots
+MoCreatures:scorpplatenether, Nether Scorpion Plate Chest
+MoCreatures:scorphelmetnether, Nether Scorpion Helmet
+MoCreatures:scorplegsnether, Nether Scorpion Legs
+MoCreatures:scorpbootsnether, Nether Scorpion Boots
+MoCreatures:scorpstingcave, Cave Scorpion Sting
+MoCreatures:scorpstingfrost, Frost Scorpion Sting
+MoCreatures:scorpstingnether, Nether Scorpion Sting
+MoCreatures:scorpstingdirt, Dirt Scorpion Sting
+MoCreatures:scrolloffreedom, Scroll of Freedom
+MoCreatures:scrollofsale, Scroll of Sale
+MoCreatures:tuskswood, Wood Tusks
+MoCreatures:tusksiron, Iron Tusks
+MoCreatures:tusksdiamond, Diamond Tusks
+MoCreatures:elephantharness, Elephant Harness
+MoCreatures:elephantchest, Elephant Chest
+MoCreatures:elephantgarment, Elephant Garment
+MoCreatures:elephanthowdah, Elephant Howdah
+MoCreatures:mammothplatform, Mammoth Platform
+MoCreatures:crabraw, Raw Crab
+MoCreatures:crabcooked, Cooked Crab
+MoCreatures:silversword, Silver Sword
+MoCreatures:staffportal, Wyvern Portal Staff
+MoCreatures:staffteleport, Staff Teleport
+MoCreatures:scrollofowner, Scroll of Reset Owner
+MoCreatures:petamulet:0, Pet Amulet
 EnderZoo:enderZooIcon, item.enderZooIcon.name
 EnderZoo:itemSpawnEggEnderZoo:0, Spawn Enderminy
 EnderZoo:itemSpawnEggEnderZoo:1, Spawn Concussion Creeper
@@ -26075,56 +26813,56 @@ ExtraTiC:extra.bucket:1, Molten Fairy Bucket
 ExtraTiC:extra.bucket:6, Molten Desh Bucket
 ExtraTiC:extra.bucket:12, Molten Adamantine Bucket
 ExtraTiC:extra.bucket:11, Molten Brass Bucket
-factorization:fan, Pressurizer
-factorization:sap, Sap
-factorization:sculptTool:0, Sculpting Tool
-factorization:diamond_shard, Diamond Block Shard
-factorization:servo/servo, Servo
-factorization:chainLink, Dark Iron Chain Link
-factorization:utiligoo:0, Goo
-factorization:socket/:34, Robotic Arm
-factorization:socket/:35, Item Shifter
-factorization:docbook, The Factorization Manual
-factorization:servo/commenter, Commenter
-factorization:logic_matrix_controller, Logic Matrix: Controller
-factorization:dark_iron_ingot, Dark Iron Ingot
+factorization:diamond_cutting_head, Diamond Cutting Head
+factorization:tool/charge_meter, Charge Meter
+factorization:logic_matrix, Blank Logic Matrix
+factorization:logic_matrix_identifier, Logic Matrix: Identifier
 factorization:servo/sprocket, Dark Iron Sprocket
-factorization:entheas, Entheas
+factorization:motor, Motor
+factorization:tool/pocket_crafting_table, Pocket Crafting Table
+factorization:twistedBlock, Twisted Block of Dark Iron
 factorization:barrelCart:0, Barrel Cart
 factorization:barrelCart:0, Barrel Cart: Creative Bedrock Barrel
-factorization:darkIronChain, Chain
-factorization:brokenArtifact, item.factorization:brokenArtifact.name
-factorization:tool/pocket_crafting_table, Pocket Crafting Table
-factorization:socket/scissors, Enormous Scissors
-factorization:servo/component, item.factorization:servo/component.name
-factorization:corkscrew, Corkscrew
-factorization:lead_ingot, item.factorization:lead_ingot.name
-factorization:logic_matrix, Blank Logic Matrix
-factorization:servo/decorator, item.factorization:servo/decorator.name
-factorization:twistedBlock, Twisted Block of Dark Iron
-factorization:daybarrel, item.factorization:daybarrel.name
 factorization:nether_powder, Netherrack Powder
-factorization:spawnPoster, Poster
+factorization:lead_ingot, item.factorization:lead_ingot.name
+factorization:servo/servo, Servo
+factorization:docbook, The Factorization Manual
+factorization:servo/component, item.factorization:servo/component.name
+factorization:servo/servo_motor, Servo Motor
+factorization:socket/:34, Robotic Arm
+factorization:socket/:35, Item Shifter
+factorization:ceramics/glaze_bucket, Glaze Bucket
+factorization:fan, Pressurizer
+factorization:servo/decorator, item.factorization:servo/decorator.name
+factorization:logic_matrix_controller, Logic Matrix: Controller
+factorization:chainLink, Dark Iron Chain Link
+factorization:charge_battery, Battery Block
+factorization:entheas, Entheas
+factorization:brokenArtifact, item.factorization:brokenArtifact.name
+factorization:corkscrew, Corkscrew
+factorization:potencyBottle, Bottle of Potency
+factorization:colossusGuide, Lost Map
+factorization:shortChain, Short Length of Chain
 factorization:silver_ingot, item.factorization:silver_ingot.name
-factorization:mansandwich:0, Manwich
-factorization:mansandwich:1, Spicy Manwich
+factorization:sludge, Sludge
+factorization:darkIronChain, Chain
+factorization:socket/scissors, Enormous Scissors
+factorization:insulated_coil, Insulated Coil
+factorization:sap, Sap
+factorization:dark_iron_ingot, Dark Iron Ingot
+factorization:sculptTool:0, Sculpting Tool
+factorization:tool/matrix_programmer, Logic Matrix Programmer
+factorization:diamond_shard, Diamond Block Shard
+factorization:mirror, Mirror
+factorization:daybarrel, item.factorization:daybarrel.name
+factorization:spawnPoster, Poster
+factorization:utiligoo:0, Goo
+factorization:servo/commenter, Commenter
 factorization:acid:0, Sulfuric Acid
 factorization:acid:1, Aqua Regia
-factorization:charge_battery, Battery Block
-factorization:potencyBottle, Bottle of Potency
-factorization:mirror, Mirror
-factorization:motor, Motor
-factorization:ceramics/glaze_bucket, Glaze Bucket
-factorization:sludge, Sludge
-factorization:diamond_cutting_head, Diamond Cutting Head
 factorization:servo/instruction_plate, Instruction Plate
-factorization:tool/charge_meter, Charge Meter
-factorization:logic_matrix_identifier, Logic Matrix: Identifier
-factorization:colossusGuide, Lost Map
-factorization:tool/matrix_programmer, Logic Matrix Programmer
-factorization:servo/servo_motor, Servo Motor
-factorization:shortChain, Short Length of Chain
-factorization:insulated_coil, Insulated Coil
+factorization:mansandwich:0, Manwich
+factorization:mansandwich:1, Spicy Manwich
 gendustry:Labware, Genetics Labware
 gendustry:Waste, Genetic Waste
 gendustry:GeneSampleBlank, Blank Gene Sample
@@ -26801,14 +27539,14 @@ IronChest:diamondCrystalUpgrade, Diamond to Crystal Chest Upgrade
 IronChest:woodIronUpgrade, Wood to Iron Chest Upgrade
 IronChest:woodCopperUpgrade, Wood to Copper Chest Upgrade
 IronChest:diamondObsidianUpgrade, Diamond to Obsidian Chest Upgrade
-ironchestminecarts:minecart_chest_obsidian, Minecart with Obsidian Chest
 ironchestminecarts:minecart_chest_copper, Minecart with Copper Chest
-ironchestminecarts:minecart_chest_gold, Minecart with Gold Chest
 ironchestminecarts:minecart_chest_dirtchest9000, Minecart with DirtChest9000
 ironchestminecarts:minecart_chest_silver, Minecart with Silver Chest
-ironchestminecarts:minecart_chest_diamond, Minecart with Diamond Chest
-ironchestminecarts:minecart_chest_iron, Minecart with Iron Chest
 ironchestminecarts:minecart_chest_crystal, Minecart with Crystal Chest
+ironchestminecarts:minecart_chest_iron, Minecart with Iron Chest
+ironchestminecarts:minecart_chest_obsidian, Minecart with Obsidian Chest
+ironchestminecarts:minecart_chest_gold, Minecart with Gold Chest
+ironchestminecarts:minecart_chest_diamond, Minecart with Diamond Chest
 JABBA:upgradeStructural:0, item.upgrade.structural.1.name
 JABBA:upgradeStructural:1, item.upgrade.structural.2.name
 JABBA:upgradeStructural:2, item.upgrade.structural.3.name
@@ -26841,6 +27579,13 @@ JABBA:hammer:5, Barrel Hammer(Structural)
 JABBA:hammer:6, Barrel Hammer(Void)
 JABBA:hammer:7, Barrel Hammer(Creative)
 JABBA:tuningFork, B-Space tuning fork
+LiquidXP:liquidxp.bucket, LXP Bucket
+LiquidXP:liquidxp.medallion:0, Empty Medallion
+LiquidXP:liquidxp.medallion:1, Imbued Medallion
+LiquidXP:liquidxp.medallion:5, Imbued Medallion
+LiquidXP:liquidxp.medallion:10, Imbued Medallion
+LiquidXP:liquidxp.medallion:20, Imbued Medallion
+LiquidXP:liquidxp.medallion:30, Imbued Medallion
 LogisticsPipes:item.logisticsItemCard:0, Logistics Item Card
 LogisticsPipes:item.remoteOrdererItem, item.remoteOrdererItem.name
 LogisticsPipes:item.ItemPipeSignCreator, item.ItemPipeSignCreator.name
@@ -28398,7 +29143,6 @@ ThermalDynamics:cover:0, ic2.blockOreCopper Cover
 ThermalDynamics:cover:0, ic2.blockOreTin Cover
 ThermalDynamics:cover:0, ic2.blockOreUran Cover
 ThermalDynamics:cover:0, ic2.blockOreLead Cover
-ThermalDynamics:cover:0, ic2.blockRubWood Cover
 ThermalDynamics:cover:0, Hay Bale Cover
 ThermalDynamics:cover:0, Carpet Cover
 ThermalDynamics:cover:0, Orange Carpet Cover
@@ -28425,6 +29169,7 @@ ThermalDynamics:cover:0, Double Tallgrass Cover
 ThermalDynamics:cover:0, Large Fern Cover
 ThermalDynamics:cover:0, Rose Bush Cover
 ThermalDynamics:cover:0, Peony Cover
+ThermalDynamics:cover:0, ic2.blockRubWood Cover
 ThermalDynamics:cover:0, ic2.blockRubLeaves Cover
 ThermalDynamics:cover:0, ic2.blockRubSapling Cover
 ThermalDynamics:cover:0, ic2.blockHarz Cover
@@ -28459,6 +29204,10 @@ ThermalDynamics:cover:0, ic2.fluidDistilledWater Cover
 ThermalDynamics:cover:0, ic2.fluidSuperheatedSteam Cover
 ThermalDynamics:cover:0, ic2.fluidSteam Cover
 ThermalDynamics:cover:0, ic2.fluidHotWater Cover
+ThermalDynamics:cover:0, Array Cable Cover
+ThermalDynamics:cover:0, Array Solar Panel Cover
+ThermalDynamics:cover:0, Array Watermill Cover
+ThermalDynamics:cover:0, Array Windmill Cover
 ThermalDynamics:cover:0, Certus Quartz Ore Cover
 ThermalDynamics:cover:0, Charged Certus Quartz Ore Cover
 ThermalDynamics:cover:0, Certus Quartz Block Cover
@@ -28497,6 +29246,9 @@ ThermalDynamics:cover:0, Chiseled Certus Quartz Slabs Cover
 ThermalDynamics:cover:0, Chiseled Certus Quartz Slabs Cover
 ThermalDynamics:cover:0, Certus Quartz Pillar Slabs Cover
 ThermalDynamics:cover:0, Certus Quartz Pillar Slabs Cover
+ThermalDynamics:cover:0, Mining Portal Cover
+ThermalDynamics:cover:0, Portal Frame Cover
+ThermalDynamics:cover:0, Sticky Ore Cover
 ThermalDynamics:cover:0, Portal Cover
 ThermalDynamics:cover:0, Strange Sand Cover
 ThermalDynamics:cover:0, Limestone Cover
@@ -32255,9 +33007,73 @@ ThermalDynamics:cover:0, Brittle Charcoal Cover
 ThermalDynamics:cover:0, Powderbarrel Cover
 ThermalDynamics:cover:0, Solid Super Fuel Cover
 ThermalDynamics:cover:0, Magic Solid Super Fuel Cover
+ThermalDynamics:cover:0, White lamp Cover
+ThermalDynamics:cover:0, Orange lamp Cover
+ThermalDynamics:cover:0, Magenta lamp Cover
+ThermalDynamics:cover:0, Light blue lamp Cover
+ThermalDynamics:cover:0, Yellow lamp Cover
+ThermalDynamics:cover:0, Lime lamp Cover
+ThermalDynamics:cover:0, Pink lamp Cover
+ThermalDynamics:cover:0, Grey lamp Cover
+ThermalDynamics:cover:0, Light grey lamp Cover
+ThermalDynamics:cover:0, Cyan lamp Cover
+ThermalDynamics:cover:0, Purple lamp Cover
+ThermalDynamics:cover:0, Blue lamp Cover
+ThermalDynamics:cover:0, Brown lamp Cover
+ThermalDynamics:cover:0, Green lamp Cover
+ThermalDynamics:cover:0, Red lamp Cover
+ThermalDynamics:cover:0, Black lamp Cover
+ThermalDynamics:cover:0, White decorative lamp Cover
+ThermalDynamics:cover:0, Orange decorative lamp Cover
+ThermalDynamics:cover:0, Magenta decorative lamp Cover
+ThermalDynamics:cover:0, Light blue decorative lamp Cover
+ThermalDynamics:cover:0, Yellow decorative lamp Cover
+ThermalDynamics:cover:0, Lime decorative lamp Cover
+ThermalDynamics:cover:0, Pink decorative lamp Cover
+ThermalDynamics:cover:0, Grey decorative lamp Cover
+ThermalDynamics:cover:0, Light grey decorative lamp Cover
+ThermalDynamics:cover:0, Cyan decorative lamp Cover
+ThermalDynamics:cover:0, Purple decorative lamp Cover
+ThermalDynamics:cover:0, Blue decorative lamp Cover
+ThermalDynamics:cover:0, Brown decorative lamp Cover
+ThermalDynamics:cover:0, Green decorative lamp Cover
+ThermalDynamics:cover:0, Red decorative lamp Cover
+ThermalDynamics:cover:0, Black decorative lamp Cover
+ThermalDynamics:cover:0, White indicator lamp Cover
+ThermalDynamics:cover:0, Orange indicator lamp Cover
+ThermalDynamics:cover:0, Magenta indicator lamp Cover
+ThermalDynamics:cover:0, Light blue indicator lamp Cover
+ThermalDynamics:cover:0, Yellow indicator lamp Cover
+ThermalDynamics:cover:0, Lime indicator lamp Cover
+ThermalDynamics:cover:0, Pink indicator lamp Cover
+ThermalDynamics:cover:0, Grey indicator lamp Cover
+ThermalDynamics:cover:0, Light grey indicator lamp Cover
+ThermalDynamics:cover:0, Cyan indicator lamp Cover
+ThermalDynamics:cover:0, Purple indicator lamp Cover
+ThermalDynamics:cover:0, Blue indicator lamp Cover
+ThermalDynamics:cover:0, Brown indicator lamp Cover
+ThermalDynamics:cover:0, Green indicator lamp Cover
+ThermalDynamics:cover:0, Red indicator lamp Cover
+ThermalDynamics:cover:0, Black indicator lamp Cover
+ThermalDynamics:cover:0, Cleanroom Wall Cover
+ThermalDynamics:cover:0, Cleanroom Air Filter Cover
 ThermalDynamics:cover:0, Robot Cover
 ThermalDynamics:cover:0, Block of Chamelium Cover
 ThermalDynamics:cover:0, End Stone Cover
+ThermalDynamics:cover:0, WyvernLair Stone Cover
+ThermalDynamics:cover:0, OgreLair Stone Cover
+ThermalDynamics:cover:0, WyvernLair Grass Cover
+ThermalDynamics:cover:0, OgreLair Grass Cover
+ThermalDynamics:cover:0, WyvernLair Dirt Cover
+ThermalDynamics:cover:0, OgreLair Dirt Cover
+ThermalDynamics:cover:0, WyvernLair Leaves Cover
+ThermalDynamics:cover:0, OgreLair Leaves Cover
+ThermalDynamics:cover:0, WyvernLair Log Cover
+ThermalDynamics:cover:0, OgreLair Log Cover
+ThermalDynamics:cover:0, WyvernLair Tall Grass Cover
+ThermalDynamics:cover:0, OgreLair Tall Grass Cover
+ThermalDynamics:cover:0, WyvernLair Wood Plank Cover
+ThermalDynamics:cover:0, OgreLair Wood Plank Cover
 ThermalDynamics:cover:0, Confusing Charge Cover
 ThermalDynamics:cover:0, Ender Charge Cover
 ThermalDynamics:cover:0, Concussion Charge Cover
@@ -33122,25 +33938,25 @@ ThermalDynamics:cover:0, Hawthorn Trim Cover
 ThermalDynamics:cover:0, Treated Wood Trim Cover
 ThermalDynamics:cover:0, Livingwood Trim Cover
 ThermalDynamics:cover:0, Dreamwood Trim Cover
-ThermalDynamics:cover:0, Bedrock Portal Cover
-ThermalDynamics:cover:0, Aqua Imbued Fire Cover
-ThermalDynamics:cover:0, Paving Stair of Travel Cover
-ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
-ThermalDynamics:cover:0, Perditio Imbued Fire Cover
 ThermalDynamics:cover:0, tile.gaseousLight.name Cover
-ThermalDynamics:cover:0, Ignis Imbued Fire Cover
-ThermalDynamics:cover:0, tile.nitorGas.name Cover
-ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, Perditio Imbued Fire Cover
 ThermalDynamics:cover:0, Block of Smokey Quartz Cover
 ThermalDynamics:cover:0, Chiseled Smokey Quartz Block Cover
 ThermalDynamics:cover:0, Pillar Smokey Quartz Block Cover
-ThermalDynamics:cover:0, Ordo Imbued Fire Cover
-ThermalDynamics:cover:0, Paving Slab of Travel Cover
-ThermalDynamics:cover:0, Paving Slab of Travel Cover
 ThermalDynamics:cover:0, Aer Imbued Fire Cover
 ThermalDynamics:cover:0, Terra Imbued Fire Cover
+ThermalDynamics:cover:0, tile.nitorGas.name Cover
+ThermalDynamics:cover:0, Aqua Imbued Fire Cover
+ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
+ThermalDynamics:cover:0, Paving Stair of Travel Cover
+ThermalDynamics:cover:0, Bedrock Portal Cover
+ThermalDynamics:cover:0, Paving Slab of Travel Cover
+ThermalDynamics:cover:0, Paving Slab of Travel Cover
+ThermalDynamics:cover:0, Ordo Imbued Fire Cover
+ThermalDynamics:cover:0, Ignis Imbued Fire Cover
 ThermalDynamics:cover:0, Ice Cover
 ThermalDynamics:cover:0, Betweenstone Cover
 ThermalDynamics:cover:0, Pitstone Cover
@@ -33750,7 +34566,20 @@ ThermalDynamics:cover:0, Petrified Wood Stairs Cover
 ThermalDynamics:cover:0, Amber Brick Stairs Cover
 ThermalDynamics:cover:0, Wasp Nest Stairs Cover
 ThermalDynamics:cover:0, Anthill Stairs (Unused WIP) Cover
+ThermalDynamics:cover:0, Silver Block Cover
+ThermalDynamics:cover:0, Tin Block Cover
+ThermalDynamics:cover:0, Copper Block Cover
+ThermalDynamics:cover:0, Nikolite Block Cover
+ThermalDynamics:cover:0, Coal Brick Block Cover
+ThermalDynamics:cover:0, Powdered Redstone Block Cover
+ThermalDynamics:cover:0, Blue Alloy Block Cover
+ThermalDynamics:cover:0, Red Alloy Block Cover
+ThermalDynamics:cover:0, Brass Block Cover
+ThermalDynamics:cover:0, Charcoal Block Cover
 ThermalDynamics:cover:0, Rose Vines Cover
+ThermalDynamics:cover:0, Barbed Wire Fence Cover
+ThermalDynamics:cover:0, Chain Link Fence Cover
+ThermalDynamics:cover:0, Wireless data beam Cover
 ThermalDynamics:retriever:0, Retriever
 ThermalDynamics:retriever:1, Hardened Retriever
 ThermalDynamics:retriever:2, Reinforced Retriever
@@ -33775,6 +34604,7 @@ TravellersGear:simpleGear:6, Title Scroll
 TravellersGear:simpleGear:6, Title Scroll
 TravellersGear:simpleGear:6, Title Scroll
 TravellersGear:simpleGear:6, Title Scroll
+Tubestuff:uselessItem, Retriever Jammer
 WitchingGadgets:item.WG_Material:0, Yarn
 WitchingGadgets:item.WG_Material:1, Golden Thread
 WitchingGadgets:item.WG_Material:2, Thaumium Thread
@@ -34500,6 +35330,7 @@ WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
 WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
 WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
 WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
 WitchingGadgets:item.WG_Cluster:0, Native Aluminum Cluster
 WitchingGadgets:item.WG_Cluster:1, Native Cobalt Cluster
 WitchingGadgets:item.WG_Cluster:2, Native Ardite Cluster
@@ -34527,3 +35358,27 @@ ForgeMicroblock:sawStone, Stone Saw
 ForgeMicroblock:sawIron, Iron Saw
 ForgeMicroblock:sawDiamond, Diamond Saw
 ForgeMicroblock:stoneRod, Stone Rod
+AdvancedRepulsionSystems:DeFenceCodeDoorItem, Code Door
+AdvancedRepulsionSystems:{F3B9C366-4BAE-4A17-A87F-3E75EE7AF025}, MFDevice <Debugger>
+AdvancedRepulsionSystems:{85C018E9-503E-45A1-A41D-1A80F3C10085}, Blank ARS card
+AdvancedRepulsionSystems:{24F03169-149C-4C16-A1E1-46CDF95635A9}, Forcefield frequency card
+AdvancedRepulsionSystems:{7A273772-F99E-4729-A9C9-6F48C63C955F}, MFDevice <Offset>
+AdvancedRepulsionSystems:{A8F3AF2F-0384-4EAA-9486-8F7E7A1B96E7}:0, Energy modulator
+AdvancedRepulsionSystems:{A8F3AF2F-0384-4EAA-9486-8F7E7A1B96E7}:1, Diamond lens
+AdvancedRepulsionSystems:{A8F3AF2F-0384-4EAA-9486-8F7E7A1B96E7}:2, Forcefield projector base
+AdvancedRepulsionSystems:{03A0292A-F829-42D7-9E69-19059C589D43}:0, Player detector token
+AdvancedRepulsionSystems:{03A0292A-F829-42D7-9E69-19059C589D43}:1, AND token
+AdvancedRepulsionSystems:{03A0292A-F829-42D7-9E69-19059C589D43}:2, OR token
+AdvancedRepulsionSystems:{03A0292A-F829-42D7-9E69-19059C589D43}:3, NOT token
+AdvancedRepulsionSystems:{03A0292A-F829-42D7-9E69-19059C589D43}:4, Blank token
+AdvancedRepulsionSystems:{03A0292A-F829-42D7-9E69-19059C589D43}:5, Life detector token
+AdvancedRepulsionSystems:{03A0292A-F829-42D7-9E69-19059C589D43}:6, Redstone input token
+AdvancedRepulsionSystems:{03A0292A-F829-42D7-9E69-19059C589D43}:7, Animal detector token
+AdvancedRepulsionSystems:{03A0292A-F829-42D7-9E69-19059C589D43}:8, Mob detector token
+AdvancedRepulsionSystems:{03A0292A-F829-42D7-9E69-19059C589D43}:9, Item detector token
+AdvancedRepulsionSystems:{03A0292A-F829-42D7-9E69-19059C589D43}:10, Blue input token
+AdvancedRepulsionSystems:{03A0292A-F829-42D7-9E69-19059C589D43}:11, Yellow input token
+AdvancedRepulsionSystems:{03A0292A-F829-42D7-9E69-19059C589D43}:12, Green input token
+AdvancedRepulsionSystems:{03A0292A-F829-42D7-9E69-19059C589D43}:13, Purple input token
+AdvancedRepulsionSystems:{03A0292A-F829-42D7-9E69-19059C589D43}:14, Red input token
+AdvancedRepulsionSystems:{03A0292A-F829-42D7-9E69-19059C589D43}:15, Cyan input token
