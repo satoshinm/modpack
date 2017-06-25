@@ -15,7 +15,7 @@
 1.7.10/malisiscore-1.7.10-0.14.3.jar
 1.7.10/Mantle-1.7.10-0.3.2b.jar
 1.7.10/MicdoodleCore-1.7-3.0.12.462.jar
-1.7.10/MobiusCore-1.2.5_1.7.10.jar
+1.7.10/MobiusCore-1.2.5_1.7.10.jar.disabled
 1.7.10/MrTJPCore-1.1.0.33-universal.jar
 1.7.10/Numina-0.4.1.105.jar
 1.7.10/OpenModsLib-1.7.10-0.10.jar
@@ -119,7 +119,7 @@ NEIIntegration-MC1.7.10-1.1.2.jar
 NotEnoughItems-1.7.10-1.0.5.120-universal.jar
 OpenBlocks-1.7.10-1.6.jar
 OpenComputers-MC1.7.10-1.6.2.12-universal.jar
-Opis-1.2.5_1.7.10.jar
+Opis-1.2.5_1.7.10.jar.disabled
 Pam's HarvestCraft 1.7.10Lb.jar
 PneumaticCraft-1.7.10-1.12.7-150-universal.jar
 PortalGun-4.0.0-beta-6.jar
