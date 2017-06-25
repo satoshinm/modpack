@@ -11746,7 +11746,7 @@ extracells:vibrantchamberfluid, Fluid Vibration Chamber
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quark/Electron Director)
+ExtraUtilities:endConstructor:0, QED (Quantum Ender Device)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -12574,6 +12574,16 @@ factorization:ColossalBlock:6, §k§nDark Colossal Heart§r
 factorization:ColossalBlock:7, §nColossal Eye§r
 factorization:ColossalBlock:9, §nFractured Colossal Mask§r
 factorization:BlastBlock, tile.blastBlock.name
+flansmod:flansWorkbench:0, Vehicle Crafting Table
+flansmod:teamsSpawner:0, Item Spawner
+flansmod:teamsSpawner:1, Player Spawner
+flansmod:teamsSpawner:2, Vehicle Spawner
+flansmod:armorBox.ww2Armour, WW2 Armor Box
+flansmod:gunBox.american, American Weapons Box
+flansmod:gunBox.british, British Weapons Box
+flansmod:gunBox.german, German Weapons Box
+flansmod:gunBox.japanese, Japanese Weapons Box
+flansmod:gunBox.russian, Russian Weapons Box
 gendustry:fluid.Mutagen, Mutagen
 gendustry:fluid.LiquidDNA, Liquid DNA
 gendustry:fluid.Protein, Protein
@@ -13665,42 +13675,42 @@ thaumicenergistics:thaumicenergistics.block.arcane.assembler, Arcane Assembler
 thaumicenergistics:thaumicenergistics.block.knowledge.inscriber, Knowledge Inscriber
 thaumicenergistics:thaumicenergistics.block.essentia.vibration.chamber, Essentia Vibration Chamber
 thaumicenergistics:thaumicenergistics.block.distillation.encoder, Distillation Pattern Encoder
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
 ThaumicTinkerer:repairer, Thaumic Restorer
+ThaumicTinkerer:fireChaos, Perditio Imbued Fire
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:magnet:0, Kinetic Attractor
+ThaumicTinkerer:magnet:1, Corporeal Attractor
+ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
+ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
+ThaumicTinkerer:fireWater, Aqua Imbued Fire
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:dislocator, Transvector Dislocator
+ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
+ThaumicTinkerer:wardSlab:0, tile.wardSlab.name
+ThaumicTinkerer:wardSlabFull:0, tile.wardSlab.name
+ThaumicTinkerer:fireAir, Aer Imbued Fire
+ThaumicTinkerer:platform, Ethereal Platform
+ThaumicTinkerer:warpGate, Celestial Gateway
+ThaumicTinkerer:bedrockPortal, Bedrock Portal
 ThaumicTinkerer:interface, Transvector Interface
+ThaumicTinkerer:funnel, Essentia Funnel
+ThaumicTinkerer:fireFire, Ignis Imbued Fire
+ThaumicTinkerer:travelStairs, Paving Stair of Travel
+ThaumicTinkerer:enchanter, Osmotic Enchanter
+ThaumicTinkerer:fireEarth, Terra Imbued Fire
+ThaumicTinkerer:travelSlab:0, Paving Slab of Travel
+ThaumicTinkerer:travelSlabFull:0, Paving Slab of Travel
 ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
 ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
 ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
-ThaumicTinkerer:fireEarth, Terra Imbued Fire
-ThaumicTinkerer:dislocator, Transvector Dislocator
-ThaumicTinkerer:magnet:0, Kinetic Attractor
-ThaumicTinkerer:magnet:1, Corporeal Attractor
-ThaumicTinkerer:fireFire, Ignis Imbued Fire
-ThaumicTinkerer:warpGate, Celestial Gateway
-ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
-ThaumicTinkerer:travelSlab:0, Paving Slab of Travel
-ThaumicTinkerer:travelSlabFull:0, Paving Slab of Travel
-ThaumicTinkerer:animationTablet, Dynamism Tablet
-ThaumicTinkerer:fireAir, Aer Imbued Fire
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
 ThaumicTinkerer:forcefield, Forcefield
 ThaumicTinkerer:spawner, Tablet of Necromancy
-ThaumicTinkerer:fireChaos, Perditio Imbued Fire
-ThaumicTinkerer:bedrockPortal, Bedrock Portal
-ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
-ThaumicTinkerer:fireWater, Aqua Imbued Fire
-ThaumicTinkerer:funnel, Essentia Funnel
-ThaumicTinkerer:travelStairs, Paving Stair of Travel
-ThaumicTinkerer:wardSlab:0, tile.wardSlab.name
-ThaumicTinkerer:wardSlabFull:0, tile.wardSlab.name
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
 ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
 ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
-ThaumicTinkerer:platform, Ethereal Platform
-ThaumicTinkerer:enchanter, Osmotic Enchanter
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
+ThaumicTinkerer:animationTablet, Dynamism Tablet
 ThaumicTinkerer:fireOrder, Ordo Imbued Fire
 ThaumicExploration:autoSorter, tile.thaumicexploration:autoSorter.name
 ThaumicExploration:trashJar, Oblivion Jar
@@ -17558,6 +17568,13 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - §nColossal Eye§r (closed
 appliedenergistics2:item.ItemFacade:0, Cable Facade - §nColossal Eye§r
 appliedenergistics2:item.ItemFacade:0, Cable Facade - §nFractured Colossal Mask§r
 appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.blastBlock.name
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Vehicle Crafting Table
+appliedenergistics2:item.ItemFacade:0, Cable Facade - WW2 Armor Box
+appliedenergistics2:item.ItemFacade:0, Cable Facade - American Weapons Box
+appliedenergistics2:item.ItemFacade:0, Cable Facade - British Weapons Box
+appliedenergistics2:item.ItemFacade:0, Cable Facade - German Weapons Box
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Japanese Weapons Box
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Russian Weapons Box
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Shield assembly unit
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Shield assembly unit
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Bischofite
@@ -17664,10 +17681,10 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Hawthorn Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Treated Wood Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Livingwood Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dreamwood Trim
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Paving Slab of Travel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Smokey Quartz
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Smokey Quartz Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Pillar Smokey Quartz Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Paving Slab of Travel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Betweenstone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Pitstone
@@ -27128,56 +27145,262 @@ ExtraTiC:extra.bucket:1, Molten Fairy Bucket
 ExtraTiC:extra.bucket:6, Molten Desh Bucket
 ExtraTiC:extra.bucket:12, Molten Adamantine Bucket
 ExtraTiC:extra.bucket:11, Molten Brass Bucket
-factorization:sludge, Sludge
-factorization:dark_iron_ingot, Dark Iron Ingot
-factorization:logic_matrix_identifier, Logic Matrix: Identifier
-factorization:fan, Pressurizer
-factorization:servo/sprocket, Dark Iron Sprocket
-factorization:servo/commenter, Commenter
-factorization:ceramics/glaze_bucket, Glaze Bucket
-factorization:logic_matrix_controller, Logic Matrix: Controller
-factorization:silver_ingot, item.factorization:silver_ingot.name
-factorization:lead_ingot, item.factorization:lead_ingot.name
-factorization:servo/decorator, item.factorization:servo/decorator.name
-factorization:daybarrel, item.factorization:daybarrel.name
-factorization:tool/charge_meter, Charge Meter
-factorization:servo/servo, Servo
-factorization:charge_battery, Battery Block
-factorization:mirror, Mirror
-factorization:socket/:34, Robotic Arm
-factorization:socket/:35, Item Shifter
-factorization:motor, Motor
-factorization:shortChain, Short Length of Chain
-factorization:tool/pocket_crafting_table, Pocket Crafting Table
-factorization:acid:0, Sulfuric Acid
-factorization:acid:1, Aqua Regia
-factorization:servo/servo_motor, Servo Motor
-factorization:potencyBottle, Bottle of Potency
-factorization:sculptTool:0, Sculpting Tool
-factorization:tool/matrix_programmer, Logic Matrix Programmer
-factorization:insulated_coil, Insulated Coil
-factorization:corkscrew, Corkscrew
-factorization:twistedBlock, Twisted Block of Dark Iron
-factorization:logic_matrix, Blank Logic Matrix
-factorization:chainLink, Dark Iron Chain Link
 factorization:colossusGuide, Lost Map
-factorization:diamond_shard, Diamond Block Shard
+factorization:lead_ingot, item.factorization:lead_ingot.name
+factorization:tool/pocket_crafting_table, Pocket Crafting Table
+factorization:potencyBottle, Bottle of Potency
 factorization:docbook, The Factorization Manual
-factorization:socket/scissors, Enormous Scissors
+factorization:nether_powder, Netherrack Powder
+factorization:shortChain, Short Length of Chain
+factorization:sap, Sap
+factorization:fan, Pressurizer
+factorization:insulated_coil, Insulated Coil
+factorization:motor, Motor
+factorization:logic_matrix_identifier, Logic Matrix: Identifier
+factorization:utiligoo:0, Goo
+factorization:silver_ingot, item.factorization:silver_ingot.name
 factorization:darkIronChain, Chain
-factorization:diamond_cutting_head, Diamond Cutting Head
-factorization:spawnPoster, Poster
 factorization:barrelCart:0, Barrel Cart
 factorization:barrelCart:0, Barrel Cart: Creative Bedrock Barrel
+factorization:socket/scissors, Enormous Scissors
+factorization:servo/commenter, Commenter
+factorization:sculptTool:0, Sculpting Tool
+factorization:entheas, Entheas
+factorization:servo/decorator, item.factorization:servo/decorator.name
+factorization:diamond_cutting_head, Diamond Cutting Head
+factorization:mirror, Mirror
+factorization:chainLink, Dark Iron Chain Link
+factorization:logic_matrix, Blank Logic Matrix
+factorization:daybarrel, item.factorization:daybarrel.name
+factorization:servo/servo, Servo
+factorization:twistedBlock, Twisted Block of Dark Iron
+factorization:sludge, Sludge
+factorization:corkscrew, Corkscrew
+factorization:servo/servo_motor, Servo Motor
 factorization:servo/component, item.factorization:servo/component.name
+factorization:logic_matrix_controller, Logic Matrix: Controller
+factorization:charge_battery, Battery Block
+factorization:acid:0, Sulfuric Acid
+factorization:acid:1, Aqua Regia
 factorization:mansandwich:0, Manwich
 factorization:mansandwich:1, Spicy Manwich
-factorization:nether_powder, Netherrack Powder
-factorization:entheas, Entheas
-factorization:utiligoo:0, Goo
+factorization:tool/matrix_programmer, Logic Matrix Programmer
+factorization:servo/sprocket, Dark Iron Sprocket
 factorization:servo/instruction_plate, Instruction Plate
-factorization:sap, Sap
 factorization:brokenArtifact, item.factorization:brokenArtifact.name
+factorization:ceramics/glaze_bucket, Glaze Bucket
+factorization:socket/:34, Robotic Arm
+factorization:socket/:35, Item Shifter
+factorization:dark_iron_ingot, Dark Iron Ingot
+factorization:tool/charge_meter, Charge Meter
+factorization:diamond_shard, Diamond Block Shard
+factorization:spawnPoster, Poster
+flansmod:opStick:0, Stick of Ownership
+flansmod:flagpole, Flagpole
+flansmod:aaBarrel, AA Gun Barrel
+flansmod:advancedMetalCockpit, Advanced Metal Cockpit
+flansmod:advancedTankBody, Advanced Tank Body
+flansmod:biplaneWing, Biplane Wing
+flansmod:bombBay, Bomb Bay
+flansmod:catTrack, Caterpillar Track
+flansmod:catTrackPiece, Caterpillar Track Piece
+flansmod:denseRedstoneCoil, Dense Redstone Coil
+flansmod:fuelCan:0, Fuel Can
+flansmod:helicopterBlade, Helicopter Blade
+flansmod:helicopterSkid, Helicopter Skid
+flansmod:largeElectricEngine, Large Electric Engine
+flansmod:largeWheel, Large Wheel
+flansmod:lightningEngine, Lightning Engine
+flansmod:metalCockpit, Metal Cockpit
+flansmod:metalNose, Metal Nose
+flansmod:metalPropeller, Metal Propeller
+flansmod:metalTail, Metal Tail
+flansmod:metalWingSection, Metal Wing Section
+flansmod:metalWingSmall, Small Metal Wing
+flansmod:passengerBay, Passenger Bay
+flansmod:enginePiston, Engine Piston
+flansmod:redstoneCoil, Redstone Coil
+flansmod:rotaryEngine, Rotary Engine
+flansmod:vehicleSeat, Seat
+flansmod:smallChassis, Small Car Chassis
+flansmod:smallElectricEngine, Small Electric Engine
+flansmod:wheel, Small Wheel
+flansmod:tankBarrel, Tank Barrel
+flansmod:tankBody, Tank Body
+flansmod:tankTurret, Tank Turret
+flansmod:triplaneWing, Triplane Wing
+flansmod:v4Engine, V4 Engine
+flansmod:v6Engine, V6 Engine
+flansmod:v8Engine, V8 Engine
+flansmod:woodenCockpit, Wooden Cockpit
+flansmod:woodenPropeller, Wooden Propeller
+flansmod:woodenTail, Wooden Tail
+flansmod:woodenWing, Wooden Wing
+flansmod:crossbowBolt:0, Crossbow Bolt
+flansmod:20mm:0, 20mm Auto Cannon Ammo
+flansmod:BARAmmo:0, BAR Ammo
+flansmod:bazookaAmmo:0, Bazooka Ammo
+flansmod:boforsAmmo:0, Bofors Ammo
+flansmod:brenAmmo100:0, Bren Ammo - 100 Bullet Drum
+flansmod:brenAmmo30:0, Bren Ammo - 30 Bullet Box
+flansmod:browningAmmo:0, Browning Ammo - 250 Bullet Box
+flansmod:coltAmmo:0, Colt Ammo
+flansmod:dp28Ammo:0, DP28 Ammo
+flansmod:Fg42Ammo:0, FG-42 Ammo
+flansmod:flakvierlingAmmo:0, Flakvierling Ammo
+flansmod:flamethrowerAmmo:0, Flamethrower Ammo
+flansmod:G43Ammo:0, Gewehr 43 Ammo
+flansmod:kar98kAmmo:0, Kar98k Ammo
+flansmod:leeEnfieldAmmo:0, Lee Enfield Ammo
+flansmod:lugerAmmo:0, Luger Ammo
+flansmod:m1CarbineAmmo:0, M1 Carbine Ammo
+flansmod:m1GarandAmmo:0, M1 Garand Ammo
+flansmod:M3A1Ammo:0, M3A1 Ammo
+flansmod:mg42Ammo250:0, MG 42 Ammo - 250 Bullet Box
+flansmod:mg42Ammo50:0, MG 42 Ammo - 50 Bullet Drum
+flansmod:nagantAmmo:0, Mosin Nagant Ammo
+flansmod:mp40Ammo:0, MP 40 Ammo
+flansmod:mp44Ammo:0, MP 44 Ammo
+flansmod:panzerfaustAmmo:0, Panzerfaust Grenade
+flansmod:panzerschreckAmmo:0, Panzerschreck Ammo
+flansmod:PIATAmmo:0, PIAT Ammo
+flansmod:ppshAmmo:0, PPSH-41 Ammo
+flansmod:springfieldAmmo:0, Springfield Ammo
+flansmod:stenAmmo:0, Sten Ammo
+flansmod:thompsonAmmo:0, Thompson Ammo
+flansmod:trenchgunAmmo:0, Trenchgun Ammo
+flansmod:tt33Ammo:0, TT33 Ammo
+flansmod:type100Ammo:0, Type 100 Ammo
+flansmod:type14Ammo:0, Type 14 Ammo
+flansmod:type38Ammo:0, Type 38 Ammo
+flansmod:type99Ammo:0, Type 99 Ammo
+flansmod:webleyAmmo:0, Webley Ammo
+flansmod:largeBomb:0, Large Bomb
+flansmod:napalm:0, Napalm
+flansmod:shell:0, Tank Shell
+flansmod:smallBomb:0, Small Bomb
+flansmod:ZF4Scope, ZF-4 Scope
+flansmod:rock, Rock
+flansmod:millsBomb, Mills Bomb
+flansmod:ww2Mine, Anti-Tank Mine
+flansmod:mk2Frag, Mk. 2 Frag Grenade
+flansmod:rgd33, RGD-33 Stick Grenade
+flansmod:stielhandgranate, Stielhandgranate
+flansmod:type97, Type 97 Grenade
+flansmod:crossbow, Crossbow
+flansmod:BAR, BAR
+flansmod:bazooka, Bazooka
+flansmod:ww2Binoculars, Binoculars
+flansmod:bren, Bren
+flansmod:browning, Browning
+flansmod:colt, Colt
+flansmod:dp28, DP28
+flansmod:fg42, FG-42
+flansmod:flamethrower, Flamethrower
+flansmod:G43, Gewehr 43
+flansmod:kar98k, Kar98k
+flansmod:kar98kSniper, Kar98k Sniper
+flansmod:ww2Knife, Knife
+flansmod:leeEnfield, Lee Enfield
+flansmod:leeEnfieldSniper, Lee Enfield Sniper
+flansmod:luger, Luger
+flansmod:m1Carbine, M1 Carbine
+flansmod:m1Garand, M1 Garand
+flansmod:M3A1, M3A1 Grease Gun
+flansmod:mg42, MG 42
+flansmod:nagant, Mosin Nagant
+flansmod:nagantSniper, Mosin Nagant Sniper
+flansmod:mp40, MP 40
+flansmod:mp44, MP 44
+flansmod:panzerfaust, Panzerfaust
+flansmod:panzerschreck, Panzerschreck
+flansmod:PIAT, PIAT
+flansmod:ppsh, PPSH-41
+flansmod:springfield, Springfield
+flansmod:sten, Sten
+flansmod:thompson, Thompson
+flansmod:trenchgun, Trenchgun
+flansmod:tt33, TT33
+flansmod:type100, Type 100
+flansmod:type14, Type 14
+flansmod:type38, Type 38
+flansmod:type38Sniper, Type 38 Sniper
+flansmod:type99, Type 99
+flansmod:webley, Webley
+flansmod:flakvierling, Flakvierling-38 AA Gun
+flansmod:bofors, Bofors 40mm AA Gun
+flansmod:ChiHa, Chi-Ha
+flansmod:ChiNu, Chi-Nu
+flansmod:Churchill, Churchill Mk VII
+flansmod:Cromwell, Cromwell
+flansmod:Crusader, Cruiser Mk. VI Crusader
+flansmod:Fury, Fury
+flansmod:Jeep, Willy's Jeep
+flansmod:Kubel, Kubelwagen
+flansmod:KV1, KV-1
+flansmod:M157mm, M1-57 MM
+flansmod:Pak40, Pak-40
+flansmod:Panzer, Panzer IV
+flansmod:PanzerIIL, Panzer II Luchs
+flansmod:Sherman, M4 Sherman
+flansmod:T34, T-34
+flansmod:Tiger, Tiger
+flansmod:Tiger131, Tiger 131
+flansmod:Type4HoRo, Type 4 Ho-Ro
+flansmod:Biplane, Biplane
+flansmod:TwoSeatBiplane, Two Seat Biplane
+flansmod:BF109, BF109
+flansmod:Camel, Sopwith Camel
+flansmod:Fokker, Fokker Dr.1
+flansmod:Lancaster, Lancaster Bomber
+flansmod:Mustang, P-51 Mustang
+flansmod:Spitfire, Spitfire
+flansmod:yak9, Yak-9
+flansmod:zero, Zero
+flansmod:leech, Leech
+flansmod:ww2MedKit, Medical Kit
+flansmod:ww2Parachute, Parachute
+flansmod:blowTorch, Blow Torch
+flansmod:americanBoots, American WW2 Boots
+flansmod:americanCoat, American WW2 Coat
+flansmod:americanHelmet, American WW2 Helmet
+flansmod:americanPants, American WW2 Pants
+flansmod:americanSnowBoots, American WW2 Snow Boots
+flansmod:americanSnowCoat, American WW2 Snow Coat
+flansmod:americanSnowHelmet, American WW2 Snow Helmet
+flansmod:americanSnowPants, American WW2 Snow Pants
+flansmod:britishBoots, British WW2 Boots
+flansmod:britishCoat, British WW2 Coat
+flansmod:britishDesertBoots, British WW2 Desert Boots
+flansmod:britishDesertCoat, British WW2 Desert Coat
+flansmod:britishDesertHelmet, British WW2 Desert Helmet
+flansmod:britishDesertPants, British WW2 Desert Trousers
+flansmod:britishHelmet, British WW2 Helmet
+flansmod:britishPants, British WW2 Trousers
+flansmod:germanBoots, German WW2 Boots
+flansmod:germanCoat, German WW2 Coat
+flansmod:germanDesertBoots, German WW2 Desert Boots
+flansmod:germanDesertCoat, German WW2 Desert Coat
+flansmod:germanDesertHelmet, German WW2 Desert Helmet
+flansmod:germanDesertPants, German WW2 Desert Trousers
+flansmod:germanForestBoots, German WW2 Forest Boots
+flansmod:germanForestCoat, German WW2 Forest Coat
+flansmod:germanForestHelmet, German WW2 Forest Helmet
+flansmod:germanForestPants, German WW2 Forest Trousers
+flansmod:germanHelmet, German WW2 Helmet
+flansmod:germanPants, German WW2 Trousers
+flansmod:germanSnowBoots, German WW2 Snow Boots
+flansmod:germanSnowCoat, German WW2 Snow Coat
+flansmod:germanSnowHelmet, German WW2 Snow Helmet
+flansmod:germanSnowPants, German WW2 Snow Trousers
+flansmod:japaneseBoots, Japanese WW2 Boots
+flansmod:japaneseCoat, Japanese WW2 Coat
+flansmod:japaneseHelmet, Japanese WW2 Helmet
+flansmod:japanesePants, Japanese WW2 Trousers
+flansmod:russianBoots, Russian WW2 Boots
+flansmod:russianCoat, Russian WW2 Coat
+flansmod:russianHelmet, Russian WW2 Helmet
+flansmod:russianPants, Russian WW2 Trousers
 gendustry:Labware, Genetics Labware
 gendustry:Waste, Genetic Waste
 gendustry:GeneSampleBlank, Blank Gene Sample
@@ -27854,14 +28077,14 @@ IronChest:diamondCrystalUpgrade, Diamond to Crystal Chest Upgrade
 IronChest:woodIronUpgrade, Wood to Iron Chest Upgrade
 IronChest:woodCopperUpgrade, Wood to Copper Chest Upgrade
 IronChest:diamondObsidianUpgrade, Diamond to Obsidian Chest Upgrade
-ironchestminecarts:minecart_chest_gold, Minecart with Gold Chest
-ironchestminecarts:minecart_chest_silver, Minecart with Silver Chest
-ironchestminecarts:minecart_chest_crystal, Minecart with Crystal Chest
-ironchestminecarts:minecart_chest_iron, Minecart with Iron Chest
 ironchestminecarts:minecart_chest_dirtchest9000, Minecart with DirtChest9000
 ironchestminecarts:minecart_chest_diamond, Minecart with Diamond Chest
-ironchestminecarts:minecart_chest_copper, Minecart with Copper Chest
+ironchestminecarts:minecart_chest_gold, Minecart with Gold Chest
+ironchestminecarts:minecart_chest_iron, Minecart with Iron Chest
+ironchestminecarts:minecart_chest_silver, Minecart with Silver Chest
+ironchestminecarts:minecart_chest_crystal, Minecart with Crystal Chest
 ironchestminecarts:minecart_chest_obsidian, Minecart with Obsidian Chest
+ironchestminecarts:minecart_chest_copper, Minecart with Copper Chest
 JABBA:upgradeStructural:0, item.upgrade.structural.1.name
 JABBA:upgradeStructural:1, item.upgrade.structural.2.name
 JABBA:upgradeStructural:2, item.upgrade.structural.3.name
@@ -34112,6 +34335,12 @@ ThermalDynamics:cover:0, §nColossal Eye§r (closed) Cover
 ThermalDynamics:cover:0, §nColossal Eye§r Cover
 ThermalDynamics:cover:0, §nFractured Colossal Mask§r Cover
 ThermalDynamics:cover:0, tile.blastBlock.name Cover
+ThermalDynamics:cover:0, WW2 Armor Box Cover
+ThermalDynamics:cover:0, American Weapons Box Cover
+ThermalDynamics:cover:0, British Weapons Box Cover
+ThermalDynamics:cover:0, German Weapons Box Cover
+ThermalDynamics:cover:0, Japanese Weapons Box Cover
+ThermalDynamics:cover:0, Russian Weapons Box Cover
 ThermalDynamics:cover:0, Mutagen Cover
 ThermalDynamics:cover:0, Liquid DNA Cover
 ThermalDynamics:cover:0, Protein Cover
@@ -34385,24 +34614,24 @@ ThermalDynamics:cover:0, Hawthorn Trim Cover
 ThermalDynamics:cover:0, Treated Wood Trim Cover
 ThermalDynamics:cover:0, Livingwood Trim Cover
 ThermalDynamics:cover:0, Dreamwood Trim Cover
+ThermalDynamics:cover:0, Perditio Imbued Fire Cover
+ThermalDynamics:cover:0, tile.gaseousLight.name Cover
+ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
+ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
+ThermalDynamics:cover:0, Aqua Imbued Fire Cover
+ThermalDynamics:cover:0, Aer Imbued Fire Cover
+ThermalDynamics:cover:0, Bedrock Portal Cover
+ThermalDynamics:cover:0, Ignis Imbued Fire Cover
+ThermalDynamics:cover:0, Paving Stair of Travel Cover
+ThermalDynamics:cover:0, Terra Imbued Fire Cover
+ThermalDynamics:cover:0, Paving Slab of Travel Cover
+ThermalDynamics:cover:0, Paving Slab of Travel Cover
 ThermalDynamics:cover:0, Block of Smokey Quartz Cover
 ThermalDynamics:cover:0, Chiseled Smokey Quartz Block Cover
 ThermalDynamics:cover:0, Pillar Smokey Quartz Block Cover
-ThermalDynamics:cover:0, Terra Imbued Fire Cover
-ThermalDynamics:cover:0, Ignis Imbued Fire Cover
-ThermalDynamics:cover:0, Paving Slab of Travel Cover
-ThermalDynamics:cover:0, Paving Slab of Travel Cover
-ThermalDynamics:cover:0, Aer Imbued Fire Cover
 ThermalDynamics:cover:0, tile.nitorGas.name Cover
-ThermalDynamics:cover:0, tile.gaseousLight.name Cover
-ThermalDynamics:cover:0, Perditio Imbued Fire Cover
-ThermalDynamics:cover:0, Bedrock Portal Cover
-ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
-ThermalDynamics:cover:0, Aqua Imbued Fire Cover
-ThermalDynamics:cover:0, Paving Stair of Travel Cover
 ThermalDynamics:cover:0, Smokey Quartz Slab Cover
 ThermalDynamics:cover:0, Smokey Quartz Slab Cover
-ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
 ThermalDynamics:cover:0, Ordo Imbued Fire Cover
 ThermalDynamics:cover:0, Ice Cover
 ThermalDynamics:cover:0, Betweenstone Cover

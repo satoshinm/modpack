@@ -73,6 +73,7 @@ ExtraTiC-1.7.10-1.4.6.jar
 extrautilities-1.2.12.jar
 Factorization-1.7.10-0.8.107.jar
 fastcraft-1.23.jar
+Flans Mod-1.7.10-4.10.0.jar
 FloodLights-1.7.10-1.2.8-137.jar
 forestry_1.7.10-4.2.16.64.jar
 ForgottenNature_1.7.19old.jar
