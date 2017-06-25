@@ -27,6 +27,7 @@
 | [AnimalBikes](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278239-animal-bikes-added-a-polar-bear-bikes) | 1.7.10 | | This mod adds a bunch of animals, which you can ride or fly around on. |
 | [Custom Mob Spawner](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272337-mo-creatures-v10-0-5-with-bear-mounts) | 3.5.1 | | Dependency for Mo' Creatures |
 | [Mo' Creatures](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272337-mo-creatures-v10-0-5-with-bear-mounts) | 6.3.1 | | This Mod adds more creatures to the game. |
+| [Elemental Creepers](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2111959-1-7-x-1-8-elemental-creepers-rebooted) | 4.3.0 | | Elemental Creepers is a mod that, simply put, adds a quite a few Element based (and other types) creepers into your game. |
 | [Aquaculture](https://minecraft.curseforge.com/projects/aquaculture) | 1.2.6.21 | | In Aquaculture you never know what you'll catch. Every biome is home to tons of unique fish you can only catch in that biome, and there's a myriad of new loot items you can randomly catch while fishing. All of this is made possible by simply crafting the Iron Fishing Rod. |
 | [Botania](http://www.minecraftforum.net/topic/2440071-) | r1.8-249 | vazkii | Botania is a magic tech mod based on nature. |
 | [Buildcraft](http://www.mod-buildcraft.com/) | 7.1.22 | Spacetoad<br/>covertJaguar<br/>Asie | Extending Minecraft with pipes, auto-crafting, quarries, engines and much more! |
