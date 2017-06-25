@@ -251,10 +251,10 @@ minecraft:log2:1, Dark Oak Wood
 minecraft:acacia_stairs, Acacia Wood Stairs
 minecraft:dark_oak_stairs, Dark Oak Wood Stairs
 ImmibisMicroblocks:MicroblockContainer:0, 
-IC2:blockOreCopper, ic2.blockOreCopper.name
-IC2:blockOreTin, ic2.blockOreTin.name
-IC2:blockOreUran, ic2.blockOreUran.name
-IC2:blockOreLead, ic2.blockOreLead.name
+netherrocks:fyrite_ore, Fyrite Ore
+netherrocks:malachite_ore, Malachite Ore
+netherrocks:ashstone_ore, Ashstone Ore
+netherrocks:illumenite_ore, Illumenite Ore
 minecraft:hay_block, Hay Bale
 minecraft:carpet:0, Carpet
 minecraft:carpet:1, Orange Carpet
@@ -281,6 +281,20 @@ minecraft:double_plant:2, Double Tallgrass
 minecraft:double_plant:3, Large Fern
 minecraft:double_plant:4, Rose Bush
 minecraft:double_plant:5, Peony
+netherrocks:dragonstone_ore, Dragonstone Ore
+netherrocks:argonite_ore, Argonite Ore
+netherrocks:fyrite_block, Fyrite Block
+netherrocks:malachite_block, Malachite Block
+netherrocks:ashstone_block, Ashstone Block
+netherrocks:illumenite_block, Illumenite Block
+netherrocks:dragonstone_block, Dragonstone Block
+netherrocks:argonite_block, Argonite Block
+netherrocks:nether_furnace, Nether Furnace
+netherrocks:nether_furnace_lit, Nether Furnace
+IC2:blockOreCopper, ic2.blockOreCopper.name
+IC2:blockOreTin, ic2.blockOreTin.name
+IC2:blockOreUran, ic2.blockOreUran.name
+IC2:blockOreLead, ic2.blockOreLead.name
 IC2:blockRubWood, ic2.blockRubWood.name
 IC2:blockRubLeaves, ic2.blockRubLeaves.name
 IC2:blockRubSapling, ic2.blockRubSapling.name
@@ -441,24 +455,6 @@ appliedenergistics2:tile.BlockQuartzPillar, Certus Quartz Pillar
 appliedenergistics2:tile.BlockQuartzChiseled, Chiseled Certus Quartz Block
 appliedenergistics2:tile.BlockQuartzGlass, Quartz Glass
 appliedenergistics2:tile.BlockQuartzLamp, Vibrant Quartz Glass
-appliedenergistics2:tile.BlockQuartzTorch, Charged Quartz Fixture
-appliedenergistics2:tile.BlockFluix, Fluix Block
-appliedenergistics2:tile.BlockSkyStone:0, Sky Stone
-appliedenergistics2:tile.BlockSkyStone:1, Sky Stone Block
-appliedenergistics2:tile.BlockSkyStone:2, Sky Stone Brick
-appliedenergistics2:tile.BlockSkyStone:3, Sky Stone Small Brick
-appliedenergistics2:tile.BlockSkyChest:0, Sky Stone Chest
-appliedenergistics2:tile.BlockSkyChest:1, Sky Stone Block Chest
-appliedenergistics2:tile.BlockSkyCompass, Meteorite Compass
-appliedenergistics2:tile.BlockGrinder, Quartz Grindstone
-appliedenergistics2:tile.BlockCrank, Wooden Crank
-appliedenergistics2:tile.BlockInscriber, Inscriber
-appliedenergistics2:tile.BlockWireless, ME Wireless Access Point
-appliedenergistics2:tile.BlockCharger, Charger
-appliedenergistics2:tile.BlockTinyTNT, Tiny TNT
-appliedenergistics2:tile.BlockSecurity, ME Security Terminal
-appliedenergistics2:tile.BlockQuantumRing, ME Quantum Ring
-appliedenergistics2:tile.BlockQuantumLinkChamber, ME Quantum Link Chamber
 minecraft:iron_shovel, Iron Shovel
 minecraft:iron_pickaxe, Iron Pickaxe
 minecraft:iron_axe, Iron Axe
@@ -742,6 +738,30 @@ minecraft:netherbrick, Nether Brick
 minecraft:quartz, Nether Quartz
 minecraft:tnt_minecart, TNT Cart
 minecraft:hopper_minecart, Hopper Cart
+appliedenergistics2:tile.BlockQuartzTorch, Charged Quartz Fixture
+appliedenergistics2:tile.BlockFluix, Fluix Block
+appliedenergistics2:tile.BlockSkyStone:0, Sky Stone
+appliedenergistics2:tile.BlockSkyStone:1, Sky Stone Block
+appliedenergistics2:tile.BlockSkyStone:2, Sky Stone Brick
+appliedenergistics2:tile.BlockSkyStone:3, Sky Stone Small Brick
+appliedenergistics2:tile.BlockSkyChest:0, Sky Stone Chest
+appliedenergistics2:tile.BlockSkyChest:1, Sky Stone Block Chest
+appliedenergistics2:tile.BlockSkyCompass, Meteorite Compass
+appliedenergistics2:tile.BlockGrinder, Quartz Grindstone
+appliedenergistics2:tile.BlockCrank, Wooden Crank
+appliedenergistics2:tile.BlockInscriber, Inscriber
+minecraft:iron_horse_armor, Iron Horse Armor
+minecraft:golden_horse_armor, Gold Horse Armor
+minecraft:diamond_horse_armor, Diamond Horse Armor
+minecraft:lead, Lead
+minecraft:name_tag, Name Tag
+minecraft:command_block_minecart, Minecart with Command Block
+appliedenergistics2:tile.BlockWireless, ME Wireless Access Point
+appliedenergistics2:tile.BlockCharger, Charger
+appliedenergistics2:tile.BlockTinyTNT, Tiny TNT
+appliedenergistics2:tile.BlockSecurity, ME Security Terminal
+appliedenergistics2:tile.BlockQuantumRing, ME Quantum Ring
+appliedenergistics2:tile.BlockQuantumLinkChamber, ME Quantum Link Chamber
 appliedenergistics2:tile.BlockSpatialPylon, Spatial Pylon
 appliedenergistics2:tile.BlockSpatialIOPort, Spatial IO Port
 appliedenergistics2:tile.BlockCableBus, AE2 Cable and/or Bus
@@ -750,12 +770,6 @@ appliedenergistics2:tile.BlockDrive, ME Drive
 appliedenergistics2:tile.BlockChest, ME Chest
 appliedenergistics2:tile.BlockInterface, ME Interface
 appliedenergistics2:tile.BlockCellWorkbench, Cell Workbench
-minecraft:iron_horse_armor, Iron Horse Armor
-minecraft:golden_horse_armor, Gold Horse Armor
-minecraft:diamond_horse_armor, Diamond Horse Armor
-minecraft:lead, Lead
-minecraft:name_tag, Name Tag
-minecraft:command_block_minecart, Minecart with Command Block
 appliedenergistics2:tile.BlockIOPort, ME IO Port
 appliedenergistics2:tile.BlockCondenser, Matter Condenser
 appliedenergistics2:tile.BlockEnergyAcceptor, Energy Acceptor
@@ -798,6 +812,30 @@ appliedenergistics2:tile.ChiseledQuartzSlabBlock:0, Chiseled Certus Quartz Slabs
 appliedenergistics2:tile.ChiseledQuartzSlabBlock.double:0, Chiseled Certus Quartz Slabs
 appliedenergistics2:tile.QuartzPillarSlabBlock:0, Certus Quartz Pillar Slabs
 appliedenergistics2:tile.QuartzPillarSlabBlock.double:0, Certus Quartz Pillar Slabs
+ArchimedesShips:marker, Ship's Helm
+ArchimedesShips:floater, Floater
+ArchimedesShips:balloon:0, Air Balloon
+ArchimedesShips:balloon:1, Orange Air Balloon
+ArchimedesShips:balloon:2, Magenta Air Balloon
+ArchimedesShips:balloon:3, tile.archimedes.balloon.lightBlue.name
+ArchimedesShips:balloon:4, Yellow Air Balloon
+ArchimedesShips:balloon:5, Lime Air Balloon
+ArchimedesShips:balloon:6, Pink Air Balloon
+ArchimedesShips:balloon:7, Gray Air Balloon
+ArchimedesShips:balloon:8, Silver Air Balloon
+ArchimedesShips:balloon:9, Cyan Air Balloon
+ArchimedesShips:balloon:10, Purple Air Balloon
+ArchimedesShips:balloon:11, Blue Air Balloon
+ArchimedesShips:balloon:12, Brown Air Balloon
+ArchimedesShips:balloon:13, Green Air Balloon
+ArchimedesShips:balloon:14, Red Air Balloon
+ArchimedesShips:balloon:15, Black Air Balloon
+ArchimedesShips:gauge:0, Measurement Gauges
+ArchimedesShips:gauge:1, Measurement Gauges
+ArchimedesShips:seat, Passenger Seat
+ArchimedesShips:buffer, Shore Buffer
+ArchimedesShips:engine, Steam Engine
+ArchimedesShips:crate_wood, Wooden Crate
 Aroma1997sDimension:aromicPortal, Mining Portal
 Aroma1997sDimension:portalFrame, Portal Frame
 Aroma1997sDimension:stickyOre, Sticky Ore
@@ -1305,37 +1343,6 @@ Automagy:blockPhenomenon, Phenomenon
 Automagy:blockThaumostaticSpire, Thaumostatic Spire
 Automagy:blockTallyLensWorld, Tally Box (Lens: Unbound)
 Automagy:blockTallyLensDrops, Tally Box (Lens: Yield)
-beyondrealitycore:dimGuardKiller, tile.BRC:dimGuardKiller.name
-beyondrealitycore:customBlock_0, Moon Iron Ore
-beyondrealitycore:customBlock_1, Mars Iron Ore
-beyondrealitycore:customBlock_2, Mars Gold Ore
-beyondrealitycore:customBlock_3, Moon Diamond Ore
-beyondrealitycore:customBlock_4, Mars Diamond Ore
-beyondrealitycore:customBlock_5, Moon Redstone Ore
-beyondrealitycore:customBlock_6, Mars Redstone Ore
-beyondrealitycore:customBlock_7, Moon Lapis Ore
-beyondrealitycore:customBlock_8, Mars Lapis Ore
-beyondrealitycore:customBlock_9, Moon Tetrahedrite Ore
-beyondrealitycore:customBlock_10, Mars Tetrahedrite Ore
-beyondrealitycore:customBlock_11, Moon Bauxite Ore
-beyondrealitycore:customBlock_12, Mars Bauxite Ore
-beyondrealitycore:customBlock_13, Mars Uranium Ore
-beyondrealitycore:customBlock_14, Moon Cassiterite Ore
-beyondrealitycore:customBlock_15, Mars Cassiterite Ore
-beyondrealitycore:customBlock_16, Moon Silver Ore
-beyondrealitycore:customBlock_17, Mars Silver Ore
-beyondrealitycore:customBlock_18, Moon Lead Ore
-beyondrealitycore:customBlock_19, Mars Lead Ore
-beyondrealitycore:customBlock_20, Mars Iridium Ore
-beyondrealitycore:customBlock_21, Mars Platnium Ore
-beyondrealitycore:customBlock_22, Mars Osmium Ore
-beyondrealitycore:customBlock_23, Mars Tungstate Ore
-beyondrealitycore:customBlock_24, Mars Naqadah Ore
-beyondrealitycore:customBlock_25, Moon Ruby Ore
-beyondrealitycore:customBlock_26, Mars Ruby Ore
-beyondrealitycore:customBlock_27, Moon Glowstone
-beyondrealitycore:customBlock_28, Mars Mutagen crystals
-beyondrealitycore:customBlock_29, Mars Naquadria Ore
 BiblioCraft:tile.BiblioFramedChest:0, Framed Chest
 BiblioCraft:BiblioPaneler:0, Oak Furniture Paneler
 BiblioCraft:BiblioPaneler:1, Spruce Furniture Paneler
@@ -11694,7 +11701,7 @@ extracells:vibrantchamberfluid, Fluid Vibration Chamber
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quadratic Equation Device)
+ExtraUtilities:endConstructor:0, QED (Quod Erat Demonstrandum)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -11844,18 +11851,6 @@ ExtraUtilities:color_redstoneLight:12, Colored Redstone Lamp (Brown Frequency)
 ExtraUtilities:color_redstoneLight:13, Colored Redstone Lamp (Green Frequency)
 ExtraUtilities:color_redstoneLight:14, Colored Redstone Lamp (Red Frequency)
 ExtraUtilities:color_redstoneLight:15, Colored Redstone Lamp (Black Frequency)
-minecraft:record_13, Music Disc
-minecraft:record_cat, Music Disc
-minecraft:record_blocks, Music Disc
-minecraft:record_chirp, Music Disc
-minecraft:record_far, Music Disc
-minecraft:record_mall, Music Disc
-minecraft:record_mellohi, Music Disc
-minecraft:record_stal, Music Disc
-minecraft:record_strad, Music Disc
-minecraft:record_ward, Music Disc
-minecraft:record_11, Music Disc
-minecraft:record_wait, Music Disc
 ExtraUtilities:color_brick:0, Colored Bricks (White Frequency)
 ExtraUtilities:color_brick:1, Colored Bricks (Orange Frequency)
 ExtraUtilities:color_brick:2, Colored Bricks (Magenta Frequency)
@@ -11986,6 +11981,18 @@ ExtraUtilities:greenscreen:12, Lapis Caelestis Fuscus (Brown)
 ExtraUtilities:greenscreen:13, Lapis Caelestis Paphiae Myrti (Dark Green)
 ExtraUtilities:greenscreen:14, Lapis Caelestis Rufus (Red)
 ExtraUtilities:greenscreen:15, Lapis Caelestis Nox (Black)
+minecraft:record_13, Music Disc
+minecraft:record_cat, Music Disc
+minecraft:record_blocks, Music Disc
+minecraft:record_chirp, Music Disc
+minecraft:record_far, Music Disc
+minecraft:record_mall, Music Disc
+minecraft:record_mellohi, Music Disc
+minecraft:record_stal, Music Disc
+minecraft:record_strad, Music Disc
+minecraft:record_ward, Music Disc
+minecraft:record_11, Music Disc
+minecraft:record_wait, Music Disc
 ExtraUtilities:peaceful_table_top, Peaceful Table
 ExtraUtilities:trading_post, Trading Post
 ExtraUtilities:sound_muffler:0, Sound Muffler
@@ -13173,6 +13180,13 @@ RandomThings:spectreBlock:13, Magenta Spectre Block
 RandomThings:spectreBlock:14, Orange Spectre Block
 RandomThings:spectreBlock:15, White Spectre Block
 RandomThings:imbuingStation, Imbuing Station
+xreliquary:altar_idle, Altar of Light
+xreliquary:altar, Altar of Light
+xreliquary:apothecary_cauldron, Apothecary Cauldron
+xreliquary:apothecary_mortar, Apothecary Mortar
+xreliquary:lilypad, Lilypad of Fertility
+xreliquary:interdiction_torch, {{!colors.yellow}}Interdiction Torch
+xreliquary:wraith_node, Wraith Node
 JAKJ_RedstoneInMotion:simpleFrame:0, Frame Carriage
 JAKJ_RedstoneInMotion:tile.JAKJ_RedstoneInMotion_Carriage:1, Platform Carriage
 JAKJ_RedstoneInMotion:tile.JAKJ_RedstoneInMotion_Carriage:2, Structure Carriage
@@ -13609,43 +13623,43 @@ thaumicenergistics:thaumicenergistics.block.arcane.assembler, Arcane Assembler
 thaumicenergistics:thaumicenergistics.block.knowledge.inscriber, Knowledge Inscriber
 thaumicenergistics:thaumicenergistics.block.essentia.vibration.chamber, Essentia Vibration Chamber
 thaumicenergistics:thaumicenergistics.block.distillation.encoder, Distillation Pattern Encoder
+ThaumicTinkerer:warpGate, Celestial Gateway
+ThaumicTinkerer:enchanter, Osmotic Enchanter
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
+ThaumicTinkerer:travelSlab:0, Paving Slab of Travel
+ThaumicTinkerer:travelSlabFull:0, Paving Slab of Travel
+ThaumicTinkerer:fireEarth, Terra Imbued Fire
+ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
 ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:fireOrder, Ordo Imbued Fire
+ThaumicTinkerer:platform, Ethereal Platform
+ThaumicTinkerer:animationTablet, Dynamism Tablet
+ThaumicTinkerer:dislocator, Transvector Dislocator
+ThaumicTinkerer:spawner, Tablet of Necromancy
+ThaumicTinkerer:wardSlab:0, tile.wardSlab.name
+ThaumicTinkerer:wardSlabFull:0, tile.wardSlab.name
+ThaumicTinkerer:fireWater, Aqua Imbued Fire
+ThaumicTinkerer:funnel, Essentia Funnel
+ThaumicTinkerer:interface, Transvector Interface
+ThaumicTinkerer:repairer, Thaumic Restorer
 ThaumicTinkerer:magnet:0, Kinetic Attractor
 ThaumicTinkerer:magnet:1, Corporeal Attractor
+ThaumicTinkerer:travelStairs, Paving Stair of Travel
 ThaumicTinkerer:fireChaos, Perditio Imbued Fire
+ThaumicTinkerer:fireAir, Aer Imbued Fire
+ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
+ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
 ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
 ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
 ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
-ThaumicTinkerer:funnel, Essentia Funnel
-ThaumicTinkerer:fireAir, Aer Imbued Fire
-ThaumicTinkerer:dislocator, Transvector Dislocator
-ThaumicTinkerer:forcefield, Forcefield
-ThaumicTinkerer:fireEarth, Terra Imbued Fire
-ThaumicTinkerer:interface, Transvector Interface
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:fireWater, Aqua Imbued Fire
-ThaumicTinkerer:warpGate, Celestial Gateway
-ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
-ThaumicTinkerer:enchanter, Osmotic Enchanter
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
-ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
-ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
-ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
-ThaumicTinkerer:travelStairs, Paving Stair of Travel
-ThaumicTinkerer:animationTablet, Dynamism Tablet
-ThaumicTinkerer:repairer, Thaumic Restorer
 ThaumicTinkerer:bedrockPortal, Bedrock Portal
-ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
 ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
-ThaumicTinkerer:travelSlab:0, Paving Slab of Travel
-ThaumicTinkerer:travelSlabFull:0, Paving Slab of Travel
-ThaumicTinkerer:wardSlab:0, tile.wardSlab.name
-ThaumicTinkerer:wardSlabFull:0, tile.wardSlab.name
-ThaumicTinkerer:platform, Ethereal Platform
-ThaumicTinkerer:spawner, Tablet of Necromancy
-ThaumicTinkerer:fireOrder, Ordo Imbued Fire
+ThaumicTinkerer:forcefield, Forcefield
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
 ThaumicTinkerer:fireFire, Ignis Imbued Fire
+ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
+ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
 ThaumicExploration:autoSorter, tile.thaumicexploration:autoSorter.name
 ThaumicExploration:trashJar, Oblivion Jar
 ThaumicExploration:boundChest, tile.boundChest.name
@@ -14409,6 +14423,10 @@ Tubestuff:storage:6, Blue Alloy Block
 Tubestuff:storage:7, Red Alloy Block
 Tubestuff:storage:8, Brass Block
 Tubestuff:storage:9, Charcoal Block
+UsefulFood:AppleCakeBlock, tile.AppleCakeBlock.name
+UsefulFood:ChocolateCakeBlock, tile.ChocolateCakeBlock.name
+UsefulFood:MagicCakeBlock, tile.MagicCakeBlock.name
+UsefulFood:CaramelCakeBlock, tile.CaramelCakeBlock.name
 WitchingGadgets:WG_WallMirror, Mirror on the Wall
 WitchingGadgets:WG_VoidWalkway, Void Walkway
 WitchingGadgets:WG_StoneDevice:0, Ethereal Wall
@@ -14466,6 +14484,51 @@ AdvancedRepulsionSystems:upgrades:9, Forcefield inhibitor upgrade
 AdvancedRepulsionSystems:field, tile.null.name
 Aroma1997Core:wrench, Aromic Hammer
 ImmibisMicroblocks:immibis.microblocksaw, Hacksaw
+netherrocks:fyrite_ingot, Fyrite Ingot
+netherrocks:malachite_ingot, Malachite Ingot
+netherrocks:ashstone_gem, Ashstone Gem
+netherrocks:illumenite_ingot, Illumenite Ingot
+netherrocks:dragonstone_gem, Dragonstone Gem
+netherrocks:argonite_ingot, Argonite Ingot
+netherrocks:malachite_pickaxe, Malachite Pickaxe
+netherrocks:malachite_axe, Malachite Axe
+netherrocks:malachite_shovel, Malachite Shovel
+netherrocks:malachite_hoe, Malachite Hoe
+netherrocks:malachite_sword, Malachite Sword
+netherrocks:ashstone_pickaxe, Ashstone Pickaxe
+netherrocks:ashstone_axe, Ashstone Axe
+netherrocks:ashstone_shovel, Ashstone Shovel
+netherrocks:ashstone_hoe, Ashstone Hoe
+netherrocks:ashstone_sword, Ashstone Sword
+netherrocks:dragonstone_pickaxe, Dragonstone Pickaxe
+netherrocks:dragonstone_axe, Dragonstone Axe
+netherrocks:dragonstone_shovel, Dragonstone Shovel
+netherrocks:dragonstone_hoe, Dragonstone Hoe
+netherrocks:dragonstone_sword, Dragonstone Sword
+netherrocks:argonite_pickaxe, Argonite Pickaxe
+netherrocks:argonite_axe, Argonite Axe
+netherrocks:argonite_shovel, Argonite Shovel
+netherrocks:argonite_hoe, Argonite Hoe
+netherrocks:argonite_sword, Argonite Sword
+netherrocks:fyrite_sword, Fyrite Sword
+netherrocks:fyrite_pickaxe, Fyrite Pickaxe
+netherrocks:illumenite_sword, Illumenite Sword
+netherrocks:fyrite_helmet, Fyrite Helmet
+netherrocks:fyrite_chestplate, Fyrite Chestplate
+netherrocks:fyrite_leggings, Fyrite Leggings
+netherrocks:fyrite_boots, Fyrite Boots
+netherrocks:malachite_helmet, Malachite Helmet
+netherrocks:malachite_chestplate, Malachite Chestplate
+netherrocks:malachite_leggings, Malachite Leggings
+netherrocks:malachite_boots, Malachite Boots
+netherrocks:illumenite_helmet, Illumenite Helmet
+netherrocks:illumenite_chestplate, Illumenite Chestplate
+netherrocks:illumenite_leggings, Illumenite Leggings
+netherrocks:illumenite_boots, Illumenite Boots
+netherrocks:dragonstone_helmet, Dragonstone Helmet
+netherrocks:dragonstone_chestplate, Dragonstone Chestplate
+netherrocks:dragonstone_leggings, Dragonstone Leggings
+netherrocks:dragonstone_boots, Dragonstone Boots
 IC2:itemHarz, ic2.itemHarz.name
 IC2:itemRubber, ic2.itemRubber.name
 IC2:itemFluidCell, ic2.itemFluidCell.name
@@ -14983,14 +15046,26 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Red Stained Clay
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Black Stained Clay
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Acacia Wood
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Oak Wood
-appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockOreCopper
-appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockOreTin
-appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockOreUran
-appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockOreLead
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Fyrite Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Malachite Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ashstone Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Illumenite Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Hay Bale
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Hardened Clay
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Coal
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Packed Ice
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dragonstone Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Argonite Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Fyrite Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Malachite Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ashstone Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Illumenite Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dragonstone Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Argonite Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockOreCopper
+appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockOreTin
+appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockOreUran
+appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockOreLead
 appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockAlloy
 appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockBasalt
 appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockMetalCopper
@@ -15019,6 +15094,24 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Fluix Slabs
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Certus Quartz Slabs
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Certus Quartz Slabs
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Certus Quartz Pillar Slabs
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Floater
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Orange Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Magenta Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.archimedes.balloon.lightBlue.name
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Yellow Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Lime Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pink Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Gray Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Silver Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cyan Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Purple Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Blue Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Brown Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Green Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Red Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Black Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Shore Buffer
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Portal Frame
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Sticky Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Strange Sand
@@ -15065,36 +15158,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Runed Obsidian (Skull)
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Runed Obsidian (Slime)
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Runed Obsidian (Bat)
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Runed Obsidian (Wisp)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Moon Iron Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mars Iron Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mars Gold Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Moon Diamond Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mars Diamond Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Moon Redstone Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mars Redstone Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Moon Lapis Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mars Lapis Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Moon Tetrahedrite Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mars Tetrahedrite Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Moon Bauxite Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mars Bauxite Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mars Uranium Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Moon Cassiterite Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mars Cassiterite Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Moon Silver Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mars Silver Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Moon Lead Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mars Lead Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mars Iridium Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mars Platnium Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mars Osmium Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mars Tungstate Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mars Naqadah Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Moon Ruby Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mars Ruby Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Moon Glowstone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mars Mutagen crystals
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mars Naquadria Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Eucalyptus Wood
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Sakura Wood
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Ghostwood
@@ -17529,11 +17592,11 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Hawthorn Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Treated Wood Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Livingwood Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dreamwood Trim
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Paving Slab of Travel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Smokey Quartz
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Smokey Quartz Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Pillar Smokey Quartz Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Paving Slab of Travel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Betweenstone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Pitstone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Limestone
@@ -25677,6 +25740,12 @@ TConstruct:BoltPart:18, Pig Iron Bolt
 TConstruct:BoltPart:146, Terrasteel Bolt
 TConstruct:BoltPart:147, Elementium Bolt
 TConstruct:BoltPart:148, Desh Bolt
+TConstruct:BoltPart:154, Argonite Bolt
+TConstruct:BoltPart:155, Ashstone Bolt
+TConstruct:BoltPart:156, Dragonstone Bolt
+TConstruct:BoltPart:157, Fyrite Bolt
+TConstruct:BoltPart:158, Illumenite Bolt
+TConstruct:BoltPart:159, Malachite Bolt
 TConstruct:BoltPart:160, Fiery Bolt
 TConstruct:BoltPart:161, Ironwood Bolt
 TConstruct:BoltPart:162, KnightMetal Bolt
@@ -25738,6 +25807,12 @@ ExtraTiC:arrowhead:145, Manasteel Arrowhead
 ExtraTiC:arrowhead:146, Terrasteel Arrowhead
 ExtraTiC:arrowhead:147, Elementium Arrowhead
 ExtraTiC:arrowhead:148, Desh Arrowhead
+ExtraTiC:arrowhead:154, Argonite Arrowhead
+ExtraTiC:arrowhead:155, Ashstone Arrowhead
+ExtraTiC:arrowhead:156, Dragonstone Arrowhead
+ExtraTiC:arrowhead:157, Fyrite Arrowhead
+ExtraTiC:arrowhead:158, Illumenite Arrowhead
+ExtraTiC:arrowhead:159, Malachite Arrowhead
 ExtraTiC:arrowhead:160, Fiery Arrowhead
 ExtraTiC:arrowhead:161, Ironwood Arrowhead
 ExtraTiC:arrowhead:162, KnightMetal Arrowhead
@@ -25775,6 +25850,12 @@ ExtraTiC:axeHead:145, Manasteel Axe Head
 ExtraTiC:axeHead:146, Terrasteel Axe Head
 ExtraTiC:axeHead:147, Elementium Axe Head
 ExtraTiC:axeHead:148, Desh Axe Head
+ExtraTiC:axeHead:154, Argonite Axe Head
+ExtraTiC:axeHead:155, Ashstone Axe Head
+ExtraTiC:axeHead:156, Dragonstone Axe Head
+ExtraTiC:axeHead:157, Fyrite Axe Head
+ExtraTiC:axeHead:158, Illumenite Axe Head
+ExtraTiC:axeHead:159, Malachite Axe Head
 ExtraTiC:axeHead:160, Fiery Axe Head
 ExtraTiC:axeHead:161, Ironwood Axe Head
 ExtraTiC:axeHead:162, KnightMetal Axe Head
@@ -25812,6 +25893,12 @@ ExtraTiC:battelSign:145, Manasteel Battle Sign
 ExtraTiC:battelSign:146, Terrasteel Battle Sign
 ExtraTiC:battelSign:147, Elementium Battle Sign
 ExtraTiC:battelSign:148, Desh Battle Sign
+ExtraTiC:battelSign:154, Argonite Battle Sign
+ExtraTiC:battelSign:155, Ashstone Battle Sign
+ExtraTiC:battelSign:156, Dragonstone Battle Sign
+ExtraTiC:battelSign:157, Fyrite Battle Sign
+ExtraTiC:battelSign:158, Illumenite Battle Sign
+ExtraTiC:battelSign:159, Malachite Battle Sign
 ExtraTiC:battelSign:160, Fiery Battle Sign
 ExtraTiC:battelSign:161, Ironwood Battle Sign
 ExtraTiC:battelSign:162, KnightMetal Battle Sign
@@ -25849,6 +25936,12 @@ ExtraTiC:binding:145, Manasteel Binding
 ExtraTiC:binding:146, Terrasteel Binding
 ExtraTiC:binding:147, Elementium Binding
 ExtraTiC:binding:148, Desh Binding
+ExtraTiC:binding:154, Argonite Binding
+ExtraTiC:binding:155, Ashstone Binding
+ExtraTiC:binding:156, Dragonstone Binding
+ExtraTiC:binding:157, Fyrite Binding
+ExtraTiC:binding:158, Illumenite Binding
+ExtraTiC:binding:159, Malachite Binding
 ExtraTiC:binding:160, Fiery Binding
 ExtraTiC:binding:161, Ironwood Binding
 ExtraTiC:binding:162, KnightMetal Binding
@@ -25886,6 +25979,12 @@ ExtraTiC:chiselHead:145, Manasteel Chisel Head
 ExtraTiC:chiselHead:146, Terrasteel Chisel Head
 ExtraTiC:chiselHead:147, Elementium Chisel Head
 ExtraTiC:chiselHead:148, Desh Chisel Head
+ExtraTiC:chiselHead:154, Argonite Chisel Head
+ExtraTiC:chiselHead:155, Ashstone Chisel Head
+ExtraTiC:chiselHead:156, Dragonstone Chisel Head
+ExtraTiC:chiselHead:157, Fyrite Chisel Head
+ExtraTiC:chiselHead:158, Illumenite Chisel Head
+ExtraTiC:chiselHead:159, Malachite Chisel Head
 ExtraTiC:chiselHead:160, Fiery Chisel Head
 ExtraTiC:chiselHead:161, Ironwood Chisel Head
 ExtraTiC:chiselHead:162, KnightMetal Chisel Head
@@ -25923,6 +26022,12 @@ ExtraTiC:chunk:145, Manasteel Chunk
 ExtraTiC:chunk:146, Terrasteel Chunk
 ExtraTiC:chunk:147, Elementium Chunk
 ExtraTiC:chunk:148, Desh Chunk
+ExtraTiC:chunk:154, Argonite Chunk
+ExtraTiC:chunk:155, Ashstone Chunk
+ExtraTiC:chunk:156, Dragonstone Chunk
+ExtraTiC:chunk:157, Fyrite Chunk
+ExtraTiC:chunk:158, Illumenite Chunk
+ExtraTiC:chunk:159, Malachite Chunk
 ExtraTiC:chunk:160, Fiery Chunk
 ExtraTiC:chunk:161, Ironwood Chunk
 ExtraTiC:chunk:162, KnightMetal Chunk
@@ -25960,6 +26065,12 @@ ExtraTiC:crossbar:145, Manasteel Crossbar
 ExtraTiC:crossbar:146, Terrasteel Crossbar
 ExtraTiC:crossbar:147, Elementium Crossbar
 ExtraTiC:crossbar:148, Desh Crossbar
+ExtraTiC:crossbar:154, Argonite Crossbar
+ExtraTiC:crossbar:155, Ashstone Crossbar
+ExtraTiC:crossbar:156, Dragonstone Crossbar
+ExtraTiC:crossbar:157, Fyrite Crossbar
+ExtraTiC:crossbar:158, Illumenite Crossbar
+ExtraTiC:crossbar:159, Malachite Crossbar
 ExtraTiC:crossbar:160, Fiery Crossbar
 ExtraTiC:crossbar:161, Ironwood Crossbar
 ExtraTiC:crossbar:162, KnightMetal Crossbar
@@ -25997,6 +26108,12 @@ ExtraTiC:excavatorHead:145, Manasteel Excavator Head
 ExtraTiC:excavatorHead:146, Terrasteel Excavator Head
 ExtraTiC:excavatorHead:147, Elementium Excavator Head
 ExtraTiC:excavatorHead:148, Desh Excavator Head
+ExtraTiC:excavatorHead:154, Argonite Excavator Head
+ExtraTiC:excavatorHead:155, Ashstone Excavator Head
+ExtraTiC:excavatorHead:156, Dragonstone Excavator Head
+ExtraTiC:excavatorHead:157, Fyrite Excavator Head
+ExtraTiC:excavatorHead:158, Illumenite Excavator Head
+ExtraTiC:excavatorHead:159, Malachite Excavator Head
 ExtraTiC:excavatorHead:160, Fiery Excavator Head
 ExtraTiC:excavatorHead:161, Ironwood Excavator Head
 ExtraTiC:excavatorHead:162, KnightMetal Excavator Head
@@ -26034,6 +26151,12 @@ ExtraTiC:frypanHead:145, Manasteel Pan Head
 ExtraTiC:frypanHead:146, Terrasteel Pan Head
 ExtraTiC:frypanHead:147, Elementium Pan Head
 ExtraTiC:frypanHead:148, Desh Pan Head
+ExtraTiC:frypanHead:154, Argonite Pan Head
+ExtraTiC:frypanHead:155, Ashstone Pan Head
+ExtraTiC:frypanHead:156, Dragonstone Pan Head
+ExtraTiC:frypanHead:157, Fyrite Pan Head
+ExtraTiC:frypanHead:158, Illumenite Pan Head
+ExtraTiC:frypanHead:159, Malachite Pan Head
 ExtraTiC:frypanHead:160, Fiery Pan Head
 ExtraTiC:frypanHead:161, Ironwood Pan Head
 ExtraTiC:frypanHead:162, KnightMetal Pan Head
@@ -26071,6 +26194,12 @@ ExtraTiC:fullGuard:145, Manasteel Full Guard
 ExtraTiC:fullGuard:146, Terrasteel Full Guard
 ExtraTiC:fullGuard:147, Elementium Full Guard
 ExtraTiC:fullGuard:148, Desh Full Guard
+ExtraTiC:fullGuard:154, Argonite Full Guard
+ExtraTiC:fullGuard:155, Ashstone Full Guard
+ExtraTiC:fullGuard:156, Dragonstone Full Guard
+ExtraTiC:fullGuard:157, Fyrite Full Guard
+ExtraTiC:fullGuard:158, Illumenite Full Guard
+ExtraTiC:fullGuard:159, Malachite Full Guard
 ExtraTiC:fullGuard:160, Fiery Full Guard
 ExtraTiC:fullGuard:161, Ironwood Full Guard
 ExtraTiC:fullGuard:162, KnightMetal Full Guard
@@ -26108,6 +26237,12 @@ ExtraTiC:hammerHead:145, Manasteel Hammer Head
 ExtraTiC:hammerHead:146, Terrasteel Hammer Head
 ExtraTiC:hammerHead:147, Elementium Hammer Head
 ExtraTiC:hammerHead:148, Desh Hammer Head
+ExtraTiC:hammerHead:154, Argonite Hammer Head
+ExtraTiC:hammerHead:155, Ashstone Hammer Head
+ExtraTiC:hammerHead:156, Dragonstone Hammer Head
+ExtraTiC:hammerHead:157, Fyrite Hammer Head
+ExtraTiC:hammerHead:158, Illumenite Hammer Head
+ExtraTiC:hammerHead:159, Malachite Hammer Head
 ExtraTiC:hammerHead:160, Fiery Hammer Head
 ExtraTiC:hammerHead:161, Ironwood Hammer Head
 ExtraTiC:hammerHead:162, KnightMetal Hammer Head
@@ -26145,6 +26280,12 @@ ExtraTiC:knifeBlade:145, Manasteel Knife Blade
 ExtraTiC:knifeBlade:146, Terrasteel Knife Blade
 ExtraTiC:knifeBlade:147, Elementium Knife Blade
 ExtraTiC:knifeBlade:148, Desh Knife Blade
+ExtraTiC:knifeBlade:154, Argonite Knife Blade
+ExtraTiC:knifeBlade:155, Ashstone Knife Blade
+ExtraTiC:knifeBlade:156, Dragonstone Knife Blade
+ExtraTiC:knifeBlade:157, Fyrite Knife Blade
+ExtraTiC:knifeBlade:158, Illumenite Knife Blade
+ExtraTiC:knifeBlade:159, Malachite Knife Blade
 ExtraTiC:knifeBlade:160, Fiery Knife Blade
 ExtraTiC:knifeBlade:161, Ironwood Knife Blade
 ExtraTiC:knifeBlade:162, KnightMetal Knife Blade
@@ -26182,6 +26323,12 @@ ExtraTiC:largeGuard:145, Manasteel Large Guard
 ExtraTiC:largeGuard:146, Terrasteel Large Guard
 ExtraTiC:largeGuard:147, Elementium Large Guard
 ExtraTiC:largeGuard:148, Desh Large Guard
+ExtraTiC:largeGuard:154, Argonite Large Guard
+ExtraTiC:largeGuard:155, Ashstone Large Guard
+ExtraTiC:largeGuard:156, Dragonstone Large Guard
+ExtraTiC:largeGuard:157, Fyrite Large Guard
+ExtraTiC:largeGuard:158, Illumenite Large Guard
+ExtraTiC:largeGuard:159, Malachite Large Guard
 ExtraTiC:largeGuard:160, Fiery Large Guard
 ExtraTiC:largeGuard:161, Ironwood Large Guard
 ExtraTiC:largeGuard:162, KnightMetal Large Guard
@@ -26219,6 +26366,12 @@ ExtraTiC:largeSwordBlade:145, Manasteel Large Sword Blade
 ExtraTiC:largeSwordBlade:146, Terrasteel Large Sword Blade
 ExtraTiC:largeSwordBlade:147, Elementium Large Sword Blade
 ExtraTiC:largeSwordBlade:148, Desh Large Sword Blade
+ExtraTiC:largeSwordBlade:154, Argonite Large Sword Blade
+ExtraTiC:largeSwordBlade:155, Ashstone Large Sword Blade
+ExtraTiC:largeSwordBlade:156, Dragonstone Large Sword Blade
+ExtraTiC:largeSwordBlade:157, Fyrite Large Sword Blade
+ExtraTiC:largeSwordBlade:158, Illumenite Large Sword Blade
+ExtraTiC:largeSwordBlade:159, Malachite Large Sword Blade
 ExtraTiC:largeSwordBlade:160, Fiery Large Sword Blade
 ExtraTiC:largeSwordBlade:161, Ironwood Large Sword Blade
 ExtraTiC:largeSwordBlade:162, KnightMetal Large Sword Blade
@@ -26256,6 +26409,12 @@ ExtraTiC:largeplate:145, Manasteel Large Plate
 ExtraTiC:largeplate:146, Terrasteel Large Plate
 ExtraTiC:largeplate:147, Elementium Large Plate
 ExtraTiC:largeplate:148, Desh Large Plate
+ExtraTiC:largeplate:154, Argonite Large Plate
+ExtraTiC:largeplate:155, Ashstone Large Plate
+ExtraTiC:largeplate:156, Dragonstone Large Plate
+ExtraTiC:largeplate:157, Fyrite Large Plate
+ExtraTiC:largeplate:158, Illumenite Large Plate
+ExtraTiC:largeplate:159, Malachite Large Plate
 ExtraTiC:largeplate:160, Fiery Large Plate
 ExtraTiC:largeplate:161, Ironwood Large Plate
 ExtraTiC:largeplate:162, KnightMetal Large Plate
@@ -26293,6 +26452,12 @@ ExtraTiC:lumberaxeHead:145, Manasteel Broad Axe Head
 ExtraTiC:lumberaxeHead:146, Terrasteel Broad Axe Head
 ExtraTiC:lumberaxeHead:147, Elementium Broad Axe Head
 ExtraTiC:lumberaxeHead:148, Desh Broad Axe Head
+ExtraTiC:lumberaxeHead:154, Argonite Broad Axe Head
+ExtraTiC:lumberaxeHead:155, Ashstone Broad Axe Head
+ExtraTiC:lumberaxeHead:156, Dragonstone Broad Axe Head
+ExtraTiC:lumberaxeHead:157, Fyrite Broad Axe Head
+ExtraTiC:lumberaxeHead:158, Illumenite Broad Axe Head
+ExtraTiC:lumberaxeHead:159, Malachite Broad Axe Head
 ExtraTiC:lumberaxeHead:160, Fiery Broad Axe Head
 ExtraTiC:lumberaxeHead:161, Ironwood Broad Axe Head
 ExtraTiC:lumberaxeHead:162, KnightMetal Broad Axe Head
@@ -26330,6 +26495,12 @@ ExtraTiC:mediumGuard:145, Manasteel Medium Guard
 ExtraTiC:mediumGuard:146, Terrasteel Medium Guard
 ExtraTiC:mediumGuard:147, Elementium Medium Guard
 ExtraTiC:mediumGuard:148, Desh Medium Guard
+ExtraTiC:mediumGuard:154, Argonite Medium Guard
+ExtraTiC:mediumGuard:155, Ashstone Medium Guard
+ExtraTiC:mediumGuard:156, Dragonstone Medium Guard
+ExtraTiC:mediumGuard:157, Fyrite Medium Guard
+ExtraTiC:mediumGuard:158, Illumenite Medium Guard
+ExtraTiC:mediumGuard:159, Malachite Medium Guard
 ExtraTiC:mediumGuard:160, Fiery Medium Guard
 ExtraTiC:mediumGuard:161, Ironwood Medium Guard
 ExtraTiC:mediumGuard:162, KnightMetal Medium Guard
@@ -26367,6 +26538,12 @@ ExtraTiC:pickaxeHead:145, Manasteel Pickaxe Head
 ExtraTiC:pickaxeHead:146, Terrasteel Pickaxe Head
 ExtraTiC:pickaxeHead:147, Elementium Pickaxe Head
 ExtraTiC:pickaxeHead:148, Desh Pickaxe Head
+ExtraTiC:pickaxeHead:154, Argonite Pickaxe Head
+ExtraTiC:pickaxeHead:155, Ashstone Pickaxe Head
+ExtraTiC:pickaxeHead:156, Dragonstone Pickaxe Head
+ExtraTiC:pickaxeHead:157, Fyrite Pickaxe Head
+ExtraTiC:pickaxeHead:158, Illumenite Pickaxe Head
+ExtraTiC:pickaxeHead:159, Malachite Pickaxe Head
 ExtraTiC:pickaxeHead:160, Fiery Pickaxe Head
 ExtraTiC:pickaxeHead:161, Ironwood Pickaxe Head
 ExtraTiC:pickaxeHead:162, KnightMetal Pickaxe Head
@@ -26404,6 +26581,12 @@ ExtraTiC:scytheHead:145, Manasteel Scythe Head
 ExtraTiC:scytheHead:146, Terrasteel Scythe Head
 ExtraTiC:scytheHead:147, Elementium Scythe Head
 ExtraTiC:scytheHead:148, Desh Scythe Head
+ExtraTiC:scytheHead:154, Argonite Scythe Head
+ExtraTiC:scytheHead:155, Ashstone Scythe Head
+ExtraTiC:scytheHead:156, Dragonstone Scythe Head
+ExtraTiC:scytheHead:157, Fyrite Scythe Head
+ExtraTiC:scytheHead:158, Illumenite Scythe Head
+ExtraTiC:scytheHead:159, Malachite Scythe Head
 ExtraTiC:scytheHead:160, Fiery Scythe Head
 ExtraTiC:scytheHead:161, Ironwood Scythe Head
 ExtraTiC:scytheHead:162, KnightMetal Scythe Head
@@ -26441,6 +26624,12 @@ ExtraTiC:shovelHead:145, Manasteel Shovel Head
 ExtraTiC:shovelHead:146, Terrasteel Shovel Head
 ExtraTiC:shovelHead:147, Elementium Shovel Head
 ExtraTiC:shovelHead:148, Desh Shovel Head
+ExtraTiC:shovelHead:154, Argonite Shovel Head
+ExtraTiC:shovelHead:155, Ashstone Shovel Head
+ExtraTiC:shovelHead:156, Dragonstone Shovel Head
+ExtraTiC:shovelHead:157, Fyrite Shovel Head
+ExtraTiC:shovelHead:158, Illumenite Shovel Head
+ExtraTiC:shovelHead:159, Malachite Shovel Head
 ExtraTiC:shovelHead:160, Fiery Shovel Head
 ExtraTiC:shovelHead:161, Ironwood Shovel Head
 ExtraTiC:shovelHead:162, KnightMetal Shovel Head
@@ -26478,6 +26667,12 @@ ExtraTiC:swordBlade:145, Manasteel Sword Blade
 ExtraTiC:swordBlade:146, Terrasteel Sword Blade
 ExtraTiC:swordBlade:147, Elementium Sword Blade
 ExtraTiC:swordBlade:148, Desh Sword Blade
+ExtraTiC:swordBlade:154, Argonite Sword Blade
+ExtraTiC:swordBlade:155, Ashstone Sword Blade
+ExtraTiC:swordBlade:156, Dragonstone Sword Blade
+ExtraTiC:swordBlade:157, Fyrite Sword Blade
+ExtraTiC:swordBlade:158, Illumenite Sword Blade
+ExtraTiC:swordBlade:159, Malachite Sword Blade
 ExtraTiC:swordBlade:160, Fiery Sword Blade
 ExtraTiC:swordBlade:161, Ironwood Sword Blade
 ExtraTiC:swordBlade:162, KnightMetal Sword Blade
@@ -26515,6 +26710,12 @@ ExtraTiC:toolrod:145, Manasteel Tool Rod
 ExtraTiC:toolrod:146, Terrasteel Tool Rod
 ExtraTiC:toolrod:147, Elementium Tool Rod
 ExtraTiC:toolrod:148, Desh Tool Rod
+ExtraTiC:toolrod:154, Argonite Tool Rod
+ExtraTiC:toolrod:155, Ashstone Tool Rod
+ExtraTiC:toolrod:156, Dragonstone Tool Rod
+ExtraTiC:toolrod:157, Fyrite Tool Rod
+ExtraTiC:toolrod:158, Illumenite Tool Rod
+ExtraTiC:toolrod:159, Malachite Tool Rod
 ExtraTiC:toolrod:160, Fiery Tool Rod
 ExtraTiC:toolrod:161, Ironwood Tool Rod
 ExtraTiC:toolrod:162, KnightMetal Tool Rod
@@ -26552,6 +26753,12 @@ ExtraTiC:toughbind:145, Manasteel Tough Binding
 ExtraTiC:toughbind:146, Terrasteel Tough Binding
 ExtraTiC:toughbind:147, Elementium Tough Binding
 ExtraTiC:toughbind:148, Desh Tough Binding
+ExtraTiC:toughbind:154, Argonite Tough Binding
+ExtraTiC:toughbind:155, Ashstone Tough Binding
+ExtraTiC:toughbind:156, Dragonstone Tough Binding
+ExtraTiC:toughbind:157, Fyrite Tough Binding
+ExtraTiC:toughbind:158, Illumenite Tough Binding
+ExtraTiC:toughbind:159, Malachite Tough Binding
 ExtraTiC:toughbind:160, Fiery Tough Binding
 ExtraTiC:toughbind:161, Ironwood Tough Binding
 ExtraTiC:toughbind:162, KnightMetal Tough Binding
@@ -26589,6 +26796,12 @@ ExtraTiC:toughrod:145, Manasteel Tough Rod
 ExtraTiC:toughrod:146, Terrasteel Tough Rod
 ExtraTiC:toughrod:147, Elementium Tough Rod
 ExtraTiC:toughrod:148, Desh Tough Rod
+ExtraTiC:toughrod:154, Argonite Tough Rod
+ExtraTiC:toughrod:155, Ashstone Tough Rod
+ExtraTiC:toughrod:156, Dragonstone Tough Rod
+ExtraTiC:toughrod:157, Fyrite Tough Rod
+ExtraTiC:toughrod:158, Illumenite Tough Rod
+ExtraTiC:toughrod:159, Malachite Tough Rod
 ExtraTiC:toughrod:160, Fiery Tough Rod
 ExtraTiC:toughrod:161, Ironwood Tough Rod
 ExtraTiC:toughrod:162, KnightMetal Tough Rod
@@ -26626,6 +26839,12 @@ ExtraTiC:shuriken:145, Manasteel Shuriken
 ExtraTiC:shuriken:146, Terrasteel Shuriken
 ExtraTiC:shuriken:147, Elementium Shuriken
 ExtraTiC:shuriken:148, Desh Shuriken
+ExtraTiC:shuriken:154, Argonite Shuriken
+ExtraTiC:shuriken:155, Ashstone Shuriken
+ExtraTiC:shuriken:156, Dragonstone Shuriken
+ExtraTiC:shuriken:157, Fyrite Shuriken
+ExtraTiC:shuriken:158, Illumenite Shuriken
+ExtraTiC:shuriken:159, Malachite Shuriken
 ExtraTiC:shuriken:160, Fiery Shuriken
 ExtraTiC:shuriken:161, Ironwood Shuriken
 ExtraTiC:shuriken:162, KnightMetal Shuriken
@@ -26663,6 +26882,12 @@ ExtraTiC:BowLimb:145, Manasteel Bow Limb
 ExtraTiC:BowLimb:146, Terrasteel Bow Limb
 ExtraTiC:BowLimb:147, Elementium Bow Limb
 ExtraTiC:BowLimb:148, Desh Bow Limb
+ExtraTiC:BowLimb:154, Argonite Bow Limb
+ExtraTiC:BowLimb:155, Ashstone Bow Limb
+ExtraTiC:BowLimb:156, Dragonstone Bow Limb
+ExtraTiC:BowLimb:157, Fyrite Bow Limb
+ExtraTiC:BowLimb:158, Illumenite Bow Limb
+ExtraTiC:BowLimb:159, Malachite Bow Limb
 ExtraTiC:BowLimb:160, Fiery Bow Limb
 ExtraTiC:BowLimb:161, Ironwood Bow Limb
 ExtraTiC:BowLimb:162, KnightMetal Bow Limb
@@ -26700,6 +26925,12 @@ ExtraTiC:CrossbowLimb:145, Manasteel Crossbow Limb
 ExtraTiC:CrossbowLimb:146, Terrasteel Crossbow Limb
 ExtraTiC:CrossbowLimb:147, Elementium Crossbow Limb
 ExtraTiC:CrossbowLimb:148, Desh Crossbow Limb
+ExtraTiC:CrossbowLimb:154, Argonite Crossbow Limb
+ExtraTiC:CrossbowLimb:155, Ashstone Crossbow Limb
+ExtraTiC:CrossbowLimb:156, Dragonstone Crossbow Limb
+ExtraTiC:CrossbowLimb:157, Fyrite Crossbow Limb
+ExtraTiC:CrossbowLimb:158, Illumenite Crossbow Limb
+ExtraTiC:CrossbowLimb:159, Malachite Crossbow Limb
 ExtraTiC:CrossbowLimb:160, Fiery Crossbow Limb
 ExtraTiC:CrossbowLimb:161, Ironwood Crossbow Limb
 ExtraTiC:CrossbowLimb:162, KnightMetal Crossbow Limb
@@ -26737,6 +26968,12 @@ ExtraTiC:CrossbowBody:145, Manasteel Crossbow Body
 ExtraTiC:CrossbowBody:146, Terrasteel Crossbow Body
 ExtraTiC:CrossbowBody:147, Elementium Crossbow Body
 ExtraTiC:CrossbowBody:148, Desh Crossbow Body
+ExtraTiC:CrossbowBody:154, Argonite Crossbow Body
+ExtraTiC:CrossbowBody:155, Ashstone Crossbow Body
+ExtraTiC:CrossbowBody:156, Dragonstone Crossbow Body
+ExtraTiC:CrossbowBody:157, Fyrite Crossbow Body
+ExtraTiC:CrossbowBody:158, Illumenite Crossbow Body
+ExtraTiC:CrossbowBody:159, Malachite Crossbow Body
 ExtraTiC:CrossbowBody:160, Fiery Crossbow Body
 ExtraTiC:CrossbowBody:161, Ironwood Crossbow Body
 ExtraTiC:CrossbowBody:162, KnightMetal Crossbow Body
@@ -26774,6 +27011,12 @@ ExtraTiC:Blot:145, Manasteel Bolt
 ExtraTiC:Blot:146, Terrasteel Bolt
 ExtraTiC:Blot:147, Elementium Bolt
 ExtraTiC:Blot:148, Desh Bolt
+ExtraTiC:Blot:154, Argonite Bolt
+ExtraTiC:Blot:155, Ashstone Bolt
+ExtraTiC:Blot:156, Dragonstone Bolt
+ExtraTiC:Blot:157, Fyrite Bolt
+ExtraTiC:Blot:158, Illumenite Bolt
+ExtraTiC:Blot:159, Malachite Bolt
 ExtraTiC:Blot:160, Fiery Bolt
 ExtraTiC:Blot:161, Ironwood Bolt
 ExtraTiC:Blot:162, KnightMetal Bolt
@@ -26813,56 +27056,56 @@ ExtraTiC:extra.bucket:1, Molten Fairy Bucket
 ExtraTiC:extra.bucket:6, Molten Desh Bucket
 ExtraTiC:extra.bucket:12, Molten Adamantine Bucket
 ExtraTiC:extra.bucket:11, Molten Brass Bucket
-factorization:diamond_cutting_head, Diamond Cutting Head
-factorization:tool/charge_meter, Charge Meter
-factorization:logic_matrix, Blank Logic Matrix
-factorization:logic_matrix_identifier, Logic Matrix: Identifier
-factorization:servo/sprocket, Dark Iron Sprocket
-factorization:motor, Motor
-factorization:tool/pocket_crafting_table, Pocket Crafting Table
-factorization:twistedBlock, Twisted Block of Dark Iron
-factorization:barrelCart:0, Barrel Cart
-factorization:barrelCart:0, Barrel Cart: Creative Bedrock Barrel
-factorization:nether_powder, Netherrack Powder
-factorization:lead_ingot, item.factorization:lead_ingot.name
-factorization:servo/servo, Servo
-factorization:docbook, The Factorization Manual
-factorization:servo/component, item.factorization:servo/component.name
-factorization:servo/servo_motor, Servo Motor
-factorization:socket/:34, Robotic Arm
-factorization:socket/:35, Item Shifter
-factorization:ceramics/glaze_bucket, Glaze Bucket
-factorization:fan, Pressurizer
-factorization:servo/decorator, item.factorization:servo/decorator.name
-factorization:logic_matrix_controller, Logic Matrix: Controller
-factorization:chainLink, Dark Iron Chain Link
-factorization:charge_battery, Battery Block
-factorization:entheas, Entheas
-factorization:brokenArtifact, item.factorization:brokenArtifact.name
-factorization:corkscrew, Corkscrew
-factorization:potencyBottle, Bottle of Potency
-factorization:colossusGuide, Lost Map
-factorization:shortChain, Short Length of Chain
-factorization:silver_ingot, item.factorization:silver_ingot.name
-factorization:sludge, Sludge
-factorization:darkIronChain, Chain
-factorization:socket/scissors, Enormous Scissors
-factorization:insulated_coil, Insulated Coil
-factorization:sap, Sap
-factorization:dark_iron_ingot, Dark Iron Ingot
-factorization:sculptTool:0, Sculpting Tool
-factorization:tool/matrix_programmer, Logic Matrix Programmer
-factorization:diamond_shard, Diamond Block Shard
-factorization:mirror, Mirror
-factorization:daybarrel, item.factorization:daybarrel.name
-factorization:spawnPoster, Poster
-factorization:utiligoo:0, Goo
 factorization:servo/commenter, Commenter
-factorization:acid:0, Sulfuric Acid
-factorization:acid:1, Aqua Regia
+factorization:daybarrel, item.factorization:daybarrel.name
+factorization:sculptTool:0, Sculpting Tool
+factorization:logic_matrix, Blank Logic Matrix
+factorization:socket/scissors, Enormous Scissors
+factorization:brokenArtifact, item.factorization:brokenArtifact.name
+factorization:shortChain, Short Length of Chain
+factorization:servo/component, item.factorization:servo/component.name
 factorization:servo/instruction_plate, Instruction Plate
+factorization:nether_powder, Netherrack Powder
 factorization:mansandwich:0, Manwich
 factorization:mansandwich:1, Spicy Manwich
+factorization:tool/pocket_crafting_table, Pocket Crafting Table
+factorization:motor, Motor
+factorization:dark_iron_ingot, Dark Iron Ingot
+factorization:corkscrew, Corkscrew
+factorization:sap, Sap
+factorization:logic_matrix_controller, Logic Matrix: Controller
+factorization:insulated_coil, Insulated Coil
+factorization:spawnPoster, Poster
+factorization:utiligoo:0, Goo
+factorization:chainLink, Dark Iron Chain Link
+factorization:twistedBlock, Twisted Block of Dark Iron
+factorization:lead_ingot, item.factorization:lead_ingot.name
+factorization:tool/matrix_programmer, Logic Matrix Programmer
+factorization:logic_matrix_identifier, Logic Matrix: Identifier
+factorization:acid:0, Sulfuric Acid
+factorization:acid:1, Aqua Regia
+factorization:servo/decorator, item.factorization:servo/decorator.name
+factorization:diamond_shard, Diamond Block Shard
+factorization:sludge, Sludge
+factorization:servo/sprocket, Dark Iron Sprocket
+factorization:socket/:34, Robotic Arm
+factorization:socket/:35, Item Shifter
+factorization:silver_ingot, item.factorization:silver_ingot.name
+factorization:charge_battery, Battery Block
+factorization:diamond_cutting_head, Diamond Cutting Head
+factorization:barrelCart:0, Barrel Cart
+factorization:barrelCart:0, Barrel Cart: Creative Bedrock Barrel
+factorization:tool/charge_meter, Charge Meter
+factorization:potencyBottle, Bottle of Potency
+factorization:servo/servo_motor, Servo Motor
+factorization:mirror, Mirror
+factorization:darkIronChain, Chain
+factorization:ceramics/glaze_bucket, Glaze Bucket
+factorization:docbook, The Factorization Manual
+factorization:entheas, Entheas
+factorization:fan, Pressurizer
+factorization:servo/servo, Servo
+factorization:colossusGuide, Lost Map
 gendustry:Labware, Genetics Labware
 gendustry:Waste, Genetic Waste
 gendustry:GeneSampleBlank, Blank Gene Sample
@@ -27539,14 +27782,14 @@ IronChest:diamondCrystalUpgrade, Diamond to Crystal Chest Upgrade
 IronChest:woodIronUpgrade, Wood to Iron Chest Upgrade
 IronChest:woodCopperUpgrade, Wood to Copper Chest Upgrade
 IronChest:diamondObsidianUpgrade, Diamond to Obsidian Chest Upgrade
-ironchestminecarts:minecart_chest_copper, Minecart with Copper Chest
-ironchestminecarts:minecart_chest_dirtchest9000, Minecart with DirtChest9000
-ironchestminecarts:minecart_chest_silver, Minecart with Silver Chest
-ironchestminecarts:minecart_chest_crystal, Minecart with Crystal Chest
-ironchestminecarts:minecart_chest_iron, Minecart with Iron Chest
-ironchestminecarts:minecart_chest_obsidian, Minecart with Obsidian Chest
-ironchestminecarts:minecart_chest_gold, Minecart with Gold Chest
 ironchestminecarts:minecart_chest_diamond, Minecart with Diamond Chest
+ironchestminecarts:minecart_chest_copper, Minecart with Copper Chest
+ironchestminecarts:minecart_chest_gold, Minecart with Gold Chest
+ironchestminecarts:minecart_chest_silver, Minecart with Silver Chest
+ironchestminecarts:minecart_chest_dirtchest9000, Minecart with DirtChest9000
+ironchestminecarts:minecart_chest_crystal, Minecart with Crystal Chest
+ironchestminecarts:minecart_chest_obsidian, Minecart with Obsidian Chest
+ironchestminecarts:minecart_chest_iron, Minecart with Iron Chest
 JABBA:upgradeStructural:0, item.upgrade.structural.1.name
 JABBA:upgradeStructural:1, item.upgrade.structural.2.name
 JABBA:upgradeStructural:2, item.upgrade.structural.3.name
@@ -27980,6 +28223,93 @@ RandomThings:filter:0, Block Filter
 RandomThings:filter:1, Item Filter
 RandomThings:filter:2, Entity Filter
 RandomThings:filter:3, Position Filter
+xreliquary:alkahest_tome:0, Tome of Alkahestry
+xreliquary:angelheart_vial, Angelheart Vial
+xreliquary:angelic_feather, Angelic Feather
+xreliquary:attraction_potion:0, Aphrodite's Serum
+xreliquary:bullet:0, Empty Casing
+xreliquary:bullet:1, Neutral Shot
+xreliquary:bullet:2, Exorcism Shot
+xreliquary:bullet:3, Blaze Shot
+xreliquary:bullet:4, Ender Shot
+xreliquary:bullet:5, Concussive Shot
+xreliquary:bullet:6, Buster Shot
+xreliquary:bullet:7, Seeker Shot
+xreliquary:bullet:8, Sand Shot
+xreliquary:bullet:9, Storm Shot
+xreliquary:destruction_catalyst:0, Destruction Catalyst
+xreliquary:emperor_chalice:0, Emperor's Chalice
+xreliquary:ender_staff:0, Ender Staff
+xreliquary:fertile_potion:0, Fertile Potion
+xreliquary:fortune_coin, Coin of Fortune
+xreliquary:glacial_staff:0, Glacial Staff
+xreliquary:glowing_bread, Glowing Bread
+xreliquary:glowing_water, Glowing Water
+xreliquary:gun_part:0, Grip Assembly
+xreliquary:gun_part:1, Barrel Assembly
+xreliquary:gun_part:2, Hammer Assembly
+xreliquary:handgun, Hunter's Handgun
+xreliquary:harvest_rod:0, §2Harvest Rod
+xreliquary:heart_pearl:0, §cZombie Pearl
+xreliquary:heart_pearl:1, §fSkeleton Pearl
+xreliquary:heart_pearl:2, §8Wither Skeleton Pearl
+xreliquary:heart_pearl:3, §aCreeper Pearl
+xreliquary:heart_zhu:0, §cZombie Nian Zhu
+xreliquary:heart_zhu:1, §fSkeleton Nian Zhu
+xreliquary:heart_zhu:2, §8Wither Skeleton Nian Zhu
+xreliquary:heart_zhu:3, §aCreeper Nian Zhu
+xreliquary:hero_medallion:0, Hero's Medallion
+xreliquary:holy_hand_grenade, Holy Hand Grenade
+xreliquary:ice_magus_rod:0, Ice Magus Rod
+xreliquary:infernal_chalice:0, Infernal Chalice
+xreliquary:infernal_claws, {{!colors.red}}Infernal Claws
+xreliquary:infernal_tear:0, §4Infernal Tear
+xreliquary:kraken_shell, Kraken Shell
+xreliquary:lantern_of_paranoia:0, §eLantern Of Paranoia
+xreliquary:magazine:0, Empty Magazine
+xreliquary:magazine:1, Neutral Magazine
+xreliquary:magazine:2, Exorcism Magazine
+xreliquary:magazine:3, Blaze Magazine
+xreliquary:magazine:4, Ender Magazine
+xreliquary:magazine:5, Concussive Magazine
+xreliquary:magazine:6, Buster Magazine
+xreliquary:magazine:7, Seeker Magazine
+xreliquary:magazine:8, Sand Magazine
+xreliquary:magazine:9, Storm Magazine
+xreliquary:magicbane, Magicbane
+xreliquary:mercy_cross, Cross of Mercy
+xreliquary:midas_touchstone:0, Touchstone of Midas
+xreliquary:mob_ingredient:0, Rib Bone
+xreliquary:mob_ingredient:1, Withered Rib
+xreliquary:mob_ingredient:2, Chelicerae
+xreliquary:mob_ingredient:3, Catalyzing Gland
+xreliquary:mob_ingredient:4, Slime Pearl
+xreliquary:mob_ingredient:5, Bat Wing
+xreliquary:mob_ingredient:6, Zombie Heart
+xreliquary:mob_ingredient:7, Molten Core
+xreliquary:mob_ingredient:8, Eye of the Storm
+xreliquary:mob_ingredient:9, Fertile Essence
+xreliquary:mob_ingredient:10, Frozen Core
+xreliquary:mob_ingredient:11, Nebulous Heart
+xreliquary:mob_ingredient:12, Squid Beak
+xreliquary:mob_ingredient:13, Infernal Claw
+xreliquary:mob_ingredient:14, Kraken Shell Fragment
+xreliquary:mob_ingredient:15, Crimson Cloth
+xreliquary:phoenix_down, Phoenix Down
+xreliquary:potion_essence, Potion Essence
+xreliquary:pyromancer_staff:0, §4Pyromancer's Staff
+xreliquary:rending_gale:0, §eRending Gale
+xreliquary:rod_of_lyssa, Rod of Lyssa
+xreliquary:salamander_eye, Salamander's Eye
+xreliquary:serpent_staff, {{!colors.green}}Serpent Staff
+xreliquary:shears_of_winter, Shears of Winter
+xreliquary:sojourner_staff:0, Sojourner's Staff
+xreliquary:twilight_cloak:0, Twilight Cloak
+xreliquary:void_tear:0, Void Tear
+xreliquary:void_tear_empty, Empty Void Tear
+xreliquary:witch_hat, {{!colors.yellow}}Witch Hat
+xreliquary:witherless_rose, Witherless Rose
+xreliquary:potion, Condensed Potion
 JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_ToolItemSet, item.item.JAKJ_RedstoneInMotion_ToolItemSet.name
 JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:0, Carriage Crosspiece
 JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:1, Carriage Panel
@@ -29139,10 +29469,10 @@ ThermalDynamics:cover:0, Acacia Wood Cover
 ThermalDynamics:cover:0, Dark Oak Wood Cover
 ThermalDynamics:cover:0, Acacia Wood Stairs Cover
 ThermalDynamics:cover:0, Dark Oak Wood Stairs Cover
-ThermalDynamics:cover:0, ic2.blockOreCopper Cover
-ThermalDynamics:cover:0, ic2.blockOreTin Cover
-ThermalDynamics:cover:0, ic2.blockOreUran Cover
-ThermalDynamics:cover:0, ic2.blockOreLead Cover
+ThermalDynamics:cover:0, Fyrite Ore Cover
+ThermalDynamics:cover:0, Malachite Ore Cover
+ThermalDynamics:cover:0, Ashstone Ore Cover
+ThermalDynamics:cover:0, Illumenite Ore Cover
 ThermalDynamics:cover:0, Hay Bale Cover
 ThermalDynamics:cover:0, Carpet Cover
 ThermalDynamics:cover:0, Orange Carpet Cover
@@ -29169,6 +29499,18 @@ ThermalDynamics:cover:0, Double Tallgrass Cover
 ThermalDynamics:cover:0, Large Fern Cover
 ThermalDynamics:cover:0, Rose Bush Cover
 ThermalDynamics:cover:0, Peony Cover
+ThermalDynamics:cover:0, Dragonstone Ore Cover
+ThermalDynamics:cover:0, Argonite Ore Cover
+ThermalDynamics:cover:0, Fyrite Block Cover
+ThermalDynamics:cover:0, Malachite Block Cover
+ThermalDynamics:cover:0, Ashstone Block Cover
+ThermalDynamics:cover:0, Illumenite Block Cover
+ThermalDynamics:cover:0, Dragonstone Block Cover
+ThermalDynamics:cover:0, Argonite Block Cover
+ThermalDynamics:cover:0, ic2.blockOreCopper Cover
+ThermalDynamics:cover:0, ic2.blockOreTin Cover
+ThermalDynamics:cover:0, ic2.blockOreUran Cover
+ThermalDynamics:cover:0, ic2.blockOreLead Cover
 ThermalDynamics:cover:0, ic2.blockRubWood Cover
 ThermalDynamics:cover:0, ic2.blockRubLeaves Cover
 ThermalDynamics:cover:0, ic2.blockRubSapling Cover
@@ -29246,6 +29588,25 @@ ThermalDynamics:cover:0, Chiseled Certus Quartz Slabs Cover
 ThermalDynamics:cover:0, Chiseled Certus Quartz Slabs Cover
 ThermalDynamics:cover:0, Certus Quartz Pillar Slabs Cover
 ThermalDynamics:cover:0, Certus Quartz Pillar Slabs Cover
+ThermalDynamics:cover:0, Floater Cover
+ThermalDynamics:cover:0, Air Balloon Cover
+ThermalDynamics:cover:0, Orange Air Balloon Cover
+ThermalDynamics:cover:0, Magenta Air Balloon Cover
+ThermalDynamics:cover:0, tile.archimedes.balloon.lightBlue.name Cover
+ThermalDynamics:cover:0, Yellow Air Balloon Cover
+ThermalDynamics:cover:0, Lime Air Balloon Cover
+ThermalDynamics:cover:0, Pink Air Balloon Cover
+ThermalDynamics:cover:0, Gray Air Balloon Cover
+ThermalDynamics:cover:0, Silver Air Balloon Cover
+ThermalDynamics:cover:0, Cyan Air Balloon Cover
+ThermalDynamics:cover:0, Purple Air Balloon Cover
+ThermalDynamics:cover:0, Blue Air Balloon Cover
+ThermalDynamics:cover:0, Brown Air Balloon Cover
+ThermalDynamics:cover:0, Green Air Balloon Cover
+ThermalDynamics:cover:0, Red Air Balloon Cover
+ThermalDynamics:cover:0, Black Air Balloon Cover
+ThermalDynamics:cover:0, Passenger Seat Cover
+ThermalDynamics:cover:0, Shore Buffer Cover
 ThermalDynamics:cover:0, Mining Portal Cover
 ThermalDynamics:cover:0, Portal Frame Cover
 ThermalDynamics:cover:0, Sticky Ore Cover
@@ -29551,36 +29912,6 @@ ThermalDynamics:cover:0, Runed Obsidian (Wisp) Cover
 ThermalDynamics:cover:0, Milk Cover
 ThermalDynamics:cover:0, Mushroom Soup Cover
 ThermalDynamics:cover:0, Vishroom Soup Cover
-ThermalDynamics:cover:0, Moon Iron Ore Cover
-ThermalDynamics:cover:0, Mars Iron Ore Cover
-ThermalDynamics:cover:0, Mars Gold Ore Cover
-ThermalDynamics:cover:0, Moon Diamond Ore Cover
-ThermalDynamics:cover:0, Mars Diamond Ore Cover
-ThermalDynamics:cover:0, Moon Redstone Ore Cover
-ThermalDynamics:cover:0, Mars Redstone Ore Cover
-ThermalDynamics:cover:0, Moon Lapis Ore Cover
-ThermalDynamics:cover:0, Mars Lapis Ore Cover
-ThermalDynamics:cover:0, Moon Tetrahedrite Ore Cover
-ThermalDynamics:cover:0, Mars Tetrahedrite Ore Cover
-ThermalDynamics:cover:0, Moon Bauxite Ore Cover
-ThermalDynamics:cover:0, Mars Bauxite Ore Cover
-ThermalDynamics:cover:0, Mars Uranium Ore Cover
-ThermalDynamics:cover:0, Moon Cassiterite Ore Cover
-ThermalDynamics:cover:0, Mars Cassiterite Ore Cover
-ThermalDynamics:cover:0, Moon Silver Ore Cover
-ThermalDynamics:cover:0, Mars Silver Ore Cover
-ThermalDynamics:cover:0, Moon Lead Ore Cover
-ThermalDynamics:cover:0, Mars Lead Ore Cover
-ThermalDynamics:cover:0, Mars Iridium Ore Cover
-ThermalDynamics:cover:0, Mars Platnium Ore Cover
-ThermalDynamics:cover:0, Mars Osmium Ore Cover
-ThermalDynamics:cover:0, Mars Tungstate Ore Cover
-ThermalDynamics:cover:0, Mars Naqadah Ore Cover
-ThermalDynamics:cover:0, Moon Ruby Ore Cover
-ThermalDynamics:cover:0, Mars Ruby Ore Cover
-ThermalDynamics:cover:0, Moon Glowstone Cover
-ThermalDynamics:cover:0, Mars Mutagen crystals Cover
-ThermalDynamics:cover:0, Mars Naquadria Ore Cover
 ThermalDynamics:cover:0, Crops Cover
 ThermalDynamics:cover:0, Raspberry Bush Cover
 ThermalDynamics:cover:0, Blueberry Bush Cover
@@ -33876,6 +34207,9 @@ ThermalDynamics:cover:0, Light Blue Spectre Block Cover
 ThermalDynamics:cover:0, Magenta Spectre Block Cover
 ThermalDynamics:cover:0, Orange Spectre Block Cover
 ThermalDynamics:cover:0, White Spectre Block Cover
+ThermalDynamics:cover:0, Lilypad of Fertility Cover
+ThermalDynamics:cover:0, §eInterdiction Torch Cover
+ThermalDynamics:cover:0, Wraith Node Cover
 ThermalDynamics:cover:0, Inventory Cable Cover
 ThermalDynamics:cover:0, Junction Rail Cover
 ThermalDynamics:cover:0, Advanced Detector Rail Cover
@@ -33938,24 +34272,24 @@ ThermalDynamics:cover:0, Hawthorn Trim Cover
 ThermalDynamics:cover:0, Treated Wood Trim Cover
 ThermalDynamics:cover:0, Livingwood Trim Cover
 ThermalDynamics:cover:0, Dreamwood Trim Cover
+ThermalDynamics:cover:0, tile.nitorGas.name Cover
+ThermalDynamics:cover:0, Paving Slab of Travel Cover
+ThermalDynamics:cover:0, Paving Slab of Travel Cover
+ThermalDynamics:cover:0, Terra Imbued Fire Cover
+ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
 ThermalDynamics:cover:0, tile.gaseousLight.name Cover
+ThermalDynamics:cover:0, Ordo Imbued Fire Cover
+ThermalDynamics:cover:0, Aqua Imbued Fire Cover
+ThermalDynamics:cover:0, Paving Stair of Travel Cover
 ThermalDynamics:cover:0, Perditio Imbued Fire Cover
+ThermalDynamics:cover:0, Aer Imbued Fire Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
 ThermalDynamics:cover:0, Block of Smokey Quartz Cover
 ThermalDynamics:cover:0, Chiseled Smokey Quartz Block Cover
 ThermalDynamics:cover:0, Pillar Smokey Quartz Block Cover
-ThermalDynamics:cover:0, Aer Imbued Fire Cover
-ThermalDynamics:cover:0, Terra Imbued Fire Cover
-ThermalDynamics:cover:0, tile.nitorGas.name Cover
-ThermalDynamics:cover:0, Aqua Imbued Fire Cover
-ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
-ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
-ThermalDynamics:cover:0, Paving Stair of Travel Cover
 ThermalDynamics:cover:0, Bedrock Portal Cover
-ThermalDynamics:cover:0, Paving Slab of Travel Cover
-ThermalDynamics:cover:0, Paving Slab of Travel Cover
-ThermalDynamics:cover:0, Ordo Imbued Fire Cover
+ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
 ThermalDynamics:cover:0, Ignis Imbued Fire Cover
 ThermalDynamics:cover:0, Ice Cover
 ThermalDynamics:cover:0, Betweenstone Cover
@@ -34576,6 +34910,10 @@ ThermalDynamics:cover:0, Blue Alloy Block Cover
 ThermalDynamics:cover:0, Red Alloy Block Cover
 ThermalDynamics:cover:0, Brass Block Cover
 ThermalDynamics:cover:0, Charcoal Block Cover
+ThermalDynamics:cover:0, tile.AppleCakeBlock.name Cover
+ThermalDynamics:cover:0, tile.ChocolateCakeBlock.name Cover
+ThermalDynamics:cover:0, tile.MagicCakeBlock.name Cover
+ThermalDynamics:cover:0, tile.CaramelCakeBlock.name Cover
 ThermalDynamics:cover:0, Rose Vines Cover
 ThermalDynamics:cover:0, Barbed Wire Fence Cover
 ThermalDynamics:cover:0, Chain Link Fence Cover
@@ -34586,6 +34924,13 @@ ThermalDynamics:retriever:2, Reinforced Retriever
 ThermalDynamics:retriever:3, Signalum Retriever
 ThermalDynamics:retriever:4, Resonant Retriever
 ThermalDynamics:relay:0, Redstone Relay
+Torched:TorchGun, Torch Gun
+Torched:TorchFirework:0, Rocket Propelled Torch
+Torched:TorchFirework:1, Torch Rocket
+Torched:TorchLaungher, RPT Launcher
+TrailMix:TrailMixMix, Trail Mix
+TrailMix:TMPPLauncher, TMPP Launcher
+TrailMix:NyanPigLauncher, Nyan Pig Launcher
 TravellersGear:simpleGear:0, Cloak
 TravellersGear:simpleGear:1, Belt
 TravellersGear:simpleGear:2, Gold Ring
@@ -34605,6 +34950,158 @@ TravellersGear:simpleGear:6, Title Scroll
 TravellersGear:simpleGear:6, Title Scroll
 TravellersGear:simpleGear:6, Title Scroll
 Tubestuff:uselessItem, Retriever Jammer
+UsefulFood:MilkBottle, Milk Bottle
+UsefulFood:ChocolateMilkBottle, Chocolate Milk Bottle
+UsefulFood:Cheese, Cheese
+UsefulFood:ChocolateBar, Chocolate Bar
+UsefulFood:FruitSalad, Fruit Salad
+UsefulFood:MagicFruitSalad, Magic Fruit Salad
+UsefulFood:SugarCube, Sugar Cube
+UsefulFood:Caramel, Caramel
+UsefulFood:CaramelApple, Caramel Apple
+UsefulFood:RoastedSeeds, Roasted Seeds
+UsefulFood:FriedEgg, Fried Egg
+UsefulFood:PumpkinSoup, Pumpkin Soup
+UsefulFood:Salad, Salad
+UsefulFood:Oatmeal, Oatmeal
+UsefulFood:Jelly, Jelly
+UsefulFood:RawMarshmallow, Raw Marshmallow
+UsefulFood:CookedMarshmallow, Roasted Marshmallow
+UsefulFood:VanillaIceCream, Vanilla Ice Cream
+UsefulFood:BreadSlice, Bread Slice
+UsefulFood:PorkChopSandwich, Pork Chop Sandwich
+UsefulFood:SteakSandwich, Steak Sandwich
+UsefulFood:FishSandwich, Fish Sandwich
+UsefulFood:ChickenSandwich, Chicken Sandwich
+UsefulFood:EggSandwich, Egg Sandwich
+UsefulFood:Biscuit, Biscuit
+UsefulFood:Trailmix, Trail mix
+UsefulFood:AppleCake, Apple Cake
+UsefulFood:ChocolateCake, Chocolate Cake
+UsefulFood:MagicCake, Magic Cake
+UsefulFood:CookedMutton, Cooked Mutton
+UsefulFood:RawMutton, Raw Mutton
+UsefulFood:MuttonSandwich, Mutton Sandwich
+UsefulFood:Hungrz, Hungrz
+UsefulFood:Sushi, Sushi
+UsefulFood:SquidTentacle, Squid Tentacle
+UsefulFood:CookedSquidTentacle, Calamari
+UsefulFood:SquidSandwich, Squid Sandwich
+UsefulFood:MagicAppleJuice, Magic Apple Juice
+UsefulFood:MelonJuice, Melon Juice
+UsefulFood:AppleJuice, Apple Juice
+UsefulFood:CarrotJuice, Carrot Juice
+UsefulFood:CarrotSoup, Carrot Soup
+UsefulFood:PumpkinBread, Pumpkin Bread
+UsefulFood:FishnChips, Fish n' Chips
+UsefulFood:SugarBiscuit, Sugar Biscuit
+UsefulFood:AppleJamBiscuit, Apple Jam Biscuit
+UsefulFood:ChocolateBiscuit,  Chocolate Biscuit
+UsefulFood:CarrotPie, Carrot Pie
+UsefulFood:HotChocolateMilkBottle, Hot Chocolate Milk bottle
+UsefulFood:ChocolateIceCream, Chocolate Ice Cream
+UsefulFood:MagicIceCream, Magic Ice Cream
+UsefulFood:SquidSushi, Squid Sushi
+UsefulFood:CactusJuice, Cactus Juice
+UsefulFood:Spaghetti, Spaghetti
+UsefulFood:AppleIceCream, Apple Ice Cream
+UsefulFood:MelonIceCream, Melon Ice Cream
+UsefulFood:ChocolateApple, Chocolate Apple
+UsefulFood:CaramelBiscuit, Caramel Biscuit
+UsefulFood:FishSoup, Fish Soup
+UsefulFood:Tea, Lily Tea
+UsefulFood:HotMilkBottle, Hot Milk Bottle
+UsefulFood:CaramelCake, Caramel Cake
+UsefulFood:CheeseSandwich, Cheese Sandwich
+UsefulFood:CaramelIceCream, Caramel Ice Cream
+UsefulFood:Cereal, Cereal
+UsefulFood:ChocolateCereal, Chocolate Cereal
+UsefulFood:FrenchFries, French Fries
+UsefulFood:AppleJelly, Apple Jelly
+UsefulFood:MelonJelly, Melon Jelly
+UsefulFood:Donut, Donut
+UsefulFood:Oreo, Oreo
+UsefulFood:CaramelToast, Caramel Toast
+UsefulFood:ChocolateToast, Chocolate Toast
+UsefulFood:SugarToast, Sugar Toast
+UsefulFood:SugarPancake, Sugar Pancake
+UsefulFood:AppleJamPancake, Apple Jam Pancake
+UsefulFood:AppleJamToast, Apple Jam Toast
+UsefulFood:AppleJam, Apple Jam
+UsefulFood:CaramelPancake, Caramel Pancake
+UsefulFood:ChocolatePancake,  Chocolate Pancake
+UsefulFood:MelonJamPancake, Melon Jam Pancake
+UsefulFood:MelonJamToast, Melon Jam Toast
+UsefulFood:MelonJamBiscuit, Melon Jam Biscuit
+UsefulFood:MelonJam, Melon Jam
+UsefulFood:PancakeDough, Pancake Dough
+UsefulFood:Pancake, Pancake
+weaponmod:spear.wood, Wooden Spear
+weaponmod:spear.stone, Stone Spear
+weaponmod:spear.iron, Iron Spear
+weaponmod:spear.gold, Golden Spear
+weaponmod:spear.diamond, Diamond Spear
+weaponmod:halberd.wood, Wooden Halberd
+weaponmod:halberd.stone, Stone Halberd
+weaponmod:halberd.iron, Iron Halberd
+weaponmod:halberd.gold, Golden Halberd
+weaponmod:halberd.diamond, Diamond Halberd
+weaponmod:battleaxe.wood, Wooden Battleaxe
+weaponmod:battleaxe.stone, Stone Battleaxe
+weaponmod:battleaxe.iron, Iron Battleaxe
+weaponmod:battleaxe.gold, Golden Battleaxe
+weaponmod:battleaxe.diamond, Diamond Battleaxe
+weaponmod:knife.wood, Wooden Knife
+weaponmod:knife.stone, Stone Knife
+weaponmod:knife.iron, Iron Knife
+weaponmod:knife.gold, Golden Knife
+weaponmod:knife.diamond, Diamond Knife
+weaponmod:warhammer.wood, Wooden Warhammer
+weaponmod:warhammer.stone, Stone Warhammer
+weaponmod:warhammer.iron, Iron Warhammer
+weaponmod:warhammer.gold, Golden Warhammer
+weaponmod:warhammer.diamond, Diamond Warhammer
+weaponmod:flail.wood, Wooden Flail
+weaponmod:flail.stone, Stone Flail
+weaponmod:flail.iron, Iron Flail
+weaponmod:flail.gold, Golden Flail
+weaponmod:flail.diamond, Diamond Flail
+weaponmod:katana.wood, Wooden Katana
+weaponmod:katana.stone, Stone Katana
+weaponmod:katana.iron, Iron Katana
+weaponmod:katana.gold, Golden Katana
+weaponmod:katana.diamond, Diamond Katana
+weaponmod:boomerang.wood, Wooden Boomerang
+weaponmod:boomerang.stone, Stone Boomerang
+weaponmod:boomerang.iron, Iron Boomerang
+weaponmod:boomerang.gold, Golden Boomerang
+weaponmod:boomerang.diamond, Diamond Boomerang
+weaponmod:firerod, Fire Rod
+weaponmod:javelin, Javelin
+weaponmod:crossbow, Crossbow
+weaponmod:bolt, Crossbow Bolt
+weaponmod:blowgun, Blowgun
+weaponmod:dart:0, Poisonous Dart
+weaponmod:dart:1, Poisonous Dart
+weaponmod:dart:2, Poisonous Dart
+weaponmod:dart:3, Poisonous Dart
+weaponmod:musketbayonet.wood, Musket with Wooden Bayonet
+weaponmod:musketbayonet.stone, Musket with Stone Bayonet
+weaponmod:musketbayonet.iron, Musket with Iron Bayonet
+weaponmod:musketbayonet.gold, Musket with Golden Bayonet
+weaponmod:musketbayonet.diamond, Musket with Diamond Bayonet
+weaponmod:musket, Musket
+weaponmod:musket-ironpart, Musket Barrel
+weaponmod:blunderbuss, Blunderbuss
+weaponmod:blunder-ironpart, Blunderbuss Barrel
+weaponmod:shot, Blunderbuss Shot
+weaponmod:flintlock, Flintlock Pistol
+weaponmod:dynamite, Dynamite
+weaponmod:cannon, Cannon
+weaponmod:cannonball, Cannon Ball
+weaponmod:dummy, Training Dummy
+weaponmod:gun-stock, Gun Stock
+weaponmod:bullet, Musket Round
 WitchingGadgets:item.WG_Material:0, Yarn
 WitchingGadgets:item.WG_Material:1, Golden Thread
 WitchingGadgets:item.WG_Material:2, Thaumium Thread
