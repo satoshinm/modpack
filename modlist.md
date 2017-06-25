@@ -185,3 +185,9 @@
 | [Slick-Util](http://slick.ninjacave.com/slick-util/) | 2.2.4 | NinjaCave | Slick-Util is a small library to enable you to load various image, sound and font formats for use with LWJGL. |
 | [SonarCore](http://www.curseforge.com/projects/239418/) | 1.7.10-1.1.3 | Ollie Lansdell | Sonar's Modding Framework |
 | [Vorbis-Java-Core](https://github.com/Gagravarr/VorbisJava) | 0.8-20150201.161816-1 |  | Needed For MPS |
+
+## Server Plugins
+| Plugin | Version | Description |
+|-----|:-------:|:------------|
+| [WebSandboxMC](https://www.spigotmc.org/resources/websandboxmc.39415/) | 1.10.4 | WebSandboxMC allows modern web browsers to view and interact with a small part of your server's world using WebGL and HTML5 technologies |
+| [SilkSpawners](https://dev.bukkit.org/projects/silkspawners) | 4.0.0 | Ever wanted to move a mob spawner? With SilkSpawners, you can now pick up and move monster spawners. If you use a pickaxe with the silktouch enchantment you will receive the spawner again. |
