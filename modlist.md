@@ -112,7 +112,6 @@
 | [Random Things](http://www.minecraftforum.net/topic/1832047-) | 2.2.4 | lumien | A compilation of different blocks and items. |
 | [Remain In Motion](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2104611) | 2.8.9 | planetguy | A reimplementation of Redpower frames, with more flexibility and functionality, and including many new types of frames. |
 | [Router Reborn](http://www.curseforge.com/projects/223808) | 1.7.10-1.2.0.43-universal | Tom E. Voll | Bringing the router back in 1.7.x |
-| [Secret Rooms Mod](https://mods.curse.com/mc-mods/minecraft/secretroomsmod) | 4.7.1.413 | | This mod adds a variety of cool blocks that camouflage themselves to the surrounding world. |
 | [Balkon's WeaponMod](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272627-balkons-weaponmod-v1-14) | 1.14.3 | | Throw a spear in a zombie's head!  Cut a skeleton in half with your brand new halberd!  Shoot some slimes in pieces with an old musket! |
 | [Portal Gun](http://ichun.me/mods/portalgun/) | 4.0.0-beta6 | | This mod adds the portalgun, as well as several other portal-related aspects, to Minecraft! |
 | [Gravity Gun](http://ichun.me/mods/gravity-gun/) | 4.0.0-beta | | This mod adds the Gravity Gun from Half-Life 2 to Minecraft. |
