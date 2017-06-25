@@ -11694,7 +11694,7 @@ extracells:vibrantchamberfluid, Fluid Vibration Chamber
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quadratic Equation Device)
+ExtraUtilities:endConstructor:0, QED (Quantum Ender Diviner)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -13188,6 +13188,27 @@ JAKJ_RedstoneInMotion:tile.JAKJ_RedstoneInMotion_CarriageDrive:5, Carriage Adapt
 JAKJ_RedstoneInMotion:tile.JAKJ_RedstoneInMotion_CarriageDrive:6, Carriage Rotator
 JAKJ_RedstoneInMotion:tile.JAKJ_RedstoneInMotion_CarriageDrive:7, Directional Carriage Engine
 JAKJ_RedstoneInMotion:tile.JAKJ_RedstoneInMotion_RailSpecter:0, Moving Rail
+secretroomsmod:TorchLever, Torch Lever
+secretroomsmod:OneWayGlass, One-Way Glass
+secretroomsmod:CamoGate, Secret Gate
+secretroomsmod:CamoDummy, tile.CamoDummy.name
+secretroomsmod:SecretTrapDoor, Secret TrapDoor
+secretroomsmod:SecretWoodenDoorBlock, Secret Wooden Door
+secretroomsmod:SecretIronDoorBlock, Secret Iron Door
+secretroomsmod:GhostBlock, Ghost Block
+secretroomsmod:SecretCamoLever, Secret lever
+secretroomsmod:SecretCamoRedstone, Secret Redstone
+secretroomsmod:SecretCamoButton:0, Secret Stone Button
+secretroomsmod:SecretCamoButton:1, Secret Wood Button
+secretroomsmod:SecretPressurePlate, Secret Pressure Plate
+secretroomsmod:SecretPlayerPlate, Secret Player Plate
+secretroomsmod:SecretLightPlate, Secret Weighted Plate (light)
+secretroomsmod:SecretHeavyPlate, Secret Weighted Plate (heavy)
+secretroomsmod:SecretStair, Secret Stairs
+secretroomsmod:SecretChest, Secret Chest
+secretroomsmod:SecretTrappedChest, Secret Trapped Chest
+secretroomsmod:SecretLightDetector, Secret Light Detector
+secretroomsmod:SolidAir, Solid Air
 SolarExpansion:solarPanelLeadstone, Leadstone Solar Panel
 SolarExpansion:solarPanelHardened, Hardened Solar Panel
 SolarExpansion:solarPanelRedstone, Redstone Solar Panel
@@ -13610,42 +13631,42 @@ thaumicenergistics:thaumicenergistics.block.knowledge.inscriber, Knowledge Inscr
 thaumicenergistics:thaumicenergistics.block.essentia.vibration.chamber, Essentia Vibration Chamber
 thaumicenergistics:thaumicenergistics.block.distillation.encoder, Distillation Pattern Encoder
 ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:enchanter, Osmotic Enchanter
+ThaumicTinkerer:interface, Transvector Interface
+ThaumicTinkerer:fireAir, Aer Imbued Fire
+ThaumicTinkerer:wardSlab:0, tile.wardSlab.name
+ThaumicTinkerer:wardSlabFull:0, tile.wardSlab.name
+ThaumicTinkerer:travelSlab:0, Paving Slab of Travel
+ThaumicTinkerer:travelSlabFull:0, Paving Slab of Travel
 ThaumicTinkerer:magnet:0, Kinetic Attractor
 ThaumicTinkerer:magnet:1, Corporeal Attractor
-ThaumicTinkerer:fireChaos, Perditio Imbued Fire
-ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
-ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
-ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
-ThaumicTinkerer:funnel, Essentia Funnel
-ThaumicTinkerer:fireAir, Aer Imbued Fire
-ThaumicTinkerer:dislocator, Transvector Dislocator
-ThaumicTinkerer:forcefield, Forcefield
-ThaumicTinkerer:fireEarth, Terra Imbued Fire
-ThaumicTinkerer:interface, Transvector Interface
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
+ThaumicTinkerer:fireFire, Ignis Imbued Fire
 ThaumicTinkerer:fireWater, Aqua Imbued Fire
 ThaumicTinkerer:warpGate, Celestial Gateway
 ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
-ThaumicTinkerer:enchanter, Osmotic Enchanter
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
+ThaumicTinkerer:funnel, Essentia Funnel
+ThaumicTinkerer:dislocator, Transvector Dislocator
+ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
+ThaumicTinkerer:platform, Ethereal Platform
+ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
+ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
+ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
+ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
+ThaumicTinkerer:repairer, Thaumic Restorer
+ThaumicTinkerer:forcefield, Forcefield
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:spawner, Tablet of Necromancy
 ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:bedrockPortal, Bedrock Portal
 ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
 ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
-ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
-ThaumicTinkerer:travelStairs, Paving Stair of Travel
 ThaumicTinkerer:animationTablet, Dynamism Tablet
-ThaumicTinkerer:repairer, Thaumic Restorer
-ThaumicTinkerer:bedrockPortal, Bedrock Portal
-ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
-ThaumicTinkerer:travelSlab:0, Paving Slab of Travel
-ThaumicTinkerer:travelSlabFull:0, Paving Slab of Travel
-ThaumicTinkerer:wardSlab:0, tile.wardSlab.name
-ThaumicTinkerer:wardSlabFull:0, tile.wardSlab.name
-ThaumicTinkerer:platform, Ethereal Platform
-ThaumicTinkerer:spawner, Tablet of Necromancy
 ThaumicTinkerer:fireOrder, Ordo Imbued Fire
-ThaumicTinkerer:fireFire, Ignis Imbued Fire
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
+ThaumicTinkerer:fireEarth, Terra Imbued Fire
+ThaumicTinkerer:fireChaos, Perditio Imbued Fire
+ThaumicTinkerer:travelStairs, Paving Stair of Travel
 ThaumicExploration:autoSorter, tile.thaumicexploration:autoSorter.name
 ThaumicExploration:trashJar, Oblivion Jar
 ThaumicExploration:boundChest, tile.boundChest.name
@@ -17529,11 +17550,11 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Hawthorn Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Treated Wood Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Livingwood Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dreamwood Trim
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Paving Slab of Travel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Smokey Quartz
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Smokey Quartz Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Pillar Smokey Quartz Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Paving Slab of Travel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Betweenstone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Pitstone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Limestone
@@ -26813,56 +26834,56 @@ ExtraTiC:extra.bucket:1, Molten Fairy Bucket
 ExtraTiC:extra.bucket:6, Molten Desh Bucket
 ExtraTiC:extra.bucket:12, Molten Adamantine Bucket
 ExtraTiC:extra.bucket:11, Molten Brass Bucket
-factorization:diamond_cutting_head, Diamond Cutting Head
-factorization:tool/charge_meter, Charge Meter
-factorization:logic_matrix, Blank Logic Matrix
-factorization:logic_matrix_identifier, Logic Matrix: Identifier
-factorization:servo/sprocket, Dark Iron Sprocket
+factorization:daybarrel, item.factorization:daybarrel.name
+factorization:potencyBottle, Bottle of Potency
 factorization:motor, Motor
-factorization:tool/pocket_crafting_table, Pocket Crafting Table
-factorization:twistedBlock, Twisted Block of Dark Iron
-factorization:barrelCart:0, Barrel Cart
-factorization:barrelCart:0, Barrel Cart: Creative Bedrock Barrel
-factorization:nether_powder, Netherrack Powder
+factorization:sludge, Sludge
 factorization:lead_ingot, item.factorization:lead_ingot.name
-factorization:servo/servo, Servo
-factorization:docbook, The Factorization Manual
-factorization:servo/component, item.factorization:servo/component.name
-factorization:servo/servo_motor, Servo Motor
+factorization:logic_matrix_controller, Logic Matrix: Controller
+factorization:darkIronChain, Chain
+factorization:nether_powder, Netherrack Powder
+factorization:sculptTool:0, Sculpting Tool
+factorization:servo/commenter, Commenter
+factorization:charge_battery, Battery Block
 factorization:socket/:34, Robotic Arm
 factorization:socket/:35, Item Shifter
-factorization:ceramics/glaze_bucket, Glaze Bucket
-factorization:fan, Pressurizer
-factorization:servo/decorator, item.factorization:servo/decorator.name
-factorization:logic_matrix_controller, Logic Matrix: Controller
-factorization:chainLink, Dark Iron Chain Link
-factorization:charge_battery, Battery Block
 factorization:entheas, Entheas
-factorization:brokenArtifact, item.factorization:brokenArtifact.name
-factorization:corkscrew, Corkscrew
-factorization:potencyBottle, Bottle of Potency
-factorization:colossusGuide, Lost Map
-factorization:shortChain, Short Length of Chain
-factorization:silver_ingot, item.factorization:silver_ingot.name
-factorization:sludge, Sludge
-factorization:darkIronChain, Chain
-factorization:socket/scissors, Enormous Scissors
-factorization:insulated_coil, Insulated Coil
 factorization:sap, Sap
-factorization:dark_iron_ingot, Dark Iron Ingot
-factorization:sculptTool:0, Sculpting Tool
-factorization:tool/matrix_programmer, Logic Matrix Programmer
-factorization:diamond_shard, Diamond Block Shard
-factorization:mirror, Mirror
-factorization:daybarrel, item.factorization:daybarrel.name
 factorization:spawnPoster, Poster
+factorization:socket/scissors, Enormous Scissors
+factorization:chainLink, Dark Iron Chain Link
+factorization:docbook, The Factorization Manual
+factorization:tool/matrix_programmer, Logic Matrix Programmer
+factorization:ceramics/glaze_bucket, Glaze Bucket
+factorization:brokenArtifact, item.factorization:brokenArtifact.name
+factorization:mirror, Mirror
 factorization:utiligoo:0, Goo
-factorization:servo/commenter, Commenter
-factorization:acid:0, Sulfuric Acid
-factorization:acid:1, Aqua Regia
-factorization:servo/instruction_plate, Instruction Plate
+factorization:logic_matrix, Blank Logic Matrix
+factorization:servo/component, item.factorization:servo/component.name
+factorization:tool/pocket_crafting_table, Pocket Crafting Table
+factorization:dark_iron_ingot, Dark Iron Ingot
+factorization:fan, Pressurizer
+factorization:diamond_shard, Diamond Block Shard
+factorization:twistedBlock, Twisted Block of Dark Iron
+factorization:insulated_coil, Insulated Coil
+factorization:logic_matrix_identifier, Logic Matrix: Identifier
+factorization:colossusGuide, Lost Map
+factorization:tool/charge_meter, Charge Meter
 factorization:mansandwich:0, Manwich
 factorization:mansandwich:1, Spicy Manwich
+factorization:acid:0, Sulfuric Acid
+factorization:acid:1, Aqua Regia
+factorization:servo/sprocket, Dark Iron Sprocket
+factorization:servo/servo, Servo
+factorization:servo/instruction_plate, Instruction Plate
+factorization:barrelCart:0, Barrel Cart
+factorization:barrelCart:0, Barrel Cart: Creative Bedrock Barrel
+factorization:servo/servo_motor, Servo Motor
+factorization:servo/decorator, item.factorization:servo/decorator.name
+factorization:diamond_cutting_head, Diamond Cutting Head
+factorization:corkscrew, Corkscrew
+factorization:silver_ingot, item.factorization:silver_ingot.name
+factorization:shortChain, Short Length of Chain
 gendustry:Labware, Genetics Labware
 gendustry:Waste, Genetic Waste
 gendustry:GeneSampleBlank, Blank Gene Sample
@@ -27539,14 +27560,14 @@ IronChest:diamondCrystalUpgrade, Diamond to Crystal Chest Upgrade
 IronChest:woodIronUpgrade, Wood to Iron Chest Upgrade
 IronChest:woodCopperUpgrade, Wood to Copper Chest Upgrade
 IronChest:diamondObsidianUpgrade, Diamond to Obsidian Chest Upgrade
-ironchestminecarts:minecart_chest_copper, Minecart with Copper Chest
-ironchestminecarts:minecart_chest_dirtchest9000, Minecart with DirtChest9000
-ironchestminecarts:minecart_chest_silver, Minecart with Silver Chest
-ironchestminecarts:minecart_chest_crystal, Minecart with Crystal Chest
 ironchestminecarts:minecart_chest_iron, Minecart with Iron Chest
+ironchestminecarts:minecart_chest_silver, Minecart with Silver Chest
+ironchestminecarts:minecart_chest_copper, Minecart with Copper Chest
+ironchestminecarts:minecart_chest_diamond, Minecart with Diamond Chest
 ironchestminecarts:minecart_chest_obsidian, Minecart with Obsidian Chest
 ironchestminecarts:minecart_chest_gold, Minecart with Gold Chest
-ironchestminecarts:minecart_chest_diamond, Minecart with Diamond Chest
+ironchestminecarts:minecart_chest_crystal, Minecart with Crystal Chest
+ironchestminecarts:minecart_chest_dirtchest9000, Minecart with DirtChest9000
 JABBA:upgradeStructural:0, item.upgrade.structural.1.name
 JABBA:upgradeStructural:1, item.upgrade.structural.2.name
 JABBA:upgradeStructural:2, item.upgrade.structural.3.name
@@ -27985,6 +28006,9 @@ JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:0, Carriage Cross
 JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:1, Carriage Panel
 JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2, Carriage Framework
 JAKJ_RedstoneInMotion:Hollow Carriage, JAKJ_RedstoneInMotion:FMPCarriage.name
+secretroomsmod:SecretWoodenDoorItem, Secret Wooden Door
+secretroomsmod:SecretWoodenIronItem, Secret Iron Door
+secretroomsmod:CamoflaugePaste, Camouflage Paste
 SolarExpansion:steelIngot, Steel Ingot
 SolarExpansion:steelNugget, Steel Nugget
 SolarExpansion:lapisShard, Lapis Shard
@@ -33876,6 +33900,9 @@ ThermalDynamics:cover:0, Light Blue Spectre Block Cover
 ThermalDynamics:cover:0, Magenta Spectre Block Cover
 ThermalDynamics:cover:0, Orange Spectre Block Cover
 ThermalDynamics:cover:0, White Spectre Block Cover
+ThermalDynamics:cover:0, Torch Lever Cover
+ThermalDynamics:cover:0, Secret TrapDoor Cover
+ThermalDynamics:cover:0, Solid Air Cover
 ThermalDynamics:cover:0, Inventory Cable Cover
 ThermalDynamics:cover:0, Junction Rail Cover
 ThermalDynamics:cover:0, Advanced Detector Rail Cover
@@ -33939,24 +33966,24 @@ ThermalDynamics:cover:0, Treated Wood Trim Cover
 ThermalDynamics:cover:0, Livingwood Trim Cover
 ThermalDynamics:cover:0, Dreamwood Trim Cover
 ThermalDynamics:cover:0, tile.gaseousLight.name Cover
-ThermalDynamics:cover:0, Perditio Imbued Fire Cover
+ThermalDynamics:cover:0, Aer Imbued Fire Cover
+ThermalDynamics:cover:0, Paving Slab of Travel Cover
+ThermalDynamics:cover:0, Paving Slab of Travel Cover
+ThermalDynamics:cover:0, Ignis Imbued Fire Cover
+ThermalDynamics:cover:0, Aqua Imbued Fire Cover
 ThermalDynamics:cover:0, Block of Smokey Quartz Cover
 ThermalDynamics:cover:0, Chiseled Smokey Quartz Block Cover
 ThermalDynamics:cover:0, Pillar Smokey Quartz Block Cover
-ThermalDynamics:cover:0, Aer Imbued Fire Cover
-ThermalDynamics:cover:0, Terra Imbued Fire Cover
-ThermalDynamics:cover:0, tile.nitorGas.name Cover
-ThermalDynamics:cover:0, Aqua Imbued Fire Cover
-ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
 ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
-ThermalDynamics:cover:0, Paving Stair of Travel Cover
 ThermalDynamics:cover:0, Bedrock Portal Cover
-ThermalDynamics:cover:0, Paving Slab of Travel Cover
-ThermalDynamics:cover:0, Paving Slab of Travel Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
 ThermalDynamics:cover:0, Ordo Imbued Fire Cover
-ThermalDynamics:cover:0, Ignis Imbued Fire Cover
+ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
+ThermalDynamics:cover:0, tile.nitorGas.name Cover
+ThermalDynamics:cover:0, Terra Imbued Fire Cover
+ThermalDynamics:cover:0, Perditio Imbued Fire Cover
+ThermalDynamics:cover:0, Paving Stair of Travel Cover
 ThermalDynamics:cover:0, Ice Cover
 ThermalDynamics:cover:0, Betweenstone Cover
 ThermalDynamics:cover:0, Pitstone Cover
@@ -34586,6 +34613,13 @@ ThermalDynamics:retriever:2, Reinforced Retriever
 ThermalDynamics:retriever:3, Signalum Retriever
 ThermalDynamics:retriever:4, Resonant Retriever
 ThermalDynamics:relay:0, Redstone Relay
+Torched:TorchGun, Torch Gun
+Torched:TorchFirework:0, Rocket Propelled Torch
+Torched:TorchFirework:1, Torch Rocket
+Torched:TorchLaungher, RPT Launcher
+TrailMix:TrailMixMix, Trail Mix
+TrailMix:TMPPLauncher, TMPP Launcher
+TrailMix:NyanPigLauncher, Nyan Pig Launcher
 TravellersGear:simpleGear:0, Cloak
 TravellersGear:simpleGear:1, Belt
 TravellersGear:simpleGear:2, Gold Ring
@@ -34605,6 +34639,72 @@ TravellersGear:simpleGear:6, Title Scroll
 TravellersGear:simpleGear:6, Title Scroll
 TravellersGear:simpleGear:6, Title Scroll
 Tubestuff:uselessItem, Retriever Jammer
+weaponmod:spear.wood, Wooden Spear
+weaponmod:spear.stone, Stone Spear
+weaponmod:spear.iron, Iron Spear
+weaponmod:spear.gold, Golden Spear
+weaponmod:spear.diamond, Diamond Spear
+weaponmod:halberd.wood, Wooden Halberd
+weaponmod:halberd.stone, Stone Halberd
+weaponmod:halberd.iron, Iron Halberd
+weaponmod:halberd.gold, Golden Halberd
+weaponmod:halberd.diamond, Diamond Halberd
+weaponmod:battleaxe.wood, Wooden Battleaxe
+weaponmod:battleaxe.stone, Stone Battleaxe
+weaponmod:battleaxe.iron, Iron Battleaxe
+weaponmod:battleaxe.gold, Golden Battleaxe
+weaponmod:battleaxe.diamond, Diamond Battleaxe
+weaponmod:knife.wood, Wooden Knife
+weaponmod:knife.stone, Stone Knife
+weaponmod:knife.iron, Iron Knife
+weaponmod:knife.gold, Golden Knife
+weaponmod:knife.diamond, Diamond Knife
+weaponmod:warhammer.wood, Wooden Warhammer
+weaponmod:warhammer.stone, Stone Warhammer
+weaponmod:warhammer.iron, Iron Warhammer
+weaponmod:warhammer.gold, Golden Warhammer
+weaponmod:warhammer.diamond, Diamond Warhammer
+weaponmod:flail.wood, Wooden Flail
+weaponmod:flail.stone, Stone Flail
+weaponmod:flail.iron, Iron Flail
+weaponmod:flail.gold, Golden Flail
+weaponmod:flail.diamond, Diamond Flail
+weaponmod:katana.wood, Wooden Katana
+weaponmod:katana.stone, Stone Katana
+weaponmod:katana.iron, Iron Katana
+weaponmod:katana.gold, Golden Katana
+weaponmod:katana.diamond, Diamond Katana
+weaponmod:boomerang.wood, Wooden Boomerang
+weaponmod:boomerang.stone, Stone Boomerang
+weaponmod:boomerang.iron, Iron Boomerang
+weaponmod:boomerang.gold, Golden Boomerang
+weaponmod:boomerang.diamond, Diamond Boomerang
+weaponmod:firerod, Fire Rod
+weaponmod:javelin, Javelin
+weaponmod:crossbow, Crossbow
+weaponmod:bolt, Crossbow Bolt
+weaponmod:blowgun, Blowgun
+weaponmod:dart:0, Poisonous Dart
+weaponmod:dart:1, Poisonous Dart
+weaponmod:dart:2, Poisonous Dart
+weaponmod:dart:3, Poisonous Dart
+weaponmod:musketbayonet.wood, Musket with Wooden Bayonet
+weaponmod:musketbayonet.stone, Musket with Stone Bayonet
+weaponmod:musketbayonet.iron, Musket with Iron Bayonet
+weaponmod:musketbayonet.gold, Musket with Golden Bayonet
+weaponmod:musketbayonet.diamond, Musket with Diamond Bayonet
+weaponmod:musket, Musket
+weaponmod:musket-ironpart, Musket Barrel
+weaponmod:blunderbuss, Blunderbuss
+weaponmod:blunder-ironpart, Blunderbuss Barrel
+weaponmod:shot, Blunderbuss Shot
+weaponmod:flintlock, Flintlock Pistol
+weaponmod:dynamite, Dynamite
+weaponmod:cannon, Cannon
+weaponmod:cannonball, Cannon Ball
+weaponmod:dummy, Training Dummy
+weaponmod:gun-stock, Gun Stock
+weaponmod:bullet, Musket Round
 WitchingGadgets:item.WG_Material:0, Yarn
 WitchingGadgets:item.WG_Material:1, Golden Thread
 WitchingGadgets:item.WG_Material:2, Thaumium Thread
