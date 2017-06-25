@@ -81,7 +81,7 @@ FloodLights-1.7.10-1.2.8-137.jar
 forestry_1.7.10-4.2.16.64.jar
 ForgottenNature_1.7.19old.jar
 Framez-1.7.10-0.2-32-hotfix-universal.jar
-GalaxySpace-1.1.3a STABLE.jar
+GalaxySpace-1.1.4 STABLE.jar
 gendustry-1.6.4.135-mc1.7.10.jar
 GraviSuite_Reloaded-1.7.10-0.9.1.jar
 GravityGun-4.0.0-beta.jar
