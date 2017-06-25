@@ -24,6 +24,11 @@
 | [Biomes O' Plenty](http://minecraft.curseforge.com/projects/biomes-o-plenty/files/2281726) | 2.1.0.2027 | Forstride<br/>Adubbz<br/>Amnet<br/>ted80 | Adds 87 new, unique biomes! |
 | [Forgotten Nature](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286390-forgotten-nature-1-7-19-a-natural-addition-to-mc) | 1.7.19old | | 36 new trees/bushes and 7 new Biomes. |
 | [ExtrabiomesXL](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282126-extrabiomesxl-universal-3-16-3-for-mc-1-7-10) | 3.16.4 | | ExtrabiomesXL is a collaborative open source mod for Minecraft which adds new biomes and an assortment of natural blocks and items that enhance gameplay and make exploring fun and interesting. |
+| [AnimalBikes](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278239-animal-bikes-added-a-polar-bear-bikes) | 1.7.10 | | This mod adds a bunch of animals, which you can ride or fly around on. |
+| [Custom Mob Spawner](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272337-mo-creatures-v10-0-5-with-bear-mounts) | 3.5.1 | | Dependency for Mo' Creatures |
+| [Mo' Creatures](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272337-mo-creatures-v10-0-5-with-bear-mounts) | 6.3.1 | | This Mod adds more creatures to the game. |
+| [Elemental Creepers](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2111959-1-7-x-1-8-elemental-creepers-rebooted) | 4.3.0 | | Elemental Creepers is a mod that, simply put, adds a quite a few Element based (and other types) creepers into your game. |
+| [Aquaculture](https://minecraft.curseforge.com/projects/aquaculture) | 1.2.6.21 | | In Aquaculture you never know what you'll catch. Every biome is home to tons of unique fish you can only catch in that biome, and there's a myriad of new loot items you can randomly catch while fishing. All of this is made possible by simply crafting the Iron Fishing Rod. |
 | [Botania](http://www.minecraftforum.net/topic/2440071-) | r1.8-249 | vazkii | Botania is a magic tech mod based on nature. |
 | [Buildcraft](http://www.mod-buildcraft.com/) | 7.1.22 | Spacetoad<br/>covertJaguar<br/>Asie | Extending Minecraft with pipes, auto-crafting, quarries, engines and much more! |
 | [BuildCraft Compat](http://www.mod-buildcraft.com/) | compat-7.1.6 | asie<br/>BuildCraft Team | Compatibility add-on for BuildCraft |
@@ -180,3 +185,9 @@
 | [Slick-Util](http://slick.ninjacave.com/slick-util/) | 2.2.4 | NinjaCave | Slick-Util is a small library to enable you to load various image, sound and font formats for use with LWJGL. |
 | [SonarCore](http://www.curseforge.com/projects/239418/) | 1.7.10-1.1.3 | Ollie Lansdell | Sonar's Modding Framework |
 | [Vorbis-Java-Core](https://github.com/Gagravarr/VorbisJava) | 0.8-20150201.161816-1 |  | Needed For MPS |
+
+## Server Plugins
+| Plugin | Version | Description |
+|-----|:-------:|:------------|
+| [WebSandboxMC](https://www.spigotmc.org/resources/websandboxmc.39415/) | 1.10.4 | WebSandboxMC allows modern web browsers to view and interact with a small part of your server's world using WebGL and HTML5 technologies |
+| [SilkSpawners](https://dev.bukkit.org/projects/silkspawners) | 4.0.0 | Ever wanted to move a mob spawner? With SilkSpawners, you can now pick up and move monster spawners. If you use a pickaxe with the silktouch enchantment you will receive the spawner again. |

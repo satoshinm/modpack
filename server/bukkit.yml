@@ -85,3 +85,5 @@ world-settings:
     enabled: true
   miner:
     enabled: true
+  wyvernend:
+    enabled: true
