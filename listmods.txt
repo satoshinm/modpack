@@ -38,6 +38,7 @@ Aroma1997Core-1.7.10-1.0.2.16.jar
 Aroma1997s-Dimensional-World-1.7.10-1.1.0.1.jar
 Atum-1.7.10-0.6.77.jar
 Automagy-1.7.10-0.28.2.jar
+Avaritia-1.11.jar
 beyondrealitycore-1.7.10-1.5.6-BETA-6.jar
 BiblioCraft[v1.11.7][MC1.7.10].jar
 BiblioWoods[BiomesOPlenty][v1.9].jar
@@ -47,6 +48,7 @@ BiblioWoods[Natura][v1.5].jar
 BigReactors-0.4.3A.jar
 BiomesOPlenty-1.7.10-2.1.0.2027-universal.jar
 Botania r1.8-249.jar
+BrandonsCore-1.0.0.12.jar
 buildcraft-7.1.22.jar
 buildcraft-compat-7.1.6.jar
 Carpenter's Blocks v3.3.8.1 - MC 1.7.10.jar
@@ -61,6 +63,7 @@ dark_menagerie-1.7.10-beta-3.1a.jar
 dimensional-anchor-59.0.3.jar
 DimensionalDoors-2.2.5-test9.jar
 DoomlikeDungeons-1.8.7-MC1.7.10.jar
+Draconic-Evolution-1.7.10-1.0.2h.jar
 DrZharks MoCreatures Mod v6.3.1.zip
 EasyCrafting-1.7.10-2.0.1.16.jar
 Elemental Creepers-universal_1.7.10-4.3.0.jar
@@ -123,7 +126,6 @@ ObsidiPlates-1.7.10-universal-3.0.0.18.jar
 OpenBlocks-1.7.10-1.6.jar
 OpenComputers-MC1.7.10-1.6.2.12-universal.jar
 Opis-1.2.5_1.7.10.jar.disabled
-Pam's HarvestCraft 1.7.10Lb.jar
 PneumaticCraft-1.7.10-1.12.7-150-universal.jar
 PortalGun-4.0.0-beta-6.jar
 PowerConverters-1.7.10-2.11.jar
@@ -131,6 +133,8 @@ Practical-Logistics-1.7.10-0.2.4.jar
 pressure-1.3.0.131-mc1.7.10.jar
 ProjectBench-Update-1.7.10-0.5.jar
 ProjectBlue-1.1.6-mc1.7.10.jar
+ProjectE-1.7.10-PE1.10.1.jar
+ProjectE-1.7.10-PE1.10.1.jar.disabled
 ProjectRed-1.7.10-4.7.0pre12.95-Compat.jar
 ProjectRed-1.7.10-4.7.0pre12.95-Integration.jar
 ProjectRed-1.7.10-4.7.0pre12.95-Lighting.jar
