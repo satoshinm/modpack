@@ -22,6 +22,33 @@ debug:
 config-version: 1
 world-settings:
   default:
+    buildcraft-builders-TileQuarryCompat:
+      tick-no-players: false
+      tick-interval: 1
+    cofh-thermalexpansion-block-cell-TileCellCreative:
+      tick-no-players: false
+      tick-interval: 1
+    cpw-mods-ironchest-TileEntityCrystalChest:
+      tick-no-players: false
+      tick-interval: 1
+    appeng-tile-storage-TileChest:
+      tick-no-players: false
+      tick-interval: 1
+    mrtjp-projectred-exploration-TileLily:
+      tick-no-players: false
+      tick-interval: 1
+    net-minecraft-tileentity-TileEntityMobSpawner:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileNode:
+      tick-no-players: false
+      tick-interval: 1
+    net-minecraft-tileentity-TileEntityChest:
+      tick-no-players: false
+      tick-interval: 1
+    forestry-apiculture-tiles-TileSwarm:
+      tick-no-players: false
+      tick-interval: 1
     com-teammetallurgy-atum-blocks-tileentity-chests-TileEntityChestSpawner:
       tick-no-players: false
       tick-interval: 1
@@ -29,21 +56,6 @@ world-settings:
       tick-no-players: false
       tick-interval: 1
     com-teammetallurgy-atum-blocks-tileentity-chests-TileEntityPharaohChest:
-      tick-no-players: false
-      tick-interval: 1
-    thaumcraft-common-tiles-TileNode:
-      tick-no-players: false
-      tick-interval: 1
-    forestry-apiculture-tiles-TileSwarm:
-      tick-no-players: false
-      tick-interval: 1
-    net-minecraft-tileentity-TileEntityMobSpawner:
-      tick-no-players: false
-      tick-interval: 1
-    net-minecraft-tileentity-TileEntityChest:
-      tick-no-players: false
-      tick-interval: 1
-    mrtjp-projectred-exploration-TileLily:
       tick-no-players: false
       tick-interval: 1
     openblocks-common-tileentity-TileEntityGrave:
