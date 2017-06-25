@@ -205,7 +205,7 @@
 | [EnderCore](http://enderio.com) | 1.7.10-0.2.0.39_beta | tterrag<br/>CrazyPants | Library mod used by EnderIO, EnderZoo, and others |
 | [Forge MultiPart](https://github.com/Chicken-Bones/ForgeMultipart) | 1.2.0.347 | ChickenBones | Open source library for facilitation of multiple functional parts in the one block space. |
 | [Galacticraft Planets](http://www.micdoodle8.com/mods/galacticraft) | 3.0.12.462 | micdoodle8 | Mars addon for Galacticraft. |
-| [Galaxy Space](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2412548-1-7-10-galaxy-space-addon-for-galacticraft-3) | 1.1.4 STABLE | | This mod adds a lot of planets and moons for modification GalactiCraft 3. |
+| [Galaxy Space](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2412548-1-7-10-galaxy-space-addon-for-galacticraft-3) | 1.1.3a STABLE | | This mod adds a lot of planets and moons for modification GalactiCraft 3. |
 | [GalacticraftCore](http://www.micdoodle8.com/mods/galacticraft) | 3.0.12.462 | micdoodle8 | Blast off to the stars. Makes a space base or a space station. Discover new worlds and exicting dungeons. |
 | [Hats](http://ichun.us/mods/hats/) | 4.0.1 | iChun | Adds a bunch of hats, as wells as the ability to add more, into Minecraft |
 | [iChunUtil](http://www.ichun.us/) | 4.2.3 | iChun | Shared library mod required by several of iChun's Mods. |
