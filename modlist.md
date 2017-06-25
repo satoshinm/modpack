@@ -226,5 +226,6 @@
 ## Server Plugins
 | Plugin | Version | Description |
 |-----|:-------:|:------------|
+| [Essentials](https://dev.bukkit.org/projects/essentials) | pre-release 2.14.1.3 | Essentials offers over 100 commands and features useful on just about every server. |
 | [WebSandboxMC](https://www.spigotmc.org/resources/websandboxmc.39415/) | 1.10.4 | WebSandboxMC allows modern web browsers to view and interact with a small part of your server's world using WebGL and HTML5 technologies |
 | [SilkSpawners](https://dev.bukkit.org/projects/silkspawners) | 4.0.0 | Ever wanted to move a mob spawner? With SilkSpawners, you can now pick up and move monster spawners. If you use a pickaxe with the silktouch enchantment you will receive the spawner again. |
