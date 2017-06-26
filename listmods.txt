@@ -39,6 +39,7 @@ Aroma1997s-Dimensional-World-1.7.10-1.1.0.1.jar
 Atum-1.7.10-0.6.77.jar
 Automagy-1.7.10-0.28.2.jar
 Avaritia-1.11.jar
+BetterFoliage-MC1.7.10-2.0.15.jar
 beyondrealitycore-1.7.10-1.5.6-BETA-6.jar
 BiblioCraft[v1.11.7][MC1.7.10].jar
 BiblioWoods[BiomesOPlenty][v1.9].jar
