@@ -39,6 +39,7 @@ Aroma1997s-Dimensional-World-1.7.10-1.1.0.1.jar
 Atum-1.7.10-0.6.77.jar
 Automagy-1.7.10-0.28.2.jar
 Avaritia-1.11.jar
+BetterFoliage-MC1.7.10-2.0.15.jar
 beyondrealitycore-1.7.10-1.5.6-BETA-6.jar
 BiblioCraft[v1.11.7][MC1.7.10].jar
 BiblioWoods[BiomesOPlenty][v1.9].jar
@@ -91,7 +92,6 @@ GTTweaker-1.7.10-1.1.0.jar
 HardcoreEnderExpansion  MC-1.7.10  v1.8.6.jar
 HatStand-4.0.0.jar
 HelpFixer-1.0.7.jar
-IC2 Backpack HUD v3.0 - MC 1.7.10.zip
 ic2/EJML-core-0.26.jar
 IC2NuclearControl-2.4.2a.jar
 ihl-tools_n_machines-0.600-1.7.10.jar
