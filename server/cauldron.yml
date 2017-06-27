@@ -107,37 +107,52 @@ world-settings:
     allow-tnt-punishment: true
     infinite-water-source: true
     entity-despawn-immediate: false
-    worldgen-dldungeonsjdg-GenerationHandler: true
-    worldgen-BigReactors-BRWorldGenerator: true
-    worldgen-erebus-WorldGenAntlionMaze: true
-    worldgen-Natura-BaseCloudWorldgen: true
-    worldgen-chisel-GeneratorChisel: true
-    worldgen-ihl-IHLWorldGenerator: true
-    worldgen-IC2-IC2: true
-    worldgen-Mystcraft-MystWorldGenerator: true
-    worldgen-appliedenergistics2-QuartzWorldGen: true
-    worldgen-ImmersiveEngineering-IEWorldGen: true
     worldgen-gregtech-GT_Worldgenerator_Space: true
+    worldgen-ExtrabiomesXL-LeafPileGenerator: true
+    worldgen-Natura-BaseTreeWorldgen: true
+    worldgen-dldungeonsjdg-GenerationHandler: true
+    worldgen-ForgottenNature-FNWorldGenerator: true
+    worldgen-ExtrabiomesXL-VineGenerator: true
+    worldgen-ExtrabiomesXL-LegendOakGenerator: true
     worldgen-TConstruct-SlimeIslandGen: true
+    worldgen-DraconicEvolution-DraconicWorldGenerator: true
+    worldgen-simplecore-OreGenerator: true
+    worldgen-ImmersiveEngineering-IEWorldGen: true
+    worldgen-ExtrabiomesXL-MountainRidgeGenerator: true
+    worldgen-dimdoors-GatewayGenerator: true
+    worldgen-ExtrabiomesXL-CatTailGenerator: true
+    worldgen-chisel-GeneratorChisel: true
+    worldgen-ExtrabiomesXL-EelGrassGenerator: true
+    worldgen-Natura-BaseCropWorldgen: true
+    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
     worldgen-TConstruct-TBaseWorldGenerator: true
-    worldgen-appliedenergistics2-MeteoriteWorldGen: true
+    worldgen-ExtrabiomesXL-OilGenerator: true
+    worldgen-CoFHCore-WorldHandler: true
+    worldgen-erebus-WorldGenAntlionMaze: true
+    worldgen-Automagy-AutomagyWorldGenerator: true
+    worldgen-gregtech-GT_Worldgenerator: true
+    worldgen-PneumaticCraft-WorldGeneratorPneumaticCraft: true
+    worldgen-ExtrabiomesXL-VanillaFloraGenerator: true
     worldgen-factorization-DarkIronOreGenerator: true
+    worldgen-ExtrabiomesXL-MountainDesertGenerator: true
+    worldgen-ExtrabiomesXL-QuicksandGenerator: true
     worldgen-Forestry-WorldGenerator: true
+    worldgen-GalaxySpace-OverworldGenerator: true
+    worldgen-thebetweenlands-WorldGenDruidCircle: true
+    worldgen-BigReactors-BRWorldGenerator: true
+    worldgen-appliedenergistics2-QuartzWorldGen: true
+    worldgen-ihl-IHLWorldGenerator: true
+    worldgen-Mystcraft-MystWorldGenerator: true
     worldgen-MrTJPCoreMod-SimpleGenHandler$: true
     worldgen-rftools-GenericWorldGenerator: true
+    worldgen-Natura-BaseCloudWorldgen: true
+    worldgen-IC2-IC2: true
+    worldgen-ExtrabiomesXL-FlowerGenerator: true
+    worldgen-appliedenergistics2-MeteoriteWorldGen: true
     worldgen-harvestcraft-PamGardenGenerator: true
-    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
-    worldgen-CoFHCore-WorldHandler: true
-    worldgen-Automagy-AutomagyWorldGenerator: true
-    worldgen-thebetweenlands-WorldGenDruidCircle: true
-    worldgen-PneumaticCraft-WorldGeneratorPneumaticCraft: true
     worldgen-harvestcraft-PamTreeGenerator: true
     worldgen-harvestcraft-PamBeeGenerator: true
-    worldgen-gregtech-GT_Worldgenerator: true
-    worldgen-Natura-BaseTreeWorldgen: true
-    worldgen-Natura-BaseCropWorldgen: true
     worldgen-harvestcraft-WorldGenPamSalt: true
-    worldgen-dimdoors-GatewayGenerator: true
   max-players-visible: -1
   use-real-names: false
 protection:
@@ -192,6 +207,10 @@ world-environment-settings:
     keep-world-loaded: false
   wyvernend:
     keep-world-loaded: true
+  marsss:
+    keep-world-loaded: true
+  venusss:
+    keep-world-loaded: false
   spectre:
     keep-world-loaded: true
   bedrock:
@@ -199,10 +218,85 @@ world-environment-settings:
   asteroids:
     keep-world-loaded: true
     enabled: true
+  barnardac:
+    keep-world-loaded: true
+    enabled: true
+  barnardae:
+    keep-world-loaded: true
+    enabled: true
+  barnardaf:
+    keep-world-loaded: true
+    enabled: true
+  acentauri:
+    keep-world-loaded: true
+    enabled: true
+  ceres:
+    keep-world-loaded: true
+    enabled: true
+  haumea:
+    keep-world-loaded: true
+    enabled: true
+  kuiper:
+    keep-world-loaded: true
+    enabled: true
+  makemake:
+    keep-world-loaded: true
+    enabled: true
   mars:
     keep-world-loaded: true
     enabled: true
+  mercury:
+    keep-world-loaded: true
+    enabled: true
+  pluto:
+    keep-world-loaded: true
+    enabled: true
+  tcetie:
+    keep-world-loaded: true
+    enabled: true
+  vegab:
+    keep-world-loaded: true
+    enabled: true
+  venus:
+    keep-world-loaded: true
+    enabled: true
+  callisto:
+    keep-world-loaded: true
+    enabled: true
+  deimos:
+    keep-world-loaded: true
+    enabled: true
+  enceladus:
+    keep-world-loaded: true
+    enabled: true
+  europa:
+    keep-world-loaded: true
+    enabled: true
+  ganymede:
+    keep-world-loaded: true
+    enabled: true
+  io:
+    keep-world-loaded: true
+    enabled: true
+  miranda:
+    keep-world-loaded: true
+    enabled: true
   moon:
+    keep-world-loaded: true
+    enabled: true
+  oberon:
+    keep-world-loaded: true
+    enabled: true
+  phobos:
+    keep-world-loaded: true
+    enabled: true
+  proteus:
+    keep-world-loaded: true
+    enabled: true
+  titan:
+    keep-world-loaded: true
+    enabled: true
+  triton:
     keep-world-loaded: true
     enabled: true
   mystdummy:

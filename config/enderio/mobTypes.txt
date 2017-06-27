@@ -1,363 +1,378 @@
-enderzoo.FallenKnight
-HardcoreEnderExpansion.AngryEnderman
-thebetweenlands.mummyArm
-TwilightForest.Naga
 ThaumicExploration.TaintacleMinion
-enderzoo.WitherWitch
-thebetweenlands.firefly
-TwilightForest.Tower Golem
-atum.banditWarrior
-TwilightForest.WinterWolf
-PigZombie
-elementalcreepers.SpringCreeper
-HardcoreEnderExpansion.EnderGuardian
-erebus.honeyPotAnt
-TwilightForest.Tower Ghast
-Thaumcraft.CultistCleric
-Thaumcraft.Taintacle
-HardcoreEnderExpansion.Endermage
-erebus.animatedChest
-thebetweenlands.fortressBossTurret
-SpiderBike
-menagerie.infestedVillager
-Ozelot
-GalacticraftCore.EvolvedZombie
-erebus.midgeSwarm
-TwilightForest.Snow Queen
-ExtrabiomesXL.scarecrow
-menagerie.rat
-TwilightForest.Skeleton Druid
-erebus.crushling
+enderzoo.FallenMount
+TwilightForest.Mosquito Swarm
 elementalcreepers.ReverseCreeper
-HardcoreEnderExpansion.InfestedBat
-TwilightForest.Questing Ram
-thebetweenlands.dragonfly
-thebetweenlands.fortressBoss
-erebus.grasshopper
-erebus.umberGolemIdol
-thebetweenlands.dreadfulMummy
-erebus.stagBeetle
-menagerie.manticore
-erebus.blackAnt
-TwilightForest.Firefly
-elementalcreepers.MagmaCreeper
-EndermanBike
-elementalcreepers.BigBadCreep
-Chicken
-ReindeerBike
-Thaumcraft.TaintSwarm
-thebetweenlands.wight
-GalacticraftCore.EvolvedCreeper
-thebetweenlands.angler
-Thaumcraft.CultistLeader
-Mystcraft.myst.book
-erebus.jumpingSpider
-thebetweenlands.peatMummy
-HardcoreEnderExpansion.Louse
-Botania.botania:pinkWither
-TwilightForest.Wild Boar
+atum.desertGhost
 Ghast
-Enderman
-VillagerGolem
-erebus.prayingMantis
-Thaumcraft.CultistPortal
-Thaumcraft.TaintedCreeper
-BunnyBike
-Thaumcraft.Wisp
-thebetweenlands.tarBeast
-Thaumcraft.TaintacleGiant
-enderzoo.ConcussionCreeper
-TwilightForest.Pinch Beetle
-HardcoreEnderExpansion.EnderDemon
-atum.banditWarlord
-erebus.bombardierBeetle
-Thaumcraft.EldritchCrab
-TwilightForest.Apocalypse Cube
-erebus.fireAnt
-TwilightForest.Redscale Broodling
-erebus.botFly
-thebetweenlands.fortressBossSpawner
-TwilightForest.HydraHead
-TwilightForest.Redcap
-erebus.crushroom
-Thaumcraft.BrainyZombie
-TwilightForest.Block&Chain Goblin
-Bat
-atum.banditArcher
-erebus.antlion
-TwilightForest.Forest Squirrel
-CaveSpider
-thebetweenlands.chiromaw
-Enderman
-HardcoreEnderExpansion.EnderEye
-thebetweenlands.lurker
-erebus.woodlouse
-Thaumcraft.EldritchGolem
-PonyBike
-Thaumcraft.TaintedPig
-Automagy.WispNether
-erebus.umberGolem
-HardcoreEnderExpansion.ForestGhost
-thebetweenlands.fortressBossBlockade
-TwilightForest.Tower Termite
-dimdoors.Monolith
-Thaumcraft.TaintedCow
-thebetweenlands.sporeling
-HardcoreEnderExpansion.Dragon
-TwilightForest.Maze Slime
-TwilightForest.Hydra
-HardcoreEnderExpansion.VampireBat
-thebetweenlands.siltCrab
-atum.mummy
-Thaumcraft.MindSpider
-Skeleton
-elementalcreepers.WindCreeper
-HardcoreEnderExpansion.ParalyzedEnderman
-erebus.beetle
-TwilightForest.Fire Beetle
-erebus.tarantulababy
-TConstruct.KingSlime
-Witch
-erebus.mosquito
-TwilightForest.Swarm Spider
-BiomesOPlenty.Pixie
-HardcoreEnderExpansion.ScorchedLens
-OpenBlocks.Luggage
-HardcoreEnderExpansion.FireFiend
-erebus.bloodSnail
-OpenBlocks.MiniMe
-TwilightForest.Wild Deer
-erebus.pondskater
-elementalcreepers.CookieCreeper
-erebus.botFlyLarva
-menagerie.ant
-erebus.scytodes
-SheepBike
-enderzoo.WitherCat
-Squid
-NotchBike
-Thaumcraft.TaintedChicken
-erebus.dragonfly
-EntityHorse
-menagerie.ghost
-thebetweenlands.swampHag
-thebetweenlands.pyrad
-Thaumcraft.EldritchWarden
-TwilightForest.Armored Giant
+erebus.jumpingSpider
+thebetweenlands.shallowBreath
+erebus.leech
+elementalcreepers.ElectricCreeper
+thebetweenlands.mireSnail
+TwilightForest.Forest Bunny
+GalacticraftCore.EvolvedColdBlaze
+DinoBike3
+Botania.botania:doppleganger
 elementalcreepers.FireCreeper
-erebus.centipede
-CowBike
-OcelotBikeChild
-HardcoreEnderExpansion.FireGolem
-TConstruct.Crystal
-BiomesOPlenty.Phantom
-EnderDragon
-elementalcreepers.WaterCreeper
-BiomesOPlenty.Glob
-erebus.antlionMiniBoss
-erebus.punchroom
-erebus.zombieAntSoldier
-Thaumcraft.TravelingTrunk
-FlowerBike
-ihl.CollectorEntity
-Natura.NitroCreeper
-BiomesOPlenty.JungleSpider
-DinoBike4
-thebetweenlands.tarminion
-menagerie.oliphant
-atum.desertWolf
-TwilightForest.Troll
-Cow
-HardcoreEnderExpansion.BabyEnderman
-PneumaticCraft.Drone
-TwilightForest.Bighorn Sheep
-Villager
-Forestry.butterflyGE
-erebus.locust
-erebus.lavaWebSpider
-GalacticraftMars.Sludgeling
-Thaumcraft.Golem
-MineFactoryReloaded.mfrEntityPinkSlime
+GalacticraftCore.EvolvedBossWolf
+HardcoreEnderExpansion.Endermage
+erebus.workerBee
+elementalcreepers.GhostCreeper
+CreeperBike
+erebus.tarantulababy
+elementalcreepers.WindCreeper
 enderzoo.DireWolf
-erebus.moth
-GalacticraftCore.EvolvedSpider
-HardcoreEnderExpansion.HomelandEnderman
-TwilightForest.Upper Goblin Knight
-erebus.velvetWorm
-Silverfish
-Thaumcraft.TaintSwarmer
+TwilightForest.Forest Raven
 elementalcreepers.IllusionCreeper
 erebus.wisp
-TwilightForest.Forest Bunny
-TwilightForest.Lower Goblin Knight
-computronics.swarm
-enderzoo.DireSlime
-elementalcreepers.PsychicCreeper
-atum.stoneSoldier
-TwilightForest.Slime Beetle
-erebus.cicada
-elementalcreepers.CakeCreeper
-elementalcreepers.SolarCreeper
-erebus.scorpion
-thebetweenlands.bloodSnail
-BuildCraft|Robotics.bcRobot
-elementalcreepers.EnderCreeper
-erebus.rhinoBeetle
-erebus.magmaCrawler
-SilverfishBike
-Pig
-TwilightForest.Redcap Sapper
-elementalcreepers.GhostCreeper
-erebus.animatedBlock
-DinoBike
-Thaumcraft.InhabitedZombie
-OcelotBike
+erebus.punchroom
 elementalcreepers.DarkCreeper
-Natura.Imp
-TwilightForest.Mini Ghast
-Slime
-elementalcreepers.FireworkCreeper
-thebetweenlands.toad
-Natura.FlameSpider
-erebus.sporeJet
-Zombie
-thebetweenlands.termite
-SnowmanBike
-Botania.botania:pixie
-TwilightForest.Mosquito Swarm
-TwilightForest.Stable Ice Core
-ChocoboBike
-thebetweenlands.darkDruid
-thebetweenlands.gasCloud
-WitherBike
+enderzoo.DireSlime
+thebetweenlands.lurker
 Thaumcraft.ThaumSlime
-MushroomCow
-erebus.fireAntSoldier
-erebus.bedBug
-BiomesOPlenty.Wasp
-enderzoo.Enderminy
-GalacticraftCore.EvolvedSkeleton
-erebus.workerBee
-TwilightForest.Forest Raven
-elementalcreepers.IceCreeper
-Creeper
-elementalcreepers.LightCreeper
-Thaumcraft.TaintedSheep
-Basalz
-Giant
-thebetweenlands.mireSnailEgg
-atum.dustySkeleton
-TwilightForest.Minotaur
-PonyFlyingBike
-TwilightForest.Helmet Crab
-erebus.animatedBambooCrate
-erebus.beetleLarva
-Thaumcraft.TaintSpider
-elementalcreepers.HydrogenCreeper
-TwilightForest.Mist Wolf
-erebus.bombardierBeetleLarva
-TwilightForest.Death Tome
-TwilightForest.Loyal Zombie
-PigBike
-Thaumcraft.Firebat
-Thaumcraft.TaintedVillager
-LavaSlime
-GalacticraftCore.AlienVillager
-Thaumcraft.CultistKnight
-TConstruct.EdibleSlime
-TwilightForest.Adherent
-menagerie.lepus
-Sheep
-TwilightForest.Tower Boss
-erebus.snapper
-TwilightForest.Unstable Ice Core
-WolfBike
-TwilightForest.Lich Minion
-erebus.titanBeetle
-BiomesOPlenty.Rosester
-Thaumcraft.GiantBrainyZombie
-TwilightForest.Tiny Bird
-IronmanBike
-enderzoo.FallenMount
-atum.barbarian
-ihl.CollectorHeavyEntity
-LostHead
-atum.pharaoh
-Thaumcraft.EldritchGuardian
-PneumaticCraft.logisticDrone
-erebus.leech
-menagerie.mummy
-ChickenBike
-Natura.FlameSpiderBaby
-erebus.extractedBlock
-TwilightForest.Hedge Spider
-elementalcreepers.FriendlyCreeper
-thebetweenlands.frog
-TwilightForest.King Spider
-TwilightForest.Ice Crystal
-thebetweenlands.gecko
-DinoBike2
-SnowMan
-atum.desertGhost
-elementalcreepers.ElectricCreeper
-erebus.zombieAnt
-elementalcreepers.SpiderCreeper
-TwilightForest.Twilight Wraith
-TwilightForest.Minoshroom
-Thaumcraft.TaintSpore
-Mob
-Botania.botania:doppleganger
-GalacticraftMars.CreeperBoss
+BiomesOPlenty.Glob
+OpenBlocks.Luggage
+menagerie.manticore
+erebus.crushling
+HardcoreEnderExpansion.FireGolem
+atum.banditArcher
+Thaumcraft.TaintacleGiant
+BuildCraft|Robotics.bcRobot
+BiomesOPlenty.Phantom
+TwilightForest.Lower Goblin Knight
 BatBike
-TwilightForest.Twilight Kobold
-DinoBike3
-erebus.solifugeSmall
-erebus.antlionBoss
+Villager
+atum.dustySkeleton
 chisel.snowman
-GhastBike
-erebus.chameleonTick
-erebus.wheatWeevil
-thebetweenlands.shallowBreath
-WitherBoss
-thebetweenlands.blindCaveFish
-thebetweenlands.leech
-thebetweenlands.mireSnail
-elementalcreepers.EarthCreeper
-erebus.blackWidow
-erebus.moneySpider
-GalacticraftMars.Slimeling
-TwilightForest.Knight Phantom
-Thaumcraft.TaintacleTiny
-TwilightForest.SnowGuardian
-Blitz
-erebus.glowWorm
-erebus.gasVent
-elementalcreepers.StoneCreeper
-Wolf
-DragonBike
-CreeperBike
-Thaumcraft.Pech
-TwilightForest.Glacier Penguin
-thebetweenlands.sludge
-menagerie.livingarmor
-HardcoreEnderExpansion.HauntedMiner
-TwilightForest.Hostile Wolf
-Blizz
-erebus.tarantulaminiboss
-TwilightForest.Yeti
-erebus.fly
-Spider
-ChineseDragonBike
 Blaze
+HardcoreEnderExpansion.Louse
+Thaumcraft.TaintedChicken
+TwilightForest.Adherent
+Zombie
+BiomesOPlenty.Rosester
+erebus.magmaCrawler
+erebus.woodlouse
+WolfBike
+Thaumcraft.TravelingTrunk
+DraconicEvolution.EnderDragon
+TwilightForest.Helmet Crab
+OcelotBikeChild
+Mystcraft.myst.book
+DinoBike2
+TwilightForest.Redscale Broodling
+Thaumcraft.Firebat
+GalacticraftCore.EvolvedCrystalBoss
+TwilightForest.Fire Beetle
+erebus.umberGolem
+HardcoreEnderExpansion.EnderEye
 RandomThings.spirit
+GalacticraftCore.Tentacles
+elementalcreepers.MagmaCreeper
+LostHead
+MineFactoryReloaded.mfrEntityPinkSlime
+erebus.locust
+thebetweenlands.toad
+CaveSpider
+Cow
+Thaumcraft.CultistCleric
+GalacticraftCore.EvolvedFireSkeleton
+TConstruct.EdibleSlime
+erebus.dragonfly
+Enderman
+GhastBike
+HardcoreEnderExpansion.FireFiend
 BiomesOPlenty.Bird
-TwilightForest.Twilight Lich
-erebus.wasp
-GalacticraftCore.EvolvedSkeletonBoss
-erebus.solifuge
+Botania.botania:pinkWither
+erebus.mosquito
+Basalz
+erebus.fireAnt
+PigBike
+Thaumcraft.TaintSpider
+TwilightForest.Unstable Ice Core
+PonyBike
+HardcoreEnderExpansion.BabyEnderman
+erebus.honeyPotAnt
+TwilightForest.Death Tome
+GalacticraftMars.Sludgeling
+erebus.centipede
+TConstruct.KingSlime
+atum.banditWarrior
+erebus.titanBeetle
+Ozelot
+erebus.sporeJet
+WitherBike
+TwilightForest.Minotaur
+HardcoreEnderExpansion.AngryEnderman
+GalacticraftCore.EvolvedBlaze
+SnowMan
+erebus.midgeSwarm
+Thaumcraft.CultistLeader
+erebus.bombardierBeetle
+Thaumcraft.BrainyZombie
+Natura.NitroCreeper
+Mob
+thebetweenlands.tarminion
+BiomesOPlenty.Wasp
+Thaumcraft.TaintSwarm
+thebetweenlands.tarBeast
+atum.barbarian
+Automagy.WispNether
+BiomesOPlenty.JungleSpider
+TwilightForest.Hedge Spider
+WitherBoss
+erebus.moneySpider
+menagerie.lepus
+Spider
+GalacticraftCore.AlienVillager
+Thaumcraft.CultistPortal
+computronics.swarm
+GalacticraftCore.EvolvedEnderman
+thebetweenlands.gasCloud
+erebus.zombieAnt
+GalacticraftCore.EvolvedSpider
+Thaumcraft.EldritchGuardian
+PneumaticCraft.Drone
+thebetweenlands.darkDruid
+ChickenBike
+Thaumcraft.InhabitedZombie
+HardcoreEnderExpansion.ParalyzedEnderman
+TwilightForest.King Spider
+erebus.extractedBlock
+erebus.animatedBambooCrate
+ihl.CollectorHeavyEntity
+thebetweenlands.gecko
+Thaumcraft.Golem
+erebus.beetleLarva
+Slime
+Thaumcraft.EldritchCrab
+elementalcreepers.EarthCreeper
+ExtrabiomesXL.scarecrow
+BunnyBike
+erebus.moth
+CowBike
+thebetweenlands.siltCrab
+atum.mummy
+TwilightForest.Troll
+TwilightForest.Naga
+SheepBike
+thebetweenlands.termite
+HardcoreEnderExpansion.ForestGhost
+erebus.blackWidow
+DinoBike4
+GalacticraftCore.EvolvedZombie
+enderzoo.ConcussionCreeper
+atum.desertWolf
+erebus.animatedChest
+TwilightForest.Loyal Zombie
+thebetweenlands.dreadfulMummy
+thebetweenlands.wight
+TwilightForest.WinterWolf
+EnderDragon
+Thaumcraft.CultistKnight
+Thaumcraft.TaintSpore
+TwilightForest.Mini Ghast
+TwilightForest.HydraHead
+TwilightForest.Tower Golem
+erebus.grasshopper
+TwilightForest.Twilight Kobold
+thebetweenlands.mireSnailEgg
+Thaumcraft.TaintedSheep
+Thaumcraft.Pech
 TwilightForest.Yeti Boss
-erebus.tarantula
-Monster
+TwilightForest.Minoshroom
+erebus.pondskater
+TwilightForest.Mist Wolf
+PigZombie
+DraconicEvolution.ChaosGuardian
+TwilightForest.Ice Crystal
+elementalcreepers.CookieCreeper
+SpiderBike
+thebetweenlands.dragonfly
+HardcoreEnderExpansion.HauntedMiner
+erebus.fireAntSoldier
+TwilightForest.Snow Queen
+TwilightForest.Block&Chain Goblin
+erebus.antlion
+erebus.solifuge
+menagerie.ghost
+dimdoors.Monolith
+thebetweenlands.sludge
+elementalcreepers.LightCreeper
+Witch
+TwilightForest.Pinch Beetle
+Thaumcraft.MindSpider
+erebus.fly
+thebetweenlands.fortressBossTurret
+thebetweenlands.mummyArm
+TwilightForest.Forest Squirrel
+Blizz
+menagerie.ant
+TwilightForest.Skeleton Druid
+TwilightForest.Lich Minion
+GalacticraftCore.EvolvedBossGhast
+erebus.wheatWeevil
+GalacticraftCore.EvolvedFireCreeper
+Thaumcraft.EldritchGolem
+atum.stoneSoldier
+enderzoo.WitherCat
+Natura.Imp
+OpenBlocks.MiniMe
+TwilightForest.Hostile Wolf
+thebetweenlands.peatMummy
+TwilightForest.Redcap Sapper
+TwilightForest.Knight Phantom
+Thaumcraft.TaintedCreeper
+TwilightForest.Stable Ice Core
+SilverfishBike
+Natura.FlameSpiderBaby
+menagerie.rat
+GalacticraftMars.CreeperBoss
+HardcoreEnderExpansion.HomelandEnderman
+enderzoo.Enderminy
+erebus.botFly
+enderzoo.FallenKnight
+thebetweenlands.firefly
+elementalcreepers.BigBadCreep
+EndermanBike
+erebus.antlionBoss
+thebetweenlands.pyrad
+erebus.cicada
 SquidBike
-TwilightForest.Giant Miner
+ChocoboBike
+erebus.lavaWebSpider
+GalacticraftMars.Slimeling
+HardcoreEnderExpansion.ScorchedLens
+Blitz
+PonyFlyingBike
+erebus.blackAnt
+menagerie.infestedVillager
+Sheep
+MushroomCow
+GalacticraftCore.Crawler
+thebetweenlands.swampHag
+OcelotBike
+thebetweenlands.fortressBossBlockade
+elementalcreepers.WaterCreeper
+elementalcreepers.SpiderCreeper
+erebus.scorpion
+elementalcreepers.PsychicCreeper
+HardcoreEnderExpansion.EnderDemon
+thebetweenlands.angler
+erebus.animatedBlock
+TConstruct.Crystal
+atum.pharaoh
+TwilightForest.Wild Boar
+elementalcreepers.HydrogenCreeper
+erebus.beetle
+Thaumcraft.Wisp
+elementalcreepers.FriendlyCreeper
+GalacticraftCore.EvolvedBossBlaze
+erebus.tarantula
+TwilightForest.Yeti
+HardcoreEnderExpansion.Dragon
+GalacticraftCore.EvolvedBossSlime
+erebus.glowWorm
+VillagerGolem
+menagerie.livingarmor
+GalacticraftCore.EvolvedFireSpider
 SlimeBike
+erebus.bombardierBeetleLarva
+thebetweenlands.chiromaw
+TwilightForest.Tower Ghast
+erebus.snapper
+erebus.bedBug
+LavaSlime
+Pig
+BiomesOPlenty.Pixie
+TwilightForest.Slime Beetle
+Botania.botania:pixie
+HardcoreEnderExpansion.VampireBat
+erebus.stagBeetle
+NotchBike
+Natura.FlameSpider
+DinoBike
+HardcoreEnderExpansion.InfestedBat
+Thaumcraft.TaintacleTiny
+erebus.wasp
+erebus.rhinoBeetle
+Thaumcraft.GiantBrainyZombie
+Creeper
+elementalcreepers.EnderCreeper
+ihl.CollectorEntity
+TwilightForest.Twilight Wraith
+EntityHorse
+thebetweenlands.leech
+erebus.chameleonTick
+Chicken
+HardcoreEnderExpansion.EnderGuardian
+elementalcreepers.FireworkCreeper
+TwilightForest.Swarm Spider
+erebus.crushroom
+TwilightForest.Tiny Bird
+TwilightForest.Redcap
+TwilightForest.Maze Slime
+Wolf
+thebetweenlands.blindCaveFish
+Silverfish
+erebus.bloodSnail
+GalacticraftCore.EvolvedSkeletonBoss
+TwilightForest.Tower Termite
+ReindeerBike
+TwilightForest.Armored Giant
+elementalcreepers.SpringCreeper
+Skeleton
+erebus.scytodes
+erebus.botFlyLarva
+thebetweenlands.sporeling
+thebetweenlands.fortressBoss
+thebetweenlands.frog
+TwilightForest.Giant Miner
+Thaumcraft.TaintSwarmer
+IronmanBike
+TwilightForest.Firefly
+enderzoo.WitherWitch
+thebetweenlands.bloodSnail
+Bat
+erebus.antlionMiniBoss
+Forestry.butterflyGE
+Giant
+erebus.tarantulaminiboss
+erebus.umberGolemIdol
+GalacticraftCore.EvolvedSkeleton
+elementalcreepers.IceCreeper
+Thaumcraft.Taintacle
+erebus.gasVent
+Thaumcraft.TaintedPig
+Monster
+TwilightForest.Upper Goblin Knight
+TwilightForest.Hydra
+FlowerBike
+PneumaticCraft.logisticDrone
+SnowmanBike
+Thaumcraft.TaintedVillager
+TwilightForest.Wild Deer
+elementalcreepers.StoneCreeper
+elementalcreepers.SolarCreeper
+TwilightForest.SnowGuardian
+TwilightForest.Questing Ram
+erebus.velvetWorm
+Squid
+TwilightForest.Bighorn Sheep
+erebus.zombieAntSoldier
+erebus.prayingMantis
+DragonBike
+GalacticraftCore.EvolvedCreeper
+TwilightForest.Tower Boss
+ChineseDragonBike
+erebus.solifugeSmall
+TwilightForest.Apocalypse Cube
+thebetweenlands.fortressBossSpawner
+elementalcreepers.CakeCreeper
+menagerie.mummy
+menagerie.oliphant
+Thaumcraft.TaintedCow
+TwilightForest.Glacier Penguin
+Enderman
+atum.banditWarlord
+TwilightForest.Twilight Lich
+Thaumcraft.EldritchWarden
