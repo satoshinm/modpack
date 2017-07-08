@@ -22,99 +22,7 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    net-minecraft-entity-passive-EntityPig:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    tconstruct-world-entity-BlueSlime:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-passive-MoCEntityBunny:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-passive-MoCEntityHorse:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-minecraft-entity-monster-EntitySkeleton:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-minecraft-entity-monster-EntitySpider:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-minecraft-entity-monster-EntityZombie:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-lomeli-ec-entity-EntitySpiderCreeper:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    crazypants-enderzoo-entity-EntityConcussionCreeper:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    thaumcraft-common-entities-monster-EntityBrainyZombie:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-passive-MoCEntitySnake:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-minecraft-entity-monster-EntityCreeper:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-minecraft-entity-passive-EntitySheep:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-lomeli-ec-entity-EntityWindCreeper:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    chylex-hee-entity-mob-EntityMobEnderman:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-ambient-MoCEntityCricket:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-monster-MoCEntityWerewolf:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-lomeli-ec-entity-EntityWaterCreeper:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-lomeli-ec-entity-EntityElectricCreeper:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-ambient-MoCEntityBee:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-ambient-MoCEntityDragonfly:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    mods-railcraft-common-carts-EntityCartChest:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-passive-MoCEntityFox:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-lomeli-ec-entity-addon-EntityRFCreeper:
+    drzhark-mocreatures-entity-ambient-MoCEntitySnail:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -122,11 +30,23 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    net-minecraft-entity-monster-EntityWitch:
+    net-minecraft-entity-passive-EntityPig:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    net-minecraft-entity-passive-EntityBat:
+    drzhark-mocreatures-entity-passive-MoCEntityHorse:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-passive-MoCEntityBunny:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-ambient-MoCEntityMaggot:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    tconstruct-world-entity-BlueSlime:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -134,27 +54,39 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    drzhark-mocreatures-entity-ambient-MoCEntityFirefly:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
     drzhark-mocreatures-entity-ambient-MoCEntityFly:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    drzhark-mocreatures-entity-monster-MoCEntityWWolf:
+    drzhark-mocreatures-entity-ambient-MoCEntityCricket:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    drzhark-mocreatures-entity-monster-MoCEntityMiniGolem:
+    drzhark-mocreatures-entity-ambient-MoCEntityBee:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    net-lomeli-ec-entity-EntityFriendlyCreeper:
+    drzhark-mocreatures-entity-ambient-MoCEntityFirefly:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    net-lomeli-ec-entity-EntityPsyhicCreeper:
+    net-minecraft-entity-passive-EntitySheep:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-passive-MoCEntitySnake:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-ambient-MoCEntityDragonfly:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-item-EntityBoat:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-passive-MoCEntityFox:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -162,55 +94,11 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    net-lomeli-ec-entity-EntityEnderCreeper:
+    mods-railcraft-common-carts-EntityCartChest:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    net-lomeli-ec-entity-EntityStoneCreeper:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-monster-MoCEntitySilverSkeleton:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-lomeli-ec-entity-EntityIllusionCreeper:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-lomeli-ec-entity-EntitySolarCreeper:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-lomeli-ec-entity-EntityFireworkCreeper:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-lomeli-ec-entity-EntityIceCreeper:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-lomeli-ec-entity-EntityFireCreeper:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-monster-MoCEntityOgre:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-monster-MoCEntityHorseMob:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-lomeli-ec-entity-addon-EntityEUCreeper:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-lomeli-ec-entity-EntityEarthCreeper:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-lomeli-ec-entity-EntityCookieCreeper:
+    drzhark-mocreatures-entity-passive-MoCEntityPetScorpion:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -218,11 +106,55 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    net-minecraft-entity-item-EntityFallingBlock:
+    drzhark-mocreatures-entity-passive-MoCEntityBear:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    drzhark-mocreatures-entity-passive-MoCEntityMouse:
+    net-lomeli-ec-entity-EntityPsyhicCreeper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-monster-EntityZombie:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-monster-EntitySkeleton:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-item-EntityXPOrb:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-lomeli-ec-entity-EntityIllusionCreeper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    appeng-entity-EntityGrowingCrystal:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-item-EntityPainting:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    crazypants-enderzoo-entity-EntityConcussionCreeper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    chylex-hee-entity-mob-EntityMobEnderman:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-monster-EntityCreeper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-monster-MoCEntityWerewolf:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-lomeli-ec-entity-addon-EntityEUCreeper:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -230,39 +162,7 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    drzhark-mocreatures-entity-aquatic-MoCEntityDolphin:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-aquatic-MoCEntityFishy:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    buildcraft-builders-EntityMechanicalArm:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-minecraft-entity-passive-EntityChicken:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-minecraft-entity-projectile-EntityArrow:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-minecraft-entity-passive-EntitySquid:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    mods-natura-entity-ImpEntity:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    biomesoplenty-common-entities-EntityGlob:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-minecraft-entity-passive-EntityHorse:
+    net-minecraft-entity-monster-EntityPigZombie:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -270,11 +170,123 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
+    drzhark-mocreatures-entity-aquatic-MoCEntityFishy:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-lomeli-ec-entity-EntityEarthCreeper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-aquatic-MoCEntityPiranha:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-passive-MoCEntityBird:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-passive-MoCEntityMole:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-passive-MoCEntityGoat:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-passive-EntityChicken:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-monster-EntitySpider:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-lomeli-ec-entity-EntityStoneCreeper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-lomeli-ec-entity-EntitySpiderCreeper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    thaumcraft-common-entities-EntityAspectOrb:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-lomeli-ec-entity-EntityWaterCreeper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-monster-MoCEntityWraith:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-lomeli-ec-entity-EntityCookieCreeper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-lomeli-ec-entity-EntityWindCreeper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-lomeli-ec-entity-EntityEnderCreeper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-projectile-EntityArrow:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-passive-MoCEntityDuck:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-item-EntityFallingBlock:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    mods-natura-entity-ImpEntity:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    biomesoplenty-common-entities-EntityWasp:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-monster-MoCEntityHellRat:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
     crazypants-enderzoo-entity-EntityEnderminy:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    lumien-randomthings-Entity-EntitySoul:
+    drzhark-mocreatures-entity-monster-MoCEntityOgre:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-lomeli-ec-entity-EntityElectricCreeper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-lomeli-ec-entity-addon-EntityRFCreeper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    thaumcraft-common-entities-monster-EntityBrainyZombie:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-lomeli-ec-entity-EntityFireCreeper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-monster-EntitySlime:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-lomeli-ec-entity-EntityIceCreeper:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -282,11 +294,343 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    net-minecraft-entity-passive-EntityWolf:
+    drzhark-mocreatures-entity-monster-MoCEntityRat:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-lomeli-ec-entity-EntityFireworkCreeper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-item-EntityMinecartHopper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-passive-MoCEntityKomodo:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-passive-MoCEntityElephant:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-monster-MoCEntitySilverSkeleton:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-lomeli-ec-entity-EntitySolarCreeper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    crazypants-enderzoo-entity-EntityWitherWitch:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-passive-EntityBat:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-lomeli-ec-entity-EntityLightCreeper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-passive-MoCEntityBoar:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-monster-MoCEntityHorseMob:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-monster-MoCEntityMiniGolem:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-lomeli-ec-entity-EntityReverseCreeper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-monster-MoCEntityGolem:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-lomeli-ec-entity-EntityDarkCreeper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-monster-MoCEntityScorpion:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-lomeli-ec-entity-EntityBirthdayCreeper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-lomeli-ec-entity-EntityHydrogenCreeper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-monster-MoCEntityFlameWraith:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    lumien-randomthings-Entity-EntitySoul:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
     net-minecraft-entity-item-EntityMinecartChest:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-passive-EntityVillager:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-item-EntityItemFrame:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    tconstruct-tools-entity-FancyEntityItem:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    crazypants-enderzoo-entity-EntityWitherCat:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-monster-EntityWitch:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-passive-MoCEntityCrocodile:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    thebetweenlands-entities-mobs-EntityDarkDruid:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    openblocks-common-entity-EntityHangGlider:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-monster-MoCEntityWWolf:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-lomeli-ec-entity-EntityMagmaCreeper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    biomesoplenty-common-entities-EntityPhantom:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    mods-natura-entity-HeatscarSpider:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    mods-natura-entity-BabyHeatscarSpider:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    thaumcraft-common-entities-monster-EntityFireBat:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    erebus-entity-EntityBlackWidow:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    cofh-thermalfoundation-entity-monster-EntityBlitz:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    thaumcraft-common-entities-monster-EntityWisp:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    cofh-thermalfoundation-entity-monster-EntityBasalz:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    cofh-thermalfoundation-entity-projectile-EntityBlitzBolt:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    com-rwtema-menagerie-entities-Ents-EntityOliphant:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    mods-natura-entity-NitroCreeper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    erebus-entity-EntityWebSling:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-passive-EntityWolf:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-passive-MoCEntityTurkey:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-passive-MoCEntityTurtle:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-passive-MoCEntityDeer:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    cofh-thermalfoundation-entity-projectile-EntityBasalzBolt:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-lomeli-ec-entity-EntityFriendlyCreeper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    tconstruct-world-entity-KingBlueSlime:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-passive-MoCEntityMouse:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-passive-EntitySquid:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-monster-EntityCaveSpider:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    gregtech-common-entities-GTEntityArrow:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    lumien-randomthings-Entity-EntitySpirit:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    crazypants-enderzoo-entity-EntityFallenKnight:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-lomeli-ec-entity-EntityGhostCreeper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    com-rwtema-menagerie-entities-Ents-EntityInfestedVillager:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    appeng-entity-EntityChargedQuartz:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-item-MoCEntityThrowableRock:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-passive-MoCEntityEnt:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    vazkii-botania-common-entity-EntityManaBurst:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    com-rwtema-menagerie-entities-Ents-EntityRat:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    crazypants-enderzoo-entity-EntityFallenMount:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-passive-EntityOcelot:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-projectile-EntityPotion:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    thaumcraft-common-entities-monster-EntityCultistCleric:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    thaumcraft-common-entities-monster-EntityCultistKnight:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    com-rwtema-menagerie-entities-Ents-EntityLivingArmor:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    thaumcraft-common-entities-monster-EntityGiantBrainyZombie:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    thaumcraft-common-entities-monster-EntityEldritchGuardian:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-passive-MoCEntityKitty:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-passive-EntityHorse:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    thaumcraft-common-entities-monster-EntityPech:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-monster-EntityEnderman:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    thaumcraft-common-entities-projectile-EntityEldritchOrb:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    cofh-thermalfoundation-entity-monster-EntityBlizz:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-aquatic-MoCEntityMediumFish:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-aquatic-MoCEntitySmallFish:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-effect-EntityLightningBolt:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-lomeli-ec-entity-EntityBigBadCreep:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-aquatic-MoCEntityDolphin:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    buildcraft-builders-EntityMechanicalArm:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    biomesoplenty-common-entities-EntityGlob:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1

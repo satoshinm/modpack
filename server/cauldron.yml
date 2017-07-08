@@ -107,48 +107,48 @@ world-settings:
     allow-tnt-punishment: true
     infinite-water-source: true
     entity-despawn-immediate: false
-    worldgen-gregtech-GT_Worldgenerator_Space: true
-    worldgen-ExtrabiomesXL-LeafPileGenerator: true
-    worldgen-Natura-BaseTreeWorldgen: true
-    worldgen-dldungeonsjdg-GenerationHandler: true
-    worldgen-ForgottenNature-FNWorldGenerator: true
-    worldgen-ExtrabiomesXL-VineGenerator: true
-    worldgen-ExtrabiomesXL-LegendOakGenerator: true
-    worldgen-TConstruct-SlimeIslandGen: true
-    worldgen-DraconicEvolution-DraconicWorldGenerator: true
-    worldgen-simplecore-OreGenerator: true
     worldgen-ImmersiveEngineering-IEWorldGen: true
-    worldgen-ExtrabiomesXL-MountainRidgeGenerator: true
-    worldgen-dimdoors-GatewayGenerator: true
-    worldgen-ExtrabiomesXL-CatTailGenerator: true
+    worldgen-Natura-BaseCloudWorldgen: true
+    worldgen-Natura-BaseTreeWorldgen: true
+    worldgen-TConstruct-SlimeIslandGen: true
+    worldgen-ExtrabiomesXL-MountainDesertGenerator: true
+    worldgen-simplecore-OreGenerator: true
+    worldgen-Forestry-WorldGenerator: true
+    worldgen-gregtech-GT_Worldgenerator: true
+    worldgen-Automagy-AutomagyWorldGenerator: true
+    worldgen-DraconicEvolution-DraconicWorldGenerator: true
+    worldgen-MrTJPCoreMod-SimpleGenHandler$: true
+    worldgen-ihl-IHLWorldGenerator: true
     worldgen-chisel-GeneratorChisel: true
-    worldgen-ExtrabiomesXL-EelGrassGenerator: true
-    worldgen-Natura-BaseCropWorldgen: true
-    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
+    worldgen-gregtech-GT_Worldgenerator_Space: true
+    worldgen-ExtrabiomesXL-VineGenerator: true
+    worldgen-ExtrabiomesXL-MountainRidgeGenerator: true
+    worldgen-Mystcraft-MystWorldGenerator: true
+    worldgen-ExtrabiomesXL-CatTailGenerator: true
+    worldgen-ForgottenNature-FNWorldGenerator: true
+    worldgen-rftools-GenericWorldGenerator: true
+    worldgen-ExtrabiomesXL-VanillaFloraGenerator: true
+    worldgen-BigReactors-BRWorldGenerator: true
+    worldgen-ExtrabiomesXL-FlowerGenerator: true
+    worldgen-ExtrabiomesXL-LegendOakGenerator: true
+    worldgen-factorization-DarkIronOreGenerator: true
     worldgen-TConstruct-TBaseWorldGenerator: true
-    worldgen-ExtrabiomesXL-OilGenerator: true
+    worldgen-appliedenergistics2-QuartzWorldGen: true
+    worldgen-appliedenergistics2-MeteoriteWorldGen: true
     worldgen-CoFHCore-WorldHandler: true
     worldgen-erebus-WorldGenAntlionMaze: true
-    worldgen-Automagy-AutomagyWorldGenerator: true
-    worldgen-gregtech-GT_Worldgenerator: true
-    worldgen-PneumaticCraft-WorldGeneratorPneumaticCraft: true
-    worldgen-ExtrabiomesXL-VanillaFloraGenerator: true
-    worldgen-factorization-DarkIronOreGenerator: true
-    worldgen-ExtrabiomesXL-MountainDesertGenerator: true
+    worldgen-dldungeonsjdg-GenerationHandler: true
+    worldgen-dimdoors-GatewayGenerator: true
+    worldgen-ExtrabiomesXL-OilGenerator: true
     worldgen-ExtrabiomesXL-QuicksandGenerator: true
-    worldgen-Forestry-WorldGenerator: true
-    worldgen-GalaxySpace-OverworldGenerator: true
     worldgen-thebetweenlands-WorldGenDruidCircle: true
-    worldgen-BigReactors-BRWorldGenerator: true
-    worldgen-appliedenergistics2-QuartzWorldGen: true
-    worldgen-ihl-IHLWorldGenerator: true
-    worldgen-Mystcraft-MystWorldGenerator: true
-    worldgen-MrTJPCoreMod-SimpleGenHandler$: true
-    worldgen-rftools-GenericWorldGenerator: true
-    worldgen-Natura-BaseCloudWorldgen: true
+    worldgen-Natura-BaseCropWorldgen: true
+    worldgen-PneumaticCraft-WorldGeneratorPneumaticCraft: true
+    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
     worldgen-IC2-IC2: true
-    worldgen-ExtrabiomesXL-FlowerGenerator: true
-    worldgen-appliedenergistics2-MeteoriteWorldGen: true
+    worldgen-ExtrabiomesXL-LeafPileGenerator: true
+    worldgen-ExtrabiomesXL-EelGrassGenerator: true
+    worldgen-GalaxySpace-OverworldGenerator: true
     worldgen-harvestcraft-PamGardenGenerator: true
     worldgen-harvestcraft-PamTreeGenerator: true
     worldgen-harvestcraft-PamBeeGenerator: true
@@ -191,6 +191,7 @@ world-environment-settings:
     keep-world-loaded: true
   miner:
     keep-world-loaded: false
+    enabled: true
   atum:
     keep-world-loaded: true
   outer:
@@ -201,6 +202,7 @@ world-environment-settings:
     keep-world-loaded: true
   pocket:
     keep-world-loaded: false
+    enabled: true
   limbo:
     keep-world-loaded: false
   personalpocket:
