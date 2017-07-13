@@ -175,7 +175,6 @@ Just another modpack for Minecraft 1.7.10.
 <tr><td><a href="http://www.minecraftforum.net/topic/1720872-">Inventory Tweaks</a></td> <td>1.59-asie-lts-fc905d6-dirty</td> <td>Tweaks to inventory handling for ease of use, including sorting and automatic replacement of broken tools or exhausted stacks of items.</td></tr>
 <tr><td><a href="https://github.com/zlainsama/skinport">SkinPort</a></td> <td>1.7.10-v8c</td> <td>This mod adds rendering support for the new skin format introduced in minecraft 1.8</td></tr>
 <tr><td><a href="http://minecraft.curseforge.com/mc-mods/224472-applecore">AppleCore</a></td> <td>1.3.9</td> <td>In BR this only serves as a client side mod. It allows the user to see more detailed information on anything invloving hunger</td></tr>
-<tr><td><a href="http://forum.industrial-craft.net/index.php?page=Thread&threadID=8495">IC2 Backpack HUD</a></td> <td>3.0</td> <td>Provides visual charge meter for IndustrialCraft 2 electric armor items and health meter for other items.</td></tr>
 <tr><td><a href="http://www.jaquadro.com/">Storage Drawers</a></td> <td>1.10.8</td> <td>Multi-drawer storage blocks for quick storage and retrieval.</td></tr>
 <tr><td><a href="http://www.jaquadro.com/">Storage Drawers: Forestry Pack</a></td> <td>1.7.10-1.1.2</td> <td>Adds additional wood styles from the Forestry mod.</td></tr>
 <tr><td><a href="http://www.jaquadro.com/">Storage Drawers: Misc Pack</a></td> <td>1.7.10-1.1.2</td> <td>Adds additional wood styles from various mods including ExtraBiomesXL, Highlands, Thaumcraft, and Witchery.</td></tr>
