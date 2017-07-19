@@ -1,0 +1,21 @@
+server.basics:
+    description: Basic permissions for all users
+    default: true
+    children:
+        animalbikes.wither.use: true
+        animalbikes.reindeer.use: true
+        animalbikes.ghast.use: true
+        animalbikes.squid.use: true
+        animalbikes.spider.use: true
+        animalbikes.chocobo.use: true
+        animalbikes.enderman.use: true
+        animalbikes.pig.use: true
+        animalbikes.bat.use: true
+        animalbikes.sheep.use: true
+        animalbikes.wolf.use: true
+        animalbikes.creeper.use: true
+        animalbikes.irongolem.use: true
+        animalbikes.notch.use: true
+        animalbikes.chinesedragon.use: true
+        animalbikes.enderdragon.use: true
+        animalbikes.pony.use: true
